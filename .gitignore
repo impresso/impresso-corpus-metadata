@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+# json files except package
+*.json
+!package.json
+!package-lock.json
