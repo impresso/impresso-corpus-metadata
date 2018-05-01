@@ -52,6 +52,9 @@ const translations = {
   status     : {
     field: 'Digitization Status* ',
   },
+  provenance_id     : {
+    field: 'provenanceID',
+  },
   predecessor: {
     field: 'Predecessor'
     // free texxte
