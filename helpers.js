@@ -1,7 +1,13 @@
 const fromcsv = (v) => { return v.split(/\s*,\s*/).filter(d => d.length > 0) };
 
 // code adapted from https://github.com/bassarisse/google-spreadsheet-to-json/issues/24#issuecomment-411903887
-const parseDate = (v) => { return new Date(Date.UTC(0) + (v - 2) * 24 * 60 * 60 * 1000 ).toLocaleDateString('fr-FR', { timeZone: 'UTC' })};
+const parseDate = (v) => {
+  if (v == '') {
+    return v;
+  }
+  return new Date(Date.UTC(0) + (v - 2) * 24 * 60 * 60 * 1000 ).toLocaleDateString('fr-FR', {
+    timeZone: 'UTC'
+  })};
 
 const translations = {
   partner_uid: {
@@ -26,6 +32,9 @@ const translations = {
   },
   uid    : {
     field: 'newspaperAcronym*',
+  },
+  logo_filename :{
+    field: 'institution logo',
   },
   availability_eta    : {
     field: 'availability ETA',
