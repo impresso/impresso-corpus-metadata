@@ -73,7 +73,7 @@ end_year: {
     field: 'Date of last issue',
     transform: parseInt
   },
-date of last issue in the interface: {
+date_of_last_issue_in_the_interface: {
     field: 'Date of last issue in the interface',
   },
 ocr : { // changed: expected_ocr = ocr
