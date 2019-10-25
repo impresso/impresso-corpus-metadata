@@ -10,147 +10,141 @@ const parseDate = (v) => {
   })};
 
 const translations = {
-  partner_uid: {
-    field: 'partnerid', // archive
+ingestion_batch: { // new
+    field: 'Ingestion batch',
   },
-  holder     : {
-    field: 'Resource Holder*',
-    // CSV of links + REGEX
-    // KB Graubünden https://www.gr.ch/DE/institutionen/verwaltung/ekud/afk/kbg/ueberuns/Seiten/Willkommen.aspx,  RERO https://www.rero.ch (hosting), BN http://www.nb.admin.ch
-    transform: (v) => { return fromcsv(v).map(d => {
-      let re = /([^\s]+)\s*(https?:.*)$/g
-      let match = re.exec(d)
-
-      return match? {
-        name: match[1],
-        url: match[2]
-      }: {
-        name: d
-      }
-    })},
-
+uid: {
+    field: 'Newspaper acronym',
   },
-  uid    : {
-    field: 'newspaperAcronym*',
+acronym: { // to remove ?
+    field: 'Newspaper acronym',
   },
-  logo_filename :{
-    field: 'institution logo',
+partner_uid: {
+    field: 'Partner ID',
   },
-  availability_eta    : {
-    field: 'availability ETA',
-    transform: parseDate
+partner_country: {
+    field: 'Partner country',
   },
-  acronym    : { // internal
-    field: 'newspaper acronym*',
+availability_eta: {
+    field: 'Availability ETA',
   },
-  start_year : {
-    field: 'Date of first issue* (YYYY)',
-    transform: parseInt
+title: { // changed: name = title
+    field: 'Newspaper title',
   },
-  end_year   : {
-    field: 'Date of last issue* (YYYY)',
-    transform: parseInt
+subtitles: { // changed: subtitle => subtitles
+    field: 'Subtitles',
   },
-  languages       : {
+resource_holder_names: { // change: holders => resource_holder_names
+    field: 'Resource holder names',
+    transform: (v) => {
+      return fromcsv(v)
+    }
+  },
+resource_holder_links: {
+    field: 'Resource holder links',
+    transform: (v) => {
+      return fromcsv(v)
+    }
+  },
+institution_logos: {
+    field: 'Institution logos',
+    transform: (v) => {
+      return fromcsv(v)
+    }
+  },
+provenance_id: {
+    field: 'Provenance ID',
+  },
+source_permalink: {
+    field: 'Source permalink',
+  },
+institution_portal: {
+    field: 'Institution portal',
+  },
+languages : { // to remove?
     transform: (v) => { return v.split(/[\s\-]+/).filter(d => d.length > 0)},
-    field: 'Lang*',
+    field: 'Lang',
   },
-  name      : {
-    field: 'newspaperTitle(s)*',
-  },
-  subtitle   : {
-    field: 'Subtitle*',
-  },
-
-  url        : {
-    field: 'Online Portal/Link/ Reference*',
-  },
-  status     : {
-    field: 'Digitization Status* ',
-  },
-  provenance_id     : {
-    field: 'provenanceID',
-  },
-  predecessor: {
-    field: 'Predecessor'
-    // free texxte
-  },
-  predecessor_uid: {
-    field: 'previousPredecessorid', // only ONE
-    transform: fromcsv
-  },
-  expected_aliases: {
-    field: 'Title changes over time*',
-  },
-  expected_raw_issues : {
-    field: 'Total number of issues',
+start_year: {
+    field: 'Date of first issue',
     transform: parseInt
   },
-  expected_issues     : {
-    field: 'Total number of digitized issues',
+end_year: {
+    field: 'Date of last issue',
     transform: parseInt
   },
-  expected_raw_pages  : {
-    field: 'Total number of  pages',
-    transform: parseInt
+date of last issue in the interface: {
+    field: 'Date of last issue in the interface',
   },
-  expected_pages      : {
-    field: 'Total number of digitized pages',
-    transform: parseInt
-  },
-  expected_ocr      : {
-    field: 'OCR* (y/n)',
+ocr : { // changed: expected_ocr = ocr
+    field: 'OCR',
     transform: v => {
       return v === 'y'
     }
   },
-  expected_olr     : {
-    field: 'OLR* (y/n)',
+olr : { // expected_olr => olr
+    field: 'OLR',
     transform: v => {
       return v === 'y'
     }
   },
-
-  geographical_outreach : {
-    field: 'Largest geographic outreach*',
-    // choices: international, regional, national, local
+olr_quality: {
+    field: 'OLR quality',
   },
-  geographical_area: {
-    field:'Local Geographical Area*',
-    // GEO entities
-    // CH-FR
-    // internal
+ocr_format: {
+    field: 'OCR format (before ingestion in impresso)',
   },
-  periodicity  : {
-    field: 'periodicity*',
-    // 3 times a week
+right_statement: {
+    field: 'Right statement',
   },
-
-  political_orientation: {
-    field: 'Political orientation* (radical, liberal,....)',
-    transform: fromcsv
+political_orientation: {
+    field: 'Political orientation',
   },
-  editor       : {
-    field: 'Editor*',
-    transform: fromcsv
+topics: {
+    field: 'Topics',
   },
-  printer       : { // as edge: is_printer_of, source: add mention of PartnerId
-    field: 'Printer*',
-    transform: fromcsv
+geographic_outreach: {
+    field: 'Largest geographic outreach',
   },
-  publisher     : { // as edge: is_publisher_of
-    field: 'Publisher*',
-    transform: fromcsv
+geographical_area: {
+    field: 'Local geographical area',
   },
-  founder      : { // as edge: is_founder_of
-    field: 'Founder*',
-    transform: fromcsv ,
+latest_periodicity: {
+    field: 'Periodicity',
   },
-  topics: {
-    field: 'Topics (general, cultural, business)*',
-    transform: fromcsv
-  }
-
+change_periodicity: {
+    field: 'Change in periodicity',
+  },
+publisher: {
+    field: 'Publisher',
+  },
+editor: {
+    field: 'Editor',
+  },
+printer: {
+    field: 'Printer',
+  },
+founder: {
+    field: 'Founder',
+  },
+bib_record_link: {
+    field: 'Bibliographic record (link)',
+  },
+bib_record_text: {
+    field: 'Bibliographic record (text)',
+  },
+dhs_link: {
+    field: 'DHS (link)',
+  },
+digitized_period: {
+    field: 'digitized period',
+  },
+letter_fonts: {
+    field: 'letter fonts',
+  },
+format: {
+    field: 'Format',
+  },
 };
 
 const mapper = (d) => {
