@@ -63,18 +63,21 @@ institution_portal: {
   },
 languages : { // to remove?
     transform: (v) => { return v.split(/[\s\-]+/).filter(d => d.length > 0)},
-    field: 'Lang',
+    field: 'Known lang',
   },
-start_year: {
-    field: 'Date of first issue',
+newspaper_start_year: {
+    field: 'Date of first publication',
     transform: parseInt
   },
-end_year: {
-    field: 'Date of last issue',
+newspaper_end_year: {
+    field: 'Date of last publication',
     transform: parseInt
   },
-date of last issue in the interface: {
+last_issuedate_interface: {
     field: 'Date of last issue in the interface',
+  },
+first_issuedate_interface: {
+    field: 'Date of first issue in the interface',
   },
 ocr : { // changed: expected_ocr = ocr
     field: 'OCR',
