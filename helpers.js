@@ -47,8 +47,8 @@ resource_holder_links: {
       return fromcsv(v)
     }
   },
-institution_logos: {
-    field: 'Institution logos',
+resource_holder_logos: {
+    field: 'Resource holder  logos',
     transform: (v) => {
       return fromcsv(v)
     }
@@ -80,17 +80,11 @@ last_issuedate_interface: {
 first_issuedate_interface: {
     field: 'Date of first issue in the interface',
   },
-ocr : { // changed: expected_ocr = ocr
+ocr : {
     field: 'OCR',
-    transform: v => {
-      return v === 'y'
-    }
   },
-olr : { // expected_olr => olr
+olr : {
     field: 'OLR',
-    transform: v => {
-      return v === 'y'
-    }
   },
 olr_quality: {
     field: 'OLR quality',
@@ -141,10 +135,10 @@ dhs_link: {
     field: 'DHS (link)',
   },
 digitized_period: {
-    field: 'digitized period',
+    field: 'Digitized period',
   },
 letter_fonts: {
-    field: 'letter fonts',
+    field: 'Letter fonts',
   },
 format: {
     field: 'Format',
