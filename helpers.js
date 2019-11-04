@@ -27,7 +27,6 @@ partner_country: {
   },
 availability_eta: {
     field: 'Availability ETA',
-    transform: parseDate
   },
 title: { // changed: name = title
     field: 'Newspaper title',
