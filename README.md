@@ -1,4 +1,4 @@
-# impresso-newspapers
+# impresso-corpus-metadata
 
 Python script to get the data out of a googlespreadsheet table.
 

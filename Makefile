@@ -1,7 +1,7 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
 data_dir = data
-file_suffix = _gsheet_metadata.json
+file_prefix = gsheet_metadata
 gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 file_to_sync = 
 
@@ -25,25 +25,25 @@ impresso1:
 	python metadata_harvest/gdrive/main.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="impresso1-collection" \
-	--output_file="$(data_dir)/gdrive/impresso1$(file_suffix)"
+	--output_file="$(data_dir)/gdrive/$(file_prefix).impresso1.json"
 
 bnf:
 	python metadata_harvest/gdrive/main.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="BNF" \
-	--output_file="$(data_dir)/gdrive/bnf$(file_suffix)"
+	--output_file="$(data_dir)/gdrive/$(file_prefix).bnf.json"
 
 bcul:
 	python metadata_harvest/gdrive/main.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="BCUL" \
-	--output_file="$(data_dir)/gdrive/bcul$(file_suffix)"
+	--output_file="$(data_dir)/gdrive/$(file_prefix).bcul.json"
 
 swa-fedgaz:
 	python metadata_harvest/gdrive/main.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
-	--output_file="$(data_dir)/gdrive/swa_fedgaz$(file_suffix)"
+	--output_file="$(data_dir)/gdrive/$(file_prefix).swa_fedgaz.json"
 
 sync-gdrive: 
 	rsync -r -v "$(data_dir)/gdrive/$(file_to_sync)" "$(db_data_dir)"
