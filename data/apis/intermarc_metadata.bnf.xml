@@ -3,7 +3,7 @@
 <srw:version>1.2</srw:version>
 <srw:echoedSearchRetrieveRequest>
 <srw:version>1.2</srw:version>
-<srw:query>(bib.ark any "ark:/12148/cb32771891w ark:/12148/cb327788531 ark:/12148/cb343488519 ark:/12148/cb34429265b ark:/12148/cb32830550k ark:/12148/cb41193642z ark:/12148/cb328123058 ark:/12148/cb32836564q ark:/12148/cb39294634r ark:/12148/cb32779904b ark:/12148/cb34419111x ")</srw:query>
+<srw:query>(bib.ark any "ark:/12148/cb32771891w ark:/12148/cb327788531 ark:/12148/cb343488519 ark:/12148/cb34429265b ark:/12148/cb32830550k ark:/12148/cb41193642z ark:/12148/cb328123058 ark:/12148/cb32836564q ark:/12148/cb39294634r ark:/12148/cb32779904b ark:/12148/cb34419111x")</srw:query>
 </srw:echoedSearchRetrieveRequest>
 <srw:numberOfRecords>11</srw:numberOfRecords>
 <srw:records>
@@ -18,7 +18,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">20080131</ixm:attr>
 <ixm:attr name="LastModificationDate">20240422</ixm:attr>
-<mn:score>7.349136</mn:score>
+<mn:score>7.3499775</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -32,7 +32,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19970701</ixm:attr>
 <ixm:attr name="LastModificationDate">20240229</ixm:attr>
-<mn:score>7.3489227</mn:score>
+<mn:score>7.349761</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -46,7 +46,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19950922</ixm:attr>
 <ixm:attr name="LastModificationDate">20240127</ixm:attr>
-<mn:score>7.3483853</mn:score>
+<mn:score>7.349214</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -60,7 +60,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19941007</ixm:attr>
 <ixm:attr name="LastModificationDate">20230706</ixm:attr>
-<mn:score>7.3482337</mn:score>
+<mn:score>7.3490596</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -74,7 +74,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19941027</ixm:attr>
 <ixm:attr name="LastModificationDate">20240222</ixm:attr>
-<mn:score>7.348093</mn:score>
+<mn:score>7.3489165</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -88,7 +88,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19860728</ixm:attr>
 <ixm:attr name="LastModificationDate">20230706</ixm:attr>
-<mn:score>7.347727</mn:score>
+<mn:score>7.3485436</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -102,7 +102,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19890906</ixm:attr>
 <ixm:attr name="LastModificationDate">20240530</ixm:attr>
-<mn:score>7.347727</mn:score>
+<mn:score>7.3485436</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -116,7 +116,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19941014</ixm:attr>
 <ixm:attr name="LastModificationDate">20230706</ixm:attr>
-<mn:score>7.3475204</mn:score>
+<mn:score>7.348334</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -130,7 +130,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19911109</ixm:attr>
 <ixm:attr name="LastModificationDate">20230706</ixm:attr>
-<mn:score>7.347176</mn:score>
+<mn:score>7.3479834</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -144,7 +144,7 @@
 <srw:extraRecordData>
 <ixm:attr name="CreationDate">19900725</ixm:attr>
 <ixm:attr name="LastModificationDate">20240426</ixm:attr>
-<mn:score>7.3470306</mn:score>
+<mn:score>7.3478355</mn:score>
 </srw:extraRecordData>
 </srw:record>
 <srw:record>
@@ -160,7 +160,6 @@
 <ixm:attr name="LastModificationDate">20230706</ixm:attr>
 <mn:score>7.346979</mn:score>
 </srw:extraRecordData>
-</srw:record>
-</srw:records>
+</srw:record></srw:records>
 <srw:nextRecordPosition>11</srw:nextRecordPosition>
 </srw:searchRetrieveResponse>

@@ -21,7 +21,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -49,7 +49,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Almanach pour le commerce",
@@ -80,7 +82,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -108,7 +110,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Castigat ridendo mores",
@@ -139,7 +143,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -167,7 +171,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Courrier du L\u00e9man",
@@ -198,7 +204,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -226,7 +232,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Croquis vaudois",
@@ -257,7 +265,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -285,7 +293,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Moudon",
@@ -316,7 +326,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -344,7 +354,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Nyon",
@@ -375,7 +387,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -403,7 +415,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Payerne",
@@ -434,7 +448,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -462,7 +476,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Payerne, Moudon et Avenches",
@@ -493,7 +509,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -521,7 +537,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Gazette des Villages",
@@ -552,7 +570,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -580,7 +598,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Indicateur de Lausanne",
@@ -611,7 +631,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -639,7 +659,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Journal d'Yverdon 2",
@@ -670,7 +692,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -698,7 +720,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Journal de Vevey",
@@ -729,7 +753,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -757,7 +781,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Journal de Vevey et des \u00e9trangers",
@@ -788,7 +814,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -816,7 +842,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Journal helv\u00e9tique",
@@ -847,7 +875,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -875,7 +903,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "L'Observateur du L\u00e9man",
@@ -906,7 +936,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -934,7 +964,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Bombe",
@@ -965,7 +997,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -993,7 +1025,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Cancoire",
@@ -1024,7 +1058,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1052,7 +1086,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Fronde",
@@ -1083,7 +1119,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1111,7 +1147,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Griffe",
@@ -1142,7 +1180,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1170,7 +1208,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Gu\u00eape [1]",
@@ -1201,7 +1241,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1229,7 +1269,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Gu\u00eape [2]",
@@ -1260,7 +1302,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1288,7 +1330,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La revue agricole",
@@ -1319,7 +1363,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1347,7 +1391,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Charivari [1]",
@@ -1378,7 +1424,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1406,7 +1452,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Charivari [2]",
@@ -1437,7 +1485,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1465,7 +1513,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Grelot",
@@ -1496,7 +1546,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1524,7 +1574,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Moniteur",
@@ -1555,7 +1607,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1583,7 +1635,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Moustique (Vevey)",
@@ -1614,7 +1668,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1642,7 +1696,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Ouistiti",
@@ -1673,7 +1729,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1701,7 +1757,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Phare de Nyon",
@@ -1732,7 +1790,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1760,7 +1818,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Phare du L\u00e9man",
@@ -1791,7 +1851,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1819,7 +1879,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le P\u00e8re J\u00e9r\u00f4me",
@@ -1850,7 +1912,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1878,7 +1940,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Touriste - La Suisse illustr\u00e9e",
@@ -1909,7 +1973,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1937,7 +2001,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Veveysan 1",
@@ -1968,7 +2034,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -1996,7 +2062,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Messager",
@@ -2027,7 +2095,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2055,7 +2123,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Peuple Souverain",
@@ -2086,7 +2156,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2114,7 +2184,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "L\u2019ami de la v\u00e9rit\u00e9 - Journal du Canton de Vaud",
@@ -2145,7 +2217,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2173,7 +2245,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Mercure Suisse",
@@ -2204,7 +2278,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2232,7 +2306,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Messager Bo\u00eeteux",
@@ -2263,7 +2339,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2291,7 +2367,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Nouvelliste Suisse",
@@ -2322,7 +2400,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2350,7 +2428,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Bulletins du Grand Conseil",
@@ -2381,7 +2461,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2409,7 +2489,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Morges 1",
@@ -2440,7 +2522,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2468,7 +2550,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Feuille d'avis de Vevey 1",
@@ -2499,7 +2583,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2527,7 +2611,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "L'Echo de Morges",
@@ -2558,7 +2644,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2586,7 +2672,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "L'Estafette Journal suisse",
@@ -2617,7 +2705,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2645,7 +2733,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Veveysanne - La Patrie (La Patrie)",
@@ -2676,7 +2766,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2704,7 +2794,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "La Veveysanne - La Patrie (La Veveysanne)",
@@ -2735,7 +2827,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2763,7 +2855,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Le Nouvelliste vaudois",
@@ -2794,7 +2888,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2822,7 +2916,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Nouvelliste vaudois et journal national suisse",
@@ -2853,7 +2949,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2881,7 +2977,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Repertoires de Bulletins du Grand Conseil",
@@ -2912,7 +3010,7 @@
       "https://www.bcu-lausanne.ch/"
     ],
     "resource_holder_logos": [
-      "bcul-logo.svg"
+      "bcul-logo.png"
     ],
     "provenance_id": "",
     "source_permalink": "",
@@ -2940,7 +3038,9 @@
     "newspaper_start_year": "",
     "newspaper_end_year": "",
     "partner_uid": "BCUL",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "geographic_outreach": "",
     "geographic_area": "CH",
     "title": "Travaux des Constituantes",
