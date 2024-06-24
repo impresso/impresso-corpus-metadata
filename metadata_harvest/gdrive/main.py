@@ -5,6 +5,7 @@ import random
 import json
 
 SPLIT_PATTERN = r"\s*,\s*"
+LANG_SPLIT_PATTERN = r"\s* \s*"
 
 RULES = {
     "acronym": {  # to remove ?
@@ -33,7 +34,7 @@ RULES = {
     },
     "known_lang": {
         "rename_key_to": "languages",
-        "split_values_by_re": SPLIT_PATTERN,
+        "split_values_by_re": LANG_SPLIT_PATTERN,
     },
     "largest_geographic_outreach": {
         "rename_key_to": "geographic_outreach",

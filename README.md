@@ -1,5 +1,11 @@
 # impresso-corpus-metadata
 
+This repository contains python scripts to harvest metadata on the Impresso corpus by fetching it from:
+
+- Spreadsheets on Google Drive, and writing it to JSON files.
+- The APIs of the partner institution, and writing it to files of varied formats (Marc21, Intermarc, JSON).
+
+
 Python script to get the data out of a googlespreadsheet table.
 
 ```bash
