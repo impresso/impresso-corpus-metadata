@@ -1,7 +1,8 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
 data_dir = data
-file_prefix = gsheet_metadata
+metadata_file_prefix = gsheet_metadata
+access_rights_file_prefix = gsheet_access_rights
 metadata_gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 file_to_sync = 
 
@@ -19,34 +20,49 @@ help:
 	@echo "  help      - Display this help message"
 
 
-all-metadata: impresso1 bnf bcul swa-fedgaz
+### Fetching metadata ###
+all-metadata: impresso1-metadata bnf-metadata bcul-metadata swa-fedgaz-metadata
 
 impresso1-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="impresso1-collection" \
-	--output_file="$(data_dir)/gdrive_metadata/$(file_prefix).impresso1.json"
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).impresso1.json" \
+	--is_metadata
 
 bnf-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BNF" \
-	--output_file="$(data_dir)/gdrive_metadata/$(file_prefix).bnf.json"
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnf.json" \
+	--is_metadata
 
 bcul-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BCUL" \
-	--output_file="$(data_dir)/gdrive_metadata/$(file_prefix).bcul.json"
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bcul.json" \
+	--is_metadata
 
 swa-fedgaz-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
-	--output_file="$(data_dir)/gdrive_metadata/$(file_prefix).swa_fedgaz.json"
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json"
 
 sync-gdrive-metadata: 
 	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)"
 
 sync-api-metadata: 
 	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)"
+
+### Fetching access-rights ###
+debug-access-rights: # the gsheet id is going to change with each provider
+	python harvesters/fetch_from_gdrive.py \
+	--spreadsheet_id="1cLgvhFTPaqjnxTByDejMrwxBM0-o0j1U2Oz-o4oTabs" \
+	--worksheet_name="v4" \
+	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).debug.json" 
+
+
+#all-access-rights: impresso1-access-rights bnf-access-rights bcul-access-rights swa-fedgaz-access-rights
+

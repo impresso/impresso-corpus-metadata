@@ -1,0 +1,67 @@
+[
+  {
+    "": 1,
+    "title_alias": "NGV",
+    "full_title": "La nouvelle Gazette de Vaud",
+    "start_year": 1865,
+    "end_year": 1904,
+    "metadata_only": "no",
+    "copyright_status": "Public Domain ",
+    "explore_status": "No restriction (all registered users allowed)",
+    "get_transcript_status": "No restriction (all registered users allowed)",
+    "get_facsimile_status": "No restriction (all registered users allowed)",
+    "status_to_validate": "No validation"
+  },
+  {
+    "": 2,
+    "title_alias": "NGV",
+    "full_title": "La nouvelle Gazette de Vaud",
+    "start_year": 1905,
+    "end_year": 1950,
+    "metadata_only": "no",
+    "copyright_status": "Copyright undetermined (Protected Domain)",
+    "explore_status": "Academic and Student statuses only",
+    "get_transcript_status": "Academic and Student statuses only",
+    "get_facsimile_status": "Academic and Student statuses only",
+    "status_to_validate": "All statuses"
+  },
+  {
+    "": 3,
+    "title_alias": "LNC",
+    "full_title": "Le Nouveau Champion",
+    "start_year": 1914,
+    "end_year": 1939,
+    "metadata_only": "no",
+    "copyright_status": "In copyright - Unknown rightsholder (Protected Domain)",
+    "explore_status": "Academic and Student statuses only",
+    "get_transcript_status": "Academic and Student statuses only",
+    "get_facsimile_status": "Academic and Student statuses only",
+    "status_to_validate": "Academic and Student"
+  },
+  {
+    "": 4,
+    "title_alias": "LNCa",
+    "full_title": "La Nouvelle Catastrophe",
+    "start_year": 2020,
+    "end_year": 2024,
+    "metadata_only": "no",
+    "copyright_status": "In copyright (Protected Domain)",
+    "explore_status": "Academic status only",
+    "get_transcript_status": "Academic status only",
+    "get_facsimile_status": "Academic status only",
+    "status_to_validate": "Academic"
+  },
+  {
+    "": 5,
+    "title_alias": "RL",
+    "full_title": "Radio Libre",
+    "start_year": 1960,
+    "end_year": 1975,
+    "metadata_only": "no",
+    "copyright_status": "In copyright (Protected Domain)",
+    "explore_status": "Academic status only",
+    "get_transcript_status": "Academic status only",
+    "get_facsimile_status": "Academic status only",
+    "status_to_validate": "Student"
+  }
+]
