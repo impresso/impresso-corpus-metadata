@@ -22,25 +22,25 @@ help:
 all: impresso1 bnf bcul swa-fedgaz
 
 impresso1:
-	python metadata_harvest/gdrive/main.py \
+	python metadata_harvest/gdrive/main_metadata.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="impresso1-collection" \
 	--output_file="$(data_dir)/gdrive/$(file_prefix).impresso1.json"
 
 bnf:
-	python metadata_harvest/gdrive/main.py \
+	python metadata_harvest/gdrive/main_metadata.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="BNF" \
 	--output_file="$(data_dir)/gdrive/$(file_prefix).bnf.json"
 
 bcul:
-	python metadata_harvest/gdrive/main.py \
+	python metadata_harvest/gdrive/main_metadata.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="BCUL" \
 	--output_file="$(data_dir)/gdrive/$(file_prefix).bcul.json"
 
 swa-fedgaz:
-	python metadata_harvest/gdrive/main.py \
+	python metadata_harvest/gdrive/main_metadata.py \
 	--spreadsheet_id=$(gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
 	--output_file="$(data_dir)/gdrive/$(file_prefix).swa_fedgaz.json"
