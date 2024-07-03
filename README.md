@@ -47,7 +47,7 @@ Ask for the credentials to be shared with you.
 ##### `main_metadata.py` module
 TODO context
 ```bash
-pipenv run python metadata_harvest/gdrive/main_metadata.py \
+pipenv run python harvesters/fetch_from_gdrive.py \
   --spreadsheet_id="1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E" \ # todo update
   --worksheet_name="impresso-mediasources-master" \
   --output_file="data.json"
@@ -58,15 +58,15 @@ pipenv run python metadata_harvest/gdrive/main_metadata.py \
 TODO context
 ```bash
 # for all of the Impresso 1 corpus
-make impresso1
+make impresso1-metadata
 # for the BNF corpus
-make bnf
+make bnf-metadata
 # for the BCUL corpus
-make bcul
+make bcul-metadata
 # for the SWA and FedGaz corpuses
-make swa-fedgaz
+make swa-fedgaz-metadata
 # for all corpuses
-make all
+make all-metadata
 ```
 
 #### 2. Harvesting metadata from institutions' APIs to complete the one from the Gsheet
@@ -89,17 +89,17 @@ parent_dir
 ```
 
 The contents harvested from both institution APIs and fetched from gsheets can be copied in a very similar approach.
-One can simply run one of the following commands, which will copy the contents of the `impresso-corpus-metadata/data/api`  or `impresso-corpus-metadata/data/gdrive` directory into `impresso-master-db/impresso_db/data`.
+One can simply run one of the following commands, which will copy the contents of the `impresso-corpus-metadata/data/api_metadata`  or `impresso-corpus-metadata/data/gdrive_metadata` directory into `impresso-master-db/impresso_db/data`.
 Optionnally, a parameter can be added to specify exactly which file should be synched, otherwise all files will be.
 ```bash
 # copy all files in /data/gdrive 
-make sync-gdrive
+make sync-gdrive-metadata
 # specify the file from /data/gdrive to copy
-make sync-gdrive file_to_sync=gsheet_metadata.bcul.json
+make sync-gdrive-metadata file_to_sync=gsheet_metadata.bcul.json
 # copy all files in /data/apis 
-make sync-apis
+make sync-apis-metadata
 # specify the file from /data/apis to copy
-make sync-apis file_to_sync=intermarc_metadata.bnf.xml
+make sync-apis-metadata file_to_sync=intermarc_metadata.bnf.xml
 ```
 
 ### Running the access rights harvesters
