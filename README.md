@@ -5,23 +5,24 @@ This repository contains python scripts to harvest metadata on the Impresso corp
 - Spreadsheets on Google Drive, and writing it to JSON files.
 - The APIs of the partner institution, and writing it to files of varied formats (Marc21, Intermarc, JSON).
 
-
-Python script to get the data out of a googlespreadsheet table.
-
-```bash
-pipenv run python main.py \
-  --spreadsheet_id="1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E" \
-  --worksheet_name="impresso-mediasources-master" \
-  --output_file="data.json"
-```
+TODO: general explaination of organization.
 
 ## initial setup
+
+#### Pipenv users
 
 Install pipenv with the python 3.12 version:
 
 ```bash
 pyenv local 3.12.2
 pipenv install
+```
+
+#### Conda users
+
+```bash
+conda create -n [env_name] python=3.12.2
+pip install requirements.txt
 ```
 
 ### get google service account credentials json.
