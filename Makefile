@@ -19,7 +19,7 @@ help:
 	@echo "  help      - Display this help message"
 
 
-all-metadata: impresso1 bnf bcul swa-fedgaz
+all-metadata: impresso1-metadata bnf-metadata bcul-metadata swa-fedgaz-metadata
 
 impresso1-metadata:
 	python harvesters/fetch_from_gdrive.py \
