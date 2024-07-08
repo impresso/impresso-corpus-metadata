@@ -14,8 +14,8 @@ Options:
 import os
 import logging
 import json
-from docopt import docopt
 import requests
+from docopt import docopt
 from bs4 import BeautifulSoup
 import pymarc
 

@@ -48,7 +48,8 @@ swa-fedgaz-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
-	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json"
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json" \
+	--is_metadata
 
 sync-gdrive-metadata: 
 	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)"
@@ -60,7 +61,7 @@ sync-api-metadata:
 debug-access-rights: # the gsheet id is going to change with each provider
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id="1cLgvhFTPaqjnxTByDejMrwxBM0-o0j1U2Oz-o4oTabs" \
-	--worksheet_name="v4" \
+	--worksheet_name="v5" \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).debug.json" 
 
 

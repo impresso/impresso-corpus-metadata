@@ -50,7 +50,9 @@
     "newspaper_end_year": 1994,
     "partner_uid": "SWA",
     "languages": [
-      "de fr it"
+      "de",
+      "fr",
+      "it"
     ],
     "geographic_outreach": "national",
     "geographic_area": "CH",

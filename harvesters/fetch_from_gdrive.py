@@ -1,8 +1,10 @@
-import fire
+""" Python script downloading a given google dirve spreadsheet into a json file."""
+
 import re
-import gspread
 import random
 import json
+import gspread
+import fire
 
 SPLIT_PATTERN = r"\s*,\s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
@@ -83,17 +85,14 @@ ACCESS_RIGHTS_RULES = {
     "what_is_the_copyright_status_of_this_title_for_the_given_time_period_if_public_domain_no_need_to_fill_in_the_other_columns_whose_values_are_then_understood_as_yes": {
         "rename_key_to": "copyright_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_explore_action_on_this_title": {
-        "rename_key_to": "explore_status"
+    "to_which_registered_user_statuses_do_you_want_to_restrict_the_explore_action_on_this_title_sufficient_condition": {
+        "rename_key_to": "explore_req_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_transcripts_of_this_title_registered_user_statuses_are_impresso_account_creation_tou_student_check_of_status_at_account_creation_academic_check_of_affiliation_at_account_creation": {
-        "rename_key_to": "get_transcript_status"
+    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_transcripts_of_this_title_sufficient_condition": {
+        "rename_key_to": "get_transcript_req_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_images_any_part_of_the_facsimile_of_this_title_registered_user_statuses_are_impresso_account_creation_tou_student_check_of_status_at_account_creation_academic_check_of_affiliation_at_account_creation": {
-        "rename_key_to": "get_facsimile_status"
-    },
-    "for_which_statuses_do_you_want_to_validate_the_user_account_yourself": {
-        "rename_key_to": "status_to_validate"
+    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
+        "rename_key_to": "get_facsimile_req_status"
     },
 }
 
