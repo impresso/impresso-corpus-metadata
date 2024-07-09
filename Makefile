@@ -11,11 +11,11 @@ file_to_sync =
 snl_ar_ghseet_id = 1ctskS_dAy1EMmZDY3T-um-IE53ZaNuMbhF3EAOmajko
 bnl_ar_ghseet_id = 1nPHaTPDfwkpC91P9b6EnKcmJdzfOrysk1yu9i21geSI
 bnf_ar_ghseet_id = 1dNNj2vpIm7xSrW6vMBFWWQV2FbxGP3PCa5RsqG8EKH4
+bcul_ar_ghseet_id = 1EeMo01iwcLWIuAwWgYN7vwkmsOJM5dA1ipJuaikbBCo
+swa_fedgaz_nzz_ar_ghseet_id = 1PC7B90IkXT8arczM8FlV6PN5YbZH1LjHV8ZUno5UW9c
 kb_ar_ghseet_id = 1D-feGATwlBbxrTRLiDRVhEOGIxgGaa_CMEy_ZlQSbPE
 onb_ar_ghseet_id = 1vvyQ-5ZEoqg7DpiwZC-LoDo59ObjNx3SkQyfv4L_Uh4
 sub_ar_ghseet_id = 1zglWsq5EL3HbfB8QF_vyEKIewi8AWHD6
-bcul_ar_ghseet_id = 1EeMo01iwcLWIuAwWgYN7vwkmsOJM5dA1ipJuaikbBCo
-swa_fedgaz_nzz_ar_ghseet_id = 1PC7B90IkXT8arczM8FlV6PN5YbZH1LjHV8ZUno5UW9c
 
 # Targets
 help:
@@ -28,6 +28,15 @@ help:
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
 	@echo "  sync-gdrive-metadata     - Synchronize all or part of the gdrive data folder with the one of the impresso-master-db repository"
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
+	@echo "  all-access-rights     - Export the access rights for all partners"
+	@echo "  snl-access-rights     - Export the access rights for all SNL partners"
+	@echo "  bnl-access-rights     - Export the access rights for BNL"
+	@echo "  bnf-access-rights     - Export the access rights for BNF"
+	@echo "  bcul-access-rights     - Export the access rights for BCUL"
+	@echo "  swa-fedgaz-nzz-access-rights     - Export the access rights for SWA, FedGaz and NZZ"
+	@echo "  kb-access-rights     - Export the access rights for KB"
+	@echo "  onb-access-rights     - Export the access rights for ONB"
+	@echo "  sub-access-rights     - Export the access rights for SUBKB"
 	@echo "  help      - Display this help message"
 
 
@@ -63,11 +72,13 @@ swa-fedgaz-metadata:
 	--is_metadata
 
 sync-gdrive-metadata: 
-	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)"
+	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gsheet_metadata"
 
 sync-api-metadata: 
-	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)"
+	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
 
+sync-gdrive-access-rights: 
+	rsync -r -v "$(data_dir)/gdrive_access_rights/$(file_to_sync)" "$(db_data_dir)/access_rights"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
