@@ -79,19 +79,17 @@ ACCESS_RIGHTS_RULES = {
     "included_time_period_end_date_31st_december_to_be_filled_only_if_it_applies": {
         "rename_key_to": "end_year"
     },
-    "do_you_provide_only_metadata_and_not_also_content": {
-        "rename_key_to": "metadata_only"
-    },
-    "what_is_the_copyright_status_of_this_title_for_the_given_time_period_if_public_domain_no_need_to_fill_in_the_other_columns_whose_values_are_then_understood_as_yes": {
+    "do_you_provide_content_and_not_only_metadata": {"rename_key_to": "metadata_only"},
+    "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_if_public_domain_no_need_to_fill_the_columns_h_i_j_whose_values_are_then_understood_as_no_restriction": {
         "rename_key_to": "copyright_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_explore_action_on_this_title_sufficient_condition": {
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_the_explore_action_on_this_title_sufficient_condition": {
         "rename_key_to": "explore_req_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_transcripts_of_this_title_sufficient_condition": {
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_the_get_action_on_transcripts_of_this_title_sufficient_condition": {
         "rename_key_to": "get_transcript_req_status"
     },
-    "to_which_registered_user_statuses_do_you_want_to_restrict_the_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_thethe_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
         "rename_key_to": "get_facsimile_req_status"
     },
 }

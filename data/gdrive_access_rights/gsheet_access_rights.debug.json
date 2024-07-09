@@ -1,62 +1,67 @@
 [
-  {
-    "": 1,
-    "title_alias": "NGV",
-    "full_title": "La nouvelle Gazette de Vaud",
-    "start_year": 1865,
-    "end_year": 1904,
-    "metadata_only": "no",
-    "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)"
-  },
-  {
-    "": 2,
-    "title_alias": "NGV",
-    "full_title": "La nouvelle Gazette de Vaud",
-    "start_year": 1905,
-    "end_year": 1950,
-    "metadata_only": "no",
-    "copyright_status": "Copyright undetermined (Protected Domain)",
-    "explore_req_status": "Educational users at least OR Archive members",
-    "get_transcript_req_status": "Educational users at least OR Archive members",
-    "get_facsimile_req_status": "Educational users at least OR Archive members"
-  },
-  {
-    "": 3,
-    "title_alias": "LNC",
-    "full_title": "Le Nouveau Champion",
-    "start_year": 1914,
-    "end_year": 1939,
-    "metadata_only": "no",
-    "copyright_status": "In copyright - Unknown rightsholder (Protected Domain)",
-    "explore_req_status": "Educational users at least",
-    "get_transcript_req_status": "Educational users at least OR Archive members",
-    "get_facsimile_req_status": "Educational users at least"
-  },
-  {
-    "": 4,
-    "title_alias": "LNCa",
-    "full_title": "La Nouvelle Catastrophe",
-    "start_year": 2020,
-    "end_year": 2024,
-    "metadata_only": "no",
-    "copyright_status": "In copyright (Protected Domain)",
-    "explore_req_status": "Academic users at least",
-    "get_transcript_req_status": "Academic users at least OR Archive members",
-    "get_facsimile_req_status": "Only Achive members"
-  },
-  {
-    "": 5,
-    "title_alias": "RL",
-    "full_title": "Radio Libre",
-    "start_year": 1960,
-    "end_year": 1975,
-    "metadata_only": "no",
-    "copyright_status": "In copyright (Protected Domain)",
-    "explore_req_status": "Academic users at least OR Archive members",
-    "get_transcript_req_status": "Academic users at least",
-    "get_facsimile_req_status": "Forbidden"
-  }
+    {
+        "": 1,
+        "partnerid": "",
+        "title_alias": "NGV",
+        "full_title": "La nouvelle Gazette de Vaud",
+        "start_year": 1865,
+        "end_year": 1904,
+        "metadata_only": "yes",
+        "copyright_status": "Public Domain",
+        "explore_req_status": "No restriction (all registered users allowed)",
+        "get_transcript_req_status": "No restriction (all registered users allowed)",
+        "get_facsimile_req_status": "No restriction (all registered users allowed)"
+    },
+    {
+        "": 2,
+        "partnerid": "",
+        "title_alias": "NGV",
+        "full_title": "La nouvelle Gazette de Vaud",
+        "start_year": 1905,
+        "end_year": 1950,
+        "metadata_only": "yes",
+        "copyright_status": "Protected Domain: Copyright undetermined ",
+        "explore_req_status": "Educational users at least OR Archive members",
+        "get_transcript_req_status": "Educational users at least OR Archive members",
+        "get_facsimile_req_status": "Educational users at least OR Archive members"
+    },
+    {
+        "": 3,
+        "partnerid": "",
+        "title_alias": "LNC",
+        "full_title": "Le Nouveau Champion",
+        "start_year": 1914,
+        "end_year": 1939,
+        "metadata_only": "yes",
+        "copyright_status": "Protected Domain: In copyright - Unknown rightsholder ",
+        "explore_req_status": "Educational users at least",
+        "get_transcript_req_status": "Educational users at least OR Archive members",
+        "get_facsimile_req_status": "Educational users at least"
+    },
+    {
+        "": 4,
+        "partnerid": "",
+        "title_alias": "LNCa",
+        "full_title": "La Nouvelle Catastrophe",
+        "start_year": 2020,
+        "end_year": 2024,
+        "metadata_only": "yes",
+        "copyright_status": "Protected Domain: In copyright ",
+        "explore_req_status": "Academic users at least",
+        "get_transcript_req_status": "Academic users at least OR Archive members",
+        "get_facsimile_req_status": "Only Achive members"
+    },
+    {
+        "": 5,
+        "partnerid": "",
+        "title_alias": "RL",
+        "full_title": "Radio Libre",
+        "start_year": 1960,
+        "end_year": 1975,
+        "metadata_only": "yes",
+        "copyright_status": "Protected Domain: In copyright ",
+        "explore_req_status": "Academic users at least OR Archive members",
+        "get_transcript_req_status": "Academic users at least",
+        "get_facsimile_req_status": "Forbidden"
+    }
 ]
