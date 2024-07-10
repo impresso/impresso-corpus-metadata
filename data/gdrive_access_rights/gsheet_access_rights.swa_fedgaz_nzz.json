@@ -1,7 +1,7 @@
 [
   {
     "": 1,
-    "partner_id": "NZZ",
+    "rights_holder_id": "NZZ",
     "title_alias": "NZZ",
     "full_title": "Neue Z\u00fccher Zeitung",
     "start_year": 1780,
@@ -14,7 +14,7 @@
   },
   {
     "": 2,
-    "partner_id": "SWA",
+    "rights_holder_id": "SWA",
     "title_alias": "arbeitgeber",
     "full_title": "Schweizer Arbeitgeber",
     "start_year": 1906,
@@ -27,7 +27,7 @@
   },
   {
     "": 3,
-    "partner_id": "SWA",
+    "rights_holder_id": "SWA",
     "title_alias": "handelsztg",
     "full_title": "Schweizerische Handels-Zeitung",
     "start_year": 1861,
@@ -40,7 +40,7 @@
   },
   {
     "": 4,
-    "partner_id": "FedGaz",
+    "rights_holder_id": "FedGaz",
     "title_alias": "FedGazDe",
     "full_title": "Bundesblatt",
     "start_year": 1849,
@@ -53,7 +53,7 @@
   },
   {
     "": 5,
-    "partner_id": "FedGaz",
+    "rights_holder_id": "FedGaz",
     "title_alias": "FedGazFr",
     "full_title": "Feuille F\u00e9d\u00e9rale",
     "start_year": 1849,

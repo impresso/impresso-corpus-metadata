@@ -78,7 +78,7 @@ sync-api-metadata:
 	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
 
 sync-gdrive-access-rights: 
-	rsync -r -v "$(data_dir)/gdrive_access_rights/$(file_to_sync)" "$(db_data_dir)/access_rights"
+	rsync -r -v "$(data_dir)/access_rights/$(file_to_sync)" "$(db_data_dir)/access_rights"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider

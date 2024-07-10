@@ -1,7 +1,7 @@
 [
   {
     "": 1,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "excelsior",
     "full_title": "Excelsior",
     "start_year": 1910,
@@ -14,7 +14,7 @@
   },
   {
     "": 2,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "lafronde",
     "full_title": "La Fronde",
     "start_year": 1897,
@@ -27,7 +27,7 @@
   },
   {
     "": 3,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "marieclaire",
     "full_title": "Marie-Claire",
     "start_year": 1937,
@@ -40,7 +40,7 @@
   },
   {
     "": 4,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "oeuvre",
     "full_title": "Oeuvre",
     "start_year": 1915,
@@ -53,7 +53,7 @@
   },
   {
     "": 5,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "jdpl",
     "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
     "start_year": 1814,
@@ -66,7 +66,7 @@
   },
   {
     "": 6,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "jdpl",
     "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
     "start_year": 1885,
@@ -79,7 +79,7 @@
   },
   {
     "": 7,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "legaulois",
     "full_title": "Le Gaulois",
     "start_year": 1868,
@@ -92,7 +92,7 @@
   },
   {
     "": 8,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "legaulois",
     "full_title": "Le Gaulois",
     "start_year": 1885,
@@ -105,7 +105,7 @@
   },
   {
     "": 9,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "lematin",
     "full_title": "Le Matin",
     "start_year": 1884,
@@ -118,7 +118,7 @@
   },
   {
     "": 10,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "lepji",
     "full_title": "Le Petit Journal Illustr\u00e9 - Suppl\u00e9ement du dimanche",
     "start_year": 1884,
@@ -131,7 +131,7 @@
   },
   {
     "": 11,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "lepetitparisien",
     "full_title": "Le Petit Parisien",
     "start_year": 1876,
@@ -144,7 +144,7 @@
   },
   {
     "": 12,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "lepetitparisien",
     "full_title": "Le Petit Parisien",
     "start_year": 1885,
@@ -157,7 +157,7 @@
   },
   {
     "": 13,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "oecaen",
     "full_title": "Ouest-Eclair Caen",
     "start_year": 1912,
@@ -170,7 +170,7 @@
   },
   {
     "": 14,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "oerennes",
     "full_title": "Ouest-Eclair  Rennes",
     "start_year": 1899,
@@ -183,7 +183,7 @@
   },
   {
     "": 15,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Action fran\u00e7aise",
     "start_year": "",
@@ -196,7 +196,7 @@
   },
   {
     "": 16,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Echo de Paris",
     "start_year": "",
@@ -209,7 +209,7 @@
   },
   {
     "": 17,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Humanit\u00e9 (920 Mo)",
     "start_year": "",
@@ -222,7 +222,7 @@
   },
   {
     "": 18,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Intransigeant (1,8 Go)",
     "start_year": "",
@@ -235,7 +235,7 @@
   },
   {
     "": 19,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'\u0152uvre (Paris)",
     "start_year": "",
@@ -248,7 +248,7 @@
   },
   {
     "": 20,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Univers (1 Go)",
     "start_year": "",
@@ -261,7 +261,7 @@
   },
   {
     "": 21,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Croix (1,2 Go)",
     "start_year": "",
@@ -274,7 +274,7 @@
   },
   {
     "": 22,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Presse ",
     "start_year": "",
@@ -287,7 +287,7 @@
   },
   {
     "": 23,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Constitutionnel (1,8 Go)",
     "start_year": "",
@@ -300,7 +300,7 @@
   },
   {
     "": 24,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Figaro (2,1 Go)",
     "start_year": "",
@@ -313,7 +313,7 @@
   },
   {
     "": 25,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Petit Journal (1,9 Go)",
     "start_year": "",
@@ -326,7 +326,7 @@
   },
   {
     "": 26,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Si\u00e8cle (2,1 Go)",
     "start_year": "",
@@ -339,7 +339,7 @@
   },
   {
     "": 27,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Temps (2,4 Go)",
     "start_year": "",
@@ -352,7 +352,7 @@
   },
   {
     "": 28,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Candide",
     "start_year": "",
@@ -365,7 +365,7 @@
   },
   {
     "": 29,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Ce Soir",
     "start_year": "",
@@ -378,7 +378,7 @@
   },
   {
     "": 30,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Cin\u00e9-Journal (Paris. 1908)",
     "start_year": "",
@@ -391,7 +391,7 @@
   },
   {
     "": 31,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Combat (Paris. 1941)",
     "start_year": "",
@@ -404,7 +404,7 @@
   },
   {
     "": 32,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Die Vereinigten Staaten von Europa",
     "start_year": "",
@@ -417,7 +417,7 @@
   },
   {
     "": 33,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Europe-Colonies",
     "start_year": "",
@@ -430,7 +430,7 @@
   },
   {
     "": 34,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "France libre (Paris. 1944)",
     "start_year": "",
@@ -443,7 +443,7 @@
   },
   {
     "": 35,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "France-Europe orientale",
     "start_year": "",
@@ -456,7 +456,7 @@
   },
   {
     "": 36,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "France-soir (Paris. 1944)",
     "start_year": "",
@@ -469,7 +469,7 @@
   },
   {
     "": 37,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Free Europe. Fortnightly review of international affairs",
     "start_year": "",
@@ -482,7 +482,7 @@
   },
   {
     "": 38,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Croix (1880)",
     "start_year": "",
@@ -495,7 +495,7 @@
   },
   {
     "": 39,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Jeune Europe. La revue des nouvelles g\u00e9n\u00e9rations",
     "start_year": "",
@@ -508,7 +508,7 @@
   },
   {
     "": 40,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Jeune Europe (Paris. 1930)",
     "start_year": "",
@@ -521,7 +521,7 @@
   },
   {
     "": 41,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Libert\u00e9 (Paris. 1865)",
     "start_year": "",
@@ -534,7 +534,7 @@
   },
   {
     "": 42,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Vie latine. Revue mensuelle",
     "start_year": "",
@@ -547,7 +547,7 @@
   },
   {
     "": 43,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Aurore (Paris. 1943)",
     "start_year": "",
@@ -560,7 +560,7 @@
   },
   {
     "": 44,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Bonnet rouge (Paris. 1913)",
     "start_year": "",
@@ -573,7 +573,7 @@
   },
   {
     "": 45,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Canard Encha\u00een\u00e9",
     "start_year": "",
@@ -586,7 +586,7 @@
   },
   {
     "": 46,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Caucase",
     "start_year": "",
@@ -599,7 +599,7 @@
   },
   {
     "": 47,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Courrier (Paris. 1819)",
     "start_year": "",
@@ -612,7 +612,7 @@
   },
   {
     "": 48,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Cri du peuple (Paris. 1871)",
     "start_year": "",
@@ -625,7 +625,7 @@
   },
   {
     "": 49,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Franc-tireur (Paris)",
     "start_year": "",
@@ -638,7 +638,7 @@
   },
   {
     "": 50,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Grand \u00e9cho du Nord de la France",
     "start_year": "",
@@ -651,7 +651,7 @@
   },
   {
     "": 51,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Pays (Paris. 1849)",
     "start_year": "",
@@ -664,7 +664,7 @@
   },
   {
     "": 52,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Le Petit Marocain",
     "start_year": "",
@@ -677,7 +677,7 @@
   },
   {
     "": 53,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Echo d'Alger : journal r\u00e9publicain du matin",
     "start_year": "",
@@ -690,7 +690,7 @@
   },
   {
     "": 54,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Les Etats-Unis d'Europe. Hebdomadaire",
     "start_year": "",
@@ -703,7 +703,7 @@
   },
   {
     "": 55,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe coloniale",
     "start_year": "",
@@ -716,7 +716,7 @@
   },
   {
     "": 56,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe financi\u00e8re. Journal financier ind\u00e9pendant",
     "start_year": "",
@@ -729,7 +729,7 @@
   },
   {
     "": 57,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe financi\u00e8re. Journal hebdomadaire litt\u00e9raire, militaire, m\u00e9dical, artistique et th\u00e9\u00e2tral",
     "start_year": "",
@@ -742,7 +742,7 @@
   },
   {
     "": 58,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe future. Affaires ext\u00e9rieures, affaires coloniales internationales.",
     "start_year": "",
@@ -755,7 +755,7 @@
   },
   {
     "": 59,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe illustr\u00e9e",
     "start_year": "",
@@ -768,7 +768,7 @@
   },
   {
     "": 60,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe illustr\u00e9e. Revue pour le d\u00e9veloppement des relations europ\u00e9ennes",
     "start_year": "",
@@ -781,7 +781,7 @@
   },
   {
     "": 61,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe industrielle et commerciale",
     "start_year": "",
@@ -794,7 +794,7 @@
   },
   {
     "": 62,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe nouvelle. Feuille du service de documentation (Paris)",
     "start_year": "",
@@ -807,7 +807,7 @@
   },
   {
     "": 63,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe orientale (Paris. 1919)",
     "start_year": "",
@@ -820,7 +820,7 @@
   },
   {
     "": 64,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe orientale. Ancien journal La Roumanie.",
     "start_year": "",
@@ -833,7 +833,7 @@
   },
   {
     "": 65,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe. Journal quotidien",
     "start_year": "",
@@ -846,7 +846,7 @@
   },
   {
     "": 66,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Europe. Politique, scientifique, commerciale, industrielle et litt\u00e9raire",
     "start_year": "",
@@ -859,7 +859,7 @@
   },
   {
     "": 67,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Humanit\u00e9",
     "start_year": "",
@@ -872,7 +872,7 @@
   },
   {
     "": 68,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Lib\u00e9ration (Paris. 1944)",
     "start_year": "",
@@ -885,7 +885,7 @@
   },
   {
     "": 69,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Intransigeant (Paris. 1880)",
     "start_year": "",
@@ -898,7 +898,7 @@
   },
   {
     "": 70,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Paris-Europe",
     "start_year": "",
@@ -911,7 +911,7 @@
   },
   {
     "": 71,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Paris-Midi",
     "start_year": "",
@@ -924,7 +924,7 @@
   },
   {
     "": 72,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "Terre d'Europe. Revue",
     "start_year": "",
@@ -937,7 +937,7 @@
   },
   {
     "": 73,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "The Chicago tribune and the Daily news, New York (European edition)",
     "start_year": "",
@@ -950,7 +950,7 @@
   },
   {
     "": 74,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "The New York Herald",
     "start_year": "",
@@ -963,7 +963,7 @@
   },
   {
     "": 75,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "The Paris tribune",
     "start_year": "",
@@ -976,7 +976,7 @@
   },
   {
     "": 76,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "La Charente",
     "start_year": "",
@@ -989,7 +989,7 @@
   },
   {
     "": 77,
-    "partner_id": "BNF",
+    "rights_holder_id": "BNF",
     "title_alias": "",
     "full_title": "L'Echo d'Oran",
     "start_year": "",

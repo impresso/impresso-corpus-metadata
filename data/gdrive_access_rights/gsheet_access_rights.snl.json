@@ -1,7 +1,7 @@
 [
   {
     "": 1,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "BLB",
     "full_title": "B\u00fcndner Landbote",
     "start_year": 1846,
@@ -14,7 +14,7 @@
   },
   {
     "": 2,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "BNN",
     "full_title": "B\u00fcndner Nachrichten",
     "start_year": 1885,
@@ -27,7 +27,7 @@
   },
   {
     "": 3,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "DFS",
     "full_title": "Wochenblatt f\u00fcr die vier l\u00f6blichen Kantone Ury, Schwytz, Unterwalden und Zug",
     "start_year": 1814,
@@ -40,7 +40,7 @@
   },
   {
     "": 4,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "DVF",
     "full_title": "Der Volksfreund",
     "start_year": 1879,
@@ -53,7 +53,7 @@
   },
   {
     "": 5,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "EZR",
     "full_title": "Der Erz\u00e4hler",
     "start_year": 1806,
@@ -66,7 +66,7 @@
   },
   {
     "": 6,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "HRV",
     "full_title": "Der helvetische Volksfreund",
     "start_year": 1799,
@@ -79,7 +79,7 @@
   },
   {
     "": 7,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "LAB",
     "full_title": "Der Liberale Alpenbote",
     "start_year": 1848,
@@ -92,7 +92,7 @@
   },
   {
     "": 8,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "MGS",
     "full_title": "Der Morgenstern",
     "start_year": 1842,
@@ -105,7 +105,7 @@
   },
   {
     "": 9,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "NTS",
     "full_title": "Neues Tagblatt aus der \u00f6stlichen Schweiz",
     "start_year": 1856,
@@ -118,7 +118,7 @@
   },
   {
     "": 10,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "NZG",
     "full_title": "Neue Zuger Zeitung (II)",
     "start_year": 1846,
@@ -131,7 +131,7 @@
   },
   {
     "": 11,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "SGZ",
     "full_title": "St.Galler Zeitung",
     "start_year": 1831,
@@ -144,7 +144,7 @@
   },
   {
     "": 12,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "SRT",
     "full_title": "Schweizerische Tag-Bl\u00e4tter",
     "start_year": 1798,
@@ -157,7 +157,7 @@
   },
   {
     "": 13,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "WHD",
     "full_title": "Der Wahrheitsfreund",
     "start_year": 1835,
@@ -170,7 +170,7 @@
   },
   {
     "": 14,
-    "partner_id": "SNL",
+    "rights_holder_id": "SNL",
     "title_alias": "ZBT",
     "full_title": "Der Zugerbieter",
     "start_year": 1865,
@@ -183,7 +183,7 @@
   },
   {
     "": 15,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "BDC",
     "full_title": "Bulletin des s\u00e9ances de la Constituante",
     "start_year": 1839,
@@ -196,7 +196,7 @@
   },
   {
     "": 16,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "CDV",
     "full_title": "Courrier du Valais",
     "start_year": 1843,
@@ -209,7 +209,7 @@
   },
   {
     "": 17,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "EDA",
     "full_title": "L\u2019\u00c9cho des Alpes",
     "start_year": 1839,
@@ -222,7 +222,7 @@
   },
   {
     "": 18,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "JDV",
     "full_title": "Le Journal du Valais",
     "start_year": 1848,
@@ -235,7 +235,7 @@
   },
   {
     "": 19,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "LSR",
     "full_title": "L\u2019Observateur",
     "start_year": 1846,
@@ -248,7 +248,7 @@
   },
   {
     "": 20,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "CON",
     "full_title": "La Contr\u00e9e",
     "start_year": 1902,
@@ -261,7 +261,7 @@
   },
   {
     "": 21,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "GAV",
     "full_title": "Gazette du Valais / Nouvelle gazette du Valais",
     "start_year": 1855,
@@ -274,7 +274,7 @@
   },
   {
     "": 22,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "GAZ",
     "full_title": "Gazette du Simplon",
     "start_year": 1842,
@@ -287,7 +287,7 @@
   },
   {
     "": 23,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "SAX",
     "full_title": "Journal de Saxon",
     "start_year": 1882,
@@ -300,7 +300,7 @@
   },
   {
     "": 24,
-    "partner_id": "MVS",
+    "rights_holder_id": "MVS",
     "title_alias": "VDR",
     "full_title": "La Voix du Rh\u00f4ne",
     "start_year": 1844,
@@ -313,7 +313,7 @@
   },
   {
     "": 25,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "DLE",
     "full_title": "Der Landbote des freiburgischen Seebezirks",
     "start_year": 1909,
@@ -326,7 +326,7 @@
   },
   {
     "": 26,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "JDF",
     "full_title": "Journal du canton de Fribourg",
     "start_year": 1830,
@@ -339,7 +339,7 @@
   },
   {
     "": 27,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LBP",
     "full_title": "Le Bien public",
     "start_year": 1879,
@@ -352,7 +352,7 @@
   },
   {
     "": 28,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LCR",
     "full_title": "Le Chroniqueur",
     "start_year": 1854,
@@ -365,7 +365,7 @@
   },
   {
     "": 29,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LCS",
     "full_title": "Le Courrier fribourgeois",
     "start_year": 1830,
@@ -378,7 +378,7 @@
   },
   {
     "": 30,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LNF",
     "full_title": "Le Narrateur fribourgeois",
     "start_year": 1840,
@@ -391,7 +391,7 @@
   },
   {
     "": 31,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LTF",
     "full_title": "La Tribune de Fribourg",
     "start_year": 1905,
@@ -404,7 +404,7 @@
   },
   {
     "": 32,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LVE",
     "full_title": "Le V\u00e9ridique",
     "start_year": 1831,
@@ -417,7 +417,7 @@
   },
   {
     "": 33,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LCG",
     "full_title": "Le Conf\u00e9d\u00e9r\u00e9 de Fribourg",
     "start_year": 1848,
@@ -430,7 +430,7 @@
   },
   {
     "": 34,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "FZG",
     "full_title": "Freiburger Nachrichten",
     "start_year": 1865,
@@ -443,7 +443,7 @@
   },
   {
     "": 35,
-    "partner_id": "BCUF",
+    "rights_holder_id": "BCUF",
     "title_alias": "LLE",
     "full_title": "La Libert\u00e9",
     "start_year": 1871,
@@ -456,7 +456,7 @@
   },
   {
     "": 36,
-    "partner_id": "ArcInfo",
+    "rights_holder_id": "ArcInfo",
     "title_alias": "EXP",
     "full_title": "L'Express",
     "start_year": 1738,
@@ -469,7 +469,7 @@
   },
   {
     "": 37,
-    "partner_id": "ArcInfo",
+    "rights_holder_id": "ArcInfo",
     "title_alias": "IMP",
     "full_title": "L'Impartial",
     "start_year": 1881,
@@ -482,7 +482,7 @@
   },
   {
     "": 38,
-    "partner_id": "LCE",
+    "rights_holder_id": "LCE",
     "title_alias": "LCE",
     "full_title": "Conf\u00e9d\u00e9r\u00e9",
     "start_year": 1861,
@@ -495,7 +495,7 @@
   },
   {
     "": 39,
-    "partner_id": "LeTemps",
+    "rights_holder_id": "LeTemps",
     "title_alias": "JDG",
     "full_title": "Journal de Gen\u00e8ve",
     "start_year": 1826,
@@ -508,7 +508,7 @@
   },
   {
     "": 40,
-    "partner_id": "LeTemps",
+    "rights_holder_id": "LeTemps",
     "title_alias": "GDL",
     "full_title": "Gazette de Lausanne ",
     "start_year": 1804,
@@ -521,7 +521,7 @@
   },
   {
     "": 41,
-    "partner_id": "Migros",
+    "rights_holder_id": "Migros",
     "title_alias": "DTT",
     "full_title": "Die Tat",
     "start_year": 1935,
@@ -534,7 +534,7 @@
   },
   {
     "": 42,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "FCT",
     "full_title": "La FCTA",
     "start_year": 1955,
@@ -547,7 +547,7 @@
   },
   {
     "": 43,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "LLS",
     "full_title": "La lutte syndicale",
     "start_year": 1906,
@@ -560,7 +560,7 @@
   },
   {
     "": 44,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "OIZ",
     "full_title": "Die Gewerkschaft",
     "start_year": 1901,
@@ -573,7 +573,7 @@
   },
   {
     "": 45,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "SDT",
     "full_title": "Solidarit\u00e9",
     "start_year": 1909,
@@ -586,7 +586,7 @@
   },
   {
     "": 46,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "SMZ",
     "full_title": "SMUV-Zeitung",
     "start_year": 1902,
@@ -599,7 +599,7 @@
   },
   {
     "": 47,
-    "partner_id": "Unia",
+    "rights_holder_id": "Unia",
     "title_alias": "VHT",
     "full_title": "VHTL-Zeitung",
     "start_year": 1904,
@@ -612,7 +612,7 @@
   },
   {
     "": 48,
-    "partner_id": "BVCF",
+    "rights_holder_id": "BVCF",
     "title_alias": "LSE",
     "full_title": "Le Peuple, La Sentinelle",
     "start_year": 1890,
@@ -625,7 +625,7 @@
   },
   {
     "": 49,
-    "partner_id": "BVCF",
+    "rights_holder_id": "BVCF",
     "title_alias": "LES",
     "full_title": "L'Essor",
     "start_year": 1906,

@@ -1,7 +1,7 @@
 [
   {
     "": 1,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "armeteufel",
     "full_title": "Arme Teufel",
     "start_year": 1903,
@@ -14,7 +14,7 @@
   },
   {
     "": 2,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "actionfem",
     "full_title": "L'Action f\u00e9minine",
     "start_year": 1927,
@@ -27,7 +27,7 @@
   },
   {
     "": 3,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "avenirgdl",
     "full_title": "L'avenir",
     "start_year": 1868,
@@ -40,7 +40,7 @@
   },
   {
     "": 4,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "buergerbeamten",
     "full_title": "B\u00fcrger- und Beamten-Zeitung",
     "start_year": 1898,
@@ -53,7 +53,7 @@
   },
   {
     "": 5,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "courriergdl",
     "full_title": "Courrier du Grand-Duch\u00e9 de Luxembourg",
     "start_year": 1844,
@@ -66,7 +66,7 @@
   },
   {
     "": 6,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "deletz1893",
     "full_title": "De Letzeburger",
     "start_year": 1893,
@@ -79,7 +79,7 @@
   },
   {
     "": 7,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "demitock",
     "full_title": "De Mitock e Wocheblad fir Jux an Zodi",
     "start_year": 1937,
@@ -92,7 +92,7 @@
   },
   {
     "": 8,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "diekwochen",
     "full_title": "Diekircher Wochenblatt",
     "start_year": 1841,
@@ -105,7 +105,7 @@
   },
   {
     "": 9,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "dunioun",
     "full_title": "D'Unio'n",
     "start_year": 1944,
@@ -118,7 +118,7 @@
   },
   {
     "": 10,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "gazgrdlux",
     "full_title": "Gazette du Grand-Duch\u00e9 de Luxembourg",
     "start_year": 1878,
@@ -131,7 +131,7 @@
   },
   {
     "": 11,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "indeplux  ",
     "full_title": "L'ind\u00e9pendance luxembourgeoise",
     "start_year": 1871,
@@ -144,7 +144,7 @@
   },
   {
     "": 12,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "indeplux  ",
     "full_title": "L'ind\u00e9pendance luxembourgeoise",
     "start_year": 1885,
@@ -157,7 +157,7 @@
   },
   {
     "": 13,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "kommmit",
     "full_title": "Komm mit mir!",
     "start_year": 1884,
@@ -170,7 +170,7 @@
   },
   {
     "": 14,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "landwortbild",
     "full_title": "Luxemburger Land in Wort und Bild",
     "start_year": 1895,
@@ -183,7 +183,7 @@
   },
   {
     "": 15,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxland",
     "full_title": "d'Letzeburger Land",
     "start_year": 1954,
@@ -196,7 +196,7 @@
   },
   {
     "": 16,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxzeit1844",
     "full_title": "Luxemburger Zeitung",
     "start_year": 1844,
@@ -209,7 +209,7 @@
   },
   {
     "": 17,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxzeit1858",
     "full_title": "Luxemburger Zeitung - Journal de Luxembourg",
     "start_year": 1858,
@@ -222,7 +222,7 @@
   },
   {
     "": 18,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxwort",
     "full_title": "Luxemburger Wort",
     "start_year": 1848,
@@ -235,7 +235,7 @@
   },
   {
     "": 19,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxwort",
     "full_title": "Luxemburger Wort",
     "start_year": 1885,
@@ -248,7 +248,7 @@
   },
   {
     "": 20,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "obermosel",
     "full_title": "Obermosel-Zeitung",
     "start_year": 1881,
@@ -261,7 +261,7 @@
   },
   {
     "": 21,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "obermosel",
     "full_title": "Obermosel-Zeitung",
     "start_year": 1885,
@@ -274,7 +274,7 @@
   },
   {
     "": 22,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "onsjongen",
     "full_title": "Ons Jongen",
     "start_year": 1944,
@@ -287,7 +287,7 @@
   },
   {
     "": 23,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "schmiede",
     "full_title": "Schmiede",
     "start_year": 1916,
@@ -300,7 +300,7 @@
   },
   {
     "": 24,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "volkfreu1869",
     "full_title": "Volksfreund",
     "start_year": 1869,
@@ -313,7 +313,7 @@
   },
   {
     "": 25,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "tageblatt",
     "full_title": "Escher Tageblatt ",
     "start_year": 1913,
@@ -326,7 +326,7 @@
   },
   {
     "": 26,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "lunion",
     "full_title": "L'Union",
     "start_year": 1860,
@@ -339,7 +339,7 @@
   },
   {
     "": 27,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "waechtersauer",
     "full_title": "Der W\u00e4chter an der Sauer",
     "start_year": 1849,
@@ -352,7 +352,7 @@
   },
   {
     "": 28,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "waeschfra",
     "full_title": "D'W\u00e4schfra",
     "start_year": 1868,
@@ -365,7 +365,7 @@
   },
   {
     "": 29,
-    "partner_id": "BNL",
+    "rights_holder_id": "BNL",
     "title_alias": "luxembourg1935 ",
     "full_title": "Luxembourg (1935)",
     "start_year": 1935,

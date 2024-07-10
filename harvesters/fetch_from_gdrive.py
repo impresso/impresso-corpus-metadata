@@ -71,6 +71,7 @@ METADATA_RULES = {
 }
 
 ACCESS_RIGHTS_RULES = {
+    "partner_id": {"rename_key_to": "rights_holder_id"},
     "alias": {"rename_key_to": "title_alias"},
     "title": {"rename_key_to": "full_title"},
     "included_time_period_start_date_1st_january_to_be_filled_only_if_it_applies": {

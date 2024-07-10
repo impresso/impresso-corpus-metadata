@@ -1,7 +1,7 @@
 [
     {
         "": 1,
-        "partnerid": "",
+        "partner_id": "Gruyere",
         "title_alias": "NGV",
         "full_title": "La nouvelle Gazette de Vaud",
         "start_year": 1865,
@@ -14,7 +14,7 @@
     },
     {
         "": 2,
-        "partnerid": "",
+        "partner_id": "Gruyere",
         "title_alias": "NGV",
         "full_title": "La nouvelle Gazette de Vaud",
         "start_year": 1905,
@@ -27,7 +27,7 @@
     },
     {
         "": 3,
-        "partnerid": "",
+        "partner_id": "LES",
         "title_alias": "LNC",
         "full_title": "Le Nouveau Champion",
         "start_year": 1914,
@@ -40,7 +40,7 @@
     },
     {
         "": 4,
-        "partnerid": "",
+        "partner_id": "FRN",
         "title_alias": "LNCa",
         "full_title": "La Nouvelle Catastrophe",
         "start_year": 2020,
@@ -53,7 +53,7 @@
     },
     {
         "": 5,
-        "partnerid": "",
+        "partner_id": "FRN",
         "title_alias": "RL",
         "full_title": "Radio Libre",
         "start_year": 1960,
