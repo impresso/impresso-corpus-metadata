@@ -8,7 +8,7 @@ Options:
 --config=<c>  Path to the BNF config file with the ARK ids of each tite. 
               Defaults to "../config/api_config.bnf.json".
 --data-dir=<dd>   Path to the output data directory, where the fetched metadata will be written. 
-                  Defaults to "../../data/apis".
+                  Defaults to "../../data/api_metadata".
 """
 
 import os
@@ -26,7 +26,7 @@ BNF_API_URI = "http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetri
 ARK_BASE = "ark:/12148"
 
 # default values for the local paths
-DATA_DIR = "../../data/apis"
+DATA_DIR = "../../data/api_metadata"
 CONFIG_FILE = "../config/api_config.bnf.json"
 
 

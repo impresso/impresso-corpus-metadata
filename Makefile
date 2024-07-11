@@ -46,7 +46,7 @@ swa-fedgaz-metadata:
 	--output_file="$(data_dir)/gdrive_metadata/$(file_prefix).swa_fedgaz.json"
 
 sync-gdrive-metadata: 
-	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)"
+	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gdrive_metadata"
 
 sync-api-metadata: 
-	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)"
+	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
