@@ -134,7 +134,7 @@ def entry_to_bitmaps(
     # if the title is public domain, only the first bit should be set to 1
     if "Public Domain" in ar_entry["copyright_status"]:
         for bm in bitmaps.values():
-            bm[0] = 1
+            bm[0] = "1"
     # if it's not public, each bitmap changes based on the various columns
     else:
         # for each type of bitmap, check the value of the column and modify the bitmap accordingly
@@ -207,10 +207,13 @@ def main():
     arguments = docopt(__doc__)
     partner = arguments["--partner"]
     data_dir_path = arguments["--data-dir"]
+    print(f"partner: {partner}, data_dir_path: {data_dir_path}")
 
     masterfile = {}
-    out_json_path = os.path.join(data_dir_path, MASTER_AR_FILE.format(partner))
-    gdrive_json_path = os.path.join(data_dir_path, GDRIVE_AR_FILE.format(partner))
+    out_json_path = os.path.join(data_dir_path, MASTER_AR_FILE.format(partner=partner))
+    gdrive_json_path = os.path.join(
+        data_dir_path, GDRIVE_AR_FILE.format(partner=partner)
+    )
 
     with open(gdrive_json_path, "r", encoding="utf-8") as file:
         fetched_ar = json.load(file)
@@ -233,11 +236,13 @@ def main():
                     )
                 else:
                     masterfile[title][period] = entry
+            else:
+                masterfile[title] = {period: entry}
         else:
             print("Missing some key information, skipping ", entry)
 
     with open(out_json_path, "w", encoding="utf-8") as file:
-        file.write(json.dumps(masterfile))
+        file.write(json.dumps(masterfile, indent=4))
 
 
 if __name__ == "__main__":

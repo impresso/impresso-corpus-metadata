@@ -77,8 +77,8 @@ sync-gdrive-metadata:
 sync-api-metadata: 
 	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
 
-sync-gdrive-access-rights: 
-	rsync -r -v "$(data_dir)/access_rights/$(file_to_sync)" "$(db_data_dir)/access_rights"
+sync-access-rights: 
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
@@ -97,11 +97,15 @@ snl-access-rights:
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).snl.json" 
 
+	python harvesters/access_rights/access_rights_masterfile.py --partner="snl" --data-dir=$(data_dir)
+
 bnl-access-rights:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(bnl_ar_ghseet_id) \
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).bnl.json" 
+
+	python harvesters/access_rights/access_rights_masterfile.py --partner="bnl" --data-dir=$(data_dir)
 
 bnf-access-rights:
 	python harvesters/fetch_from_gdrive.py \
@@ -109,11 +113,15 @@ bnf-access-rights:
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).bnf.json" 
 
+	python harvesters/access_rights/access_rights_masterfile.py --partner="bnf" --data-dir=$(data_dir)
+
 bcul-access-rights:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(bcul_ar_ghseet_id) \
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).bcul.json" 
+
+	python harvesters/access_rights/access_rights_masterfile.py --partner="bcul" --data-dir=$(data_dir)
 
 swa-fedgaz-nzz-access-rights:
 	python harvesters/fetch_from_gdrive.py \
@@ -121,11 +129,15 @@ swa-fedgaz-nzz-access-rights:
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).swa_fedgaz_nzz.json" 
 
+	python harvesters/access_rights/access_rights_masterfile.py --partner="swa_fedgaz_nzz" --data-dir=$(data_dir)
+
 kb-access-rights:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(kb_ar_ghseet_id) \
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).kb.json" 
+
+	python harvesters/access_rights/access_rights_masterfile.py --partner="kb" --data-dir=$(data_dir)
 
 onb-access-rights:
 	python harvesters/fetch_from_gdrive.py \
@@ -133,11 +145,14 @@ onb-access-rights:
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).onb.json" 
 
+	python harvesters/access_rights/access_rights_masterfile.py --partner="onb" --data-dir=$(data_dir)
+
 sub-access-rights:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(sub_ar_ghseet_id) \
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).sub.json" 
 
+	python harvesters/access_rights/access_rights_masterfile.py --partner="sub" --data-dir=$(data_dir)
 
 

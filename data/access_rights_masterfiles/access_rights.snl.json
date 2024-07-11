@@ -1,0 +1,982 @@
+{
+    "BLB": {
+        "1846-1847": {
+            "rights_holder_id": "SNL",
+            "title_alias": "BLB",
+            "full_title": "B\u00fcndner Landbote",
+            "start_year": 1846,
+            "end_year": 1847,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1846-1847)"
+        }
+    },
+    "BNN": {
+        "1885-1892": {
+            "rights_holder_id": "SNL",
+            "title_alias": "BNN",
+            "full_title": "B\u00fcndner Nachrichten",
+            "start_year": 1885,
+            "end_year": 1892,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1885-1892)"
+        }
+    },
+    "DFS": {
+        "1814-1849": {
+            "rights_holder_id": "SNL",
+            "title_alias": "DFS",
+            "full_title": "Wochenblatt f\u00fcr die vier l\u00f6blichen Kantone Ury, Schwytz, Unterwalden und Zug",
+            "start_year": 1814,
+            "end_year": 1849,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1814-1849)"
+        }
+    },
+    "DVF": {
+        "1879-1885": {
+            "rights_holder_id": "SNL",
+            "title_alias": "DVF",
+            "full_title": "Der Volksfreund",
+            "start_year": 1879,
+            "end_year": 1885,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1879-1885)"
+        }
+    },
+    "EZR": {
+        "1806-1865": {
+            "rights_holder_id": "SNL",
+            "title_alias": "EZR",
+            "full_title": "Der Erz\u00e4hler",
+            "start_year": 1806,
+            "end_year": 1865,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1806-1865)"
+        }
+    },
+    "HRV": {
+        "1799-1801": {
+            "rights_holder_id": "SNL",
+            "title_alias": "HRV",
+            "full_title": "Der helvetische Volksfreund",
+            "start_year": 1799,
+            "end_year": 1801,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1799-1801)"
+        }
+    },
+    "LAB": {
+        "1848-1860": {
+            "rights_holder_id": "SNL",
+            "title_alias": "LAB",
+            "full_title": "Der Liberale Alpenbote",
+            "start_year": 1848,
+            "end_year": 1860,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1848-1860)"
+        }
+    },
+    "MGS": {
+        "1842-1843": {
+            "rights_holder_id": "SNL",
+            "title_alias": "MGS",
+            "full_title": "Der Morgenstern",
+            "start_year": 1842,
+            "end_year": 1843,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1842-1843)"
+        }
+    },
+    "NTS": {
+        "1856-1874": {
+            "rights_holder_id": "SNL",
+            "title_alias": "NTS",
+            "full_title": "Neues Tagblatt aus der \u00f6stlichen Schweiz",
+            "start_year": 1856,
+            "end_year": 1874,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1856-1874)"
+        }
+    },
+    "NZG": {
+        "1846-1891": {
+            "rights_holder_id": "SNL",
+            "title_alias": "NZG",
+            "full_title": "Neue Zuger Zeitung (II)",
+            "start_year": 1846,
+            "end_year": 1891,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1846-1891)"
+        }
+    },
+    "SGZ": {
+        "1831-1881": {
+            "rights_holder_id": "SNL",
+            "title_alias": "SGZ",
+            "full_title": "St.Galler Zeitung",
+            "start_year": 1831,
+            "end_year": 1881,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1831-1881)"
+        }
+    },
+    "SRT": {
+        "1798-1798": {
+            "rights_holder_id": "SNL",
+            "title_alias": "SRT",
+            "full_title": "Schweizerische Tag-Bl\u00e4tter",
+            "start_year": 1798,
+            "end_year": 1798,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1798-1798)"
+        }
+    },
+    "WHD": {
+        "1835-1863": {
+            "rights_holder_id": "SNL",
+            "title_alias": "WHD",
+            "full_title": "Der Wahrheitsfreund",
+            "start_year": 1835,
+            "end_year": 1863,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1835-1863)"
+        }
+    },
+    "ZBT": {
+        "1865-1868": {
+            "rights_holder_id": "SNL",
+            "title_alias": "ZBT",
+            "full_title": "Der Zugerbieter",
+            "start_year": 1865,
+            "end_year": 1868,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1865-1868)"
+        }
+    },
+    "BDC": {
+        "1839-1839": {
+            "rights_holder_id": "MVS",
+            "title_alias": "BDC",
+            "full_title": "Bulletin des s\u00e9ances de la Constituante",
+            "start_year": 1839,
+            "end_year": 1839,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1839-1839)"
+        }
+    },
+    "CDV": {
+        "1843-1857": {
+            "rights_holder_id": "MVS",
+            "title_alias": "CDV",
+            "full_title": "Courrier du Valais",
+            "start_year": 1843,
+            "end_year": 1857,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1843-1857)"
+        }
+    },
+    "EDA": {
+        "1839-1844": {
+            "rights_holder_id": "MVS",
+            "title_alias": "EDA",
+            "full_title": "L\u2019\u00c9cho des Alpes",
+            "start_year": 1839,
+            "end_year": 1844,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1839-1844)"
+        }
+    },
+    "JDV": {
+        "1848-1848": {
+            "rights_holder_id": "MVS",
+            "title_alias": "JDV",
+            "full_title": "Le Journal du Valais",
+            "start_year": 1848,
+            "end_year": 1848,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1848-1848)"
+        }
+    },
+    "LSR": {
+        "1846-1848": {
+            "rights_holder_id": "MVS",
+            "title_alias": "LSR",
+            "full_title": "L\u2019Observateur",
+            "start_year": 1846,
+            "end_year": 1848,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1846-1848)"
+        }
+    },
+    "CON": {
+        "1902-1903": {
+            "rights_holder_id": "MVS",
+            "title_alias": "CON",
+            "full_title": "La Contr\u00e9e",
+            "start_year": 1902,
+            "end_year": 1903,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1902-1903)"
+        }
+    },
+    "GAV": {
+        "1855-1922": {
+            "rights_holder_id": "MVS",
+            "title_alias": "GAV",
+            "full_title": "Gazette du Valais / Nouvelle gazette du Valais",
+            "start_year": 1855,
+            "end_year": 1922,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1855-1922)"
+        }
+    },
+    "GAZ": {
+        "1842-1847": {
+            "rights_holder_id": "MVS",
+            "title_alias": "GAZ",
+            "full_title": "Gazette du Simplon",
+            "start_year": 1842,
+            "end_year": 1847,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1842-1847)"
+        }
+    },
+    "SAX": {
+        "1882-1884": {
+            "rights_holder_id": "MVS",
+            "title_alias": "SAX",
+            "full_title": "Journal de Saxon",
+            "start_year": 1882,
+            "end_year": 1884,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1882-1884)"
+        }
+    },
+    "VDR": {
+        "1844-1844": {
+            "rights_holder_id": "MVS",
+            "title_alias": "VDR",
+            "full_title": "La Voix du Rh\u00f4ne",
+            "start_year": 1844,
+            "end_year": 1844,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1844-1844)"
+        }
+    },
+    "DLE": {
+        "1909-1914": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "DLE",
+            "full_title": "Der Landbote des freiburgischen Seebezirks",
+            "start_year": 1909,
+            "end_year": 1914,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1909-1914) - Personal, Research and Educational use"
+        }
+    },
+    "JDF": {
+        "1830-1833": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "JDF",
+            "full_title": "Journal du canton de Fribourg",
+            "start_year": 1830,
+            "end_year": 1833,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1830-1833)"
+        }
+    },
+    "LBP": {
+        "1879-1888": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LBP",
+            "full_title": "Le Bien public",
+            "start_year": 1879,
+            "end_year": 1888,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1879-1888)"
+        }
+    },
+    "LCR": {
+        "1854-1881": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LCR",
+            "full_title": "Le Chroniqueur",
+            "start_year": 1854,
+            "end_year": 1881,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1854-1881)"
+        }
+    },
+    "LCS": {
+        "1830-1830": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LCS",
+            "full_title": "Le Courrier fribourgeois",
+            "start_year": 1830,
+            "end_year": 1830,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1830-1830)"
+        }
+    },
+    "LNF": {
+        "1840-1855": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LNF",
+            "full_title": "Le Narrateur fribourgeois",
+            "start_year": 1840,
+            "end_year": 1855,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1840-1855)"
+        }
+    },
+    "LTF": {
+        "1905-1905": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LTF",
+            "full_title": "La Tribune de Fribourg",
+            "start_year": 1905,
+            "end_year": 1905,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1905-1905)"
+        }
+    },
+    "LVE": {
+        "1831-1833": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LVE",
+            "full_title": "Le V\u00e9ridique",
+            "start_year": 1831,
+            "end_year": 1833,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1831-1833)"
+        }
+    },
+    "LCG": {
+        "1848-1907": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LCG",
+            "full_title": "Le Conf\u00e9d\u00e9r\u00e9 de Fribourg",
+            "start_year": 1848,
+            "end_year": 1907,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1848-1907)"
+        }
+    },
+    "FZG": {
+        "1865-2018": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "FZG",
+            "full_title": "Freiburger Nachrichten",
+            "start_year": 1865,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1865-2018) - Personal, Research and Educational use"
+        }
+    },
+    "LLE": {
+        "1871-2018": {
+            "rights_holder_id": "BCUF",
+            "title_alias": "LLE",
+            "full_title": "La Libert\u00e9",
+            "start_year": 1871,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1871-2018) - Personal, Research and Educational use"
+        }
+    },
+    "EXP": {
+        "1738-2018": {
+            "rights_holder_id": "ArcInfo",
+            "title_alias": "EXP",
+            "full_title": "L'Express",
+            "start_year": 1738,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1738-2018) - Personal, Research and Educational use"
+        }
+    },
+    "IMP": {
+        "1881-2018": {
+            "rights_holder_id": "ArcInfo",
+            "title_alias": "IMP",
+            "full_title": "L'Impartial",
+            "start_year": 1881,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1881-2018) - Personal, Research and Educational use"
+        }
+    },
+    "LCE": {
+        "1861-2018": {
+            "rights_holder_id": "LCE",
+            "title_alias": "LCE",
+            "full_title": "Conf\u00e9d\u00e9r\u00e9",
+            "start_year": 1861,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1861-2018) - Personal, Research and Educational use"
+        }
+    },
+    "JDG": {
+        "1826-1998": {
+            "rights_holder_id": "LeTemps",
+            "title_alias": "JDG",
+            "full_title": "Journal de Gen\u00e8ve",
+            "start_year": 1826,
+            "end_year": 1998,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1826-1998) - Personal, Research and Educational use"
+        }
+    },
+    "GDL": {
+        "1804-1991": {
+            "rights_holder_id": "LeTemps",
+            "title_alias": "GDL",
+            "full_title": "Gazette de Lausanne ",
+            "start_year": 1804,
+            "end_year": 1991,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1804-1991) - Personal, Research and Educational use"
+        }
+    },
+    "DTT": {
+        "1935-1978": {
+            "rights_holder_id": "Migros",
+            "title_alias": "DTT",
+            "full_title": "Die Tat",
+            "start_year": 1935,
+            "end_year": 1978,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1935-1978) - Personal, Research and Educational use"
+        }
+    },
+    "FCT": {
+        "1955-1963": {
+            "rights_holder_id": "Unia",
+            "title_alias": "FCT",
+            "full_title": "La FCTA",
+            "start_year": 1955,
+            "end_year": 1963,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1955-1963) - Personal, Research and Educational use"
+        }
+    },
+    "LLS": {
+        "1906-1998": {
+            "rights_holder_id": "Unia",
+            "title_alias": "LLS",
+            "full_title": "La lutte syndicale",
+            "start_year": 1906,
+            "end_year": 1998,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1906-1998) - Personal, Research and Educational use"
+        }
+    },
+    "OIZ": {
+        "1901-1992": {
+            "rights_holder_id": "Unia",
+            "title_alias": "OIZ",
+            "full_title": "Die Gewerkschaft",
+            "start_year": 1901,
+            "end_year": 1992,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1901-1992) - Personal, Research and Educational use"
+        }
+    },
+    "SDT": {
+        "1909-2001": {
+            "rights_holder_id": "Unia",
+            "title_alias": "SDT",
+            "full_title": "Solidarit\u00e9",
+            "start_year": 1909,
+            "end_year": 2001,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1909-2001) - Personal, Research and Educational use"
+        }
+    },
+    "SMZ": {
+        "1902-2004": {
+            "rights_holder_id": "Unia",
+            "title_alias": "SMZ",
+            "full_title": "SMUV-Zeitung",
+            "start_year": 1902,
+            "end_year": 2004,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1902-2004) - Personal, Research and Educational use"
+        }
+    },
+    "VHT": {
+        "1904-2004": {
+            "rights_holder_id": "Unia",
+            "title_alias": "VHT",
+            "full_title": "VHTL-Zeitung",
+            "start_year": 1904,
+            "end_year": 2004,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1904-2004) - Personal, Research and Educational use"
+        }
+    },
+    "LSE": {
+        "1890-1971": {
+            "rights_holder_id": "BVCF",
+            "title_alias": "LSE",
+            "full_title": "Le Peuple, La Sentinelle",
+            "start_year": 1890,
+            "end_year": 1971,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1890-1971) - Personal, Research and Educational use"
+        }
+    },
+    "LES": {
+        "1906-2018": {
+            "rights_holder_id": "BVCF",
+            "title_alias": "LES",
+            "full_title": "L'Essor",
+            "start_year": 1906,
+            "end_year": 2018,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1906-2018) - Personal, Research and Educational use"
+        }
+    }
+}

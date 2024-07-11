@@ -80,7 +80,9 @@ ACCESS_RIGHTS_RULES = {
     "included_time_period_end_date_31st_december_to_be_filled_only_if_it_applies": {
         "rename_key_to": "end_year"
     },
-    "do_you_provide_content_and_not_only_metadata": {"rename_key_to": "metadata_only"},
+    "do_you_provide_content_and_not_only_metadata": {
+        "rename_key_to": "content_and_metadata"
+    },
     "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_if_public_domain_no_need_to_fill_the_columns_h_i_j_whose_values_are_then_understood_as_no_restriction": {
         "rename_key_to": "copyright_status"
     },
