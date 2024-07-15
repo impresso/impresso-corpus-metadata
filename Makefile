@@ -72,7 +72,7 @@ swa-fedgaz-metadata:
 	--is_metadata
 
 sync-gdrive-metadata: 
-	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gsheet_metadata"
+	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gdrive_metadata"
 
 sync-api-metadata: 
 	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
