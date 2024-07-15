@@ -370,7 +370,7 @@
         "ocr": "y",
         "olr": "y",
         "olr_quality": "no formal evaluation, estimated quality low",
-        "right_statement": "personal and academic use",
+        "right_statement": "public domain",
         "political_orientation": "",
         "topics": "Generalist",
         "print_run_nbyear": "",
@@ -2745,10 +2745,10 @@
         "acronym": "volkfreu1869",
         "bib_record_link": "http://www.eluxemburgensia.lu/R/37MYRGNQ7H6TTFCE2SK2QRTR7RUYMRUAGM9YQDRID68II9CXA6-02061?func=file&file_name=titleinfo&coll=25",
         "bib_record_text": "L'histoire du Volksfreund et de ses changements de titres successifs est intrins\u00e8quement li\u00e9e \u00e0 l'histoire des imprimeurs Schroell de Diekirch. Le 3 mars 1837 Joseph-Antoine Schroell (1798-1865) fonda le Wochenblatt f\u00fcr B\u00fcrger und Landleute, premier journal de \"province\" du Grand-Duch\u00e9 de Luxembourg qui changea de titre fin 1837 en Diekircher Wochenblatt et maintiendra ce titre jusqu'en 1849. Par la suite Der W\u00e4chter an der Sauer parut de janvier 1849 \u00e0 d\u00e9cembre 1857, avant d'\u00eatre remplac\u00e9 temporairement par Der Telegraph (2 janvier 1858 au 3 octobre 1860) pour des raisons politiques. Le 6 octobre 1860 la publication reprend le titre de W\u00e4chter an der Sauer et ce jusqu'au 21 f\u00e9vrier 1869. Par la suite la publication se nomma Der Volksfreund jusqu'en 1877, puis Der Landwirt sous l'imprimeur Justin Schroell, paraissant jusqu'en 1940.",
-        "first_issuedate_interface": 1890,
-        "last_issuedate_interface": 1939,
-        "newspaper_start_year": 1890,
-        "newspaper_end_year": 1939,
+        "first_issuedate_interface": 1869,
+        "last_issuedate_interface": 1876,
+        "newspaper_start_year": 1869,
+        "newspaper_end_year": 1876,
         "partner_uid": "BNL",
         "languages": [
             "de"
