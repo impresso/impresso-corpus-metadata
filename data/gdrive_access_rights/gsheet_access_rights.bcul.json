@@ -1003,10 +1003,10 @@
   {
     "": 78,
     "rights_holder_id": "BCUL",
-    "title_alias": "VSS - PAT ",
-    "full_title": "La Veveysanne - La Patrie",
+    "title_alias": "VSS",
+    "full_title": "La Veveysanne (- La Patrie)",
     "start_year": 1840,
-    "end_year": 1844,
+    "end_year": 1843,
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
     "explore_req_status": "",
@@ -1015,6 +1015,19 @@
   },
   {
     "": 79,
+    "rights_holder_id": "BCUL",
+    "title_alias": "PAT",
+    "full_title": "(La Veveysanne -) La Patrie",
+    "start_year": 1841,
+    "end_year": 1844,
+    "content_and_metadata": "yes",
+    "copyright_status": "Public Domain",
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": ""
+  },
+  {
+    "": 80,
     "rights_holder_id": "BCUL",
     "title_alias": "feuilleP",
     "full_title": "Feuille d'avis de Payerne",
@@ -1027,7 +1040,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 80,
+    "": 81,
     "rights_holder_id": "BCUL",
     "title_alias": "Grelot",
     "full_title": "Le Grelot",
@@ -1040,7 +1053,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 81,
+    "": 82,
     "rights_holder_id": "BCUL",
     "title_alias": "PS",
     "full_title": "Le Peuple souverain",
@@ -1053,7 +1066,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 82,
+    "": 83,
     "rights_holder_id": "BCUL",
     "title_alias": "feuillePMA",
     "full_title": "Feuille d'avis de Payerne, Moudon et Avenches",
@@ -1066,7 +1079,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 83,
+    "": 84,
     "rights_holder_id": "BCUL",
     "title_alias": "Guepe1851",
     "full_title": "La Gu\u00eape [1]",
@@ -1079,7 +1092,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 84,
+    "": 85,
     "rights_holder_id": "BCUL",
     "title_alias": "FAM",
     "full_title": "Feuille d'avis de Morges 1",
@@ -1092,7 +1105,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 85,
+    "": 86,
     "rights_holder_id": "BCUL",
     "title_alias": "FAMDE",
     "full_title": "Feuille d'avis de Moudon",
@@ -1105,7 +1118,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 86,
+    "": 87,
     "rights_holder_id": "BCUL",
     "title_alias": "OBS",
     "full_title": "L'Observateur du L\u00e9man",
@@ -1118,7 +1131,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 87,
+    "": 88,
     "rights_holder_id": "BCUL",
     "title_alias": "Griffe",
     "full_title": "La Griffe",
@@ -1131,7 +1144,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 88,
+    "": 89,
     "rights_holder_id": "BCUL",
     "title_alias": "FAN",
     "full_title": "Feuille d'avis de Nyon",
@@ -1144,7 +1157,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 89,
+    "": 90,
     "rights_holder_id": "BCUL",
     "title_alias": "GAVi",
     "full_title": "Gazette des Villages",
@@ -1157,7 +1170,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 90,
+    "": 91,
     "rights_holder_id": "BCUL",
     "title_alias": "Fronde",
     "full_title": "La Fronde",
@@ -1170,7 +1183,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 91,
+    "": 92,
     "rights_holder_id": "BCUL",
     "title_alias": "CharivariCH",
     "full_title": "Le Charivari [2]",
@@ -1183,7 +1196,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 92,
+    "": 93,
     "rights_holder_id": "BCUL",
     "title_alias": "Castigat",
     "full_title": "Castigat ridendo mores",
@@ -1196,7 +1209,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 93,
+    "": 94,
     "rights_holder_id": "BCUL",
     "title_alias": "Moniteur",
     "full_title": "Le Moniteur",
@@ -1209,7 +1222,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 94,
+    "": 95,
     "rights_holder_id": "BCUL",
     "title_alias": "MESSAGER",
     "full_title": "Le Messager",
@@ -1222,7 +1235,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 95,
+    "": 96,
     "rights_holder_id": "BCUL",
     "title_alias": "ouistiti",
     "full_title": "Le Ouistiti",
@@ -1235,7 +1248,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 96,
+    "": 97,
     "rights_holder_id": "BCUL",
     "title_alias": "TouSuIl",
     "full_title": "Le Touriste / La Suisse Illustr\u00e9e",
@@ -1248,7 +1261,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 97,
+    "": 98,
     "rights_holder_id": "BCUL",
     "title_alias": "JV",
     "full_title": "Journal de Vevey",
@@ -1261,7 +1274,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 98,
+    "": 99,
     "rights_holder_id": "BCUL",
     "title_alias": "AV",
     "full_title": "Indicateur de Lausanne",
@@ -1274,7 +1287,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 99,
+    "": 100,
     "rights_holder_id": "BCUL",
     "title_alias": "CL",
     "full_title": "Courrier du L\u00e9man",
@@ -1287,7 +1300,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 100,
+    "": 101,
     "rights_holder_id": "BCUL",
     "title_alias": "Croquis",
     "full_title": "Croquis vaudois",
@@ -1300,7 +1313,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 101,
+    "": 102,
     "rights_holder_id": "BCUL",
     "title_alias": "Moustique",
     "full_title": "Le Moustique (Vevey)",
@@ -1313,7 +1326,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 102,
+    "": 103,
     "rights_holder_id": "BCUL",
     "title_alias": "Bombe",
     "full_title": "La Bombe",
@@ -1326,7 +1339,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 103,
+    "": 104,
     "rights_holder_id": "BCUL",
     "title_alias": "VVS1",
     "full_title": "Le Veveysan 1",
@@ -1339,7 +1352,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 104,
+    "": 105,
     "rights_holder_id": "BCUL",
     "title_alias": "NV2",
     "full_title": "Nouvelliste vaudois et journal national suisse",
@@ -1352,7 +1365,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 105,
+    "": 106,
     "rights_holder_id": "BCUL",
     "title_alias": "EM",
     "full_title": "L'Echo de Morges",
@@ -1365,7 +1378,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 106,
+    "": 107,
     "rights_holder_id": "BCUL",
     "title_alias": "JVE",
     "full_title": "Journal de Vevey et des \u00e9trangers",
@@ -1378,7 +1391,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 107,
+    "": 108,
     "rights_holder_id": "BCUL",
     "title_alias": "esta",
     "full_title": "L'Estafette: Journal suisse",
@@ -1391,7 +1404,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 108,
+    "": 109,
     "rights_holder_id": "BCUL",
     "title_alias": "Guepe1887",
     "full_title": "La Gu\u00eape [2]",
@@ -1404,7 +1417,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 109,
+    "": 110,
     "rights_holder_id": "BCUL",
     "title_alias": "Cancoire",
     "full_title": "La Cancoire",
@@ -1417,7 +1430,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 110,
+    "": 111,
     "rights_holder_id": "BCUL",
     "title_alias": "RLA",
     "full_title": "La Revue agricole",
@@ -1430,7 +1443,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 111,
+    "": 112,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal du district d'Avenches",
@@ -1443,7 +1456,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 112,
+    "": 113,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Avenir de Vevey",
@@ -1456,7 +1469,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 113,
+    "": 114,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Vallorbe",
@@ -1469,7 +1482,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 114,
+    "": 115,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Passe-Temps",
@@ -1482,7 +1495,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 115,
+    "": 116,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Revue photo-rigolotipique",
@@ -1495,7 +1508,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 116,
+    "": 117,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Revue morgienne",
@@ -1508,7 +1521,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 117,
+    "": 118,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Echo du Rh\u00f4ne",
@@ -1521,7 +1534,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 118,
+    "": 119,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Progr\u00e8s de Morges",
@@ -1534,7 +1547,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 119,
+    "": 120,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Tribune de Vevey",
@@ -1547,7 +1560,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 120,
+    "": 121,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Fronde de Lausanne",
@@ -1560,7 +1573,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 121,
+    "": 122,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Almanach de Lausanne",
@@ -1573,7 +1586,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 122,
+    "": 123,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Gribouille et Redzipet",
@@ -1586,7 +1599,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 123,
+    "": 124,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Liste des \u00e9trangers de Bex",
@@ -1599,7 +1612,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 124,
+    "": 125,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Moustique (Lausanne)",
@@ -1612,7 +1625,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 125,
+    "": 126,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Nouvelliste vaudois: journal lib\u00e9ral d\u00e9mocratique",
@@ -1625,7 +1638,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 126,
+    "": 127,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Propos vaudois",
@@ -1638,7 +1651,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 127,
+    "": 128,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Pages Illustr\u00e9es",
@@ -1651,7 +1664,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 128,
+    "": 129,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Frondeur",
@@ -1664,7 +1677,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 129,
+    "": 130,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Arbal\u00e8te",
@@ -1677,7 +1690,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 130,
+    "": 131,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Courrier de la Montagne",
@@ -1690,7 +1703,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 131,
+    "": 132,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Grandson",
@@ -1703,7 +1716,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 132,
+    "": 133,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Almanach de Chalamala",
@@ -1716,7 +1729,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 133,
+    "": 134,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Les Alpes vaudoises",
@@ -1729,7 +1742,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 134,
+    "": 135,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Cr\u00e9celle",
@@ -1742,7 +1755,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 135,
+    "": 136,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Presse Lausannoise",
@@ -1755,7 +1768,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 136,
+    "": 137,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Indicateur vaudois",
@@ -1768,7 +1781,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 137,
+    "": 138,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal - Feuille d'avis de Coppet",
@@ -1781,7 +1794,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 138,
+    "": 139,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Almanach Balthasar",
@@ -1794,7 +1807,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 139,
+    "": 140,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Pour la famille",
@@ -1807,7 +1820,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 140,
+    "": 141,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Bistouri",
@@ -1820,7 +1833,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 141,
+    "": 142,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Montreux",
@@ -1833,7 +1846,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 142,
+    "": 143,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal officiel de Vevey",
@@ -1846,7 +1859,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 143,
+    "": 144,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le poisson d\u00e9cha\u00een\u00e9",
@@ -1859,7 +1872,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 144,
+    "": 145,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Messager de Montreux",
@@ -1872,7 +1885,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 145,
+    "": 146,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Magazine",
@@ -1885,7 +1898,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 146,
+    "": 147,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Canard libre",
@@ -1898,7 +1911,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 147,
+    "": 148,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Courrier de Vevey",
@@ -1911,7 +1924,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 148,
+    "": 149,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Leysin",
@@ -1924,7 +1937,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 149,
+    "": 150,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal et liste des \u00e9trangers de Montreux",
@@ -1937,7 +1950,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 150,
+    "": 151,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Tribune de Montreux",
@@ -1950,7 +1963,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 151,
+    "": 152,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Jorat",
@@ -1963,7 +1976,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 152,
+    "": 153,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Progr\u00e8s de Ch\u00e2teau d'Oex",
@@ -1976,7 +1989,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 153,
+    "": 154,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Canard rit",
@@ -1989,7 +2002,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 154,
+    "": 155,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de la C\u00f4te",
@@ -2002,7 +2015,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 155,
+    "": 156,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Vague",
@@ -2015,7 +2028,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 156,
+    "": 157,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Veveysan 2",
@@ -2028,7 +2041,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 157,
+    "": 158,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Petite revue",
@@ -2041,7 +2054,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 158,
+    "": 159,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Revue",
@@ -2054,7 +2067,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 159,
+    "": 160,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Revue de Lausanne",
@@ -2067,7 +2080,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 160,
+    "": 161,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Revue dimanche",
@@ -2080,7 +2093,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 161,
+    "": 162,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de l'Isle",
@@ -2093,7 +2106,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 162,
+    "": 163,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de la Sarraz",
@@ -2106,7 +2119,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 163,
+    "": 164,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Courrier de Prilly",
@@ -2119,7 +2132,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 164,
+    "": 165,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Mouette",
@@ -2132,7 +2145,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 165,
+    "": 166,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Confiance",
@@ -2145,7 +2158,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 166,
+    "": 167,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La voix du peuple vaudois",
@@ -2158,7 +2171,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 167,
+    "": 168,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Prilly Nouveau",
@@ -2171,7 +2184,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 168,
+    "": 169,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Bon jour de Jack Rollan",
@@ -2184,7 +2197,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 169,
+    "": 170,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Kangourou",
@@ -2197,7 +2210,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 170,
+    "": 171,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Journal de Jack Rollan",
@@ -2210,7 +2223,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 171,
+    "": 172,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Echo de la Broye",
@@ -2223,7 +2236,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 172,
+    "": 173,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Eveil",
@@ -2236,7 +2249,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 173,
+    "": 174,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "L'Etincelle",
@@ -2249,7 +2262,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 174,
+    "": 175,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Arr\u00eatez-les tous !",
@@ -2262,7 +2275,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 175,
+    "": 176,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Morges 2 / L'Ami de Morges",
@@ -2275,7 +2288,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 176,
+    "": 177,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Courrier de Leysin",
@@ -2288,7 +2301,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 177,
+    "": 178,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis d'Aigle",
@@ -2301,7 +2314,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 178,
+    "": 179,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Montreux",
@@ -2314,7 +2327,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 179,
+    "": 180,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Marge",
@@ -2327,7 +2340,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 180,
+    "": 181,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Pomme",
@@ -2340,7 +2353,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 181,
+    "": 182,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Bonjour de Jack Rollan (2)",
@@ -2353,7 +2366,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 182,
+    "": 183,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Clairon du Nord",
@@ -2366,7 +2379,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 183,
+    "": 184,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "M\u00e9pris",
@@ -2379,7 +2392,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 184,
+    "": 185,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Lausanne-Soir",
@@ -2392,7 +2405,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 185,
+    "": 186,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Chut",
@@ -2405,7 +2418,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 186,
+    "": 187,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Annuaire et indicateur vaudois",
@@ -2418,7 +2431,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 187,
+    "": 188,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Ouest Informations",
@@ -2431,7 +2444,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 188,
+    "": 189,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Reflets de la C\u00f4te",
@@ -2444,7 +2457,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 189,
+    "": 190,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La d\u00e9tonation",
@@ -2457,7 +2470,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 190,
+    "": 191,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Morges actualit\u00e9 - Morges Hebdo",
@@ -2470,7 +2483,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 191,
+    "": 192,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Sainte-Croix",
@@ -2483,7 +2496,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 192,
+    "": 193,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Chateau -d'Oex",
@@ -2496,7 +2509,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 193,
+    "": 194,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Nouvelle revue de Lausanne",
@@ -2509,7 +2522,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 194,
+    "": 195,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Petit Paysan - R\u00e9gion Evasion",
@@ -2522,7 +2535,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 195,
+    "": 196,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Nouvelle revue de Lausanne et du Pays de Vaud",
@@ -2535,7 +2548,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 196,
+    "": 197,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le D\u00e9mocrate de Payerne",
@@ -2548,7 +2561,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 197,
+    "": 198,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Payerne",
@@ -2561,7 +2574,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 198,
+    "": 199,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis d'Avenches",
@@ -2574,7 +2587,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 199,
+    "": 200,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Bi\u00e8re 1",
@@ -2587,7 +2600,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 200,
+    "": 201,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Trait d'union / Bulletin Eglise libre",
@@ -2600,7 +2613,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 201,
+    "": 202,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal d'Aubonne",
@@ -2613,7 +2626,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 202,
+    "": 203,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le semeur vaudois",
@@ -2626,7 +2639,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 203,
+    "": 204,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Courrier de la C\u00f4te",
@@ -2639,7 +2652,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 204,
+    "": 205,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Lien",
@@ -2652,7 +2665,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 205,
+    "": 206,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Travelling",
@@ -2665,7 +2678,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 206,
+    "": 207,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Bi\u00e8re 2",
@@ -2678,7 +2691,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 207,
+    "": 208,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Nyon",
@@ -2691,7 +2704,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 208,
+    "": 209,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Journal de Rolle",
@@ -2704,7 +2717,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 209,
+    "": 210,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Echo du Petit-Lac/Rive droite Rive gauche",
@@ -2717,7 +2730,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 210,
+    "": 211,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Echo de la Montagne",
@@ -2730,7 +2743,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 211,
+    "": 212,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Messager des Alpes",
@@ -2743,7 +2756,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 212,
+    "": 213,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Jura vaudois",
@@ -2756,7 +2769,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 213,
+    "": 214,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "FAY / Journal d'Yverdon / Nord VD / Presse nord VD",
@@ -2769,7 +2782,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 214,
+    "": 215,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Tribune de Lausanne et Estafette",
@@ -2782,7 +2795,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 215,
+    "": 216,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Grutl\u00e9en",
@@ -2795,7 +2808,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 216,
+    "": 217,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Tribune - Suppl\u00e9ment illustr\u00e9",
@@ -2808,7 +2821,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 217,
+    "": 218,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Peuple / Le Nord vaudois 2",
@@ -2821,7 +2834,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 218,
+    "": 219,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "La Droit du Peuple",
@@ -2834,7 +2847,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 219,
+    "": 220,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Grutli, journal ouvrier",
@@ -2847,7 +2860,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 220,
+    "": 221,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "En famille - Je vois tout",
@@ -2860,7 +2873,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 221,
+    "": 222,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Le Peuple",
@@ -2873,7 +2886,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 222,
+    "": 223,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Pour tous",
@@ -2886,7 +2899,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 223,
+    "": 224,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Tribune de Lausanne",
@@ -2899,7 +2912,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 224,
+    "": 225,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'Avis de Lausanne",
@@ -2912,7 +2925,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 225,
+    "": 226,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Tribune de Lausanne - Le Matin",
@@ -2925,7 +2938,7 @@
     "get_facsimile_req_status": ""
   },
   {
-    "": 226,
+    "": 227,
     "rights_holder_id": "BCUL",
     "title_alias": "",
     "full_title": "Feuille d'avis de Vevey 2",
