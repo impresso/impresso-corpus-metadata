@@ -84,8 +84,10 @@ sync-access-rights:
 debug-access-rights: # the gsheet id is going to change with each provider
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id="1cLgvhFTPaqjnxTByDejMrwxBM0-o0j1U2Oz-o4oTabs" \
-	--worksheet_name="v5" \
+	--worksheet_name="v6" \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).debug.json" 
+
+	python harvesters/access_rights/access_rights_masterfile.py --partner="debug" --data-dir=$(data_dir)
 
 
 all-access-rights: snl-access-rights bnl-access-rights bnf-access-rights bcul-access-rights swa-fedgaz-nzz-access-rights

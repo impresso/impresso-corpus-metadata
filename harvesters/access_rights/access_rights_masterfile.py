@@ -96,7 +96,7 @@ def allowed_status_to_bitmap(
         case "Academic users at least":
             # start of bitmap: '0001'
             indices_to_set = [3]
-        case "Only Achive members":
+        case "Only Archive members":
             # start of bitmap: '0000'
             indices_to_set = [partner_index]
         case "Forbidden":
@@ -137,10 +137,16 @@ def entry_to_bitmaps(
             bm[0] = "1"
     # if it's not public, each bitmap changes based on the various columns
     else:
+        # undetermined, unknown or orphan copyright don't have restrictions
+        if ar_entry["copyright_status"] not in "Protected Domain: In copyright":
+            allowed_status = "No restriction (all registered users allowed)"
+        else:
+            allowed_status = None
         # for each type of bitmap, check the value of the column and modify the bitmap accordingly
         for bm_key, ar_key in action_columns.items():
+            print(f"alias: {ar_entry["title_alias"]}, copyright_status: {ar_entry['copyright_status']}, ar_entry[ar_key]: {ar_entry[ar_key]}, allowed_status {allowed_status}")
             bitmaps[bm_key] = allowed_status_to_bitmap(
-                ar_entry[ar_key],
+                ar_entry[ar_key] if allowed_status is None else allowed_status,
                 bitmaps[bm_key],
                 bitmap_keys.index(ar_entry["rights_holder_id"]),
             )
@@ -168,7 +174,7 @@ def bitwise_and(a: str | bytes, b: str | bytes) -> str | bytes:
         raise AttributeError(m)
 
 
-def statement_from_status(allowed_status):
+def statement_from_status(allowed_status, allowed_used_archive_only):
     match allowed_status:
         case "No restriction (all registered users allowed)":
             return "Personal, Research and Educational"
@@ -180,8 +186,13 @@ def statement_from_status(allowed_status):
             return "Research"
         case "Academic users at least":
             return "Research"
-        case "Only Achive members":
-            return "Research"
+        case "Only Archive members":
+            if allowed_used_archive_only != "":
+                return allowed_used_archive_only
+            else:
+                m = f"When allowing only archive members, the allowed uses should be provided ({allowed_used_archive_only})!"
+                print(m)
+                raise AttributeError(m)
         case "Forbidden":
             return "No allowed"
 
@@ -191,7 +202,7 @@ def entry_to_statement(entry: dict[str, Any], period: str) -> str:
         return f"Public Domain ({period})"
     if entry["copyright_status"] == "Protected Domain: In copyright":
         # the human readable rights are only for the interface: explore
-        return f"Protected ({period}) - {statement_from_status(entry['explore_req_status'])} use"
+        return f"Protected ({period}) - {statement_from_status(entry['explore_req_status'], entry['allowed_use_archive_only'])} use"
     if entry["copyright_status"] == "":
         m = f"The copyright status was not provided for {entry['title_alias']}"
         print(m)

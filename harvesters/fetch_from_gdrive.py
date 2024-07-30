@@ -83,7 +83,7 @@ ACCESS_RIGHTS_RULES = {
     "do_you_provide_content_and_not_only_metadata": {
         "rename_key_to": "content_and_metadata"
     },
-    "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_if_public_domain_no_need_to_fill_the_columns_h_i_j_whose_values_are_then_understood_as_no_restriction": {
+    "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_this_information_will_be_displayed_alongside_the_data_for_all_values_except_protected_domain_in_copyrigth_no_need_to_fill_the_columns_i_j_k_whose_values_are_then_no_restriction_please_contact_us_if_not_ok": {
         "rename_key_to": "copyright_status"
     },
     "which_user_status_or_archive_membership_is_sufficient_to_execute_the_explore_action_on_this_title_sufficient_condition": {
@@ -94,6 +94,9 @@ ACCESS_RIGHTS_RULES = {
     },
     "which_user_status_or_archive_membership_is_sufficient_to_execute_thethe_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
         "rename_key_to": "get_facsimile_req_status"
+    },
+    "to_be_filled_only_if_the_choices_made_for_i_j_and_k_is_only_archive_members_which_uses_of_the_data_are_permitted_for_archive_members_permitted_uses_in_other_cases_result_from_the_user_status_and_are_defined_in_dsa_29": {
+        "rename_key_to": "allowed_use_archive_only"
     },
 }
 
@@ -154,6 +157,20 @@ def transform_value(d: dict, is_metadata: bool = True) -> dict:
     return transformed
 
 
+def has_ar_values_defined(ar_entry):
+    defined = (
+        ar_entry["title_alias"] != ""
+        and ar_entry["rights_holder_id"] != ""
+        and ar_entry["copyright_status"] != ""
+    )
+    if not defined:
+        print(
+            f"Warning! Missing values for access right entry - will be ignored: {ar_entry}"
+        )
+
+    return defined
+
+
 def download(
     spreadsheet_id: str,  # Use spreadsheet id instead of URL
     worksheet_name: str = "impresso1-collection",  # Default worksheet name
@@ -199,6 +216,10 @@ def download(
     is_metadata = [is_metadata] * len(values)
     # use transform_records as a mapper function
     transformed_values = list(map(transform_value, values, is_metadata))
+
+    if is_metadata:
+        # only keep entries where all necessary values are defined
+        transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
 
     # get random index for the values list
     idx = random.randint(0, len(transformed_values) - 1)

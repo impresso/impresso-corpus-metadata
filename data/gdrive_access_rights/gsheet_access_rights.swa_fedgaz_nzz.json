@@ -10,7 +10,8 @@
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
     "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)"
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
   },
   {
     "": 2,
@@ -23,7 +24,8 @@
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
     "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)"
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
   },
   {
     "": 3,
@@ -36,7 +38,8 @@
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
     "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)"
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
   },
   {
     "": 4,
@@ -49,7 +52,8 @@
     "copyright_status": "Public Domain",
     "explore_req_status": "",
     "get_transcript_req_status": "",
-    "get_facsimile_req_status": ""
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 5,
@@ -62,6 +66,7 @@
     "copyright_status": "Public Domain",
     "explore_req_status": "",
     "get_transcript_req_status": "",
-    "get_facsimile_req_status": ""
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   }
 ]

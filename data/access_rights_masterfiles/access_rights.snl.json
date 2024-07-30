@@ -11,6 +11,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -31,6 +32,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -51,6 +53,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -71,6 +74,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -91,6 +95,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -111,6 +116,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -131,6 +137,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -151,6 +158,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -171,6 +179,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -191,6 +200,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -211,6 +221,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -231,6 +242,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -251,6 +263,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -271,6 +284,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -291,6 +305,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -311,6 +326,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -331,6 +347,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -351,6 +368,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -371,6 +389,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -391,6 +410,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -411,6 +431,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -431,6 +452,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -451,6 +473,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -471,6 +494,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -491,6 +515,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -511,6 +536,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -531,6 +557,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -551,6 +578,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -571,6 +599,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -591,6 +620,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -611,6 +641,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -631,6 +662,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -651,6 +683,7 @@
             "explore_req_status": "",
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -671,6 +704,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -691,6 +725,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -711,6 +746,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -731,6 +767,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -751,6 +788,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -771,6 +809,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -791,6 +830,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -811,6 +851,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -831,6 +872,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -851,6 +893,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -871,6 +914,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -891,6 +935,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -911,6 +956,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -931,6 +977,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -951,6 +998,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
@@ -971,6 +1019,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "No restriction (all registered users allowed)",
             "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
