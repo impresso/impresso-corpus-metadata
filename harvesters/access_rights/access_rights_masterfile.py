@@ -79,6 +79,27 @@ MASTER_AR_FILE = "access_rights_masterfiles/access_rights.{partner}.json"
 def allowed_status_to_bitmap(
     allowed_status: str, bitmap: list[str], partner_index: int
 ) -> list[str]:
+    """Based on the user statuses allowed, define bitmap indices to set to 1.
+
+    The bitmap is separated into two zones:
+    - User allowed statuses - first 4 bits: all user statuses which are allowed
+        access by defualt without needing specific validation by the archive.
+    - Archive memberships - all following bits: bits each one corresponding to an
+        archive, allowing to represent when a user can request to access the content
+        to the archive specifically, if its user status does not allow it by default.
+
+    Some contents can be accessible by simple status OR by archive membership. Hence,
+    the final bitmap can have up to 2 non-zero bits.
+    A bitmap with only zero bits represents a forbidden action on the data.
+
+    Args:
+        allowed_status (str): User statuses which are allowed to access the data.
+        bitmap (list[str]): Current bitmap, before setting new indices to 1.
+        partner_index (int): Bitmap index corresponding to the partner in question.
+
+    Returns:
+        list[str]: Resulting content bitmap as list of strings.
+    """
     # Based on the allowed statuses, identify which indices to set to 1
     match allowed_status:
         case "No restriction (all registered users allowed)":
@@ -115,11 +136,27 @@ def allowed_status_to_bitmap(
 
 
 def bitmap_bytes_to_str(bytes_bitmap: bytes) -> str:
+    """Convert a bitmap in bytes format to string.
+
+    Args:
+        bytes_bitmap (bytes): Bitmap to convert.
+
+    Returns:
+        str: Resulting string bitmap.
+    """
     as_str = [str(x) for x in bytes_bitmap]
     return "".join(as_str)
 
 
 def bitmap_str_to_bytes(str_bitmap: str) -> bytes:
+    """Convert a bitmap in string format to bytes.
+
+    Args:
+        str_bitmap (str): Bitmpa to convert.
+
+    Returns:
+        bytes: Resulting bytes bitmap
+    """
     as_int = [int(x) for x in str_bitmap]
     return bytes(as_int)
 
@@ -130,6 +167,30 @@ def entry_to_bitmaps(
     action_columns: dict[str, str],
     as_str: bool = True,
 ) -> dict[str, bytes] | dict[str, str]:
+    """Construct the content bitmaps for an access right entry from the gsheet.
+
+    Each media title and period will be assigned 3 bitmpas corresponding to the
+    three possible actions on the content: explore, get-transcript, get-facsimile.
+
+    Based on the content's copyright status and the institution's allowed accesses/uses,
+    the bitmaps are created.
+    In the cases where the `copyright_status` is "Public Domain", "Protected Domain:
+    Copyright undetermined", "Protected Domain: In copyright - Unknown rightsholder",
+    "Protected Domain: In copyright - EU Orphean" or "Protected Domain: No Known
+    Copyright", all actions are allowed for personal, educational and research uses,
+    and registered users. When the copyright status is "Protected Domain: In copyright",
+    the insitutions is free to restrict which users or uses are permitted on the data.
+
+    Args:
+        ar_entry (dict[str, Any]): Access right entry from the google sheets.
+        bitmap_keys (list[str]): Mapping of each bitmap index to the value it encodes.
+        action_columns (dict[str, str]): Mapping from actions to the gsheet column.
+        as_str (bool, optional): Whether the created bitmaps should be returned as
+            string (True) or bytes (False). Defaults to True.
+
+    Returns:
+        dict[str, bytes] | dict[str, str]: _description_
+    """
     bitmaps = {"explore": ["0"] * 64, "get_tr": ["0"] * 64, "get_img": ["0"] * 64}
     # if the title is public domain, only the first bit should be set to 1
     if "Public Domain" in ar_entry["copyright_status"]:
@@ -144,7 +205,6 @@ def entry_to_bitmaps(
             allowed_status = None
         # for each type of bitmap, check the value of the column and modify the bitmap accordingly
         for bm_key, ar_key in action_columns.items():
-            print(f"alias: {ar_entry["title_alias"]}, copyright_status: {ar_entry['copyright_status']}, ar_entry[ar_key]: {ar_entry[ar_key]}, allowed_status {allowed_status}")
             bitmaps[bm_key] = allowed_status_to_bitmap(
                 ar_entry[ar_key] if allowed_status is None else allowed_status,
                 bitmaps[bm_key],
