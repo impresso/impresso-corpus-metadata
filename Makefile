@@ -32,6 +32,7 @@ help:
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
 	@echo "  sync-gdrive-metadata     - Synchronize all or part of the gdrive data folder with the one of the impresso-master-db repository"
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
+	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-master-db repository"
 	@echo "  all-access-rights     - Export the access rights for all partners"
 	@echo "  snl-access-rights     - Export the access rights for all SNL partners (01)"
 	@echo "  bnl-access-rights     - Export the access rights for BNL (02)"
