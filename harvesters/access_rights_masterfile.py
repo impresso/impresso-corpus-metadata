@@ -221,6 +221,18 @@ def entry_to_bitmaps(
 
 
 def bitwise_and(a: str | bytes, b: str | bytes) -> str | bytes:
+    """Perform a bitwise AND between two btimaps of the same format.
+
+    Args:
+        a (str | bytes): Bitmap to compare, as string or bytes.
+        b (str | bytes): Bitmap to compare, as string or bytes.
+
+    Raises:
+        AttributeError: The two bitmaps were not of the same type or not str or bytes.
+
+    Returns:
+        str | bytes: The resulting bitmap in the same type as the inputs.
+    """
     assert len(a) == len(b), "The two bitmaps must be of the same size!"
     # first case: bytes
     if isinstance(a, bytes) and isinstance(b, bytes):
@@ -234,7 +246,20 @@ def bitwise_and(a: str | bytes, b: str | bytes) -> str | bytes:
         raise AttributeError(m)
 
 
-def statement_from_status(allowed_status, allowed_used_archive_only):
+def statement_from_status(allowed_status: str, allowed_used_archive_only: str) -> str:
+    """Return the allowed use(s) for a content based on the user statuses.
+
+    Args:
+        allowed_status (str): User statuses which are allowd to access a given content.
+        allowed_used_archive_only (str): Allowed uses for the data, when only archive
+            members are allowed access: `allowed_status`='Only Archive members'.
+
+    Raises:
+        AttributeError: The allowed user status is not part of the valid values.
+
+    Returns:
+        str: The allowed uses to be then displayed on the interface.
+    """
     match allowed_status:
         case "No restriction (all registered users allowed)":
             return "Personal, Research and Educational"
@@ -249,32 +274,54 @@ def statement_from_status(allowed_status, allowed_used_archive_only):
         case "Only Archive members":
             if allowed_used_archive_only != "":
                 return allowed_used_archive_only
-            else:
-                m = f"When allowing only archive members, the allowed uses should be provided ({allowed_used_archive_only})!"
-                print(m)
-                raise AttributeError(m)
+
+            # if only archive members are allowed, the alloed uses need to be specified.
+            m = f"When allowing only archive members, the allowed uses should be provided ({allowed_used_archive_only})!"
+            print(m)
+            raise AttributeError(m)
         case "Forbidden":
             return "No allowed"
 
 
 def entry_to_statement(entry: dict[str, Any], period: str) -> str:
+    """Create the human-readable copyright statement from a given title and period.
+
+    The returned statement is of the form:
+        "[Copyright Domain] ([start year]-[end year]) - [allowed uses] use"
+
+    Args:
+        entry (dict[str, Any]): Access right entry directly fetched from the Gsheet.
+        period (str): Period for which the statement applies.
+
+    Raises:
+        AttributeError: The provided copyright status is an empty string.
+
+    Returns:
+        str: Human-readable copyright statement for the interface.
+    """
     if entry["copyright_status"] == "Public Domain":
         return f"Public Domain ({period})"
     if entry["copyright_status"] == "Protected Domain: In copyright":
         # the human readable rights are only for the interface: explore
-        return f"Protected ({period}) - {statement_from_status(entry['explore_req_status'], entry['allowed_use_archive_only'])} use"
+        stmt = statement_from_status(
+            entry["explore_req_status"], entry["allowed_use_archive_only"]
+        )
+        return f"Protected ({period}) - {stmt} use"
     if entry["copyright_status"] == "":
         m = f"The copyright status was not provided for {entry['title_alias']}"
         print(m)
         raise AttributeError(m)
-    else:
-        # all other protected domain cases
-        # TODO maybe change based on type of uses?
-        return f"Protected ({period}) - Personal, Research and Educational use"
+    # all other protected domain cases
+    # TODO maybe change based on type of uses?
+    return f"Protected ({period}) - Personal, Research and Educational use"
 
 
 def main():
-
+    """Based on the access right information fetched from the Gsheets, create the
+    access rights masterfile for a given institution; where each period associated
+    with a specific copyright domain has its own content bitmaps and human-readable
+    statement to be displayed on the interface.
+    """
     arguments = docopt(__doc__)
     partner = arguments["--partner"]
     data_dir_path = arguments["--data-dir"]
