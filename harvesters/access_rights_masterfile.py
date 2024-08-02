@@ -239,7 +239,7 @@ def bitwise_and(a: str | bytes, b: str | bytes) -> str | bytes:
         return bytes([a[x] & b[x] for x in range(len(a))])
     # second case: strings
     elif isinstance(a, str) and isinstance(b, str):
-        return [str(int(a[x] == "1" and b[x] == "1")) for x in range(len(a))]
+        return "".join([str(int(a[x] == "1" and b[x] == "1")) for x in range(len(a))])
     else:
         m = "The AND operation is not supported for this type of data, only str or bytes!"
         print(m)
