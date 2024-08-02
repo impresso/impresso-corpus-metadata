@@ -5,8 +5,6 @@ This repository contains python scripts to harvest metadata on the Impresso corp
 - Spreadsheets on Google Drive, and writing it to JSON files.
 - The APIs of the partner institution, and writing it to files of varied formats (Marc21, Intermarc, JSON).
 
-TODO: general explaination of organization.
-
 ## Initial setup and use
 
 ### Environments
