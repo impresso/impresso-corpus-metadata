@@ -1,38 +1,10 @@
 import pytest
 
-# import importlib_resources
-# import pathlib
-
-# from contextlib import ExitStack
 from harvesters.access_rights_masterfile import (
     bitmap_bytes_to_str,
     bitmap_str_to_bytes,
     bitwise_and,
 )
-
-
-"""
-def get_pkg_resource(
-    file_manager: ExitStack, path: str, package: str = "text_importer"
-) -> pathlib.PosixPath:
-    ""Return the resource at `path` in `package`, using a context manager.
-
-    Note:
-        The context manager `file_manager` needs to be instantiated prior to
-        calling this function and should be closed once the package resource
-        is no longer of use.
-
-    Args:
-        file_manager (contextlib.ExitStack): Context manager.
-        path (str): Path to the desired resource in given package.
-        package (str, optional): Package name. Defaults to "text_importer".
-
-    Returns:
-        pathlib.PosixPath: Path to desired managed resource.
-    ""
-    ref = importlib_resources.files(package) / path
-    return file_manager.enter_context(importlib_resources.as_file(ref))
-"""
 
 bitwise_and_params = [
     (("1010101", "1101010"), "1000000"),
@@ -59,19 +31,26 @@ def test_bitmap_and(inputs, exp) -> str | bytes:
 
 
 @pytest.mark.parametrize(
-    "inputs, exp",
+    "inputs, err_msg, assertion",
     [
-        (("1101010", "11010"), None),
-        ((b"\x01\x01\x00\x01\x00\x00\x01\x00\x00\x00\x00", "1101010"), None),
+        (("1101010", "11010"), "The two bitmaps must be of the same size!", True),
+        (
+            (b"\x01\x01\x00\x01\x00\x00\x01", "1101010"),
+            "The AND operation is not supported for this type of data, only str or bytes!",
+            False,
+        ),
     ],
 )
-def test_bitmap_and_exceptions(inputs, exp) -> str | bytes:
-    """Test the bitwise AND between two bitmaps."""
-    with pytest.raises(AttributeError) as exc_info:
-        m = "The AND operation is not supported for this type of data, only str or bytes!"
-        raise AttributeError(m)
+def test_bitmap_and_size_error(inputs, err_msg, assertion) -> str | bytes:
+    """Test whetehr the bitwise AND function correctly through its exceptions."""
+    if assertion:
+        with pytest.raises(AssertionError) as exc_info:
+            bitwise_and(inputs[0], inputs[1])
+    else:
+        with pytest.raises(AttributeError) as exc_info:
+            bitwise_and(inputs[0], inputs[1])
 
-    assert str(exc_info.value) == m
+    assert str(exc_info.value) == err_msg
 
 
 @pytest.mark.parametrize(
@@ -82,7 +61,7 @@ def test_bitmap_and_exceptions(inputs, exp) -> str | bytes:
     ],
 )
 def test_conversion(test_input, expected) -> str | bytes:
-    """Test the bitwise AND between two bitmaps."""
+    """Test the conversion of bitmaps between byte and str formats."""
 
     if isinstance(test_input, bytes):
         assert bitmap_bytes_to_str(test_input) == expected
