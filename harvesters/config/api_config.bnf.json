@@ -1,0 +1,17 @@
+{
+    "BNF_arks": {
+        "excelsior": "cb32771891w",
+        "lafronde": "cb327788531",
+        "marieclaire": "cb343488519",
+        "oeuvre": "cb34429265b"
+    },
+    "BNFEN_arks": {
+        "oerennes": "cb32830550k",
+        "oecaen": "cb41193642z",
+        "lematin": "cb328123058",
+        "lepji": "cb32836564q",
+        "jdpl": "cb39294634r",
+        "legaulois": "cb32779904b",
+        "lepetitparisien": "cb34419111x"
+    }
+}

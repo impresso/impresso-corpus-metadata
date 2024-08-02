@@ -7,6 +7,9 @@ name = "pypi"
 fire = "*"
 black = "*"
 gspread = "*"
+pymarc = "*"
+beautifulsoup4 = "*"
+docopt = "*"
 
 [dev-packages]
 
