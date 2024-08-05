@@ -1,0 +1,1052 @@
+{
+    "ACI": {
+        "1832-1832": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ACI",
+            "full_title": "Almanach pour le commerce",
+            "start_year": 1832,
+            "end_year": 1832,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1832-1832)"
+        }
+    },
+    "RN": {
+        "1829-2020": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN",
+            "full_title": "Bulletins du Grand Conseil",
+            "start_year": 1829,
+            "end_year": 2020,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1829-2020)"
+        }
+    },
+    "Castigat": {
+        "1879-1880": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Castigat",
+            "full_title": "Castigat ridendo mores",
+            "start_year": 1879,
+            "end_year": 1880,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1879-1880)"
+        }
+    },
+    "CL": {
+        "1882-1886": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CL",
+            "full_title": "Courrier du L\u00e9man",
+            "start_year": 1882,
+            "end_year": 1886,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1882-1886)"
+        }
+    },
+    "Croquis": {
+        "1884-1887": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Croquis",
+            "full_title": "Croquis vaudois",
+            "start_year": 1884,
+            "end_year": 1887,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1884-1887)"
+        }
+    },
+    "FAM": {
+        "1854-1854": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FAM",
+            "full_title": "Feuille d'avis de Morges 1",
+            "start_year": 1854,
+            "end_year": 1854,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1854-1854)"
+        }
+    },
+    "FAMDE": {
+        "1859-1859": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FAMDE",
+            "full_title": "Feuille d'avis de Moudon",
+            "start_year": 1859,
+            "end_year": 1859,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1859-1859)"
+        }
+    },
+    "FAN": {
+        "1849-1867": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FAN",
+            "full_title": "Feuille d'avis de Nyon",
+            "start_year": 1849,
+            "end_year": 1867,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1849-1867)"
+        }
+    },
+    "feuilleP": {
+        "1843-1845": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "feuilleP",
+            "full_title": "Feuille d'avis de Payerne",
+            "start_year": 1843,
+            "end_year": 1845,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1843-1845)"
+        }
+    },
+    "feuillePMA": {
+        "1852-1852": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "feuillePMA",
+            "full_title": "Feuille d'avis de Payerne, Moudon et Avenches",
+            "start_year": 1852,
+            "end_year": 1852,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1852-1852)"
+        }
+    },
+    "FAV1": {
+        "1784-1826": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FAV1",
+            "full_title": "Feuille d'avis de Vevey 1",
+            "start_year": 1784,
+            "end_year": 1826,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1784-1826)"
+        }
+    },
+    "GAVi": {
+        "1867-1868": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "GAVi",
+            "full_title": "Gazette des Villages",
+            "start_year": 1867,
+            "end_year": 1868,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1867-1868)"
+        }
+    },
+    "AV": {
+        "1880-1886": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "AV",
+            "full_title": "Indicateur de Lausanne",
+            "start_year": 1880,
+            "end_year": 1886,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1880-1886)"
+        }
+    },
+    "JY2": {
+        "1842-1843": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "JY2",
+            "full_title": "Journal d'Yverdon 2",
+            "start_year": 1842,
+            "end_year": 1843,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1842-1843)"
+        }
+    },
+    "JV": {
+        "1865-1882": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "JV",
+            "full_title": "Journal de Vevey",
+            "start_year": 1865,
+            "end_year": 1882,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1865-1882)"
+        }
+    },
+    "JVE": {
+        "1891-1894": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "JVE",
+            "full_title": "Journal de Vevey et des \u00e9trangers",
+            "start_year": 1891,
+            "end_year": 1894,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1891-1894)"
+        }
+    },
+    "JH": {
+        "1738-1782": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "JH",
+            "full_title": "Journal helv\u00e9tique",
+            "start_year": 1738,
+            "end_year": 1782,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1738-1782)"
+        }
+    },
+    "NV": {
+        "1822-1823": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NV",
+            "full_title": "L'ami de la v\u00e9rit\u00e9: journal du Canton de Vaud",
+            "start_year": 1822,
+            "end_year": 1823,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1822-1823)"
+        }
+    },
+    "EM": {
+        "1883-1892": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "EM",
+            "full_title": "L'Echo de Morges",
+            "start_year": 1883,
+            "end_year": 1892,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1883-1892)"
+        }
+    },
+    "esta": {
+        "1862-1895": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "esta",
+            "full_title": "L'Estafette: Journal suisse",
+            "start_year": 1862,
+            "end_year": 1895,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1862-1895)"
+        }
+    },
+    "OBS": {
+        "1865-1865": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "OBS",
+            "full_title": "L'Observateur du L\u00e9man",
+            "start_year": 1865,
+            "end_year": 1865,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1865-1865)"
+        }
+    },
+    "Bombe": {
+        "1889-1889": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Bombe",
+            "full_title": "La Bombe",
+            "start_year": 1889,
+            "end_year": 1889,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1889-1889)"
+        }
+    },
+    "Cancoire": {
+        "1898-1898": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Cancoire",
+            "full_title": "La Cancoire",
+            "start_year": 1898,
+            "end_year": 1898,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1898-1898)"
+        }
+    },
+    "Fronde": {
+        "1872-1872": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Fronde",
+            "full_title": "La Fronde",
+            "start_year": 1872,
+            "end_year": 1872,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1872-1872)"
+        }
+    },
+    "Griffe": {
+        "1864-1866": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Griffe",
+            "full_title": "La Griffe",
+            "start_year": 1864,
+            "end_year": 1866,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1864-1866)"
+        }
+    },
+    "Guepe1851": {
+        "1851-1854": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Guepe1851",
+            "full_title": "La Gu\u00eape [1]",
+            "start_year": 1851,
+            "end_year": 1854,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1851-1854)"
+        }
+    },
+    "Guepe1887": {
+        "1887-1897": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Guepe1887",
+            "full_title": "La Gu\u00eape [2]",
+            "start_year": 1887,
+            "end_year": 1897,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1887-1897)"
+        }
+    },
+    "RLA": {
+        "1891-1898": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RLA",
+            "full_title": "La Revue agricole",
+            "start_year": 1891,
+            "end_year": 1898,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1891-1898)"
+        }
+    },
+    "PAT": {
+        "1841-1844": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PAT",
+            "full_title": "La Veveysanne - La Patrie (La Patrie)",
+            "start_year": 1841,
+            "end_year": 1844,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1841-1844)"
+        }
+    },
+    "VVS": {
+        "1840-1843": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "VVS",
+            "full_title": "La Veveysanne - La Patrie (La Veveysanne)",
+            "start_year": 1840,
+            "end_year": 1843,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1840-1843)"
+        }
+    },
+    "Charivari": {
+        "1839-1841": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Charivari",
+            "full_title": "Le Charivari [1]",
+            "start_year": 1839,
+            "end_year": 1841,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1839-1841)"
+        }
+    },
+    "CharivariCH": {
+        "1875-1877": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CharivariCH",
+            "full_title": "Le Charivari [2]",
+            "start_year": 1875,
+            "end_year": 1877,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1875-1877)"
+        }
+    },
+    "Grelot": {
+        "1843-1846": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Grelot",
+            "full_title": "Le Grelot",
+            "start_year": 1843,
+            "end_year": 1846,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1843-1846)"
+        }
+    },
+    "MESSAGER": {
+        "1879-1881": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "MESSAGER",
+            "full_title": "Le Messager",
+            "start_year": 1879,
+            "end_year": 1881,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1879-1881)"
+        }
+    },
+    "Moniteur": {
+        "1879-1880": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Moniteur",
+            "full_title": "Le Moniteur",
+            "start_year": 1879,
+            "end_year": 1880,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1879-1880)"
+        }
+    },
+    "Moustique": {
+        "1887-1887": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Moustique",
+            "full_title": "Le Moustique (Vevey)",
+            "start_year": 1887,
+            "end_year": 1887,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1887-1887)"
+        }
+    },
+    "NV1": {
+        "1824-1855": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NV1",
+            "full_title": "Le Nouvelliste vaudois",
+            "start_year": 1824,
+            "end_year": 1855,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1824-1855)"
+        }
+    },
+    "ouistiti": {
+        "1882-1882": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ouistiti",
+            "full_title": "Le Ouistiti",
+            "start_year": 1882,
+            "end_year": 1882,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1882-1882)"
+        }
+    },
+    "PJ": {
+        "1831-1832": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PJ",
+            "full_title": "Le P\u00e8re J\u00e9r\u00f4me",
+            "start_year": 1831,
+            "end_year": 1832,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1831-1832)"
+        }
+    },
+    "PS": {
+        "1845-1846": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PS",
+            "full_title": "Le Peuple souverain",
+            "start_year": 1845,
+            "end_year": 1846,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1845-1846)"
+        }
+    },
+    "PDN": {
+        "1841-1841": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PDN",
+            "full_title": "Le Phare de Nyon",
+            "start_year": 1841,
+            "end_year": 1841,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1841-1841)"
+        }
+    },
+    "PDL": {
+        "1841-1842": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PDL",
+            "full_title": "Le Phare du L\u00e9man",
+            "start_year": 1841,
+            "end_year": 1842,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1841-1842)"
+        }
+    },
+    "TouSuIl": {
+        "1866-1882": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "TouSuIl",
+            "full_title": "Le Touriste / La Suisse Illustr\u00e9e",
+            "start_year": 1866,
+            "end_year": 1882,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1866-1882)"
+        }
+    },
+    "VVS1": {
+        "1888-1889": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "VVS1",
+            "full_title": "Le Veveysan 1",
+            "start_year": 1888,
+            "end_year": 1889,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1888-1889)"
+        }
+    },
+    "ME": {
+        "1732-1747": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ME",
+            "full_title": "Mercure suisse",
+            "start_year": 1732,
+            "end_year": 1747,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1732-1747)"
+        }
+    },
+    "MB": {
+        "1748-1800": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "MB",
+            "full_title": "Messager bo\u00eeteux",
+            "start_year": 1748,
+            "end_year": 1800,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1748-1800)"
+        }
+    },
+    "NS": {
+        "1748-1769": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NS",
+            "full_title": "Nouvelliste suisse",
+            "start_year": 1748,
+            "end_year": 1769,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1748-1769)"
+        }
+    },
+    "NV2": {
+        "1856-1891": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NV2",
+            "full_title": "Nouvelliste vaudois et journal national suisse",
+            "start_year": 1856,
+            "end_year": 1891,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1856-1891)"
+        }
+    },
+    "RN1": {
+        "1907-1921": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN1",
+            "full_title": "R\u00e9pertoires de Bulletins du Grand Conseil",
+            "start_year": 1907,
+            "end_year": 1921,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1907-1921)"
+        }
+    },
+    "RN2": {
+        "1861-2002": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN2",
+            "full_title": "Travaux des Constituantes",
+            "start_year": 1861,
+            "end_year": 2002,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1861-2002)"
+        }
+    }
+}

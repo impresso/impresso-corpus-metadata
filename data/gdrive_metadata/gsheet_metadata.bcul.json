@@ -44,10 +44,10 @@
     "acronym": "ACI",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=7",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1832,
+    "last_issuedate_interface": 1832,
+    "newspaper_start_year": 1832,
+    "newspaper_end_year": 1832,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -105,10 +105,10 @@
     "acronym": "Castigat",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1879,
+    "last_issuedate_interface": 1880,
+    "newspaper_start_year": 1879,
+    "newspaper_end_year": 1880,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -166,10 +166,10 @@
     "acronym": "CL",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1882,
+    "last_issuedate_interface": 1886,
+    "newspaper_start_year": 1882,
+    "newspaper_end_year": 1886,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -227,10 +227,10 @@
     "acronym": "Croquis",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1884,
+    "last_issuedate_interface": 1887,
+    "newspaper_start_year": 1884,
+    "newspaper_end_year": 1887,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -288,10 +288,10 @@
     "acronym": "FAMDE",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=35",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1859,
+    "last_issuedate_interface": 1859,
+    "newspaper_start_year": 1859,
+    "newspaper_end_year": 1859,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -349,10 +349,10 @@
     "acronym": "FAN",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=32",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1849,
+    "last_issuedate_interface": 1867,
+    "newspaper_start_year": 1849,
+    "newspaper_end_year": 1867,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -410,10 +410,10 @@
     "acronym": "feuilleP",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=35",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1843,
+    "last_issuedate_interface": 1845,
+    "newspaper_start_year": 1843,
+    "newspaper_end_year": 1845,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -471,10 +471,10 @@
     "acronym": "feuillePMA",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=35",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1852,
+    "last_issuedate_interface": 1852,
+    "newspaper_start_year": 1852,
+    "newspaper_end_year": 1852,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -532,10 +532,10 @@
     "acronym": "GAVi",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=37",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1867,
+    "last_issuedate_interface": 1868,
+    "newspaper_start_year": 1867,
+    "newspaper_end_year": 1868,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -593,10 +593,10 @@
     "acronym": "AV",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=7",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1880,
+    "last_issuedate_interface": 1886,
+    "newspaper_start_year": 1880,
+    "newspaper_end_year": 1886,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -654,10 +654,10 @@
     "acronym": "JY2",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=37",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1842,
+    "last_issuedate_interface": 1843,
+    "newspaper_start_year": 1842,
+    "newspaper_end_year": 1843,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -715,10 +715,10 @@
     "acronym": "JV",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1865,
+    "last_issuedate_interface": 1882,
+    "newspaper_start_year": 1865,
+    "newspaper_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -776,10 +776,10 @@
     "acronym": "JVE",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1891,
+    "last_issuedate_interface": 1894,
+    "newspaper_start_year": 1891,
+    "newspaper_end_year": 1894,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -837,10 +837,10 @@
     "acronym": "JH",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=8",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1738,
+    "last_issuedate_interface": 1782,
+    "newspaper_start_year": 1738,
+    "newspaper_end_year": 1782,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -898,10 +898,10 @@
     "acronym": "OBS",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1865,
+    "last_issuedate_interface": 1865,
+    "newspaper_start_year": 1865,
+    "newspaper_end_year": 1865,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -959,10 +959,10 @@
     "acronym": "Bombe",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1889,
+    "last_issuedate_interface": 1889,
+    "newspaper_start_year": 1889,
+    "newspaper_end_year": 1889,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1020,10 +1020,10 @@
     "acronym": "Cancoire",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1898,
+    "last_issuedate_interface": 1898,
+    "newspaper_start_year": 1898,
+    "newspaper_end_year": 1898,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1081,10 +1081,10 @@
     "acronym": "Fronde",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1872,
+    "last_issuedate_interface": 1872,
+    "newspaper_start_year": 1872,
+    "newspaper_end_year": 1872,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1142,10 +1142,10 @@
     "acronym": "Griffe",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1864,
+    "last_issuedate_interface": 1866,
+    "newspaper_start_year": 1864,
+    "newspaper_end_year": 1866,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1203,10 +1203,10 @@
     "acronym": "Guepe1851",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1851,
+    "last_issuedate_interface": 1854,
+    "newspaper_start_year": 1851,
+    "newspaper_end_year": 1854,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1264,10 +1264,10 @@
     "acronym": "Guepe1887",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1887,
+    "last_issuedate_interface": 1897,
+    "newspaper_start_year": 1887,
+    "newspaper_end_year": 1897,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1325,10 +1325,10 @@
     "acronym": "RLA",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=10",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1891,
+    "last_issuedate_interface": 1898,
+    "newspaper_start_year": 1891,
+    "newspaper_end_year": 1898,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1386,10 +1386,10 @@
     "acronym": "Charivari",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1839,
+    "last_issuedate_interface": 1841,
+    "newspaper_start_year": 1839,
+    "newspaper_end_year": 1841,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1447,10 +1447,10 @@
     "acronym": "CharivariCH",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1875,
+    "last_issuedate_interface": 1877,
+    "newspaper_start_year": 1875,
+    "newspaper_end_year": 1877,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1508,10 +1508,10 @@
     "acronym": "Grelot",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1843,
+    "last_issuedate_interface": 1846,
+    "newspaper_start_year": 1843,
+    "newspaper_end_year": 1846,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1569,10 +1569,10 @@
     "acronym": "Moniteur",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1879,
+    "last_issuedate_interface": 1880,
+    "newspaper_start_year": 1879,
+    "newspaper_end_year": 1880,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1630,10 +1630,10 @@
     "acronym": "Moustique",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1887,
+    "last_issuedate_interface": 1887,
+    "newspaper_start_year": 1887,
+    "newspaper_end_year": 1887,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1691,10 +1691,10 @@
     "acronym": "ouistiti",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1882,
+    "last_issuedate_interface": 1882,
+    "newspaper_start_year": 1882,
+    "newspaper_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1752,10 +1752,10 @@
     "acronym": "PDN",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=32",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1841,
+    "last_issuedate_interface": 1841,
+    "newspaper_start_year": 1841,
+    "newspaper_end_year": 1841,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1813,10 +1813,10 @@
     "acronym": "PDL",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=32",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1841,
+    "last_issuedate_interface": 1842,
+    "newspaper_start_year": 1841,
+    "newspaper_end_year": 1842,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1874,10 +1874,10 @@
     "acronym": "PJ",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=6",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1831,
+    "last_issuedate_interface": 1832,
+    "newspaper_start_year": 1831,
+    "newspaper_end_year": 1832,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1935,10 +1935,10 @@
     "acronym": "TouSuIl",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=19",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1866,
+    "last_issuedate_interface": 1882,
+    "newspaper_start_year": 1866,
+    "newspaper_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1996,10 +1996,10 @@
     "acronym": "VVS1",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1888,
+    "last_issuedate_interface": 1889,
+    "newspaper_start_year": 1888,
+    "newspaper_end_year": 1889,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2057,10 +2057,10 @@
     "acronym": "MESSAGER",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1879,
+    "last_issuedate_interface": 1881,
+    "newspaper_start_year": 1879,
+    "newspaper_end_year": 1881,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2118,10 +2118,10 @@
     "acronym": "PS",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=37",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1845,
+    "last_issuedate_interface": 1846,
+    "newspaper_start_year": 1845,
+    "newspaper_end_year": 1846,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2179,10 +2179,10 @@
     "acronym": "NV",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=12",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1822,
+    "last_issuedate_interface": 1823,
+    "newspaper_start_year": 1822,
+    "newspaper_end_year": 1823,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2240,10 +2240,10 @@
     "acronym": "ME",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=8",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1732,
+    "last_issuedate_interface": 1747,
+    "newspaper_start_year": 1732,
+    "newspaper_end_year": 1747,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2301,10 +2301,10 @@
     "acronym": "MB",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=23",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1748,
+    "last_issuedate_interface": 1800,
+    "newspaper_start_year": 1748,
+    "newspaper_end_year": 1800,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2362,10 +2362,10 @@
     "acronym": "NS",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=8",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1748,
+    "last_issuedate_interface": 1769,
+    "newspaper_start_year": 1748,
+    "newspaper_end_year": 1769,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2423,10 +2423,10 @@
     "acronym": "RN",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=30",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1829,
+    "last_issuedate_interface": 2020,
+    "newspaper_start_year": 1829,
+    "newspaper_end_year": 2020,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2484,10 +2484,10 @@
     "acronym": "FAM",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=32",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1854,
+    "last_issuedate_interface": 1854,
+    "newspaper_start_year": 1854,
+    "newspaper_end_year": 1854,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2545,10 +2545,10 @@
     "acronym": "FAV1",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1784,
+    "last_issuedate_interface": 1826,
+    "newspaper_start_year": 1784,
+    "newspaper_end_year": 1826,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2606,10 +2606,10 @@
     "acronym": "EM",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=32",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1883,
+    "last_issuedate_interface": 1892,
+    "newspaper_start_year": 1883,
+    "newspaper_end_year": 1892,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2667,10 +2667,10 @@
     "acronym": "esta",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=9",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1862,
+    "last_issuedate_interface": 1895,
+    "newspaper_start_year": 1862,
+    "newspaper_end_year": 1895,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2728,10 +2728,10 @@
     "acronym": "PAT",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1841,
+    "last_issuedate_interface": 1844,
+    "newspaper_start_year": 1841,
+    "newspaper_end_year": 1844,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2789,10 +2789,10 @@
     "acronym": "VVS",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1840,
+    "last_issuedate_interface": 1843,
+    "newspaper_start_year": 1840,
+    "newspaper_end_year": 1843,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2850,10 +2850,10 @@
     "acronym": "NV1",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=12",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1824,
+    "last_issuedate_interface": 1855,
+    "newspaper_start_year": 1824,
+    "newspaper_end_year": 1855,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2911,10 +2911,10 @@
     "acronym": "NV2",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=12",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1856,
+    "last_issuedate_interface": 1891,
+    "newspaper_start_year": 1856,
+    "newspaper_end_year": 1891,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2972,10 +2972,10 @@
     "acronym": "RN1",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=30",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1907,
+    "last_issuedate_interface": 1921,
+    "newspaper_start_year": 1907,
+    "newspaper_end_year": 1921,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3033,10 +3033,10 @@
     "acronym": "RN2",
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=30",
     "bib_record_text": "",
-    "first_issuedate_interface": "",
-    "last_issuedate_interface": "",
-    "newspaper_start_year": "",
-    "newspaper_end_year": "",
+    "first_issuedate_interface": 1861,
+    "last_issuedate_interface": 2002,
+    "newspaper_start_year": 1861,
+    "newspaper_end_year": 2002,
     "partner_uid": "BCUL",
     "languages": [
       "fr"

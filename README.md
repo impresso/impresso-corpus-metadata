@@ -5,8 +5,6 @@ This repository contains python scripts to harvest metadata on the Impresso corp
 - Spreadsheets on Google Drive, and writing it to JSON files.
 - The APIs of the partner institution, and writing it to files of varied formats (Marc21, Intermarc, JSON).
 
-TODO: general explaination of organization.
-
 ## Initial setup and use
 
 ### Environments
@@ -119,17 +117,89 @@ parent_dir
 The contents harvested from both institution APIs and fetched from gsheets can be copied in a very similar approach.
 One can simply run one of the following commands, which will copy the contents of the `impresso-corpus-metadata/data/api_metadata`  or `impresso-corpus-metadata/data/gdrive_metadata` directory into the corresponding subdirectoy of `impresso-master-db/impresso_db/data`.
 Optionnally, a parameter can be added to specify exactly which file should be synched, otherwise all files will be.
+
 ```bash
-# copy all files in /data/gdrive 
+# copy all files in /data/gdrive_metadata 
 make sync-gdrive-metadata
-# specify the file from /data/gdrive to copy
+# specify the file from /data/gdrive_metadata to copy
 make sync-gdrive-metadata file_to_sync=gsheet_metadata.bcul.json
-# copy all files in /data/apis 
+# copy all files in /data/api_metadata
 make sync-apis-metadata
-# specify the file from /data/apis to copy
+# specify the file from /data/api_metadata to copy
 make sync-apis-metadata file_to_sync=intermarc_metadata.bnf.xml
 ```
 
 ### Running the access rights harvesters
 
-TODO
+#### Fetching the access rights Gsheet for each institution
+
+The access rights harvesters work in the same way as the metadata harvesters.
+All the access rights for a given institution are stored in the same format in indivudual google sheets, always in the worksheet called `DSA_access-rights`.
+
+First the script `harvesters/fetch_from_gdrive.py` collects the contents of the gsheet, like for the metadata.
+Then, the script `harvesters/access_rights_masterfile.py` allows to convert the resulting JSON into the corresponding access-rights masterfile JSON for the insitution, with the addition of the content bitmaps and access rights statements for the interface.
+
+Just like for the metadata, targets have been added for each institution in the `Makefile`. 
+They run both scripts back to back creating the resulting file in `data/access_rights_master_files`, named `access_rights.[institution].json`.
+The list of available institutions is the following:
+
+```bash
+# fetch and create the access rights for all insitutions
+make all-access-rights
+# for the SNL corpus
+make snl-access-rights
+# for the BNL corpus
+make bnl-access-rights
+# for the BNF corpus
+make bnf-access-rights
+# for the KBR corpus
+make kbr-access-rights
+# for the KB corpus
+make kb-access-rights
+# for the BL corpus
+make bl-access-rights
+# for the ONB corpus
+make onb-access-rights
+# for the SBB corpus
+make sbb-access-rights
+# for the SUB corpus
+make sub-access-rights
+# for the INA corpus
+make ina-access-rights
+# for the BCUL corpus
+make bcul-access-rights
+# for the SWA and FedGaz corpuses
+make swa-fedgaz-nzz-access-rights
+```
+
+#### Copying the resulting files to the `impresso-master-db` repository
+
+Once again, they can be copied over to the `impresso-master-db` repository, in the subfolder `impresso-master-db/impresso_db/data/access_rights`.
+This works in the same way as the metadata:
+
+```bash
+# copy all files in /data/access_rights_masterfiles 
+make sync-access-rights
+# specify the file from /data/access_rights_masterfiles to copy
+make sync-access-rights file_to_sync=access_rights.bcul.json
+```
+
+## About Impresso
+
+### Impresso project
+
+[Impresso - Media Monitoring of the Past](https://impresso-project.ch) is an interdisciplinary research project that aims to develop and consolidate tools for processing and exploring large collections of media archives across modalities, time, languages and national borders. The first project (2017-2021) was funded by the Swiss National Science Foundation under grant No. [CRSII5_173719](http://p3.snf.ch/project-173719) and the second project (2023-2027) by the SNSF under grant No. [CRSII5_213585](https://data.snf.ch/grants/grant/213585) and the Luxembourg National Research Fund under grant No. 17498891.
+
+### Copyright
+
+Copyright (C) 2024 The Impresso team.
+
+### License
+
+This program is provided as open source under the [GNU Affero General Public License](https://github.com/impresso/impresso-pyindexation/blob/master/LICENSE) v3 or later.
+
+---
+
+<p align="center">
+  <img src="https://github.com/impresso/impresso.github.io/blob/master/assets/images/3x1--Yellow-Impresso-Black-on-White--transparent.png?raw=true" width="350" alt="Impresso Project Logo"/>
+</p>

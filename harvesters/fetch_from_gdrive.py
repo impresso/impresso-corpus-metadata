@@ -1,13 +1,15 @@
-import fire
+""" Python script downloading a given google dirve spreadsheet into a json file."""
+
 import re
-import gspread
 import random
 import json
+import gspread
+import fire
 
 SPLIT_PATTERN = r"\s*,\s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
 
-RULES = {
+METADATA_RULES = {
     "acronym": {  # to remove ?
         "copy_value_from_field": "newspaper_acronym",
     },
@@ -68,6 +70,36 @@ RULES = {
     },
 }
 
+ACCESS_RIGHTS_RULES = {
+    "partner_id": {"rename_key_to": "rights_holder_id"},
+    "alias": {"rename_key_to": "title_alias"},
+    "title": {"rename_key_to": "full_title"},
+    "included_time_period_start_date_1st_january_to_be_filled_only_if_it_applies": {
+        "rename_key_to": "start_year"
+    },
+    "included_time_period_end_date_31st_december_to_be_filled_only_if_it_applies": {
+        "rename_key_to": "end_year"
+    },
+    "do_you_provide_content_and_not_only_metadata": {
+        "rename_key_to": "content_and_metadata"
+    },
+    "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_this_information_will_be_displayed_alongside_the_data_for_all_values_except_protected_domain_in_copyrigth_no_need_to_fill_the_columns_i_j_k_whose_values_are_then_no_restriction_please_contact_us_if_not_ok": {
+        "rename_key_to": "copyright_status"
+    },
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_the_explore_action_on_this_title_sufficient_condition": {
+        "rename_key_to": "explore_req_status"
+    },
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_the_get_action_on_transcripts_of_this_title_sufficient_condition": {
+        "rename_key_to": "get_transcript_req_status"
+    },
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_thethe_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
+        "rename_key_to": "get_facsimile_req_status"
+    },
+    "to_be_filled_only_if_the_choices_made_for_i_j_and_k_is_only_archive_members_which_uses_of_the_data_are_permitted_for_archive_members_permitted_uses_in_other_cases_result_from_the_user_status_and_are_defined_in_dsa_29": {
+        "rename_key_to": "allowed_use_archive_only"
+    },
+}
+
 
 def util_slugify(text: str) -> str:
     """
@@ -86,7 +118,7 @@ def util_slugify(text: str) -> str:
     return s
 
 
-def transform_value(d: dict) -> dict:
+def transform_value(d: dict, is_metadata: bool = True) -> dict:
     """
     Change the value of a key in a dictionary.
 
@@ -104,7 +136,10 @@ def transform_value(d: dict) -> dict:
         slugified_key = util_slugify(key)
         transformed[slugified_key] = d[key]
 
-    for key_with_rule, rule in RULES.items():
+    # depending on the data to fetch, different rules should be applied.
+    rules = METADATA_RULES if is_metadata else ACCESS_RIGHTS_RULES
+
+    for key_with_rule, rule in rules.items():
         if "copy_value_from_field" in rule:
             transformed[key_with_rule] = transformed[rule["copy_value_from_field"]]
         if "split_values_by_re" in rule:
@@ -122,11 +157,26 @@ def transform_value(d: dict) -> dict:
     return transformed
 
 
+def has_ar_values_defined(ar_entry):
+    defined = (
+        ar_entry["title_alias"] != ""
+        and ar_entry["rights_holder_id"] != ""
+        and ar_entry["copyright_status"] != ""
+    )
+    if not defined:
+        print(
+            f"Warning! Missing values for access right entry - will be ignored: {ar_entry}"
+        )
+
+    return defined
+
+
 def download(
     spreadsheet_id: str,  # Use spreadsheet id instead of URL
-    worksheet_name: str = "Sheet1",  # Default worksheet name
+    worksheet_name: str = "impresso1-collection",  # Default worksheet name
     credentials_path: str = "credentials.json",  # Default credentials path
     output_file: str = "data.json",  # Default output filename
+    is_metadata: bool = False,  # Default type of data to fetch
 ) -> None:
     """
     Downloads data from a specified Google Sheet and saves it as a JSON file.
@@ -142,6 +192,7 @@ def download(
     print(f"worksheet_name: {worksheet_name}")
     print(f"credentials_path: {credentials_path}")
     print(f"output_file: {output_file}")
+    print(f"is_metadata: {is_metadata}")
     # Initialize gspread client
     gc = gspread.service_account(filename=credentials_path)
 
@@ -157,17 +208,25 @@ def download(
         return
     # Open worksheet by name
     worksheet = sheet.worksheet(worksheet_name)
+
     # Get worksheet data
-    values = worksheet.get_all_records()
+    values = worksheet.get_all_records(head=1 if is_metadata else 2)
+
+    # convert is_metadata to an array for the map
+    is_metadata = [is_metadata] * len(values)
     # use transform_records as a mapper function
-    transformed_values = list(map(transform_value, values))
+    transformed_values = list(map(transform_value, values, is_metadata))
+
+    if is_metadata:
+        # only keep entries where all necessary values are defined
+        transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
 
     # get random index for the values list
     idx = random.randint(0, len(transformed_values) - 1)
     print(f"Random value: {json.dumps(transformed_values[idx],indent=2)}")
 
     # Write data to JSON file
-    with open(output_file, "w") as outfile:
+    with open(output_file, "w", encoding="utf-8") as outfile:
         json.dump(transformed_values, outfile, indent=2)
 
 

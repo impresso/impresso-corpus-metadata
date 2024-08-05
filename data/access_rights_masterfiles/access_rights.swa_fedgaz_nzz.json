@@ -1,0 +1,107 @@
+{
+    "NZZ": {
+        "1780-1950": {
+            "rights_holder_id": "NZZ",
+            "title_alias": "NZZ",
+            "full_title": "Neue Z\u00fccher Zeitung",
+            "start_year": 1780,
+            "end_year": 1950,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1780-1950) - Personal, Research and Educational use"
+        }
+    },
+    "arbeitgeber": {
+        "1906-1994": {
+            "rights_holder_id": "SWA",
+            "title_alias": "arbeitgeber",
+            "full_title": "Schweizer Arbeitgeber",
+            "start_year": 1906,
+            "end_year": 1994,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1906-1994) - Personal, Research and Educational use"
+        }
+    },
+    "handelsztg": {
+        "1861-1894": {
+            "rights_holder_id": "SWA",
+            "title_alias": "handelsztg",
+            "full_title": "Schweizerische Handels-Zeitung",
+            "start_year": 1861,
+            "end_year": 1894,
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Protected (1861-1894) - Personal, Research and Educational use"
+        }
+    },
+    "FedGazDe": {
+        "1849-1999": {
+            "rights_holder_id": "FedGaz",
+            "title_alias": "FedGazDe",
+            "full_title": "Bundesblatt",
+            "start_year": 1849,
+            "end_year": 1999,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1849-1999)"
+        }
+    },
+    "FedGazFr": {
+        "1849-1999": {
+            "rights_holder_id": "FedGaz",
+            "title_alias": "FedGazFr",
+            "full_title": "Feuille F\u00e9d\u00e9rale",
+            "start_year": 1849,
+            "end_year": 1999,
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement": "Public Domain (1849-1999)"
+        }
+    }
+}
