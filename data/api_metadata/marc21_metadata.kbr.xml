@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+    <body>
+        <response>
+            <lst name="responseHeader">
+                <int name="status">0</int>
+                <int name="QTime">8</int>
+            </lst>
+            <result maxscore="16.625315" name="response" numfound="1" start="0">
+                <record type="Bibliographic">
+                    <leader>01291nas#a2200277u# 4500</leader>
+                    <controlfield tag="001">16723367</controlfield>
+                    <controlfield tag="008">180109d19401944xx |||||||||||||||||und||</controlfield>
+                    <datafield ind1=" " ind2=" " tag="040">
+                        <subfield code="a">BE-KBR00</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="041">
+                        <subfield code="a">dut</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="044">
+                        <subfield code="a">be</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1="0" ind2="0" tag="245">
+                        <subfield code="a">Het Algemeen Nieuws (met Sportwereld)</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="1" tag="264">
+                        <subfield code="a">Brussel</subfield>
+                        <subfield code="c">1940-1944</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="300">
+                        <subfield code="c">f°</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="310">
+                        <subfield code="a">Dagblad</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1="1" ind2=" " tag="700">
+                        <subfield code="*">14514766</subfield>
+                        <subfield code="a">Mertens, Gaston</subfield>
+                        <subfield code="c">Collectionneur de journaux, directeur et rédacteur du
+                            Bulletin officiel de l'Union de la presse périodique belge</subfield>
+                        <subfield code="4">fmo</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="856">
+                        <subfield code="u">https://www.belgicapress.be/link/opac/16723367</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="944">
+                        <subfield code="c">WBS</subfield>
+                        <subfield code="a">WBS DIGIT 1.153 [L-PER]</subfield>
+                        <subfield code="e">1940-1944</subfield>
+                        <subfield code="#">0</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="944">
+                        <subfield code="c">WBS</subfield>
+                        <subfield code="a">WBS FS XLVIII 1314 D [M-PER]</subfield>
+                        <subfield code="e">1ste jg. (1940) nr 1 , nr 19 (1 aug.)</subfield>
+                        <subfield code="f">Enkel beschikbaar op MIC IMP 500 D</subfield>
+                        <subfield code="#">1</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="944">
+                        <subfield code="c">WBS</subfield>
+                        <subfield code="a">WBS J.B. 1.153 [M-PER]</subfield>
+                        <subfield code="e">25 mei 1940-2 sept.1944</subfield>
+                        <subfield code="#">2</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="944">
+                        <subfield code="c">WBS</subfield>
+                        <subfield code="a">WBS MIC PERM 408 [L-PER]</subfield>
+                        <subfield code="e">25 mei-sept. 1940, jan.1941-2 sept.1944</subfield>
+                        <subfield code="f">6 bob. - nég. &amp; pos.</subfield>
+                        <subfield code="#">3</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="944">
+                        <subfield code="a">MIC PERM 500/D5</subfield>
+                        <subfield code="#">4</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="997">
+                        <subfield code="*">16723368</subfield>
+                        <subfield code="a">12237540</subfield>
+                        <subfield code="t">FYS</subfield>
+                        <subfield code="c">KBR</subfield>
+                        <subfield code="g">DIGIT 1.153</subfield>
+                        <subfield code="d">L-PER</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="997">
+                        <subfield code="*">16723369</subfield>
+                        <subfield code="a">12237541</subfield>
+                        <subfield code="t">FYS</subfield>
+                        <subfield code="c">KBR</subfield>
+                        <subfield code="g">FS XLVIII 1314 D</subfield>
+                        <subfield code="d">M-PER</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="997">
+                        <subfield code="*">16723370</subfield>
+                        <subfield code="a">12237542</subfield>
+                        <subfield code="t">MIC</subfield>
+                        <subfield code="c">KBR</subfield>
+                        <subfield code="g">MIC PERM 408</subfield>
+                        <subfield code="d">L-PER</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="997">
+                        <subfield code="*">16723371</subfield>
+                        <subfield code="a">12237543</subfield>
+                        <subfield code="t">MIC</subfield>
+                        <subfield code="c">KBR</subfield>
+                        <subfield code="g">MIC PERM 500/D5</subfield>
+                        <subfield code="d">L-PER</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="997">
+                        <subfield code="*">16723372</subfield>
+                        <subfield code="a">12237544</subfield>
+                        <subfield code="t">FYS</subfield>
+                        <subfield code="c">KBR</subfield>
+                        <subfield code="g">J.B. 1.153</subfield>
+                        <subfield code="d">M-PER</subfield>
+                    </datafield>
+                </record>
+            </result>
+        </response>
+    </body>
+</html>
