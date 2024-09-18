@@ -217,7 +217,7 @@ def download(
     # use transform_records as a mapper function
     transformed_values = list(map(transform_value, values, is_metadata))
 
-    if is_metadata:
+    if not is_metadata[0]:
         # only keep entries where all necessary values are defined
         transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
 

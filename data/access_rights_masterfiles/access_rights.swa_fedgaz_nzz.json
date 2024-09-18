@@ -21,12 +21,12 @@
         }
     },
     "arbeitgeber": {
-        "1906-1994": {
+        "1907-2010": {
             "rights_holder_id": "SWA",
             "title_alias": "arbeitgeber",
             "full_title": "Schweizer Arbeitgeber",
-            "start_year": 1906,
-            "end_year": 1994,
+            "start_year": 1907,
+            "end_year": 2010,
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -38,7 +38,7 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1906-1994) - Personal, Research and Educational use"
+            "rights_statement": "Protected (1907-2010) - Personal, Research and Educational use"
         }
     },
     "handelsztg": {

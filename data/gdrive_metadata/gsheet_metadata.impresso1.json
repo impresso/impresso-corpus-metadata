@@ -2085,7 +2085,7 @@
     {
         "id": 34,
         "ingestion_batch": "bnl",
-        "newspaper_acronym": "indeplux  ",
+        "newspaper_acronym": "indeplux",
         "partner_country": "LU",
         "availability_eta": "",
         "subtitles": "",
@@ -2124,7 +2124,7 @@
         "digitized_period": "",
         "letter_fonts": "",
         "format": "",
-        "acronym": "indeplux  ",
+        "acronym": "indeplux",
         "bib_record_link": "http://www.eluxemburgensia.lu/R/XGERJF3M98DC3G1IUL9BPVVF4BF4KA7PHQ9VMPJLGAJQ8TD8Q7-01446?func=file&file_name=titleinfo&coll=29",
         "bib_record_text": "A la suite de son journal \u00ab L\u2019Avenir \u00bb (avril 1868 \u00e0 septembre 1871) l\u2019\u00e9diteur Jean Joris (1828-1893) publie le 1er octobre 1871 le premier num\u00e9ro du quotidien \u00ab l\u2019Ind\u00e9pendance luxembourgeoise \u00bb. Au-del\u00e0 de la mort de son cr\u00e9ateur en 1893, le journal en langue fran\u00e7aise continue \u00e0 paraitre plus de 60 ans, jusqu\u2019au 31 d\u00e9cembre 1934 sous la responsabilit\u00e9 de l'imprimeur-\u00e9diteur Joseph Beffort (1845-1923) et ses successeurs. Parmi les r\u00e9dacteurs, collaborateurs et directeurs successifs, on peut noter Etienne Ham\u00e9lius (1856-1929), Joseph Hansen (1874-1952), Charles Becker (1881-1952), Marcel Noppeney (1877-1966) et Paul Weber (1898-1976).",
         "first_issuedate_interface": 1871,
@@ -2141,7 +2141,7 @@
         "latest_periodicity": "",
         "change_periodicity": "not documented",
         "ocr_format": "METS/ALTO",
-        "uid": "indeplux  "
+        "uid": "indeplux"
     },
     {
         "id": 35,

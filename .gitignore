@@ -61,3 +61,5 @@ typings/
 !package.json
 !package-lock.json
 credentials.json
+
+.DS_Store
