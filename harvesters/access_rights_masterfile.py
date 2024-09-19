@@ -338,7 +338,7 @@ def main():
 
     for entry in fetched_ar:
         if entry["rights_holder_id"] != "" and entry["title_alias"] != "":
-            title = entry["title_alias"]
+            title = entry["title_alias"].strip()
             period = f"{entry['start_year']}-{entry['end_year']}"
             str_bitmaps = entry_to_bitmaps(entry, BITMAP_KEYS, ACTION_COLUMNS)
 
