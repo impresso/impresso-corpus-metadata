@@ -180,7 +180,7 @@
             "impresso_1_or_2": 1,
             "rights_holder_id": "BNL",
             "title_alias": "tageblatt",
-            "full_title": "Escher Tageblatt ",
+            "full_title": "Escher Tageblatt",
             "start_year": 1913,
             "end_year": 1950,
             "content_and_metadata": "yes",
@@ -349,11 +349,11 @@
             "rights_statement": "Protected (1893-1909) - Personal, Research and Educational use"
         }
     },
-    "luxembourg1935 ": {
+    "luxembourg1935": {
         "1935-1940": {
             "impresso_1_or_2": 1,
             "rights_holder_id": "BNL",
-            "title_alias": "luxembourg1935 ",
+            "title_alias": "luxembourg1935",
             "full_title": "Luxembourg (1935)",
             "start_year": 1935,
             "end_year": 1940,
