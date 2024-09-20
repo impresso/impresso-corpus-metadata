@@ -436,13 +436,13 @@
             },
             "rights_statement": "Public Domain (1848-1884)"
         },
-        "1885-19XX": {
+        "1885-1950": {
             "impresso_1_or_2": 1,
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
             "start_year": 1885,
-            "end_year": "19XX",
+            "end_year": 1950,
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -454,7 +454,7 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1885-19XX) - Personal, Research and Educational use"
+            "rights_statement": "Protected (1885-1950) - Personal, Research and Educational use"
         }
     },
     "luxzeit1844": {
