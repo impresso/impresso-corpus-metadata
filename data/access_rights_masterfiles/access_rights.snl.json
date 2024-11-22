@@ -6,6 +6,8 @@
             "full_title": "B\u00fcndner Landbote",
             "start_year": 1846,
             "end_year": 1847,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -17,7 +19,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1846-1847)"
+            "rights_statement_explore": "Public Domain (1846-1847)",
+            "rights_statement_get_tr": "Public Domain (1846-1847)",
+            "rights_statement_get_img": "Public Domain (1846-1847)"
         }
     },
     "BNN": {
@@ -27,6 +31,8 @@
             "full_title": "B\u00fcndner Nachrichten",
             "start_year": 1885,
             "end_year": 1892,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -38,7 +44,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1885-1892)"
+            "rights_statement_explore": "Public Domain (1885-1892)",
+            "rights_statement_get_tr": "Public Domain (1885-1892)",
+            "rights_statement_get_img": "Public Domain (1885-1892)"
         }
     },
     "DFS": {
@@ -48,6 +56,8 @@
             "full_title": "Wochenblatt f\u00fcr die vier l\u00f6blichen Kantone Ury, Schwytz, Unterwalden und Zug",
             "start_year": 1814,
             "end_year": 1849,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -59,7 +69,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1814-1849)"
+            "rights_statement_explore": "Public Domain (1814-1849)",
+            "rights_statement_get_tr": "Public Domain (1814-1849)",
+            "rights_statement_get_img": "Public Domain (1814-1849)"
         }
     },
     "DVF": {
@@ -69,6 +81,8 @@
             "full_title": "Der Volksfreund",
             "start_year": 1879,
             "end_year": 1885,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -80,7 +94,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1879-1885)"
+            "rights_statement_explore": "Public Domain (1879-1885)",
+            "rights_statement_get_tr": "Public Domain (1879-1885)",
+            "rights_statement_get_img": "Public Domain (1879-1885)"
         }
     },
     "EZR": {
@@ -90,6 +106,8 @@
             "full_title": "Der Erz\u00e4hler",
             "start_year": 1806,
             "end_year": 1865,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -101,7 +119,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1806-1865)"
+            "rights_statement_explore": "Public Domain (1806-1865)",
+            "rights_statement_get_tr": "Public Domain (1806-1865)",
+            "rights_statement_get_img": "Public Domain (1806-1865)"
         }
     },
     "HRV": {
@@ -111,6 +131,8 @@
             "full_title": "Der helvetische Volksfreund",
             "start_year": 1799,
             "end_year": 1801,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -122,7 +144,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1799-1801)"
+            "rights_statement_explore": "Public Domain (1799-1801)",
+            "rights_statement_get_tr": "Public Domain (1799-1801)",
+            "rights_statement_get_img": "Public Domain (1799-1801)"
         }
     },
     "LAB": {
@@ -132,6 +156,8 @@
             "full_title": "Der Liberale Alpenbote",
             "start_year": 1848,
             "end_year": 1860,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -143,7 +169,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1848-1860)"
+            "rights_statement_explore": "Public Domain (1848-1860)",
+            "rights_statement_get_tr": "Public Domain (1848-1860)",
+            "rights_statement_get_img": "Public Domain (1848-1860)"
         }
     },
     "MGS": {
@@ -153,6 +181,8 @@
             "full_title": "Der Morgenstern",
             "start_year": 1842,
             "end_year": 1843,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -164,7 +194,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1842-1843)"
+            "rights_statement_explore": "Public Domain (1842-1843)",
+            "rights_statement_get_tr": "Public Domain (1842-1843)",
+            "rights_statement_get_img": "Public Domain (1842-1843)"
         }
     },
     "NTS": {
@@ -174,6 +206,8 @@
             "full_title": "Neues Tagblatt aus der \u00f6stlichen Schweiz",
             "start_year": 1856,
             "end_year": 1874,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -185,7 +219,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1856-1874)"
+            "rights_statement_explore": "Public Domain (1856-1874)",
+            "rights_statement_get_tr": "Public Domain (1856-1874)",
+            "rights_statement_get_img": "Public Domain (1856-1874)"
         }
     },
     "NZG": {
@@ -195,6 +231,8 @@
             "full_title": "Neue Zuger Zeitung (II)",
             "start_year": 1846,
             "end_year": 1891,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -206,7 +244,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1846-1891)"
+            "rights_statement_explore": "Public Domain (1846-1891)",
+            "rights_statement_get_tr": "Public Domain (1846-1891)",
+            "rights_statement_get_img": "Public Domain (1846-1891)"
         }
     },
     "SGZ": {
@@ -216,6 +256,8 @@
             "full_title": "St.Galler Zeitung",
             "start_year": 1831,
             "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -227,7 +269,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1831-1881)"
+            "rights_statement_explore": "Public Domain (1831-1881)",
+            "rights_statement_get_tr": "Public Domain (1831-1881)",
+            "rights_statement_get_img": "Public Domain (1831-1881)"
         }
     },
     "SRT": {
@@ -237,6 +281,8 @@
             "full_title": "Schweizerische Tag-Bl\u00e4tter",
             "start_year": 1798,
             "end_year": 1798,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -248,7 +294,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1798-1798)"
+            "rights_statement_explore": "Public Domain (1798-1798)",
+            "rights_statement_get_tr": "Public Domain (1798-1798)",
+            "rights_statement_get_img": "Public Domain (1798-1798)"
         }
     },
     "WHD": {
@@ -258,6 +306,8 @@
             "full_title": "Der Wahrheitsfreund",
             "start_year": 1835,
             "end_year": 1863,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -269,7 +319,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1835-1863)"
+            "rights_statement_explore": "Public Domain (1835-1863)",
+            "rights_statement_get_tr": "Public Domain (1835-1863)",
+            "rights_statement_get_img": "Public Domain (1835-1863)"
         }
     },
     "ZBT": {
@@ -279,6 +331,8 @@
             "full_title": "Der Zugerbieter",
             "start_year": 1865,
             "end_year": 1868,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -290,7 +344,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1865-1868)"
+            "rights_statement_explore": "Public Domain (1865-1868)",
+            "rights_statement_get_tr": "Public Domain (1865-1868)",
+            "rights_statement_get_img": "Public Domain (1865-1868)"
         }
     },
     "BDC": {
@@ -300,6 +356,8 @@
             "full_title": "Bulletin des s\u00e9ances de la Constituante",
             "start_year": 1839,
             "end_year": 1839,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -311,7 +369,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1839-1839)"
+            "rights_statement_explore": "Public Domain (1839-1839)",
+            "rights_statement_get_tr": "Public Domain (1839-1839)",
+            "rights_statement_get_img": "Public Domain (1839-1839)"
         }
     },
     "CDV": {
@@ -321,6 +381,8 @@
             "full_title": "Courrier du Valais",
             "start_year": 1843,
             "end_year": 1857,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -332,7 +394,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1843-1857)"
+            "rights_statement_explore": "Public Domain (1843-1857)",
+            "rights_statement_get_tr": "Public Domain (1843-1857)",
+            "rights_statement_get_img": "Public Domain (1843-1857)"
         }
     },
     "EDA": {
@@ -342,6 +406,8 @@
             "full_title": "L\u2019\u00c9cho des Alpes",
             "start_year": 1839,
             "end_year": 1844,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -353,7 +419,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1839-1844)"
+            "rights_statement_explore": "Public Domain (1839-1844)",
+            "rights_statement_get_tr": "Public Domain (1839-1844)",
+            "rights_statement_get_img": "Public Domain (1839-1844)"
         }
     },
     "JDV": {
@@ -363,6 +431,8 @@
             "full_title": "Le Journal du Valais",
             "start_year": 1848,
             "end_year": 1848,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -374,7 +444,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1848-1848)"
+            "rights_statement_explore": "Public Domain (1848-1848)",
+            "rights_statement_get_tr": "Public Domain (1848-1848)",
+            "rights_statement_get_img": "Public Domain (1848-1848)"
         }
     },
     "LSR": {
@@ -384,6 +456,8 @@
             "full_title": "L\u2019Observateur",
             "start_year": 1846,
             "end_year": 1848,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -395,7 +469,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1846-1848)"
+            "rights_statement_explore": "Public Domain (1846-1848)",
+            "rights_statement_get_tr": "Public Domain (1846-1848)",
+            "rights_statement_get_img": "Public Domain (1846-1848)"
         }
     },
     "CON": {
@@ -405,6 +481,8 @@
             "full_title": "La Contr\u00e9e",
             "start_year": 1902,
             "end_year": 1903,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -416,7 +494,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1902-1903)"
+            "rights_statement_explore": "Public Domain (1902-1903)",
+            "rights_statement_get_tr": "Public Domain (1902-1903)",
+            "rights_statement_get_img": "Public Domain (1902-1903)"
         }
     },
     "GAV": {
@@ -426,6 +506,8 @@
             "full_title": "Gazette du Valais / Nouvelle gazette du Valais",
             "start_year": 1855,
             "end_year": 1922,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -437,7 +519,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1855-1922)"
+            "rights_statement_explore": "Public Domain (1855-1922)",
+            "rights_statement_get_tr": "Public Domain (1855-1922)",
+            "rights_statement_get_img": "Public Domain (1855-1922)"
         }
     },
     "GAZ": {
@@ -447,6 +531,8 @@
             "full_title": "Gazette du Simplon",
             "start_year": 1842,
             "end_year": 1847,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -458,7 +544,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1842-1847)"
+            "rights_statement_explore": "Public Domain (1842-1847)",
+            "rights_statement_get_tr": "Public Domain (1842-1847)",
+            "rights_statement_get_img": "Public Domain (1842-1847)"
         }
     },
     "SAX": {
@@ -468,6 +556,8 @@
             "full_title": "Journal de Saxon",
             "start_year": 1882,
             "end_year": 1884,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -479,7 +569,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1882-1884)"
+            "rights_statement_explore": "Public Domain (1882-1884)",
+            "rights_statement_get_tr": "Public Domain (1882-1884)",
+            "rights_statement_get_img": "Public Domain (1882-1884)"
         }
     },
     "VDR": {
@@ -489,6 +581,8 @@
             "full_title": "La Voix du Rh\u00f4ne",
             "start_year": 1844,
             "end_year": 1844,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -500,7 +594,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1844-1844)"
+            "rights_statement_explore": "Public Domain (1844-1844)",
+            "rights_statement_get_tr": "Public Domain (1844-1844)",
+            "rights_statement_get_img": "Public Domain (1844-1844)"
         }
     },
     "DLE": {
@@ -510,6 +606,8 @@
             "full_title": "Der Landbote des freiburgischen Seebezirks",
             "start_year": 1909,
             "end_year": 1914,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -521,7 +619,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1909-1914) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1909-1914) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1909-1914) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1909-1914) - Personal, Research and Educational use"
         }
     },
     "JDF": {
@@ -531,6 +631,8 @@
             "full_title": "Journal du canton de Fribourg",
             "start_year": 1830,
             "end_year": 1833,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -542,7 +644,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1830-1833)"
+            "rights_statement_explore": "Public Domain (1830-1833)",
+            "rights_statement_get_tr": "Public Domain (1830-1833)",
+            "rights_statement_get_img": "Public Domain (1830-1833)"
         }
     },
     "LBP": {
@@ -552,6 +656,8 @@
             "full_title": "Le Bien public",
             "start_year": 1879,
             "end_year": 1888,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -563,7 +669,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1879-1888)"
+            "rights_statement_explore": "Public Domain (1879-1888)",
+            "rights_statement_get_tr": "Public Domain (1879-1888)",
+            "rights_statement_get_img": "Public Domain (1879-1888)"
         }
     },
     "LCR": {
@@ -573,6 +681,8 @@
             "full_title": "Le Chroniqueur",
             "start_year": 1854,
             "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -584,7 +694,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1854-1881)"
+            "rights_statement_explore": "Public Domain (1854-1881)",
+            "rights_statement_get_tr": "Public Domain (1854-1881)",
+            "rights_statement_get_img": "Public Domain (1854-1881)"
         }
     },
     "LCS": {
@@ -594,6 +706,8 @@
             "full_title": "Le Courrier fribourgeois",
             "start_year": 1830,
             "end_year": 1830,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -605,7 +719,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1830-1830)"
+            "rights_statement_explore": "Public Domain (1830-1830)",
+            "rights_statement_get_tr": "Public Domain (1830-1830)",
+            "rights_statement_get_img": "Public Domain (1830-1830)"
         }
     },
     "LNF": {
@@ -615,6 +731,8 @@
             "full_title": "Le Narrateur fribourgeois",
             "start_year": 1840,
             "end_year": 1855,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -626,7 +744,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1840-1855)"
+            "rights_statement_explore": "Public Domain (1840-1855)",
+            "rights_statement_get_tr": "Public Domain (1840-1855)",
+            "rights_statement_get_img": "Public Domain (1840-1855)"
         }
     },
     "LTF": {
@@ -636,6 +756,8 @@
             "full_title": "La Tribune de Fribourg",
             "start_year": 1905,
             "end_year": 1905,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -647,7 +769,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1905-1905)"
+            "rights_statement_explore": "Public Domain (1905-1905)",
+            "rights_statement_get_tr": "Public Domain (1905-1905)",
+            "rights_statement_get_img": "Public Domain (1905-1905)"
         }
     },
     "LVE": {
@@ -657,6 +781,8 @@
             "full_title": "Le V\u00e9ridique",
             "start_year": 1831,
             "end_year": 1833,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -668,7 +794,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1831-1833)"
+            "rights_statement_explore": "Public Domain (1831-1833)",
+            "rights_statement_get_tr": "Public Domain (1831-1833)",
+            "rights_statement_get_img": "Public Domain (1831-1833)"
         }
     },
     "LCG": {
@@ -678,6 +806,8 @@
             "full_title": "Le Conf\u00e9d\u00e9r\u00e9 de Fribourg",
             "start_year": 1848,
             "end_year": 1907,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -689,7 +819,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1848-1907)"
+            "rights_statement_explore": "Public Domain (1848-1907)",
+            "rights_statement_get_tr": "Public Domain (1848-1907)",
+            "rights_statement_get_img": "Public Domain (1848-1907)"
         }
     },
     "FZG": {
@@ -699,18 +831,22 @@
             "full_title": "Freiburger Nachrichten",
             "start_year": 1865,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1865-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1865-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1865-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1865-2018) - No allowed use"
         }
     },
     "LLE": {
@@ -720,18 +856,22 @@
             "full_title": "La Libert\u00e9",
             "start_year": 1871,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1871-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1871-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1871-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1871-2018) - No allowed use"
         }
     },
     "EXP": {
@@ -741,18 +881,22 @@
             "full_title": "L'Express",
             "start_year": 1738,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1738-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1738-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1738-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1738-2018) - No allowed use"
         }
     },
     "IMP": {
@@ -762,18 +906,22 @@
             "full_title": "L'Impartial",
             "start_year": 1881,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1881-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1881-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1881-2018) - No allowed use"
         }
     },
     "LCE": {
@@ -783,18 +931,22 @@
             "full_title": "Conf\u00e9d\u00e9r\u00e9",
             "start_year": 1861,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1861-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1861-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1861-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1861-2018) - No allowed use"
         }
     },
     "JDG": {
@@ -804,18 +956,22 @@
             "full_title": "Journal de Gen\u00e8ve",
             "start_year": 1826,
             "end_year": 1998,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1826-1998) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1826-1998) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1826-1998) - No allowed use",
+            "rights_statement_get_img": "Protected (1826-1998) - No allowed use"
         }
     },
     "GDL": {
@@ -825,18 +981,22 @@
             "full_title": "Gazette de Lausanne",
             "start_year": 1804,
             "end_year": 1991,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1804-1991) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1804-1991) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1804-1991) - No allowed use",
+            "rights_statement_get_img": "Protected (1804-1991) - No allowed use"
         }
     },
     "DTT": {
@@ -846,18 +1006,22 @@
             "full_title": "Die Tat",
             "start_year": 1935,
             "end_year": 1978,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1935-1978) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1935-1978) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1935-1978) - No allowed use",
+            "rights_statement_get_img": "Protected (1935-1978) - No allowed use"
         }
     },
     "FCT": {
@@ -867,18 +1031,22 @@
             "full_title": "La FCTA",
             "start_year": 1955,
             "end_year": 1963,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1955-1963) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1955-1963) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1955-1963) - No allowed use",
+            "rights_statement_get_img": "Protected (1955-1963) - No allowed use"
         }
     },
     "LLS": {
@@ -888,18 +1056,22 @@
             "full_title": "La lutte syndicale",
             "start_year": 1906,
             "end_year": 1998,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1906-1998) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1906-1998) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1906-1998) - No allowed use",
+            "rights_statement_get_img": "Protected (1906-1998) - No allowed use"
         }
     },
     "OIZ": {
@@ -909,18 +1081,22 @@
             "full_title": "Die Gewerkschaft",
             "start_year": 1901,
             "end_year": 1992,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1901-1992) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1901-1992) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1901-1992) - No allowed use",
+            "rights_statement_get_img": "Protected (1901-1992) - No allowed use"
         }
     },
     "SDT": {
@@ -930,18 +1106,22 @@
             "full_title": "Solidarit\u00e9",
             "start_year": 1909,
             "end_year": 2001,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1909-2001) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1909-2001) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1909-2001) - No allowed use",
+            "rights_statement_get_img": "Protected (1909-2001) - No allowed use"
         }
     },
     "SMZ": {
@@ -951,18 +1131,22 @@
             "full_title": "SMUV-Zeitung",
             "start_year": 1902,
             "end_year": 2004,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1902-2004) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1902-2004) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1902-2004) - No allowed use",
+            "rights_statement_get_img": "Protected (1902-2004) - No allowed use"
         }
     },
     "VHT": {
@@ -972,18 +1156,22 @@
             "full_title": "VHTL-Zeitung",
             "start_year": 1904,
             "end_year": 2004,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1904-2004) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1904-2004) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1904-2004) - No allowed use",
+            "rights_statement_get_img": "Protected (1904-2004) - No allowed use"
         }
     },
     "LSE": {
@@ -993,18 +1181,22 @@
             "full_title": "Le Peuple, La Sentinelle",
             "start_year": 1890,
             "end_year": 1971,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1890-1971) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1890-1971) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1890-1971) - No allowed use",
+            "rights_statement_get_img": "Protected (1890-1971) - No allowed use"
         }
     },
     "LES": {
@@ -1014,18 +1206,22 @@
             "full_title": "L'Essor",
             "start_year": 1906,
             "end_year": 2018,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1906-2018) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1906-2018) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1906-2018) - No allowed use",
+            "rights_statement_get_img": "Protected (1906-2018) - No allowed use"
         }
     }
 }

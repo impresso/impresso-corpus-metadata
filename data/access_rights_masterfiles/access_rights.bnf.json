@@ -6,6 +6,8 @@
             "full_title": "Excelsior",
             "start_year": 1910,
             "end_year": 1920,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -17,7 +19,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1910-1920) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1910-1920) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1910-1920) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1910-1920) - Personal, Research and Educational use"
         }
     },
     "lafronde": {
@@ -27,6 +31,8 @@
             "full_title": "La Fronde",
             "start_year": 1897,
             "end_year": 1929,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -38,7 +44,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1897-1929) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1897-1929) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1897-1929) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1897-1929) - Personal, Research and Educational use"
         }
     },
     "marieclaire": {
@@ -48,6 +56,8 @@
             "full_title": "Marie-Claire",
             "start_year": 1937,
             "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -59,7 +69,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1937-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1937-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1937-1944) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1937-1944) - Personal, Research and Educational use"
         }
     },
     "oeuvre": {
@@ -69,6 +81,8 @@
             "full_title": "Oeuvre",
             "start_year": 1915,
             "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -80,7 +94,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1915-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1915-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1915-1944) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1915-1944) - Personal, Research and Educational use"
         }
     },
     "jdpl": {
@@ -90,6 +106,8 @@
             "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
             "start_year": 1814,
             "end_year": 1884,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -101,7 +119,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1814-1884)"
+            "rights_statement_explore": "Public Domain (1814-1884)",
+            "rights_statement_get_tr": "Public Domain (1814-1884)",
+            "rights_statement_get_img": "Public Domain (1814-1884)"
         },
         "1885-1944": {
             "rights_holder_id": "BNF",
@@ -109,6 +129,8 @@
             "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
             "start_year": 1885,
             "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -120,7 +142,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1885-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1885-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1885-1944) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1885-1944) - Personal, Research and Educational use"
         }
     },
     "legaulois": {
@@ -130,6 +154,8 @@
             "full_title": "Le Gaulois",
             "start_year": 1868,
             "end_year": 1884,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -141,7 +167,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1868-1884)"
+            "rights_statement_explore": "Public Domain (1868-1884)",
+            "rights_statement_get_tr": "Public Domain (1868-1884)",
+            "rights_statement_get_img": "Public Domain (1868-1884)"
         },
         "1885-1929": {
             "rights_holder_id": "BNF",
@@ -149,6 +177,8 @@
             "full_title": "Le Gaulois",
             "start_year": 1885,
             "end_year": 1929,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -160,7 +190,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1885-1929) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1885-1929) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1885-1929) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1885-1929) - Personal, Research and Educational use"
         }
     },
     "lematin": {
@@ -170,6 +202,8 @@
             "full_title": "Le Matin",
             "start_year": 1884,
             "end_year": 1942,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -181,7 +215,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1884-1942)"
+            "rights_statement_explore": "Public Domain (1884-1942)",
+            "rights_statement_get_tr": "Public Domain (1884-1942)",
+            "rights_statement_get_img": "Public Domain (1884-1942)"
         }
     },
     "lepji": {
@@ -191,6 +227,8 @@
             "full_title": "Le Petit Journal Illustr\u00e9 - Suppl\u00e9ement du dimanche",
             "start_year": 1884,
             "end_year": 1920,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -202,7 +240,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1884-1920) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1884-1920) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1884-1920) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1884-1920) - Personal, Research and Educational use"
         }
     },
     "lepetitparisien": {
@@ -212,6 +252,8 @@
             "full_title": "Le Petit Parisien",
             "start_year": 1876,
             "end_year": 1884,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -223,7 +265,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1876-1884)"
+            "rights_statement_explore": "Public Domain (1876-1884)",
+            "rights_statement_get_tr": "Public Domain (1876-1884)",
+            "rights_statement_get_img": "Public Domain (1876-1884)"
         },
         "1885-1944": {
             "rights_holder_id": "BNF",
@@ -231,6 +275,8 @@
             "full_title": "Le Petit Parisien",
             "start_year": 1885,
             "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -242,7 +288,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1885-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1885-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1885-1944) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1885-1944) - Personal, Research and Educational use"
         }
     },
     "oecaen": {
@@ -252,6 +300,8 @@
             "full_title": "Ouest-Eclair Caen",
             "start_year": 1912,
             "end_year": 1942,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -263,7 +313,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1912-1942) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1912-1942) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1912-1942) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1912-1942) - Personal, Research and Educational use"
         }
     },
     "oerennes": {
@@ -273,6 +325,8 @@
             "full_title": "Ouest-Eclair  Rennes",
             "start_year": 1899,
             "end_year": 1942,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -284,7 +338,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1899-1942) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1899-1942) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1899-1942) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1899-1942) - Personal, Research and Educational use"
         }
     }
 }

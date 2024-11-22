@@ -80,6 +80,8 @@ ACCESS_RIGHTS_RULES = {
     "included_time_period_end_date_31st_december_to_be_filled_only_if_it_applies": {
         "rename_key_to": "end_year"
     },
+    "media_type": {"copy_value_from_field": "media_type"},
+    "medium": {"copy_value_from_field": "medium"},
     "do_you_provide_content_and_not_only_metadata": {
         "rename_key_to": "content_and_metadata"
     },
@@ -141,7 +143,9 @@ def transform_value(d: dict, is_metadata: bool = True) -> dict:
 
     for key_with_rule, rule in rules.items():
         if "copy_value_from_field" in rule:
-            transformed[key_with_rule] = transformed[rule["copy_value_from_field"]]
+            val = transformed[rule["copy_value_from_field"]]
+            del transformed[key_with_rule]
+            transformed[key_with_rule] = val
         if "split_values_by_re" in rule:
             transformed[key_with_rule] = [
                 x

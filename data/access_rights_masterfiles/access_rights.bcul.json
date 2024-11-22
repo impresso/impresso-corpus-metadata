@@ -6,18 +6,22 @@
             "full_title": "Almanach pour le commerce",
             "start_year": 1832,
             "end_year": 1832,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1832-1832)"
+            "rights_statement_explore": "Public Domain (1832-1832)",
+            "rights_statement_get_tr": "Public Domain (1832-1832)",
+            "rights_statement_get_img": "Public Domain (1832-1832)"
         }
     },
     "RN": {
@@ -27,18 +31,22 @@
             "full_title": "Bulletins du Grand Conseil",
             "start_year": 1829,
             "end_year": 2020,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1829-2020)"
+            "rights_statement_explore": "Protected (1829-2020) - Research use",
+            "rights_statement_get_tr": "Protected (1829-2020) - Research use",
+            "rights_statement_get_img": "Protected (1829-2020) - Research use"
         }
     },
     "Castigat": {
@@ -48,18 +56,22 @@
             "full_title": "Castigat ridendo mores",
             "start_year": 1879,
             "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1879-1880)"
+            "rights_statement_explore": "Public Domain (1879-1880)",
+            "rights_statement_get_tr": "Public Domain (1879-1880)",
+            "rights_statement_get_img": "Public Domain (1879-1880)"
         }
     },
     "CL": {
@@ -69,18 +81,22 @@
             "full_title": "Courrier du L\u00e9man",
             "start_year": 1882,
             "end_year": 1886,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1882-1886)"
+            "rights_statement_explore": "Public Domain (1882-1886)",
+            "rights_statement_get_tr": "Public Domain (1882-1886)",
+            "rights_statement_get_img": "Public Domain (1882-1886)"
         }
     },
     "Croquis": {
@@ -90,18 +106,22 @@
             "full_title": "Croquis vaudois",
             "start_year": 1884,
             "end_year": 1887,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1884-1887)"
+            "rights_statement_explore": "Public Domain (1884-1887)",
+            "rights_statement_get_tr": "Public Domain (1884-1887)",
+            "rights_statement_get_img": "Public Domain (1884-1887)"
         }
     },
     "FAM": {
@@ -111,18 +131,22 @@
             "full_title": "Feuille d'avis de Morges 1",
             "start_year": 1854,
             "end_year": 1854,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1854-1854)"
+            "rights_statement_explore": "Public Domain (1854-1854)",
+            "rights_statement_get_tr": "Public Domain (1854-1854)",
+            "rights_statement_get_img": "Public Domain (1854-1854)"
         }
     },
     "FAMDE": {
@@ -132,18 +156,22 @@
             "full_title": "Feuille d'avis de Moudon",
             "start_year": 1859,
             "end_year": 1859,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1859-1859)"
+            "rights_statement_explore": "Public Domain (1859-1859)",
+            "rights_statement_get_tr": "Public Domain (1859-1859)",
+            "rights_statement_get_img": "Public Domain (1859-1859)"
         }
     },
     "FAN": {
@@ -153,18 +181,22 @@
             "full_title": "Feuille d'avis de Nyon",
             "start_year": 1849,
             "end_year": 1867,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1849-1867)"
+            "rights_statement_explore": "Public Domain (1849-1867)",
+            "rights_statement_get_tr": "Public Domain (1849-1867)",
+            "rights_statement_get_img": "Public Domain (1849-1867)"
         }
     },
     "feuilleP": {
@@ -174,18 +206,22 @@
             "full_title": "Feuille d'avis de Payerne",
             "start_year": 1843,
             "end_year": 1845,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1843-1845)"
+            "rights_statement_explore": "Public Domain (1843-1845)",
+            "rights_statement_get_tr": "Public Domain (1843-1845)",
+            "rights_statement_get_img": "Public Domain (1843-1845)"
         }
     },
     "feuillePMA": {
@@ -195,18 +231,22 @@
             "full_title": "Feuille d'avis de Payerne, Moudon et Avenches",
             "start_year": 1852,
             "end_year": 1852,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1852-1852)"
+            "rights_statement_explore": "Public Domain (1852-1852)",
+            "rights_statement_get_tr": "Public Domain (1852-1852)",
+            "rights_statement_get_img": "Public Domain (1852-1852)"
         }
     },
     "FAV1": {
@@ -216,18 +256,22 @@
             "full_title": "Feuille d'avis de Vevey 1",
             "start_year": 1784,
             "end_year": 1826,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1784-1826)"
+            "rights_statement_explore": "Public Domain (1784-1826)",
+            "rights_statement_get_tr": "Public Domain (1784-1826)",
+            "rights_statement_get_img": "Public Domain (1784-1826)"
         }
     },
     "GAVi": {
@@ -237,18 +281,22 @@
             "full_title": "Gazette des Villages",
             "start_year": 1867,
             "end_year": 1868,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1867-1868)"
+            "rights_statement_explore": "Public Domain (1867-1868)",
+            "rights_statement_get_tr": "Public Domain (1867-1868)",
+            "rights_statement_get_img": "Public Domain (1867-1868)"
         }
     },
     "AV": {
@@ -258,18 +306,22 @@
             "full_title": "Indicateur de Lausanne",
             "start_year": 1880,
             "end_year": 1886,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1880-1886)"
+            "rights_statement_explore": "Public Domain (1880-1886)",
+            "rights_statement_get_tr": "Public Domain (1880-1886)",
+            "rights_statement_get_img": "Public Domain (1880-1886)"
         }
     },
     "JY2": {
@@ -279,18 +331,22 @@
             "full_title": "Journal d'Yverdon 2",
             "start_year": 1842,
             "end_year": 1843,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1842-1843)"
+            "rights_statement_explore": "Public Domain (1842-1843)",
+            "rights_statement_get_tr": "Public Domain (1842-1843)",
+            "rights_statement_get_img": "Public Domain (1842-1843)"
         }
     },
     "JV": {
@@ -300,18 +356,22 @@
             "full_title": "Journal de Vevey",
             "start_year": 1865,
             "end_year": 1882,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1865-1882)"
+            "rights_statement_explore": "Public Domain (1865-1882)",
+            "rights_statement_get_tr": "Public Domain (1865-1882)",
+            "rights_statement_get_img": "Public Domain (1865-1882)"
         }
     },
     "JVE": {
@@ -321,18 +381,22 @@
             "full_title": "Journal de Vevey et des \u00e9trangers",
             "start_year": 1891,
             "end_year": 1894,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1891-1894)"
+            "rights_statement_explore": "Public Domain (1891-1894)",
+            "rights_statement_get_tr": "Public Domain (1891-1894)",
+            "rights_statement_get_img": "Public Domain (1891-1894)"
         }
     },
     "JH": {
@@ -342,18 +406,22 @@
             "full_title": "Journal helv\u00e9tique",
             "start_year": 1738,
             "end_year": 1782,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1738-1782)"
+            "rights_statement_explore": "Public Domain (1738-1782)",
+            "rights_statement_get_tr": "Public Domain (1738-1782)",
+            "rights_statement_get_img": "Public Domain (1738-1782)"
         }
     },
     "NV": {
@@ -363,18 +431,22 @@
             "full_title": "L'ami de la v\u00e9rit\u00e9: journal du Canton de Vaud",
             "start_year": 1822,
             "end_year": 1823,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1822-1823)"
+            "rights_statement_explore": "Public Domain (1822-1823)",
+            "rights_statement_get_tr": "Public Domain (1822-1823)",
+            "rights_statement_get_img": "Public Domain (1822-1823)"
         }
     },
     "EM": {
@@ -384,18 +456,22 @@
             "full_title": "L'Echo de Morges",
             "start_year": 1883,
             "end_year": 1892,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1883-1892)"
+            "rights_statement_explore": "Public Domain (1883-1892)",
+            "rights_statement_get_tr": "Public Domain (1883-1892)",
+            "rights_statement_get_img": "Public Domain (1883-1892)"
         }
     },
     "esta": {
@@ -405,18 +481,22 @@
             "full_title": "L'Estafette: Journal suisse",
             "start_year": 1862,
             "end_year": 1895,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1862-1895)"
+            "rights_statement_explore": "Public Domain (1862-1895)",
+            "rights_statement_get_tr": "Public Domain (1862-1895)",
+            "rights_statement_get_img": "Public Domain (1862-1895)"
         }
     },
     "OBS": {
@@ -426,18 +506,22 @@
             "full_title": "L'Observateur du L\u00e9man",
             "start_year": 1865,
             "end_year": 1865,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1865-1865)"
+            "rights_statement_explore": "Public Domain (1865-1865)",
+            "rights_statement_get_tr": "Public Domain (1865-1865)",
+            "rights_statement_get_img": "Public Domain (1865-1865)"
         }
     },
     "Bombe": {
@@ -447,18 +531,22 @@
             "full_title": "La Bombe",
             "start_year": 1889,
             "end_year": 1889,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1889-1889)"
+            "rights_statement_explore": "Public Domain (1889-1889)",
+            "rights_statement_get_tr": "Public Domain (1889-1889)",
+            "rights_statement_get_img": "Public Domain (1889-1889)"
         }
     },
     "Cancoire": {
@@ -468,18 +556,22 @@
             "full_title": "La Cancoire",
             "start_year": 1898,
             "end_year": 1898,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1898-1898)"
+            "rights_statement_explore": "Public Domain (1898-1898)",
+            "rights_statement_get_tr": "Public Domain (1898-1898)",
+            "rights_statement_get_img": "Public Domain (1898-1898)"
         }
     },
     "Fronde": {
@@ -489,18 +581,22 @@
             "full_title": "La Fronde",
             "start_year": 1872,
             "end_year": 1872,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1872-1872)"
+            "rights_statement_explore": "Public Domain (1872-1872)",
+            "rights_statement_get_tr": "Public Domain (1872-1872)",
+            "rights_statement_get_img": "Public Domain (1872-1872)"
         }
     },
     "Griffe": {
@@ -510,18 +606,22 @@
             "full_title": "La Griffe",
             "start_year": 1864,
             "end_year": 1866,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1864-1866)"
+            "rights_statement_explore": "Public Domain (1864-1866)",
+            "rights_statement_get_tr": "Public Domain (1864-1866)",
+            "rights_statement_get_img": "Public Domain (1864-1866)"
         }
     },
     "Guepe1851": {
@@ -531,18 +631,22 @@
             "full_title": "La Gu\u00eape [1]",
             "start_year": 1851,
             "end_year": 1854,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1851-1854)"
+            "rights_statement_explore": "Public Domain (1851-1854)",
+            "rights_statement_get_tr": "Public Domain (1851-1854)",
+            "rights_statement_get_img": "Public Domain (1851-1854)"
         }
     },
     "Guepe1887": {
@@ -552,18 +656,22 @@
             "full_title": "La Gu\u00eape [2]",
             "start_year": 1887,
             "end_year": 1897,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1887-1897)"
+            "rights_statement_explore": "Public Domain (1887-1897)",
+            "rights_statement_get_tr": "Public Domain (1887-1897)",
+            "rights_statement_get_img": "Public Domain (1887-1897)"
         }
     },
     "RLA": {
@@ -573,18 +681,22 @@
             "full_title": "La Revue agricole",
             "start_year": 1891,
             "end_year": 1898,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1891-1898)"
+            "rights_statement_explore": "Public Domain (1891-1898)",
+            "rights_statement_get_tr": "Public Domain (1891-1898)",
+            "rights_statement_get_img": "Public Domain (1891-1898)"
         }
     },
     "PAT": {
@@ -594,18 +706,22 @@
             "full_title": "La Veveysanne - La Patrie (La Patrie)",
             "start_year": 1841,
             "end_year": 1844,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1841-1844)"
+            "rights_statement_explore": "Public Domain (1841-1844)",
+            "rights_statement_get_tr": "Public Domain (1841-1844)",
+            "rights_statement_get_img": "Public Domain (1841-1844)"
         }
     },
     "VVS": {
@@ -615,18 +731,22 @@
             "full_title": "La Veveysanne - La Patrie (La Veveysanne)",
             "start_year": 1840,
             "end_year": 1843,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1840-1843)"
+            "rights_statement_explore": "Public Domain (1840-1843)",
+            "rights_statement_get_tr": "Public Domain (1840-1843)",
+            "rights_statement_get_img": "Public Domain (1840-1843)"
         }
     },
     "Charivari": {
@@ -636,18 +756,22 @@
             "full_title": "Le Charivari [1]",
             "start_year": 1839,
             "end_year": 1841,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1839-1841)"
+            "rights_statement_explore": "Public Domain (1839-1841)",
+            "rights_statement_get_tr": "Public Domain (1839-1841)",
+            "rights_statement_get_img": "Public Domain (1839-1841)"
         }
     },
     "CharivariCH": {
@@ -657,18 +781,22 @@
             "full_title": "Le Charivari [2]",
             "start_year": 1875,
             "end_year": 1877,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1875-1877)"
+            "rights_statement_explore": "Public Domain (1875-1877)",
+            "rights_statement_get_tr": "Public Domain (1875-1877)",
+            "rights_statement_get_img": "Public Domain (1875-1877)"
         }
     },
     "Grelot": {
@@ -678,18 +806,22 @@
             "full_title": "Le Grelot",
             "start_year": 1843,
             "end_year": 1846,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1843-1846)"
+            "rights_statement_explore": "Public Domain (1843-1846)",
+            "rights_statement_get_tr": "Public Domain (1843-1846)",
+            "rights_statement_get_img": "Public Domain (1843-1846)"
         }
     },
     "MESSAGER": {
@@ -699,18 +831,22 @@
             "full_title": "Le Messager",
             "start_year": 1879,
             "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1879-1881)"
+            "rights_statement_explore": "Public Domain (1879-1881)",
+            "rights_statement_get_tr": "Public Domain (1879-1881)",
+            "rights_statement_get_img": "Public Domain (1879-1881)"
         }
     },
     "Moniteur": {
@@ -720,18 +856,22 @@
             "full_title": "Le Moniteur",
             "start_year": 1879,
             "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1879-1880)"
+            "rights_statement_explore": "Public Domain (1879-1880)",
+            "rights_statement_get_tr": "Public Domain (1879-1880)",
+            "rights_statement_get_img": "Public Domain (1879-1880)"
         }
     },
     "Moustique": {
@@ -741,18 +881,22 @@
             "full_title": "Le Moustique (Vevey)",
             "start_year": 1887,
             "end_year": 1887,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1887-1887)"
+            "rights_statement_explore": "Public Domain (1887-1887)",
+            "rights_statement_get_tr": "Public Domain (1887-1887)",
+            "rights_statement_get_img": "Public Domain (1887-1887)"
         }
     },
     "NV1": {
@@ -762,18 +906,22 @@
             "full_title": "Le Nouvelliste vaudois",
             "start_year": 1824,
             "end_year": 1855,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1824-1855)"
+            "rights_statement_explore": "Public Domain (1824-1855)",
+            "rights_statement_get_tr": "Public Domain (1824-1855)",
+            "rights_statement_get_img": "Public Domain (1824-1855)"
         }
     },
     "ouistiti": {
@@ -783,18 +931,22 @@
             "full_title": "Le Ouistiti",
             "start_year": 1882,
             "end_year": 1882,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1882-1882)"
+            "rights_statement_explore": "Public Domain (1882-1882)",
+            "rights_statement_get_tr": "Public Domain (1882-1882)",
+            "rights_statement_get_img": "Public Domain (1882-1882)"
         }
     },
     "PJ": {
@@ -804,18 +956,22 @@
             "full_title": "Le P\u00e8re J\u00e9r\u00f4me",
             "start_year": 1831,
             "end_year": 1832,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1831-1832)"
+            "rights_statement_explore": "Public Domain (1831-1832)",
+            "rights_statement_get_tr": "Public Domain (1831-1832)",
+            "rights_statement_get_img": "Public Domain (1831-1832)"
         }
     },
     "PS": {
@@ -825,18 +981,22 @@
             "full_title": "Le Peuple souverain",
             "start_year": 1845,
             "end_year": 1846,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1845-1846)"
+            "rights_statement_explore": "Public Domain (1845-1846)",
+            "rights_statement_get_tr": "Public Domain (1845-1846)",
+            "rights_statement_get_img": "Public Domain (1845-1846)"
         }
     },
     "PDN": {
@@ -846,18 +1006,22 @@
             "full_title": "Le Phare de Nyon",
             "start_year": 1841,
             "end_year": 1841,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1841-1841)"
+            "rights_statement_explore": "Public Domain (1841-1841)",
+            "rights_statement_get_tr": "Public Domain (1841-1841)",
+            "rights_statement_get_img": "Public Domain (1841-1841)"
         }
     },
     "PDL": {
@@ -867,18 +1031,22 @@
             "full_title": "Le Phare du L\u00e9man",
             "start_year": 1841,
             "end_year": 1842,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1841-1842)"
+            "rights_statement_explore": "Public Domain (1841-1842)",
+            "rights_statement_get_tr": "Public Domain (1841-1842)",
+            "rights_statement_get_img": "Public Domain (1841-1842)"
         }
     },
     "TouSuIl": {
@@ -888,18 +1056,22 @@
             "full_title": "Le Touriste / La Suisse Illustr\u00e9e",
             "start_year": 1866,
             "end_year": 1882,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1866-1882)"
+            "rights_statement_explore": "Public Domain (1866-1882)",
+            "rights_statement_get_tr": "Public Domain (1866-1882)",
+            "rights_statement_get_img": "Public Domain (1866-1882)"
         }
     },
     "VVS1": {
@@ -909,18 +1081,22 @@
             "full_title": "Le Veveysan 1",
             "start_year": 1888,
             "end_year": 1889,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1888-1889)"
+            "rights_statement_explore": "Public Domain (1888-1889)",
+            "rights_statement_get_tr": "Public Domain (1888-1889)",
+            "rights_statement_get_img": "Public Domain (1888-1889)"
         }
     },
     "ME": {
@@ -930,18 +1106,22 @@
             "full_title": "Mercure suisse",
             "start_year": 1732,
             "end_year": 1747,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1732-1747)"
+            "rights_statement_explore": "Public Domain (1732-1747)",
+            "rights_statement_get_tr": "Public Domain (1732-1747)",
+            "rights_statement_get_img": "Public Domain (1732-1747)"
         }
     },
     "MB": {
@@ -951,18 +1131,22 @@
             "full_title": "Messager bo\u00eeteux",
             "start_year": 1748,
             "end_year": 1800,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1748-1800)"
+            "rights_statement_explore": "Public Domain (1748-1800)",
+            "rights_statement_get_tr": "Public Domain (1748-1800)",
+            "rights_statement_get_img": "Public Domain (1748-1800)"
         }
     },
     "NS": {
@@ -972,18 +1156,22 @@
             "full_title": "Nouvelliste suisse",
             "start_year": 1748,
             "end_year": 1769,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1748-1769)"
+            "rights_statement_explore": "Public Domain (1748-1769)",
+            "rights_statement_get_tr": "Public Domain (1748-1769)",
+            "rights_statement_get_img": "Public Domain (1748-1769)"
         }
     },
     "NV2": {
@@ -993,18 +1181,22 @@
             "full_title": "Nouvelliste vaudois et journal national suisse",
             "start_year": 1856,
             "end_year": 1891,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1856-1891)"
+            "rights_statement_explore": "Public Domain (1856-1891)",
+            "rights_statement_get_tr": "Public Domain (1856-1891)",
+            "rights_statement_get_img": "Public Domain (1856-1891)"
         }
     },
     "RN1": {
@@ -1014,18 +1206,22 @@
             "full_title": "R\u00e9pertoires de Bulletins du Grand Conseil",
             "start_year": 1907,
             "end_year": 1921,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1907-1921)"
+            "rights_statement_explore": "Public Domain (1907-1921)",
+            "rights_statement_get_tr": "Public Domain (1907-1921)",
+            "rights_statement_get_img": "Public Domain (1907-1921)"
         }
     },
     "RN2": {
@@ -1035,18 +1231,22 @@
             "full_title": "Travaux des Constituantes",
             "start_year": 1861,
             "end_year": 2002,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1861-2002)"
+            "rights_statement_explore": "Public Domain (1861-2002)",
+            "rights_statement_get_tr": "Public Domain (1861-2002)",
+            "rights_statement_get_img": "Public Domain (1861-2002)"
         }
     }
 }

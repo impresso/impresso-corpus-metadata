@@ -6,6 +6,8 @@
             "full_title": "Neue Z\u00fccher Zeitung",
             "start_year": 1780,
             "end_year": 1950,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -17,7 +19,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1780-1950) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1780-1950) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1780-1950) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1780-1950) - Personal, Research and Educational use"
         }
     },
     "arbeitgeber": {
@@ -27,6 +31,8 @@
             "full_title": "Schweizer Arbeitgeber",
             "start_year": 1907,
             "end_year": 2010,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -38,7 +44,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1907-2010) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1907-2010) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1907-2010) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1907-2010) - Personal, Research and Educational use"
         }
     },
     "handelsztg": {
@@ -48,6 +56,8 @@
             "full_title": "Schweizerische Handels-Zeitung",
             "start_year": 1861,
             "end_year": 1894,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
@@ -59,7 +69,9 @@
                 "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Protected (1861-1894) - Personal, Research and Educational use"
+            "rights_statement_explore": "Protected (1861-1894) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1861-1894) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1861-1894) - Personal, Research and Educational use"
         }
     },
     "FedGazDe": {
@@ -69,6 +81,8 @@
             "full_title": "Bundesblatt",
             "start_year": 1849,
             "end_year": 1999,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -80,7 +94,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1849-1999)"
+            "rights_statement_explore": "Public Domain (1849-1999)",
+            "rights_statement_get_tr": "Public Domain (1849-1999)",
+            "rights_statement_get_img": "Public Domain (1849-1999)"
         }
     },
     "FedGazFr": {
@@ -90,6 +106,8 @@
             "full_title": "Feuille F\u00e9d\u00e9rale",
             "start_year": 1849,
             "end_year": 1999,
+            "media_type": "Newspaper",
+            "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
@@ -101,7 +119,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement": "Public Domain (1849-1999)"
+            "rights_statement_explore": "Public Domain (1849-1999)",
+            "rights_statement_get_tr": "Public Domain (1849-1999)",
+            "rights_statement_get_img": "Public Domain (1849-1999)"
         }
     }
 }
