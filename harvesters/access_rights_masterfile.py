@@ -283,7 +283,7 @@ def statement_from_status(allowed_status: str, allowed_used_archive_only: str) -
             return "No allowed"
 
 
-def entry_to_statement(entry: dict[str, Any], period: str) -> str:
+def entry_to_statement(entry: dict[str, Any], period: str, action_status: str) -> str:
     """Create the human-readable copyright statement from a given title and period.
 
     The returned statement is of the form:
@@ -304,7 +304,7 @@ def entry_to_statement(entry: dict[str, Any], period: str) -> str:
     if entry["copyright_status"] == "Protected Domain: In copyright":
         # the human readable rights are only for the interface: explore
         stmt = statement_from_status(
-            entry["explore_req_status"], entry["allowed_use_archive_only"]
+            entry[action_status], entry["allowed_use_archive_only"]
         )
         return f"Protected ({period}) - {stmt} use"
     if entry["copyright_status"] == "":
@@ -345,7 +345,15 @@ def main():
             # prepare the entry for the final masterfile
             del entry[""]
             entry["content_bitmaps"] = str_bitmaps
-            entry["rights_statement"] = entry_to_statement(entry, period)
+            entry["rights_statement_explore"] = entry_to_statement(
+                entry, period, "explore_req_status"
+            )
+            entry["rights_statement_get_tr"] = entry_to_statement(
+                entry, period, "get_transcript_req_status"
+            )
+            entry["rights_statement_get_img"] = entry_to_statement(
+                entry, period, "get_facsimile_req_status"
+            )
 
             if title in masterfile:
                 if period in masterfile[title]:
