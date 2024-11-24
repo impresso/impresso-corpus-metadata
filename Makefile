@@ -1,5 +1,6 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
+solr_ar_dir = ../impresso-pyindexing/impresso_solr/access_rights
 data_dir = data
 metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
@@ -88,6 +89,9 @@ sync-api-metadata:
 
 sync-access-rights: 
 	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
+
+sync-solr-access-rights:
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/ $(solr_ar_dir)
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
