@@ -191,6 +191,7 @@ def entry_to_bitmaps(
     Returns:
         dict[str, bytes] | dict[str, str]: _description_
     """
+    no_restr_ar = "No restriction (all registered users allowed)"
     bitmaps = {"explore": ["0"] * 64, "get_tr": ["0"] * 64, "get_img": ["0"] * 64}
     # if the title is public domain, only the first bit should be set to 1
     if "Public Domain" in ar_entry["copyright_status"]:
@@ -200,11 +201,19 @@ def entry_to_bitmaps(
     else:
         # undetermined, unknown or orphan copyright don't have restrictions
         if ar_entry["copyright_status"] not in "Protected Domain: In copyright":
-            allowed_status = "No restriction (all registered users allowed)"
+            allowed_status = no_restr_ar
         else:
             allowed_status = None
         # for each type of bitmap, check the value of the column and modify the bitmap accordingly
         for bm_key, ar_key in action_columns.items():
+            if allowed_status is not None and ar_entry[ar_key] not in [no_restr_ar, ""]:
+                print(
+                    f"Warning! For {ar_entry['title_alias']}: "
+                    f"copyright_status is '{ar_entry["copyright_status"]}' "
+                    f"but the allowed user status for the {ar_key} operation is '{ar_entry[ar_key]}'! "
+                    f"This value will be overwritten to '{no_restr_ar}'."
+                )
+
             bitmaps[bm_key] = allowed_status_to_bitmap(
                 ar_entry[ar_key] if allowed_status is None else allowed_status,
                 bitmaps[bm_key],
