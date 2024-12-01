@@ -43,13 +43,15 @@ A service account for the project already exists, **ask us for the credentials**
 
 ### About metadata
 
-The **[00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556)** spreadsheet serves as the central document containing all Impresso media titles. Each tab corresponds to an institution, listing its titles along with manually collected "basic" metadata.
+The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) spreadsheet serves as the central document containing all Impresso media titles. Each tab corresponds to an institution, listing its titles along with manually collected "basic" metadata.
 
 In addition to this, we gather further metadata from the institutions' APIs.
 
 These two metadata sources may overlap, but both are necessary. Not all institutions provide the same level of metadata, and we aim to ensure a baseline common to all titles. The master spreadsheet should ideally include information not available in the API metadata and/or values consistent across the entire collection (e.g., institution links or OCR formats).
 
-### 1. Fetching metadata from Gsheets with `fetch_from_gdrive.py` module
+### 1. Fetching metadata from Gsheets 
+
+This is done with the `fetch_from_gdrive.py` module.
 
 **For a single institution or tab**
 
@@ -110,9 +112,9 @@ During harvesting, requests are made for each issue in the ingested collection, 
 
 The fetched metadata is then processed and aggregated by newspaper title into a structured JSON file, `api_metadata.bcul.json`. This file contains the relevant metadata in a format optimized for easy ingestion.
 
-### 3. Copying metadata files to the `impresso-master-db` repository 
+### 3. Copying metadata files to the impresso-master-db repository 
 
-Collected metadata is ingested into **MySQL**.
+Collected metadata is ingested into **MySQL** and needs to be copied to the `impresso-master-db` repository
 
 To facilitate this process, metadata files from the **impresso-corpus-metadata** repository need to be copied to the [**impresso-master-db**](https://github.com/impresso/impresso-master-db) repository. These copies are handled locally using predefined `Makefile` commands. The commands assume that all repositories are stored under the same parent directory, as illustrated below:
 
