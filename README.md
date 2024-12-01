@@ -16,28 +16,19 @@ Also refer to the [metadata-collection-organisation](https://docs.google.com/dra
 
 ## Initial setup and use
 
-### Environments
-
-#### Pipenv users
-
-Install pipenv with the python 3.12 version:
+### Environment
 
 ```bash
+# For pipenv users 
 pyenv local 3.12.2
 pipenv install
-```
 
-#### Conda users
-
-```bash
+# For conda users
 conda create -n [env_name] python=3.12.2
 pip install requirements.txt
 ```
 
-### Running the various metadata harvesters
-
-
-#### 0. Creating or obtaining the credentials
+### Google service account
 
 We use a service account to programmatically access documents on the project's Gdrive and fetch information from them.
 
@@ -48,9 +39,9 @@ The process requires:
 
 A service account for the project already exists, **ask us for the credentials**.
 
-#### 1. Fetching the contents of Gsheets into a JSON file
+## Metadata harvesters
 
-##### About metadata
+### About metadata
 
 The **[00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556)** spreadsheet serves as the central document containing all Impresso media titles. Each tab corresponds to an institution, listing its titles along with manually collected "basic" metadata.
 
@@ -58,7 +49,7 @@ In addition to this, we gather further metadata from the institutions' APIs.
 
 These two metadata sources may overlap, but both are necessary. Not all institutions provide the same level of metadata, and we aim to ensure a baseline common to all titles. The master spreadsheet should ideally include information not available in the API metadata and/or values consistent across the entire collection (e.g., institution links or OCR formats).
 
-##### Fetching metadata from Gsheet with `fetch_from_gdrive.py` module
+### 1. Fetching metadata from Gsheets with `fetch_from_gdrive.py` module
 
 **For a single institution or tab**
 
@@ -88,13 +79,13 @@ make swa-fedgaz-metadata
 make all-metadata
 ```
 
-#### 2. Harvesting metadata from institutions' APIs 
+### 2. Harvesting metadata from institutions' APIs 
 
 Some institutions provide metadata through APIs, enabling us to supplement the information we have for each media title. The data formats and retrieval methods vary across institutions. 
 
 For the initial Impresso II release, additional metadata can be harvested from the APIs of BnF and BCUL.
 
-##### BNF
+#### BNF
 
 The BnF [provides metadata](https://api.bnf.fr/api-sru-catalogue-general) primarily in two formats: IntermarcXchange and Dublin Core. We harvest metadata in [IntermarcXchange](https://www.bnf.fr/fr/intermarc-bibliographique-de-diffusion#bnf-zones-fixes) format because of its similarity to the MARC21 format used for SNL data, minimizing the modifications needed for ingestion.
 
@@ -109,7 +100,7 @@ The configuration file simply lists the ARK IDs of the media titles in the colle
 
 The harvested records are then saved to disk in an XML file named `intermarc_metadata.bnf.xml`.
 
-##### BCUL
+#### BCUL
 
 The BCUL provides an OAI-PMH API that requires a `username` and `API key` to generate a session key. 
 
@@ -119,7 +110,7 @@ During harvesting, requests are made for each issue in the ingested collection, 
 
 The fetched metadata is then processed and aggregated by newspaper title into a structured JSON file, `api_metadata.bcul.json`. This file contains the relevant metadata in a format optimized for easy ingestion.
 
-#### 3. Copying metadata files to the `impresso-master-db` repository 
+### 3. Copying metadata files to the `impresso-master-db` repository 
 
 Collected metadata is ingested into **MySQL**.
 
@@ -147,9 +138,9 @@ make sync-apis-metadata
 make sync-apis-metadata file_to_sync=intermarc_metadata.bnf.xml
 ``` 
 
-### Running the access rights harvesters
+## Access rights harvesters
 
-#### Fetching Access Rights Gsheets for Each Institution
+### 1. Fetching access rights gsheets per institution
 
 The process for harvesting **access rights** is similar to that of metadata harvesting. Each institution's access rights are stored in individual Google Sheets in a standardized format, always located in the worksheet named **`DSA_access-rights`**.
 
@@ -192,7 +183,7 @@ make bcul-access-rights
 make swa-fedgaz-nzz-access-rights
 ```
 
-#### Copying the resulting files to downstream repositories
+### 2. Copying access right files to downstream repositories
 
 Information from access right JSON files is ingested into both **MySQL** and **Solr**. As for the metadata files, they are copied between local repositories.
 
@@ -207,7 +198,7 @@ make sync-access-rights file_to_sync=access_rights.bcul.json
 make sync-solr-access-rights:
 ```
 
-### Running the access rights aggregator
+## Access rights aggregator
 
 (description to come)
 
