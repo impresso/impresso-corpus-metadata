@@ -14,6 +14,11 @@ This repository contains scripts and resources related to the **Impresso Corpus*
 
 Also refer to the [metadata-collection-organisation](https://docs.google.com/drawings/d/1v_8mgdCgWaxduIpHEE_6UsPuTtsvgPRPzU7AGZYHQdw/edit?pli=1) schema for an overview of the process.
 
+- [Initial setup and use](#initial-setup-and-use)
+- [Metadata harvesters](#metadata-harvesters)
+- [Access rights harvesters](#access-rights-harvesters)
+- [Access rights aggregator](#access-rights-aggregator)
+
 ## Initial setup and use
 
 ### Environment
