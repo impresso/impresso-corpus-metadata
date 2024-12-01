@@ -69,16 +69,12 @@ In Impresso II, the number of partner institutions has significantly increased. 
 To update the fetched metadata, simply call the corresponding target as demonstrated below. The updated files will be saved in the `data/gdrive_metadata` directory, using the format `gsheet_metadata.[tab_name/corpus].json`.
 
 ```bash
-# for all of the Impresso 1 corpus
-make impresso1-metadata
-# for the BNF corpus
-make bnf-metadata
-# for the BCUL corpus
-make bcul-metadata
-# for the SWA and FedGaz corpuses
-make swa-fedgaz-metadata
-# for all corpuses
-make all-metadata
+# Fetch metadata for specific corpora or all at once:
+make impresso1-metadata  # Impresso 1 corpus  
+make bnf-metadata        # BNF corpus  
+make bcul-metadata       # BCUL corpus  
+make swa-fedgaz-metadata # SWA and FedGaz corpora  
+make all-metadata        # All corpora  
 ```
 
 ### 2. Harvesting metadata from institutions' APIs 
@@ -127,18 +123,12 @@ parent_directory
 Ensure this directory structure is in place before running the `Makefile` commands. Below are examples of the commands you can use:
 
 ```bash
-# To copy all files from impresso-corpus-metadata/data/gdrive_metadata to impresso-master-db/impresso_db/data/
-make sync-gdrive-metadata
-
-# To copy a specific file from data/gdrive_metadata to impresso-master-db
-make sync-gdrive-metadata file_to_sync=gsheet_metadata.bcul.json
-
-# To copy all files from impresso-corpus-metadata/data/api_metadata to impresso-master-db
-make sync-apis-metadata
-
-# To copy a specific file from data/api_metadata to impresso-master-db
-make sync-apis-metadata file_to_sync=intermarc_metadata.bnf.xml
-``` 
+# Copy metadata files to impresso-master-db:
+make sync-gdrive-metadata                # All files from gdrive_metadata  
+make sync-gdrive-metadata file_to_sync=<filename>  # Specific file from gdrive_metadata  
+make sync-apis-metadata                  # All files from api_metadata  
+make sync-apis-metadata file_to_sync=<filename>    # Specific file from api_metadata  
+```
 
 ## Access rights harvesters
 
@@ -157,32 +147,9 @@ Two processes are required:
 Predefined `Makefile` targets for each institution allow to run both scripts sequentially:
 
 ```bash
-# fetch and create the access rights for all institutions
-make all-access-rights
-# for the SNL corpus
-make snl-access-rights
-# for the BNL corpus
-make bnl-access-rights
-# for the BNF corpus
-make bnf-access-rights
-# for the KBR corpus
-make kbr-access-rights
-# for the KB corpus
-make kb-access-rights
-# for the BL corpus
-make bl-access-rights
-# for the ONB corpus
-make onb-access-rights
-# for the SBB corpus
-make sbb-access-rights
-# for the SUB corpus
-make sub-access-rights
-# for the INA corpus
-make ina-access-rights
-# for the BCUL corpus
-make bcul-access-rights
-# for the SWA and FedGaz corpuses
-make swa-fedgaz-nzz-access-rights
+# Fetch and create access rights:
+make all-access-rights                    # For all institutions  
+make <institution>-access-rights          # For a specific corpus, e.g., snl, bnl, bnf, kbr, kb, bl, onb, sbb, sub, ina, bcul, swa-fedgaz-nzz  
 ```
 
 ### 2. Copying access right files to downstream repositories
@@ -190,14 +157,12 @@ make swa-fedgaz-nzz-access-rights
 Information from access right JSON files is ingested into both **MySQL** and **Solr**. As for the metadata files, they are copied between local repositories.
 
 ```bash
-# Copy all files from  /data/access_rights_masterfiles to impresso-master-db/impresso_db/data/access_rights:
-make sync-access-rights
+# Copy access rights to impresso-master-db:
+make sync-access-rights                           # All files  
+make sync-access-rights file_to_sync=<filename>  # Specific file, e.g., access_rights.bcul.json  
 
-# Copy a specific file from /data/access_rights_masterfiles:
-make sync-access-rights file_to_sync=access_rights.bcul.json
-
-# And to solr:
-make sync-solr-access-rights:
+# Copy access rights to Solr:
+make sync-solr-access-rights
 ```
 
 ## Access rights aggregator
