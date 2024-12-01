@@ -43,9 +43,8 @@ A service account for the project already exists, **ask us for the credentials**
 
 ### About metadata
 
-The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) preadsheet serves as the central repository for all Impresso media titles, along with their manually collected metadata, organized into one tab per institution.
-
-In addition, we collect further metadata from the institutions' APIs. 
+- The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) preadsheet serves as the central repository for all Impresso media titles, along with their manually collected metadata, organized into one tab per institution.
+- In addition, we collect further metadata from the institutions' APIs. 
 
 While these two sources of metadata may overlap, both are essential. Not all institutions provide the same level of metadata, and our goal is to establish a baseline common to all titles. The central spreadsheet should ideally capture information not available in the API metadata and/or values that apply uniformly across the entire collection (e.g., institution links or OCR formats).
 
@@ -64,9 +63,7 @@ python harvesters/fetch_from_gdrive.py \
 
 **For several institutions at once**
 
-In Impresso II, the number of partner institutions has significantly increased. To streamline the process of updating metadata (e.g., JSON files and others in the `/data` folder), a `Makefile` now includes targets for all current tabs in the central metadata spreadsheet. 
-
-To update the fetched metadata, simply call the corresponding target as demonstrated below. The updated files will be saved in the `data/gdrive_metadata` directory, using the format `gsheet_metadata.[tab_name/corpus].json`.
+To streamline metadata fetching, a `Makefile` includes targets for all tabs in the central metadata spreadsheet. To update the metadata, simply run the corresponding target. The updated files will be saved in the `data/gdrive_metadata` directory, named `gsheet_metadata.[tab_name/corpus].json`.
 
 ```bash
 # Fetch metadata for specific corpora or all at once:
@@ -79,34 +76,33 @@ make all-metadata        # All corpora
 
 ### 2. Harvesting metadata from institutions' APIs 
 
-Some institutions provide metadata through APIs, enabling us to supplement the information we have for each media title. The data formats and retrieval methods vary across institutions. 
+Some institutions provide metadata via APIs, allowing us to supplement the information for each media title. Data formats and retrieval methods vary by institution.
 
-For the initial Impresso II release, additional metadata can be harvested from the APIs of BnF and BCUL.
+Some institutions provide metadata via APIs, allowing us to supplement the information for each media title. Data formats and retrieval methods vary by institution.
 
-#### BNF
+- **BNF**  
+  The BnF [provides metadata](https://api.bnf.fr/api-sru-catalogue-general) primarily in two formats: IntermarcXchange and Dublin Core. We harvest metadata in [IntermarcXchange](https://www.bnf.fr/fr/intermarc-bibliographique-de-diffusion#bnf-zones-fixes) format because of its similarity to the MARC21 format used for SNL data, minimizing the modifications needed for ingestion.
 
-The BnF [provides metadata](https://api.bnf.fr/api-sru-catalogue-general) primarily in two formats: IntermarcXchange and Dublin Core. We harvest metadata in [IntermarcXchange](https://www.bnf.fr/fr/intermarc-bibliographique-de-diffusion#bnf-zones-fixes) format because of its similarity to the MARC21 format used for SNL data, minimizing the modifications needed for ingestion.
+  Using this API, metadata can be retrieved for any media title by providing its corresponding ARK ID.
 
-Using this API, metadata can be retrieved for any media title by providing its corresponding ARK ID. 
+  The script for this process is located at `harvesters/metadata_api/bnf_metadata.py` and can be executed as follows:
 
-The script for this process is located at `harvesters/metadata_api/bnf_metadata.py` and can be executed as follows:
+  ```bash
+  python harvesters/metadata_api/bnf_metadata.py --config="harvesters/config/api_config.bnf.json" --data_dir="data/api_metadata"
+  ```
 
-```bash
-python harvesters/metadata_api/bnf_metadata.py --config="harvesters/config/api_config.bnf.json" --data_dir="data/api_metadata"
-```
-The configuration file simply lists the ARK IDs of the media titles in the collection. 
+  The configuration file lists the ARK IDs of the media titles in the collection.
 
-The harvested records are then saved to disk in an XML file named `intermarc_metadata.bnf.xml`.
+  The harvested records are then saved to disk in an XML file named `intermarc_metadata.bnf.xml`.
 
-#### BCUL
+- **BCUL**  
+  The BCUL provides an OAI-PMH API that requires a `username` and `API key` to generate a session key.
 
-The BCUL provides an OAI-PMH API that requires a `username` and `API key` to generate a session key. 
+  Unlike other systems, metadata records can only be fetched issue by issue rather than for an entire newspaper title. This process is currently handled in the `harvesters/metadata_apis/bcul_metadata.ipynb` notebook, which is planned for conversion into a standalone script.
 
-Unlike other systems, metadata records can only be fetched issue by issue rather than for an entire newspaper title. This process is currently handled in the `harvesters/metadata_apis/bcul_metadata.ipynb` notebook, which is planned for conversion into a standalone script.
+  During harvesting, requests are made for each issue in the ingested collection, and the resulting data is saved to `data/api_metadata/fetched_issue_metadata.bcul.json`. This unprocessed file is retained to avoid re-fetching metadata unnecessarily during subsequent steps.
 
-During harvesting, requests are made for each issue in the ingested collection, and the resulting data is saved to `data/api_metadata/fetched_issue_metadata.bcul.json`. This unprocessed file is retained to avoid re-fetching metadata unnecessarily during subsequent steps.
-
-The fetched metadata is then processed and aggregated by newspaper title into a structured JSON file, `api_metadata.bcul.json`. This file contains the relevant metadata in a format optimized for easy ingestion.
+  The fetched metadata is then aggregated by newspaper title into `api_metadata.bcul.json`. This file contains the relevant metadata in a format optimized for easy ingestion.
 
 ### 3. Copying metadata files to the impresso-master-db repository 
 
