@@ -43,11 +43,11 @@ A service account for the project already exists, **ask us for the credentials**
 
 ### About metadata
 
-The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) spreadsheet serves as the central document containing all Impresso media titles. Each tab corresponds to an institution, listing its titles along with manually collected "basic" metadata.
+The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) preadsheet serves as the central repository for all Impresso media titles, along with their manually collected metadata, organized into one tab per institution.
 
-In addition to this, we gather further metadata from the institutions' APIs.
+In addition, we collect further metadata from the institutions' APIs. 
 
-These two metadata sources may overlap, but both are necessary. Not all institutions provide the same level of metadata, and we aim to ensure a baseline common to all titles. The master spreadsheet should ideally include information not available in the API metadata and/or values consistent across the entire collection (e.g., institution links or OCR formats).
+While these two sources of metadata may overlap, both are essential. Not all institutions provide the same level of metadata, and our goal is to establish a baseline common to all titles. The central spreadsheet should ideally capture information not available in the API metadata and/or values that apply uniformly across the entire collection (e.g., institution links or OCR formats).
 
 ### 1. Fetching metadata from Gsheets 
 
