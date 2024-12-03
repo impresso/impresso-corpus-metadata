@@ -1,4 +1,4 @@
-""" Python script downloading a given google dirve spreadsheet into a json file."""
+""" Python script downloading a given google drive spreadsheet into a json file."""
 
 import re
 import random
@@ -94,7 +94,7 @@ ACCESS_RIGHTS_RULES = {
     "which_user_status_or_archive_membership_is_sufficient_to_execute_the_get_action_on_transcripts_of_this_title_sufficient_condition": {
         "rename_key_to": "get_transcript_req_status"
     },
-    "which_user_status_or_archive_membership_is_sufficient_to_execute_thethe_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
+    "which_user_status_or_archive_membership_is_sufficient_to_execute_the_get_action_on_images_any_part_of_the_facsimile_of_this_title_sufficient_condition": {
         "rename_key_to": "get_facsimile_req_status"
     },
     "to_be_filled_only_if_the_choices_made_for_i_j_and_k_is_only_archive_members_which_uses_of_the_data_are_permitted_for_archive_members_permitted_uses_in_other_cases_result_from_the_user_status_and_are_defined_in_dsa_29": {
