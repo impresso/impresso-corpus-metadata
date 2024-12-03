@@ -143,7 +143,7 @@ Two processes are required:
      The script `harvesters/fetch_from_gdrive.py` retrieves the contents of the Gsheet.
 
 2. **Converting to Masterfile JSON**  
-   The script `harvesters/access_rights_masterfile.py` processes the resulting JSON, converting it into the corresponding **access-rights masterfile JSON** for the institution. This includes adding **content bitmaps** and **access rights statements**. The final JSON files is in the directory `data/access_rights_master_files`. The output files follow the naming convention: `access_rights.[institution].json`
+   The script `harvesters/access_rights_masterfile.py` processes the resulting JSON, converting it into the corresponding **access-rights masterfile JSON** for the institution. This includes adding **content bitmaps** and **access rights statements**. The final JSON files is in the directory `data/access_rights_master_files`. The output files follow the naming convention: `access_rights.[institution].json`. The mapping of bitmap keys to institution is described in this [spreadsheet](https://docs.google.com/spreadsheets/d/1_lyhWptAMU_9UQ8a3UPLORIULSrN5N838G9xdosg_9A/edit?pli=1&gid=0#gid=0) and reported at the top of the `access_rights_masterfile.py`(the latter is used in this code).
 
 Predefined `Makefile` targets for each institution allow to run both scripts sequentially:
 
