@@ -63,7 +63,7 @@ BITMAP_KEYS = [
     "ArcInfo",
     "Swissinfo",
     "CNA",
-    "SFA",
+    "FedGaz",
 ]
 
 ACTION_COLUMNS = {
