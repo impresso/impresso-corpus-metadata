@@ -539,8 +539,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -555,8 +555,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -571,8 +571,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -587,8 +587,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -603,8 +603,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -619,8 +619,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -635,8 +635,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -651,8 +651,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -667,8 +667,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -683,8 +683,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -699,8 +699,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -715,8 +715,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -731,8 +731,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -747,8 +747,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -763,8 +763,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   },
   {
@@ -779,8 +779,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Forbidden",
-    "get_facsimile_req_status": "Forbidden",
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
     "allowed_use_archive_only": "Research and Educational"
   }
 ]

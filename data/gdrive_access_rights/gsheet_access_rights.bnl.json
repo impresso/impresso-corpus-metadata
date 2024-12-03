@@ -1,6 +1,8 @@
 [
   {
     "": 2,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "actionfem",
     "full_title": "Action f\u00e9minine (L')",
@@ -11,14 +13,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 3,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "armeteufel",
     "full_title": "Arme Teufel (Der)",
@@ -29,14 +31,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 4,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "avenirgdl",
     "full_title": "Avenir (L')",
@@ -49,12 +51,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 5,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "buergerbeamten",
     "full_title": "B\u00fcrger- und Beamten-Zeitung",
@@ -65,14 +67,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 6,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "courriergdl",
     "full_title": "Courrier du Grand-Duch\u00e9 de Luxembourg",
@@ -85,12 +87,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 7,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "waeschfra",
     "full_title": "D'W\u00e4schfra",
@@ -103,12 +105,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 7,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "waeschfra",
     "full_title": "D'W\u00e4schfra",
@@ -119,14 +121,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 8,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "waechtersauer",
     "full_title": "Der W\u00e4chter an der Sauer",
@@ -136,15 +138,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 9,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "diekwochen",
     "full_title": "Diekircher Wochenblatt",
@@ -154,15 +156,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 10,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "tageblatt",
     "full_title": "Escher Tageblatt",
@@ -173,14 +175,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 11,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "gazgrdlux",
     "full_title": "Gazette du Grand-Duch\u00e9 de Luxembourg",
@@ -191,14 +193,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 13,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "indeplux",
     "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -208,15 +210,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 14,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "indeplux",
     "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -227,14 +229,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 22,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "kommmit",
     "full_title": "Komm mit mir!",
@@ -247,12 +249,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 22,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "kommmit",
     "full_title": "Komm mit mir!",
@@ -265,12 +267,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 23,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "lunion",
     "full_title": "L'Union",
@@ -283,12 +285,12 @@
     "explore_req_status": "",
     "get_transcript_req_status": "",
     "get_facsimile_req_status": "",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "allowed_use_archive_only": ""
   },
   {
     "": 24,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxland",
     "full_title": "L\u00ebtzebuerger Land (d')",
@@ -299,14 +301,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 25,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "deletz1893",
     "full_title": "Letzeburger (De)",
@@ -317,14 +319,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 26,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxembourg1935",
     "full_title": "Luxembourg (Le) : Journal du matin",
@@ -335,14 +337,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 31,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "landwortbild",
     "full_title": "Luxemburger Land in Wort und Bild",
@@ -353,14 +355,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 32,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "volkfreu1869",
     "full_title": "Luxemburger Volks-Freund",
@@ -370,15 +372,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 33,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxwort",
     "full_title": "Luxemburger Wort",
@@ -388,15 +390,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 34,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxwort",
     "full_title": "Luxemburger Wort",
@@ -407,14 +409,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 35,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxzeit1844",
     "full_title": "Luxemburger Zeitung",
@@ -424,15 +426,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 36,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "luxzeit1858",
     "full_title": "Luxemburger Zeitung - Journal de Luxembourg",
@@ -442,15 +444,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 37,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "demitock",
     "full_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
@@ -461,14 +463,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 41,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "obermosel",
     "full_title": "Obermosel-Zeitung",
@@ -478,15 +480,15 @@
     "medium": "print",
     "content_and_metadata": "yes",
     "copyright_status": "Public Domain",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 42,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "obermosel",
     "full_title": "Obermosel-Zeitung",
@@ -497,14 +499,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 44,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "onsjongen",
     "full_title": "Ons Jongen",
@@ -515,14 +517,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 45,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "schmiede",
     "full_title": "Schmiede",
@@ -533,14 +535,14 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   },
   {
     "": 46,
+    "impresso_1_or_2": 1,
+    "license": "",
     "rights_holder_id": "BNL",
     "title_alias": "dunioun",
     "full_title": "Unio'n (D')",
@@ -551,10 +553,8 @@
     "content_and_metadata": "yes",
     "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "No restriction (all registered users allowed)",
-    "get_facsimile_req_status": "No restriction (all registered users allowed)",
-    "allowed_use_archive_only": "",
-    "license": "",
-    "impresso_1_or_2": 1
+    "get_transcript_req_status": "Only Archive members",
+    "get_facsimile_req_status": "Only Archive members",
+    "allowed_use_archive_only": "Academic users at least OR Archive members"
   }
 ]
