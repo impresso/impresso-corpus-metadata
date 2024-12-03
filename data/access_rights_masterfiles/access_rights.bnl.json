@@ -1,6 +1,8 @@
 {
     "actionfem": {
         "1927-1940": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "actionfem",
             "full_title": "Action f\u00e9minine (L')",
@@ -11,23 +13,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1927-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1927-1940) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1927-1940) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1927-1940) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1927-1940) - Academic users at least OR Archive members use"
         }
     },
     "armeteufel": {
         "1903-1929": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "armeteufel",
             "full_title": "Arme Teufel (Der)",
@@ -38,23 +40,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1903-1929) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1903-1929) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1903-1929) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1903-1929) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1903-1929) - Academic users at least OR Archive members use"
         }
     },
     "avenirgdl": {
         "1868-1871": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "avenirgdl",
             "full_title": "Avenir (L')",
@@ -68,8 +70,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -82,6 +82,8 @@
     },
     "buergerbeamten": {
         "1898-1916": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "buergerbeamten",
             "full_title": "B\u00fcrger- und Beamten-Zeitung",
@@ -92,23 +94,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1898-1916) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1898-1916) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1898-1916) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1898-1916) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1898-1916) - Academic users at least OR Archive members use"
         }
     },
     "courriergdl": {
         "1844-1868": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "courriergdl",
             "full_title": "Courrier du Grand-Duch\u00e9 de Luxembourg",
@@ -122,8 +124,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -136,6 +136,8 @@
     },
     "waeschfra": {
         "1868-1881": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "waeschfra",
             "full_title": "D'W\u00e4schfra",
@@ -149,8 +151,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -161,6 +161,8 @@
             "rights_statement_get_img": "Public Domain (1868-1881)"
         },
         "1882-1884": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "waeschfra",
             "full_title": "D'W\u00e4schfra",
@@ -171,23 +173,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1882-1884) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1884) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1882-1884) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1882-1884) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1882-1884) - Academic users at least OR Archive members use"
         }
     },
     "waechtersauer": {
         "1849-1869": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "waechtersauer",
             "full_title": "Der W\u00e4chter an der Sauer",
@@ -197,12 +199,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -215,6 +215,8 @@
     },
     "diekwochen": {
         "1841-1848": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "diekwochen",
             "full_title": "Diekircher Wochenblatt",
@@ -224,12 +226,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -242,6 +242,8 @@
     },
     "tageblatt": {
         "1913-1950": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "tageblatt",
             "full_title": "Escher Tageblatt",
@@ -252,23 +254,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1913-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1913-1950) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1913-1950) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1913-1950) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1913-1950) - Academic users at least OR Archive members use"
         }
     },
     "gazgrdlux": {
         "1878-1878": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "gazgrdlux",
             "full_title": "Gazette du Grand-Duch\u00e9 de Luxembourg",
@@ -279,23 +281,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1878-1878) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1878-1878) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1878-1878) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1878-1878) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1878-1878) - Academic users at least OR Archive members use"
         }
     },
     "indeplux": {
         "1871-1880": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "indeplux",
             "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -305,12 +307,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -321,6 +321,8 @@
             "rights_statement_get_img": "Public Domain (1871-1880)"
         },
         "1881-1934": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "indeplux",
             "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -331,23 +333,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1881-1934) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1881-1934) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1881-1934) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1881-1934) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1881-1934) - Academic users at least OR Archive members use"
         }
     },
     "kommmit": {
         "1884-1881": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "kommmit",
             "full_title": "Komm mit mir!",
@@ -361,8 +363,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -373,6 +373,8 @@
             "rights_statement_get_img": "Public Domain (1884-1881)"
         },
         "1882-1884": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "kommmit",
             "full_title": "Komm mit mir!",
@@ -386,8 +388,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -400,6 +400,8 @@
     },
     "lunion": {
         "1860-1871": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "lunion",
             "full_title": "L'Union",
@@ -413,8 +415,6 @@
             "get_transcript_req_status": "",
             "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -427,6 +427,8 @@
     },
     "luxland": {
         "1954-2022": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxland",
             "full_title": "L\u00ebtzebuerger Land (d')",
@@ -437,23 +439,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1954-2022) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1954-2022) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1954-2022) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1954-2022) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1954-2022) - Academic users at least OR Archive members use"
         }
     },
     "deletz1893": {
         "1893-1909": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "deletz1893",
             "full_title": "Letzeburger (De)",
@@ -464,23 +466,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1893-1909) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1893-1909) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1893-1909) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1893-1909) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1893-1909) - Academic users at least OR Archive members use"
         }
     },
     "luxembourg1935": {
         "1935-1940": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxembourg1935",
             "full_title": "Luxembourg (Le) : Journal du matin",
@@ -491,23 +493,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1935-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1935-1940) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1935-1940) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1935-1940) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1935-1940) - Academic users at least OR Archive members use"
         }
     },
     "landwortbild": {
         "1895-1895": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "landwortbild",
             "full_title": "Luxemburger Land in Wort und Bild",
@@ -518,23 +520,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1895-1895) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1895-1895) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1895-1895) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1895-1895) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1895-1895) - Academic users at least OR Archive members use"
         }
     },
     "volkfreu1869": {
         "1869-1876": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "volkfreu1869",
             "full_title": "Luxemburger Volks-Freund",
@@ -544,12 +546,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -562,6 +562,8 @@
     },
     "luxwort": {
         "1848-1884": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
@@ -571,12 +573,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -587,6 +587,8 @@
             "rights_statement_get_img": "Public Domain (1848-1884)"
         },
         "1885-1950": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
@@ -597,23 +599,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1885-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1885-1950) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1885-1950) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1885-1950) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1885-1950) - Academic users at least OR Archive members use"
         }
     },
     "luxzeit1844": {
         "1844-1845": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxzeit1844",
             "full_title": "Luxemburger Zeitung",
@@ -623,12 +625,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -641,6 +641,8 @@
     },
     "luxzeit1858": {
         "1858-1859": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "luxzeit1858",
             "full_title": "Luxemburger Zeitung - Journal de Luxembourg",
@@ -650,12 +652,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -668,6 +668,8 @@
     },
     "demitock": {
         "1937-1940": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "demitock",
             "full_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
@@ -678,23 +680,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1937-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1937-1940) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1937-1940) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1937-1940) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1937-1940) - Academic users at least OR Archive members use"
         }
     },
     "obermosel": {
         "1881-1881": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "obermosel",
             "full_title": "Obermosel-Zeitung",
@@ -704,12 +706,10 @@
             "medium": "print",
             "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
             "content_bitmaps": {
                 "explore": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
@@ -720,6 +720,8 @@
             "rights_statement_get_img": "Public Domain (1881-1881)"
         },
         "1882-1948": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "obermosel",
             "full_title": "Obermosel-Zeitung",
@@ -730,23 +732,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1882-1948) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1948) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1882-1948) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1882-1948) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1882-1948) - Academic users at least OR Archive members use"
         }
     },
     "onsjongen": {
         "1944-1951": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "onsjongen",
             "full_title": "Ons Jongen",
@@ -757,23 +759,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1944-1951) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1944-1951) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1944-1951) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1944-1951) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1944-1951) - Academic users at least OR Archive members use"
         }
     },
     "schmiede": {
         "1916-1919": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "schmiede",
             "full_title": "Schmiede",
@@ -784,23 +786,23 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1916-1919) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1916-1919) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1916-1919) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1916-1919) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1916-1919) - Academic users at least OR Archive members use"
         }
     },
     "dunioun": {
         "1944-1948": {
+            "impresso_1_or_2": 1,
+            "license": "",
             "rights_holder_id": "BNL",
             "title_alias": "dunioun",
             "full_title": "Unio'n (D')",
@@ -811,19 +813,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "license": "",
-            "impresso_1_or_2": 1,
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Academic users at least OR Archive members",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1944-1948) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1944-1948) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1944-1948) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1944-1948) - Academic users at least OR Archive members use",
+            "rights_statement_get_img": "Protected (1944-1948) - Academic users at least OR Archive members use"
         }
     }
 }

@@ -11,17 +11,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1780-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1780-1950) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1780-1950) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1780-1950) - No allowed use",
+            "rights_statement_get_img": "Protected (1780-1950) - No allowed use"
         }
     },
     "arbeitgeber": {
@@ -36,17 +36,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1907-2010) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1907-2010) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1907-2010) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1907-2010) - No allowed use",
+            "rights_statement_get_img": "Protected (1907-2010) - No allowed use"
         }
     },
     "handelsztg": {
@@ -61,17 +61,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Forbidden",
+            "get_facsimile_req_status": "Forbidden",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1861-1894) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1861-1894) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1861-1894) - Personal, Research and Educational use"
+            "rights_statement_get_tr": "Protected (1861-1894) - No allowed use",
+            "rights_statement_get_img": "Protected (1861-1894) - No allowed use"
         }
     },
     "FedGazDe": {
@@ -84,19 +84,19 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1849-1999)",
-            "rights_statement_get_tr": "Public Domain (1849-1999)",
-            "rights_statement_get_img": "Public Domain (1849-1999)"
+            "rights_statement_explore": "Protected (1849-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1849-1999) - Research use",
+            "rights_statement_get_img": "Protected (1849-1999) - Research use"
         }
     },
     "FedGazFr": {
@@ -109,19 +109,19 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1849-1999)",
-            "rights_statement_get_tr": "Public Domain (1849-1999)",
-            "rights_statement_get_img": "Public Domain (1849-1999)"
+            "rights_statement_explore": "Protected (1849-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1849-1999) - Research use",
+            "rights_statement_get_img": "Protected (1849-1999) - Research use"
         }
     }
 }

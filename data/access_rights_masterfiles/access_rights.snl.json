@@ -836,17 +836,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000010000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000010000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1865-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1865-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1865-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1865-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1865-2018) - Research and Educational use"
         }
     },
     "LLE": {
@@ -861,17 +861,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000010000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000010000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1871-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1871-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1871-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1871-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1871-2018) - Research and Educational use"
         }
     },
     "EXP": {
@@ -886,17 +886,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000001000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000001000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1738-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1738-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1738-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1738-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1738-2018) - Research and Educational use"
         }
     },
     "IMP": {
@@ -911,17 +911,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000001000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000001000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1881-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1881-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1881-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1881-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-2018) - Research and Educational use"
         }
     },
     "LCE": {
@@ -936,17 +936,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000100000000000000000000000000000000000",
+                "get_img": "0000000000000000000000000000100000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1861-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1861-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1861-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1861-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1861-2018) - Research and Educational use"
         }
     },
     "JDG": {
@@ -961,17 +961,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000010000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000010000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1826-1998) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1826-1998) - No allowed use",
-            "rights_statement_get_img": "Protected (1826-1998) - No allowed use"
+            "rights_statement_get_tr": "Protected (1826-1998) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1826-1998) - Research and Educational use"
         }
     },
     "GDL": {
@@ -986,17 +986,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000010000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000010000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1804-1991) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1804-1991) - No allowed use",
-            "rights_statement_get_img": "Protected (1804-1991) - No allowed use"
+            "rights_statement_get_tr": "Protected (1804-1991) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1804-1991) - Research and Educational use"
         }
     },
     "DTT": {
@@ -1011,17 +1011,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000001000000000000000000000000000000000000000",
+                "get_img": "0000000000000000000000001000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1935-1978) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1935-1978) - No allowed use",
-            "rights_statement_get_img": "Protected (1935-1978) - No allowed use"
+            "rights_statement_get_tr": "Protected (1935-1978) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1935-1978) - Research and Educational use"
         }
     },
     "FCT": {
@@ -1036,17 +1036,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1955-1963) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1955-1963) - No allowed use",
-            "rights_statement_get_img": "Protected (1955-1963) - No allowed use"
+            "rights_statement_get_tr": "Protected (1955-1963) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1955-1963) - Research and Educational use"
         }
     },
     "LLS": {
@@ -1061,17 +1061,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1906-1998) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1906-1998) - No allowed use",
-            "rights_statement_get_img": "Protected (1906-1998) - No allowed use"
+            "rights_statement_get_tr": "Protected (1906-1998) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1906-1998) - Research and Educational use"
         }
     },
     "OIZ": {
@@ -1086,17 +1086,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1901-1992) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1901-1992) - No allowed use",
-            "rights_statement_get_img": "Protected (1901-1992) - No allowed use"
+            "rights_statement_get_tr": "Protected (1901-1992) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1901-1992) - Research and Educational use"
         }
     },
     "SDT": {
@@ -1111,17 +1111,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1909-2001) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1909-2001) - No allowed use",
-            "rights_statement_get_img": "Protected (1909-2001) - No allowed use"
+            "rights_statement_get_tr": "Protected (1909-2001) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1909-2001) - Research and Educational use"
         }
     },
     "SMZ": {
@@ -1136,17 +1136,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1902-2004) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1902-2004) - No allowed use",
-            "rights_statement_get_img": "Protected (1902-2004) - No allowed use"
+            "rights_statement_get_tr": "Protected (1902-2004) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1902-2004) - Research and Educational use"
         }
     },
     "VHT": {
@@ -1161,17 +1161,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1904-2004) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1904-2004) - No allowed use",
-            "rights_statement_get_img": "Protected (1904-2004) - No allowed use"
+            "rights_statement_get_tr": "Protected (1904-2004) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1904-2004) - Research and Educational use"
         }
     },
     "LSE": {
@@ -1186,17 +1186,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000100000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000100000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1890-1971) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1890-1971) - No allowed use",
-            "rights_statement_get_img": "Protected (1890-1971) - No allowed use"
+            "rights_statement_get_tr": "Protected (1890-1971) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1890-1971) - Research and Educational use"
         }
     },
     "LES": {
@@ -1211,17 +1211,17 @@
             "content_and_metadata": "yes",
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Forbidden",
-            "get_facsimile_req_status": "Forbidden",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000000000000000000000000000000"
+                "get_tr": "0000000000000000000000000000000000000100000000000000000000000000",
+                "get_img": "0000000000000000000000000000000000000100000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1906-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1906-2018) - No allowed use",
-            "rights_statement_get_img": "Protected (1906-2018) - No allowed use"
+            "rights_statement_get_tr": "Protected (1906-2018) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1906-2018) - Research and Educational use"
         }
     }
 }
