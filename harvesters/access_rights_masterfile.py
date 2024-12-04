@@ -271,25 +271,25 @@ def statement_from_status(allowed_status: str, allowed_used_archive_only: str) -
     """
     match allowed_status:
         case "No restriction (all registered users allowed)":
-            return "Personal, Research and Educational"
+            return "Personal, Research and Educational use"
         case "Educational users at least OR Archive members":
-            return "Research and Educational"
+            return "Research and Educational use"
         case "Educational users at least":
-            return "Research and Educational"
+            return "Research and Educational use"
         case "Academic users at least OR Archive members":
             return "Research"
         case "Academic users at least":
-            return "Research"
+            return "Research use"
         case "Only Archive members":
             if allowed_used_archive_only != "":
-                return allowed_used_archive_only
+                return f"{allowed_used_archive_only} use"
 
             # if only archive members are allowed, the alloed uses need to be specified.
             m = f"When allowing only archive members, the allowed uses should be provided ({allowed_used_archive_only})!"
             print(m)
             raise AttributeError(m)
         case "Forbidden":
-            return "No allowed"
+            return "Operation not permitted"
 
 
 def entry_to_statement(entry: dict[str, Any], period: str, action_status: str) -> str:
@@ -315,7 +315,7 @@ def entry_to_statement(entry: dict[str, Any], period: str, action_status: str) -
         stmt = statement_from_status(
             entry[action_status], entry["allowed_use_archive_only"]
         )
-        return f"Protected ({period}) - {stmt} use"
+        return f"Protected ({period}) - {stmt}"
     if entry["copyright_status"] == "":
         m = f"The copyright status was not provided for {entry['title_alias']}"
         print(m)
