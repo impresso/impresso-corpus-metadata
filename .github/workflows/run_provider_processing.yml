@@ -1,4 +1,4 @@
-name: Run manifest pre-processing
+name: Run provider pre-processing
 on:
   workflow_dispatch: # Manual trigger
 
@@ -17,8 +17,8 @@ jobs:
       - name: Run preprocessing script
         run: |
           sudo docker run --rm \
-            -e MANIFEST_DATA_FOLDER=/data/manifests \
+            -e PROVIDER_DATA_FOLDER=/data/providers \
             -e CSV_DATA_FOLDER=/data/csv \
-            -v ./data-processing-versioning:/data/manifests \
+            -v ./data/gdrive_metadata:/data/providers \
             -v ${{ secrets.VM_DATA_FOLDER }}:/data/csv \
-            impresso-dashboard-preprocessing:latest python /script/preprocessing.py --only_manifests --force_reprocess
+            impresso-dashboard-preprocessing:latest python /script/preprocessing.py --only_providers --force_reprocess
