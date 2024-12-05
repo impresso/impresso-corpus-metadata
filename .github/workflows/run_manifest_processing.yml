@@ -1,0 +1,24 @@
+name: Run manifest pre-processing
+on:
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  deploy:
+    runs-on: impresso-dashboard-runner
+    timeout-minutes: 3
+    steps:
+      # Step 1: Check out the code
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          ref: staging
+
+      # Step 2: Run preprocessing script using latest docker image
+      - name: Run preprocessing script
+        run: |
+          sudo docker run --rm \
+            -e MANIFEST_DATA_FOLDER=/data/manifests \
+            -e CSV_DATA_FOLDER=/data/csv \
+            -v ./data-processing-versioning:/data/manifests \
+            -v ${{ secrets.VM_DATA_FOLDER }}:/data/csv \
+            impresso-dashboard-preprocessing:latest python /script/preprocessing.py --only_manifests --force_reprocess
