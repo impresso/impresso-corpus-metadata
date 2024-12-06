@@ -1,5 +1,5 @@
 {
-    "snl": {
+    "SNL": {
         "BLB": {
             "1846-1847": {
                 "data_partner_institution": "SNL",
@@ -12,7 +12,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "BNN": {
@@ -27,7 +28,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "DFS": {
@@ -42,7 +44,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "DVF": {
@@ -57,7 +60,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "EZR": {
@@ -72,7 +76,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "HRV": {
@@ -87,7 +92,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "LAB": {
@@ -102,7 +108,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "MGS": {
@@ -117,7 +124,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "NTS": {
@@ -132,7 +140,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "NZG": {
@@ -147,7 +156,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "SGZ": {
@@ -162,7 +172,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "SRT": {
@@ -177,7 +188,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "WHD": {
@@ -192,7 +204,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "ZBT": {
@@ -207,7 +220,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 5
             }
         },
         "BDC": {
@@ -222,7 +236,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "CDV": {
@@ -237,7 +252,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "EDA": {
@@ -252,7 +268,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "JDV": {
@@ -267,7 +284,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "LSR": {
@@ -282,7 +300,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "CON": {
@@ -297,7 +316,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "GAV": {
@@ -312,7 +332,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "GAZ": {
@@ -327,7 +348,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "SAX": {
@@ -342,7 +364,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "VDR": {
@@ -357,7 +380,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 30
             }
         },
         "DLE": {
@@ -372,7 +396,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "JDF": {
@@ -387,7 +412,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LBP": {
@@ -402,7 +428,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LCR": {
@@ -417,7 +444,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LCS": {
@@ -432,7 +460,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LNF": {
@@ -447,7 +476,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LTF": {
@@ -462,7 +492,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LVE": {
@@ -477,7 +508,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LCG": {
@@ -492,7 +524,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "FZG": {
@@ -506,8 +539,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "LLE": {
@@ -521,8 +555,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 23
             }
         },
         "EXP": {
@@ -536,8 +571,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 39
             }
         },
         "IMP": {
@@ -551,8 +587,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 39
             }
         },
         "LCE": {
@@ -566,8 +603,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 28
             }
         },
         "JDG": {
@@ -581,8 +619,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 14
             }
         },
         "GDL": {
@@ -596,8 +635,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 14
             }
         },
         "DTT": {
@@ -611,8 +651,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 24
             }
         },
         "FCT": {
@@ -626,8 +667,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "LLS": {
@@ -641,8 +683,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "OIZ": {
@@ -656,8 +699,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "SDT": {
@@ -671,8 +715,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "SMZ": {
@@ -686,8 +731,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "VHT": {
@@ -701,8 +747,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 34
             }
         },
         "LSE": {
@@ -716,8 +763,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 37
             }
         },
         "LES": {
@@ -731,12 +779,13 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
-                "minimum_user_plan_required_to_export_illustration": "Not Possible"
+                "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Student User Plan",
+                "partner_bitmap_index": 37
             }
         }
     },
-    "bcul": {
+    "BCUL": {
         "ACI": {
             "1832-1832": {
                 "data_partner_institution": "BCUL",
@@ -749,7 +798,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "RN": {
@@ -764,7 +814,8 @@
                 "permitted_use": "Research",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Academic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Castigat": {
@@ -779,7 +830,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "CL": {
@@ -794,7 +846,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Croquis": {
@@ -809,7 +862,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "FAM": {
@@ -824,7 +878,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "FAMDE": {
@@ -839,7 +894,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "FAN": {
@@ -854,7 +910,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "feuilleP": {
@@ -869,7 +926,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "feuillePMA": {
@@ -884,7 +942,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "FAV1": {
@@ -899,7 +958,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "GAVi": {
@@ -914,7 +974,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "AV": {
@@ -929,7 +990,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "JY2": {
@@ -944,7 +1006,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "JV": {
@@ -959,7 +1022,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "JVE": {
@@ -974,7 +1038,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "JH": {
@@ -989,7 +1054,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "NV": {
@@ -1004,7 +1070,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "EM": {
@@ -1019,7 +1086,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "esta": {
@@ -1034,7 +1102,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "OBS": {
@@ -1049,7 +1118,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Bombe": {
@@ -1064,7 +1134,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Cancoire": {
@@ -1079,7 +1150,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Fronde": {
@@ -1094,7 +1166,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Griffe": {
@@ -1109,7 +1182,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Guepe1851": {
@@ -1124,7 +1198,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Guepe1887": {
@@ -1139,7 +1214,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "RLA": {
@@ -1154,7 +1230,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "PAT": {
@@ -1169,7 +1246,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "VVS": {
@@ -1184,7 +1262,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Charivari": {
@@ -1199,7 +1278,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "CharivariCH": {
@@ -1214,7 +1294,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Grelot": {
@@ -1229,7 +1310,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "MESSAGER": {
@@ -1244,7 +1326,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Moniteur": {
@@ -1259,7 +1342,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "Moustique": {
@@ -1274,7 +1358,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "NV1": {
@@ -1289,7 +1374,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "ouistiti": {
@@ -1304,7 +1390,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "PJ": {
@@ -1319,7 +1406,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "PS": {
@@ -1334,7 +1422,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "PDN": {
@@ -1349,7 +1438,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "PDL": {
@@ -1364,7 +1454,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "TouSuIl": {
@@ -1379,7 +1470,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "VVS1": {
@@ -1394,7 +1486,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "ME": {
@@ -1409,7 +1502,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "MB": {
@@ -1424,7 +1518,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "NS": {
@@ -1439,7 +1534,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "NV2": {
@@ -1454,7 +1550,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "RN1": {
@@ -1469,7 +1566,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         },
         "RN2": {
@@ -1484,11 +1582,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 22
             }
         }
     },
-    "bnf": {
+    "BNF": {
         "excelsior": {
             "1910-1920": {
                 "data_partner_institution": "BNF",
@@ -1501,7 +1600,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "lafronde": {
@@ -1516,7 +1616,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "marieclaire": {
@@ -1531,7 +1632,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "oeuvre": {
@@ -1546,7 +1648,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "jdpl": {
@@ -1561,7 +1664,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             },
             "1885-1944": {
                 "data_partner_institution": "BNF",
@@ -1574,7 +1678,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "legaulois": {
@@ -1589,7 +1694,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             },
             "1885-1929": {
                 "data_partner_institution": "BNF",
@@ -1602,7 +1708,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "lematin": {
@@ -1617,7 +1724,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "lepji": {
@@ -1632,7 +1740,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "lepetitparisien": {
@@ -1647,7 +1756,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             },
             "1885-1944": {
                 "data_partner_institution": "BNF",
@@ -1660,7 +1770,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "oecaen": {
@@ -1675,7 +1786,8 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         },
         "oerennes": {
@@ -1690,15 +1802,16 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 7
             }
         }
     },
-    "bnl": {
+    "BNL": {
         "actionfem": {
             "1927-1940": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "actionfem",
                 "media_title": "Action f\u00e9minine (L')",
@@ -1706,16 +1819,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "armeteufel": {
             "1903-1929": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "armeteufel",
                 "media_title": "Arme Teufel (Der)",
@@ -1723,16 +1837,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "avenirgdl": {
             "1868-1871": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "avenirgdl",
                 "media_title": "Avenir (L')",
@@ -1743,13 +1858,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "buergerbeamten": {
             "1898-1916": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "buergerbeamten",
                 "media_title": "B\u00fcrger- und Beamten-Zeitung",
@@ -1757,16 +1873,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "courriergdl": {
             "1844-1868": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "courriergdl",
                 "media_title": "Courrier du Grand-Duch\u00e9 de Luxembourg",
@@ -1777,13 +1894,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "waeschfra": {
             "1868-1881": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "waeschfra",
                 "media_title": "D'W\u00e4schfra",
@@ -1794,11 +1912,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             },
             "1882-1884": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "waeschfra",
                 "media_title": "D'W\u00e4schfra",
@@ -1806,16 +1925,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "waechtersauer": {
             "1849-1869": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "waechtersauer",
                 "media_title": "Der W\u00e4chter an der Sauer",
@@ -1826,13 +1946,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "diekwochen": {
             "1841-1848": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "diekwochen",
                 "media_title": "Diekircher Wochenblatt",
@@ -1843,13 +1964,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "tageblatt": {
             "1913-1950": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "tageblatt",
                 "media_title": "Escher Tageblatt",
@@ -1857,16 +1979,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "gazgrdlux": {
             "1878-1878": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "gazgrdlux",
                 "media_title": "Gazette du Grand-Duch\u00e9 de Luxembourg",
@@ -1874,16 +1997,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "indeplux": {
             "1871-1880": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "indeplux",
                 "media_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -1894,11 +2018,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             },
             "1881-1934": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "indeplux",
                 "media_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -1906,16 +2031,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "kommmit": {
             "1884-1881": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "kommmit",
                 "media_title": "Komm mit mir!",
@@ -1926,11 +2052,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             },
             "1882-1884": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "kommmit",
                 "media_title": "Komm mit mir!",
@@ -1941,13 +2068,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "lunion": {
             "1860-1871": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "lunion",
                 "media_title": "L'Union",
@@ -1958,13 +2086,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "luxland": {
             "1954-2022": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxland",
                 "media_title": "L\u00ebtzebuerger Land (d')",
@@ -1972,16 +2101,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "deletz1893": {
             "1893-1909": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "deletz1893",
                 "media_title": "Letzeburger (De)",
@@ -1989,16 +2119,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "luxembourg1935": {
             "1935-1940": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxembourg1935",
                 "media_title": "Luxembourg (Le) : Journal du matin",
@@ -2006,16 +2137,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "landwortbild": {
             "1895-1895": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "landwortbild",
                 "media_title": "Luxemburger Land in Wort und Bild",
@@ -2023,16 +2155,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "volkfreu1869": {
             "1869-1876": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "volkfreu1869",
                 "media_title": "Luxemburger Volks-Freund",
@@ -2043,13 +2176,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "luxwort": {
             "1848-1884": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxwort",
                 "media_title": "Luxemburger Wort",
@@ -2060,11 +2194,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             },
             "1885-1950": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxwort",
                 "media_title": "Luxemburger Wort",
@@ -2072,16 +2207,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "luxzeit1844": {
             "1844-1845": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxzeit1844",
                 "media_title": "Luxemburger Zeitung",
@@ -2092,13 +2228,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "luxzeit1858": {
             "1858-1859": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "luxzeit1858",
                 "media_title": "Luxemburger Zeitung - Journal de Luxembourg",
@@ -2109,13 +2246,14 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "demitock": {
             "1937-1940": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "demitock",
                 "media_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
@@ -2123,16 +2261,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "obermosel": {
             "1881-1881": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "obermosel",
                 "media_title": "Obermosel-Zeitung",
@@ -2143,11 +2282,12 @@
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
                 "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+                "partner_bitmap_index": 6
             },
             "1882-1948": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "obermosel",
                 "media_title": "Obermosel-Zeitung",
@@ -2155,16 +2295,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "onsjongen": {
             "1944-1951": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "onsjongen",
                 "media_title": "Ons Jongen",
@@ -2172,16 +2313,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "schmiede": {
             "1916-1919": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "schmiede",
                 "media_title": "Schmiede",
@@ -2189,16 +2331,17 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         },
         "dunioun": {
             "1944-1948": {
-                "license": "",
                 "impresso_1_or_2": 1,
+                "license": "",
                 "data_partner_institution": "BNL",
                 "media_alias": "dunioun",
                 "media_title": "Unio'n (D')",
@@ -2206,14 +2349,15 @@
                 "media": "Newspaper",
                 "medium": "print",
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
-                "permitted_use": "Personal, Research and Educational",
+                "permitted_use": "Academic users at least OR Archive members",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 6
             }
         }
     },
-    "swa_fedgaz_nzz": {
+    "SWA_FEDGAZ_NZZ": {
         "NZZ": {
             "1780-1950": {
                 "data_partner_institution": "NZZ",
@@ -2225,8 +2369,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
+                "minimum_user_plan_required_to_export_illustration": "Not Possible",
+                "partner_bitmap_index": 15
             }
         },
         "arbeitgeber": {
@@ -2240,8 +2385,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
+                "minimum_user_plan_required_to_export_illustration": "Not Possible",
+                "partner_bitmap_index": 35
             }
         },
         "handelsztg": {
@@ -2255,8 +2401,9 @@
                 "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Personal, Research and Educational",
                 "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_export_transcripts": "Not Possible",
+                "minimum_user_plan_required_to_export_illustration": "Not Possible",
+                "partner_bitmap_index": 35
             }
         },
         "FedGazDe": {
@@ -2267,11 +2414,12 @@
                 "time_period": "1849-1999",
                 "media": "Newspaper",
                 "medium": "print",
-                "copyright_or_copyright_status": "Public Domain",
+                "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Personal, Research and Educational",
-                "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 42
             }
         },
         "FedGazFr": {
@@ -2282,11 +2430,12 @@
                 "time_period": "1849-1999",
                 "media": "Newspaper",
                 "medium": "print",
-                "copyright_or_copyright_status": "Public Domain",
+                "copyright_or_copyright_status": "Protected Domain: In copyright",
                 "permitted_use": "Personal, Research and Educational",
-                "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
-                "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
-                "minimum_user_plan_required_to_export_illustration": "Basic User Plan"
+                "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+                "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+                "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+                "partner_bitmap_index": 42
             }
         }
     }
