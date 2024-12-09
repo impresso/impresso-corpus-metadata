@@ -15,15 +15,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1927-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1927-1940) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1927-1940) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1927-1940) - Research use",
+            "rights_statement_get_img": "Protected (1927-1940) - Research use"
         }
     },
     "armeteufel": {
@@ -42,15 +42,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1903-1929) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1903-1929) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1903-1929) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1903-1929) - Research use",
+            "rights_statement_get_img": "Protected (1903-1929) - Research use"
         }
     },
     "avenirgdl": {
@@ -96,15 +96,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1898-1916) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1898-1916) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1898-1916) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1898-1916) - Research use",
+            "rights_statement_get_img": "Protected (1898-1916) - Research use"
         }
     },
     "courriergdl": {
@@ -175,15 +175,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1882-1884) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1884) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1882-1884) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1882-1884) - Research use",
+            "rights_statement_get_img": "Protected (1882-1884) - Research use"
         }
     },
     "waechtersauer": {
@@ -256,15 +256,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1913-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1913-1950) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1913-1950) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1913-1950) - Research use",
+            "rights_statement_get_img": "Protected (1913-1950) - Research use"
         }
     },
     "gazgrdlux": {
@@ -283,15 +283,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1878-1878) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1878-1878) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1878-1878) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1878-1878) - Research use",
+            "rights_statement_get_img": "Protected (1878-1878) - Research use"
         }
     },
     "indeplux": {
@@ -335,15 +335,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1881-1934) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1881-1934) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1881-1934) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1881-1934) - Research use",
+            "rights_statement_get_img": "Protected (1881-1934) - Research use"
         }
     },
     "kommmit": {
@@ -441,15 +441,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1954-2022) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1954-2022) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1954-2022) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1954-2022) - Research use",
+            "rights_statement_get_img": "Protected (1954-2022) - Research use"
         }
     },
     "deletz1893": {
@@ -468,15 +468,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1893-1909) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1893-1909) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1893-1909) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1893-1909) - Research use",
+            "rights_statement_get_img": "Protected (1893-1909) - Research use"
         }
     },
     "luxembourg1935": {
@@ -495,15 +495,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1935-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1935-1940) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1935-1940) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1935-1940) - Research use",
+            "rights_statement_get_img": "Protected (1935-1940) - Research use"
         }
     },
     "landwortbild": {
@@ -522,15 +522,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1895-1895) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1895-1895) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1895-1895) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1895-1895) - Research use",
+            "rights_statement_get_img": "Protected (1895-1895) - Research use"
         }
     },
     "volkfreu1869": {
@@ -601,15 +601,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1885-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1885-1950) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1885-1950) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1885-1950) - Research use",
+            "rights_statement_get_img": "Protected (1885-1950) - Research use"
         }
     },
     "luxzeit1844": {
@@ -682,15 +682,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1937-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1937-1940) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1937-1940) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1937-1940) - Research use",
+            "rights_statement_get_img": "Protected (1937-1940) - Research use"
         }
     },
     "obermosel": {
@@ -734,15 +734,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1882-1948) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1948) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1882-1948) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1882-1948) - Research use",
+            "rights_statement_get_img": "Protected (1882-1948) - Research use"
         }
     },
     "onsjongen": {
@@ -761,15 +761,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1944-1951) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1944-1951) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1944-1951) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1944-1951) - Research use",
+            "rights_statement_get_img": "Protected (1944-1951) - Research use"
         }
     },
     "schmiede": {
@@ -788,15 +788,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1916-1919) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1916-1919) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1916-1919) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1916-1919) - Research use",
+            "rights_statement_get_img": "Protected (1916-1919) - Research use"
         }
     },
     "dunioun": {
@@ -815,15 +815,15 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Only Archive members",
             "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Academic users at least OR Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1944-1948) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1944-1948) - Academic users at least OR Archive members use",
-            "rights_statement_get_img": "Protected (1944-1948) - Academic users at least OR Archive members use"
+            "rights_statement_get_tr": "Protected (1944-1948) - Research use",
+            "rights_statement_get_img": "Protected (1944-1948) - Research use"
         }
     }
 }
