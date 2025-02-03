@@ -7,6 +7,7 @@ This repository contains scripts and resources related to the management of the 
   - [Initial Setup and Use](#initial-setup-and-use)
   - [Metadata Harvesters](#metadata-harvesters)
   - [Access Rights Harvesters](#access-rights-harvesters)
+  - [Access rights aggregator](#access-rights-aggregator)
 - [About Impresso](#about-impresso)
 
 ---
@@ -59,11 +60,6 @@ At this stage, initial data preparation begins:
    - **Corpus Access Catalogue**: Aggregating access rights information across the corpus.
 
 Also refer to the [metadata-collection-organisation](https://docs.google.com/drawings/d/1v_8mgdCgWaxduIpHEE_6UsPuTtsvgPRPzU7AGZYHQdw/edit?pli=1) schema for an overview of the process.
-
-- [Initial setup and use](#initial-setup-and-use)
-- [Metadata harvesters](#metadata-harvesters)
-- [Access rights harvesters](#access-rights-harvesters)
-- [Access rights aggregator](#access-rights-aggregator)
 
 ### Initial setup and use
 
