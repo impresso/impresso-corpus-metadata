@@ -2,31 +2,38 @@
 
 This repository contains scripts and resources related to the management of the **Impresso Corpus** state and metadata.
 
-## Overall Workflow
+- [Overall Workflow for the Inclusion of a New Collection](#overall-workflow-for-the-inclusion-of-a-new-collection)
+- [Scripts and Resources](#scripts-and-resources)
+  - [Initial Setup and Use](#initial-setup-and-use)
+  - [Metadata Harvesters](#metadata-harvesters)
+  - [Access Rights Harvesters](#access-rights-harvesters)
+- [About Impresso](#about-impresso)
 
-### Inclusion of a New Collection in the Impresso Corpus & Pipeline  
+---
 
-#### **1. Source Selection & Exploratory List**  
+## Overall Workflow for the Inclusion of a New Collection
+
+**1. Source Selection & Exploratory List**  
 - The institution completes the collection overview questionnaire.  
 - Initial discussion on objectives, collections, legal, and technical aspects.  
 - Creation of an **Exploratory Media List** in *media-source-inventory*, identifying potentially relevant media items.  
 - A small data sample is shared in the institution’s shared folder.  
 - Final selection of items for inclusion in the Exploratory List.  
 
-#### **2. Data Sharing Agreement (DSA)**  
+**2. Data Sharing Agreement (DSA)**  
 - Discussion and validation of DSA terms and conditions, with adjustments if needed.  
-- Creation of the **DSA Media List**, refining the Exploratory List based on legal constraints. *(Who: Institution, Impresso Data Team)*  
+- Creation of the **DSA Media List**, refining the Exploratory List based on legal constraints.
 - DSA signature and document archiving.  
 - If possible, transfer of public domain data before the signature.  
 
-#### **3. Data Transfer**  
+**3. Data Transfer**  
 Handling of logistics, including:  
 - Agreement on transfer mode and file structure.  
 - Potential shipment of hard disks.  
 - Verification of available storage space (NAS).  
 - Physical data copy.  
 
-#### **4. Collection Preparation**  
+**4. Collection Preparation**  
 - Update of **Central Media Source**: `00_Impresso-MediaSources.xlsx`.  
 - Generation of access rights file.  
 - Update of **Impresso corpus catalogue JSON**.  
@@ -38,6 +45,7 @@ At this stage, initial data preparation begins:
 - Creation of **canonical files**.  
 - If applicable, image conversion and **IIIF setup** for facsimiles.
 
+---
 ## Scripts and resources
 
 - **Metadata Harvesters**  
@@ -57,9 +65,9 @@ Also refer to the [metadata-collection-organisation](https://docs.google.com/dra
 - [Access rights harvesters](#access-rights-harvesters)
 - [Access rights aggregator](#access-rights-aggregator)
 
-## Initial setup and use
+### Initial setup and use
 
-### Environment
+#### Environment
 
 ```bash
 # For pipenv users 
@@ -71,7 +79,7 @@ conda create -n [env_name] python=3.12.2
 pip install requirements.txt
 ```
 
-### Google service account
+#### Google service account
 
 We use a service account to programmatically access documents on the project's Gdrive and fetch information from them.
 
@@ -82,16 +90,16 @@ The process requires:
 
 A service account for the project already exists, **ask us for the credentials**.
 
-## Metadata harvesters
+### Metadata harvesters
 
-### About metadata
+#### About metadata
 
 - The [00_Impresso-MediaSources](https://docs.google.com/spreadsheets/d/1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E/edit?gid=1371128556#gid=1371128556) preadsheet serves as the central repository for all Impresso media titles, along with their manually collected metadata, organized into one tab per institution.
 - In addition, we collect further metadata from the institutions' APIs. 
 
 While these two sources of metadata may overlap, both are essential. Not all institutions provide the same level of metadata, and our goal is to establish a baseline common to all titles. The central spreadsheet should ideally capture information not available in the API metadata and/or values that apply uniformly across the entire collection (e.g., institution links or OCR formats).
 
-### 1. Fetching metadata from Gsheets 
+#### 1. Fetching metadata from Gsheets 
 
 This is done with the `fetch_from_gdrive.py` module.
 
@@ -117,7 +125,7 @@ make swa-fedgaz-metadata # SWA and FedGaz corpora
 make all-metadata        # All corpora  
 ```
 
-### 2. Harvesting metadata from institutions' APIs 
+#### 2. Harvesting metadata from institutions' APIs 
 
 Some institutions provide metadata via APIs, allowing us to supplement the information for each media title. Data formats and retrieval methods vary by institution.
 
@@ -147,7 +155,7 @@ Some institutions provide metadata via APIs, allowing us to supplement the infor
 
   The fetched metadata is then aggregated by newspaper title into `api_metadata.bcul.json`. This file contains the relevant metadata in a format optimized for easy ingestion.
 
-### 3. Copying metadata files to the impresso-master-db repository 
+#### 3. Copying metadata files to the impresso-master-db repository 
 
 Collected metadata is ingested into **MySQL** and needs to be copied to the `impresso-master-db` repository
 
@@ -169,9 +177,9 @@ make sync-apis-metadata                  # All files from api_metadata
 make sync-apis-metadata file_to_sync=<filename>    # Specific file from api_metadata  
 ```
 
-## Access rights harvesters
+### Access rights harvesters
 
-### 1. Fetching access rights gsheets per institution
+#### 1. Fetching access rights gsheets per institution
 
 The process for harvesting **access rights** is similar to that of metadata harvesting. Each institution's access rights are stored in individual Google Sheets in a standardized format, always located in the worksheet named **`DSA_access-rights`**.
 
@@ -191,7 +199,7 @@ make all-access-rights                    # For all institutions
 make <institution>-access-rights          # For a specific corpus, e.g., snl, bnl, bnf, kbr, kb, bl, onb, sbb, sub, ina, bcul, swa-fedgaz-nzz  
 ```
 
-### 2. Copying access right files to downstream repositories
+#### 2. Copying access right files to downstream repositories
 
 Information from access right JSON files is ingested into both **MySQL** and **Solr**. As for the metadata files, they are copied between local repositories.
 
@@ -204,7 +212,7 @@ make sync-access-rights file_to_sync=<filename>  # Specific file, e.g., access_r
 make sync-solr-access-rights
 ```
 
-## Access rights aggregator
+#### Access rights aggregator
 
 (description to come)
 
