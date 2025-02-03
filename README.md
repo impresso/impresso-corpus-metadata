@@ -1,6 +1,44 @@
 # Impresso Corpus Metadata
 
-This repository contains scripts and resources related to the **Impresso Corpus**, including:  
+This repository contains scripts and resources related to the management of the **Impresso Corpus** state and metadata.
+
+## Overall Workflow
+
+### Inclusion of a New Collection in the Impresso Corpus & Pipeline  
+
+#### **1. Source Selection & Exploratory List**  
+- The institution completes the collection overview questionnaire.  
+- Initial discussion on objectives, collections, legal, and technical aspects.  
+- Creation of an **Exploratory Media List** in *media-source-inventory*, identifying potentially relevant media items.  
+- A small data sample is shared in the institution’s shared folder.  
+- Final selection of items for inclusion in the Exploratory List.  
+
+#### **2. Data Sharing Agreement (DSA)**  
+- Discussion and validation of DSA terms and conditions, with adjustments if needed.  
+- Creation of the **DSA Media List**, refining the Exploratory List based on legal constraints. *(Who: Institution, Impresso Data Team)*  
+- DSA signature and document archiving.  
+- If possible, transfer of public domain data before the signature.  
+
+#### **3. Data Transfer**  
+Handling of logistics, including:  
+- Agreement on transfer mode and file structure.  
+- Potential shipment of hard disks.  
+- Verification of available storage space (NAS).  
+- Physical data copy.  
+
+#### **4. Collection Preparation**  
+- Update of **Central Media Source**: `00_Impresso-MediaSources.xlsx`.  
+- Generation of access rights file.  
+- Update of **Impresso corpus catalogue JSON**.  
+- Metadata harvesting from partner API or provided data.  
+- Metadata update in **central media list**.  
+- Update of **IIIF phonebook**, if required.  
+
+At this stage, initial data preparation begins:  
+- Creation of **canonical files**.  
+- If applicable, image conversion and **IIIF setup** for facsimiles.
+
+## Scripts and resources
 
 - **Metadata Harvesters**  
    Tools to fetch metadata from:  
