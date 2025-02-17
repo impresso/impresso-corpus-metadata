@@ -3,6 +3,52 @@
 
 import re
 
+BITMAP_KEYS = [
+    "public",
+    "impresso",
+    "educational",
+    "researcher",
+    "",
+    "SNL",
+    "BNL",
+    "BNF",
+    "KBR",
+    "KB",
+    "BL",
+    "ONB",
+    "SBB",
+    "SUB",
+    "LeTemps",
+    "NZZ",
+    "INA",
+    "RTS",
+    "BBC",
+    "ORF",
+    "Rundfunk",
+    "DR",
+    "BCUL",
+    "BCUF",
+    "Migros",
+    "PSNE",
+    "Gruyere",
+    "LLE",
+    "LCE",
+    "LES",
+    "MVS",
+    "FRN",
+    "RM",
+    "Syna",
+    "Unia",
+    "SWA",
+    "SA",
+    "BVCF",
+    "BVU",
+    "ArcInfo",
+    "Swissinfo",
+    "CNA",
+    "FedGaz",
+]
+
 
 def util_slugify(text: str) -> str:
     """
