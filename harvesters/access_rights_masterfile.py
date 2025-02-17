@@ -30,7 +30,7 @@ BITMAP_KEYS = [
     "BNL",
     "BNF",
     "KBR",
-    "KBR",
+    "KB",
     "BL",
     "ONB",
     "SBB",
