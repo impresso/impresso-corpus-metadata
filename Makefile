@@ -91,7 +91,7 @@ sync-access-rights:
 	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
 
 sync-solr-access-rights:
-	rsync -r -v "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
+	rsync -r -v --exclude "$(data_dir)/access_rights_masterfiles/corpus_access_catalogue.json" "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
