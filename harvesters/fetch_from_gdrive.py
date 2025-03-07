@@ -102,6 +102,37 @@ ACCESS_RIGHTS_RULES = {
     },
 }
 
+CHEATCHEET_RULES = {
+    "mysql_id": {"copy_value_from_field": "mysql_id"},
+    "internal_alias_shorten_version_of_run_id_used_in_solr_and_in_json_files": {
+        "rename_key_to": "internal_alias"
+    },
+    "task_used_in_s3_path": {"rename_key_to": "task"},
+    "lang_used_in_model_id": {"rename_key_to": "lang"},
+    "processing_label_used_in_s3_path_and_file_names": {
+        "rename_key_to": "processing_label"
+    },
+    "processing_subtype_label_used_in_s3_path": {
+        "rename_key_to": "processing_subtype_label"
+    },
+    "model_alias_internal_process_use": {"rename_key_to": "model_alias"},
+    "full_model_name_base_model": {"rename_key_to": "full_model_name"},
+    "model_version_base_model": {"remove_key": ""},
+    "model_specificity_we_could_leave_this_out_of_s3_path_and_keep_it_only_here": {
+        "remove_key": ""
+    },
+    "model_id_task_subtask_model_specifity_model_version_lang_": {
+        "rename_key_to": "model_id"
+    },
+    "huggingface_link": {"copy_value_from_field": "huggingface_link"},
+    "run_id_processing_label_model_id_run_version_": {"rename_key_to": "run_id"},
+    "run_version": {"copy_value_from_field": "run_version"},
+    "s3_path_of_processed_data_path_s3_bucket_processing_label_processing_subtype_label_component_run_id_processing_step_provider_alias_media_alias_file_stem_jsonlbz2_": {
+        "rename_key_to": "processed_data_s3_path"
+    },
+    "comment": {"remove_key": ""},
+}
+
 
 def util_slugify(text: str) -> str:
     """
