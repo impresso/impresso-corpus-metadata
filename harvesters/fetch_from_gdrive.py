@@ -102,7 +102,7 @@ ACCESS_RIGHTS_RULES = {
     },
 }
 
-CHEATCHEET_RULES = {
+MODELS_CHEATSHEET_RULES = {
     "mysql_id": {"copy_value_from_field": "mysql_id"},
     "internal_alias_shorten_version_of_run_id_used_in_solr_and_in_json_files": {
         "rename_key_to": "internal_alias"
@@ -133,6 +133,13 @@ CHEATCHEET_RULES = {
     "comment": {"remove_key": ""},
 }
 
+RECORDS_HEAD = {"metadata": 1, "access_rights": 2, "cheatsheet": 2}
+RULES = {
+    "metadata": METADATA_RULES,
+    "access_rights": ACCESS_RIGHTS_RULES,
+    "cheatsheet": MODELS_CHEATSHEET_RULES,
+}
+
 
 def util_slugify(text: str) -> str:
     """
@@ -151,7 +158,7 @@ def util_slugify(text: str) -> str:
     return s
 
 
-def transform_value(d: dict, is_metadata: bool = True) -> dict:
+def transform_value(d: dict, gsheet_type: str) -> dict:
     """
     Change the value of a key in a dictionary.
 
@@ -170,7 +177,7 @@ def transform_value(d: dict, is_metadata: bool = True) -> dict:
         transformed[slugified_key] = d[key]
 
     # depending on the data to fetch, different rules should be applied.
-    rules = METADATA_RULES if is_metadata else ACCESS_RIGHTS_RULES
+    rules = RULES[gsheet_type]
 
     for key_with_rule, rule in rules.items():
         if "copy_value_from_field" in rule:
@@ -211,7 +218,7 @@ def download(
     worksheet_name: str = "impresso1-collection",  # Default worksheet name
     credentials_path: str = "credentials.json",  # Default credentials path
     output_file: str = "data.json",  # Default output filename
-    is_metadata: bool = False,  # Default type of data to fetch
+    gsheet_type: str = "access_rights",  # Default type of data to fetch
 ) -> None:
     """
     Downloads data from a specified Google Sheet and saves it as a JSON file.
@@ -221,13 +228,24 @@ def download(
       worksheet_name (str): Name of the worksheet to download  (default: Sheet1).
       credentials_path (str): Path to the credentials JSON file  (default: credentials.json).
       output_file (str): Name of the output JSON file (default: data.json).
+      gsheet_type (str): Type of Googe Sheet to fetch, one of "metadata", "access_rights",
+      "cheatsheet" (default: access_rights).
     """
     print("Downloading data from Google Sheet... 📥")
     print(f"spreadsheet_id: {spreadsheet_id}")
     print(f"worksheet_name: {worksheet_name}")
     print(f"credentials_path: {credentials_path}")
     print(f"output_file: {output_file}")
-    print(f"is_metadata: {is_metadata}")
+    print(f"gsheet_type: {gsheet_type}")
+
+    # ensure that the type of gsheet to fetch is supported/implemented
+    if gsheet_type not in RECORDS_HEAD.keys():
+        msg = (
+            f"The gsheet_type '{gsheet_type}' is not one of ['metadata', 'access_rights', 'cheatsheet'] "
+            "Please provide a supported type of Gsheet."
+        )
+        raise NotImplementedError(msg)
+
     # Initialize gspread client
     gc = gspread.service_account(filename=credentials_path)
 
@@ -245,14 +263,14 @@ def download(
     worksheet = sheet.worksheet(worksheet_name)
 
     # Get worksheet data
-    values = worksheet.get_all_records(head=1 if is_metadata else 2)
+    values = worksheet.get_all_records(head=RECORDS_HEAD[gsheet_type])
 
     # convert is_metadata to an array for the map
-    is_metadata = [is_metadata] * len(values)
+    gsheet_types = [gsheet_type] * len(values)
     # use transform_records as a mapper function
-    transformed_values = list(map(transform_value, values, is_metadata))
+    transformed_values = list(map(transform_value, values, gsheet_types))
 
-    if not is_metadata[0]:
+    if not gsheet_type:
         # only keep entries where all necessary values are defined
         transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
 

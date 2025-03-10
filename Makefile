@@ -6,6 +6,7 @@ metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
 metadata_gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 ar_worksheet_name = DSA_access-rights
+cheatsheet_worksheet_name = 3-MODEL-CATALOGUE_v2
 file_to_sync = 
 
 # access rights gsheet ids
@@ -21,6 +22,7 @@ sub_ar_gsheet_id = 1zglWsq5EL3HbfB8QF_vyEKIewi8AWHD6
 ina_ar_gsheet_id = 1P4XAjxIKyZuvaQelQzJFpLhLy_JciJWH5X63Erf5iKU
 bcul_ar_gsheet_id = 1EeMo01iwcLWIuAwWgYN7vwkmsOJM5dA1ipJuaikbBCo
 swa_fedgaz_nzz_ar_gsheet_id = 1PC7B90IkXT8arczM8FlV6PN5YbZH1LjHV8ZUno5UW9c
+cheatsheet_gsheet_id = 1Z4_w8rnYctjZGk87qKxsEFINVUZFoWvCWtZqKRlC36Y
 
 # Targets
 help:
@@ -58,28 +60,28 @@ impresso1-metadata:
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="impresso1-collection" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).impresso1.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 bnf-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BNF" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnf.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 bcul-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BCUL" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bcul.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 swa-fedgaz-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 sync-gdrive-metadata: 
 	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gdrive_metadata"
@@ -91,7 +93,7 @@ sync-access-rights:
 	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
 
 sync-solr-access-rights:
-	rsync -r -v --exclude "$(data_dir)/access_rights_masterfiles/corpus_access_catalogue.json" "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
@@ -214,3 +216,10 @@ swa-fedgaz-nzz-access-rights:
 
 	python harvesters/access_rights_masterfile.py --partner="swa_fedgaz_nzz" --data-dir=$(data_dir)
 
+
+corpus-release-card:
+	python harvesters/fetch_from_gdrive.py \
+	--spreadsheet_id=$(cheatsheet_gsheet_id) \
+	--worksheet_name=$(cheatsheet_worksheet_name) \
+	--output_file="$(data_dir)/corpus_release_card/gdrive_models_cheatsheet.json" \
+	--gsheet_type="cheatsheet"
