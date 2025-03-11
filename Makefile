@@ -6,7 +6,7 @@ metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
 metadata_gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 ar_worksheet_name = DSA_access-rights
-cheatsheet_worksheet_name = 3-MODEL-CATALOGUE_v2
+cheatsheet_worksheet_name = 3-MODELS-AND-PROCESSINGS
 file_to_sync = 
 
 # access rights gsheet ids

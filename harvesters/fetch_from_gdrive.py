@@ -103,11 +103,12 @@ ACCESS_RIGHTS_RULES = {
 }
 
 MODELS_CHEATSHEET_RULES = {
-    "mysql_id": {"copy_value_from_field": "mysql_id"},
-    "internal_alias_shorten_version_of_run_id_used_in_solr_and_in_json_files": {
+    "release": {"copy_value_from_field": "release"},
+    "model_run_mysql_id": {"copy_value_from_field": "model_run_mysql_id"},
+    "model_internal_alias_shorten_version_of_run_id_used_in_solr_and_in_json_files": {
         "rename_key_to": "internal_alias"
     },
-    "task_used_in_s3_path": {"rename_key_to": "task"},
+    "task_name_used_in_s3_path": {"rename_key_to": "task_name"},
     "lang_used_in_model_id": {"rename_key_to": "lang"},
     "processing_label_used_in_s3_path_and_file_names": {
         "rename_key_to": "processing_label"
@@ -128,8 +129,10 @@ MODELS_CHEATSHEET_RULES = {
     "run_id_processing_label_model_id_run_version_": {"rename_key_to": "run_id"},
     "run_version": {"copy_value_from_field": "run_version"},
     "s3_path_of_processed_data_path_s3_bucket_processing_label_processing_subtype_label_component_run_id_processing_step_provider_alias_media_alias_file_stem_jsonlbz2_": {
-        "rename_key_to": "processed_data_s3_path"
+        "remove_key": ""
     },
+    "s3_partition_of_output_data": {"rename_key_to": "processed_data_s3_path"},
+    "computed_manifest": {"copy_value_from_field": "computed_manifest"},
     "comment": {"remove_key": ""},
 }
 
