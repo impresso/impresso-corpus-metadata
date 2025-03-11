@@ -221,5 +221,5 @@ corpus-release-card:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(cheatsheet_gsheet_id) \
 	--worksheet_name=$(cheatsheet_worksheet_name) \
-	--output_file="$(data_dir)/corpus_release_card/gdrive_models_cheatsheet.json" \
+	--output_file="$(data_dir)/corpus_release_card/gdrive_processings_cheatsheet.json" \
 	--gsheet_type="cheatsheet"
