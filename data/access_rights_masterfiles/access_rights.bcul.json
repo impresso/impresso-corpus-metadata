@@ -25,11 +25,11 @@
         }
     },
     "RN": {
-        "1829-2020": {
+        "1886-2020": {
             "rights_holder_id": "BCUL",
             "title_alias": "RN",
             "full_title": "Bulletins du Grand Conseil",
-            "start_year": 1829,
+            "start_year": 1886,
             "end_year": 2020,
             "media_type": "Newspaper",
             "medium": "print",
@@ -44,9 +44,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1829-2020) - Research use",
-            "rights_statement_get_tr": "Protected (1829-2020) - Research use",
-            "rights_statement_get_img": "Protected (1829-2020) - Research use"
+            "rights_statement_explore": "Protected (1886-2020) - Research use",
+            "rights_statement_get_tr": "Protected (1886-2020) - Research use",
+            "rights_statement_get_img": "Protected (1886-2020) - Research use"
         }
     },
     "Castigat": {
@@ -1209,28 +1209,28 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1907-1921)",
-            "rights_statement_get_tr": "Public Domain (1907-1921)",
-            "rights_statement_get_img": "Public Domain (1907-1921)"
+            "rights_statement_explore": "Protected (1907-1921) - Research use",
+            "rights_statement_get_tr": "Protected (1907-1921) - Research use",
+            "rights_statement_get_img": "Protected (1907-1921) - Research use"
         }
     },
     "RN2": {
-        "1861-2002": {
+        "1861-1885": {
             "rights_holder_id": "BCUL",
             "title_alias": "RN2",
             "full_title": "Travaux des Constituantes",
             "start_year": 1861,
-            "end_year": 2002,
+            "end_year": 1885,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -1244,9 +1244,32 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1861-2002)",
-            "rights_statement_get_tr": "Public Domain (1861-2002)",
-            "rights_statement_get_img": "Public Domain (1861-2002)"
+            "rights_statement_explore": "Public Domain (1861-1885)",
+            "rights_statement_get_tr": "Public Domain (1861-1885)",
+            "rights_statement_get_img": "Public Domain (1861-1885)"
+        },
+        "1886-2002": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN2",
+            "full_title": "Travaux des Constituantes",
+            "start_year": 1886,
+            "end_year": 2002,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1886-2002) - Research use",
+            "rights_statement_get_tr": "Protected (1886-2002) - Research use",
+            "rights_statement_get_img": "Protected (1886-2002) - Research use"
         }
     }
 }

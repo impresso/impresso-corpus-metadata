@@ -13,7 +13,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Forbidden",
             "get_facsimile_req_status": "Forbidden",
-            "allowed_use_archive_only": "",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
@@ -38,7 +38,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Forbidden",
             "get_facsimile_req_status": "Forbidden",
-            "allowed_use_archive_only": "",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
@@ -63,7 +63,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Forbidden",
             "get_facsimile_req_status": "Forbidden",
-            "allowed_use_archive_only": "",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0000000000000000000000000000000000000000000000000000000000000000",
@@ -88,7 +88,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Academic users at least",
             "get_facsimile_req_status": "Academic users at least",
-            "allowed_use_archive_only": "",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
@@ -113,7 +113,7 @@
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Academic users at least",
             "get_facsimile_req_status": "Academic users at least",
-            "allowed_use_archive_only": "",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",

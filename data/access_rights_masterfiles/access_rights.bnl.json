@@ -3,6 +3,7 @@
         "1927-1940": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "actionfem",
             "full_title": "Action f\u00e9minine (L')",
@@ -30,6 +31,7 @@
         "1903-1929": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "armeteufel",
             "full_title": "Arme Teufel (Der)",
@@ -57,6 +59,7 @@
         "1868-1871": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "avenirgdl",
             "full_title": "Avenir (L')",
@@ -84,6 +87,7 @@
         "1898-1916": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "buergerbeamten",
             "full_title": "B\u00fcrger- und Beamten-Zeitung",
@@ -111,6 +115,7 @@
         "1844-1868": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "courriergdl",
             "full_title": "Courrier du Grand-Duch\u00e9 de Luxembourg",
@@ -134,40 +139,16 @@
             "rights_statement_get_img": "Public Domain (1844-1868)"
         }
     },
-    "waeschfra": {
-        "1868-1881": {
+    "deletz1893": {
+        "1893-1909": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
-            "title_alias": "waeschfra",
-            "full_title": "D'W\u00e4schfra",
-            "start_year": 1868,
-            "end_year": 1881,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1868-1881)",
-            "rights_statement_get_tr": "Public Domain (1868-1881)",
-            "rights_statement_get_img": "Public Domain (1868-1881)"
-        },
-        "1882-1884": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "waeschfra",
-            "full_title": "D'W\u00e4schfra",
-            "start_year": 1882,
-            "end_year": 1884,
+            "title_alias": "deletz1893",
+            "full_title": "Letzeburger (De)",
+            "start_year": 1893,
+            "end_year": 1909,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -181,42 +162,44 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1882-1884) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1884) - Research use",
-            "rights_statement_get_img": "Protected (1882-1884) - Research use"
+            "rights_statement_explore": "Protected (1893-1909) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1893-1909) - Research use",
+            "rights_statement_get_img": "Protected (1893-1909) - Research use"
         }
     },
-    "waechtersauer": {
-        "1849-1869": {
+    "demitock": {
+        "1937-1940": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
-            "title_alias": "waechtersauer",
-            "full_title": "Der W\u00e4chter an der Sauer",
-            "start_year": 1849,
-            "end_year": 1869,
+            "title_alias": "demitock",
+            "full_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
+            "start_year": 1937,
+            "end_year": 1940,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
-            "allowed_use_archive_only": "",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
             "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1849-1869)",
-            "rights_statement_get_tr": "Public Domain (1849-1869)",
-            "rights_statement_get_img": "Public Domain (1849-1869)"
+            "rights_statement_explore": "Protected (1937-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1937-1940) - Research use",
+            "rights_statement_get_img": "Protected (1937-1940) - Research use"
         }
     },
     "diekwochen": {
         "1841-1848": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "diekwochen",
             "full_title": "Diekircher Wochenblatt",
@@ -240,15 +223,16 @@
             "rights_statement_get_img": "Public Domain (1841-1848)"
         }
     },
-    "tageblatt": {
-        "1913-1950": {
+    "dunioun": {
+        "1944-1948": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
-            "title_alias": "tageblatt",
-            "full_title": "Escher Tageblatt",
-            "start_year": 1913,
-            "end_year": 1950,
+            "title_alias": "dunioun",
+            "full_title": "Unio'n (D')",
+            "start_year": 1944,
+            "end_year": 1948,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -262,15 +246,16 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1913-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1913-1950) - Research use",
-            "rights_statement_get_img": "Protected (1913-1950) - Research use"
+            "rights_statement_explore": "Protected (1944-1948) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1944-1948) - Research use",
+            "rights_statement_get_img": "Protected (1944-1948) - Research use"
         }
     },
     "gazgrdlux": {
         "1878-1878": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "gazgrdlux",
             "full_title": "Gazette du Grand-Duch\u00e9 de Luxembourg",
@@ -295,14 +280,15 @@
         }
     },
     "indeplux": {
-        "1871-1880": {
+        "1871-1881": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "indeplux",
             "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
             "start_year": 1871,
-            "end_year": 1880,
+            "end_year": 1881,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -316,17 +302,18 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1871-1880)",
-            "rights_statement_get_tr": "Public Domain (1871-1880)",
-            "rights_statement_get_img": "Public Domain (1871-1880)"
+            "rights_statement_explore": "Public Domain (1871-1881)",
+            "rights_statement_get_tr": "Public Domain (1871-1881)",
+            "rights_statement_get_img": "Public Domain (1871-1881)"
         },
-        "1881-1934": {
+        "1882-1934": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "indeplux",
             "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
-            "start_year": 1881,
+            "start_year": 1882,
             "end_year": 1934,
             "media_type": "Newspaper",
             "medium": "print",
@@ -341,15 +328,16 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1881-1934) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1881-1934) - Research use",
-            "rights_statement_get_img": "Protected (1881-1934) - Research use"
+            "rights_statement_explore": "Protected (1882-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1934) - Research use",
+            "rights_statement_get_img": "Protected (1882-1934) - Research use"
         }
     },
     "kommmit": {
         "1884-1881": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "kommmit",
             "full_title": "Komm mit mir!",
@@ -375,6 +363,7 @@
         "1882-1884": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "kommmit",
             "full_title": "Komm mit mir!",
@@ -398,118 +387,11 @@
             "rights_statement_get_img": "Public Domain (1882-1884)"
         }
     },
-    "lunion": {
-        "1860-1871": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "lunion",
-            "full_title": "L'Union",
-            "start_year": 1860,
-            "end_year": 1871,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1860-1871)",
-            "rights_statement_get_tr": "Public Domain (1860-1871)",
-            "rights_statement_get_img": "Public Domain (1860-1871)"
-        }
-    },
-    "luxland": {
-        "1954-2022": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "luxland",
-            "full_title": "L\u00ebtzebuerger Land (d')",
-            "start_year": 1954,
-            "end_year": 2022,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1954-2022) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1954-2022) - Research use",
-            "rights_statement_get_img": "Protected (1954-2022) - Research use"
-        }
-    },
-    "deletz1893": {
-        "1893-1909": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "deletz1893",
-            "full_title": "Letzeburger (De)",
-            "start_year": 1893,
-            "end_year": 1909,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1893-1909) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1893-1909) - Research use",
-            "rights_statement_get_img": "Protected (1893-1909) - Research use"
-        }
-    },
-    "luxembourg1935": {
-        "1935-1940": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "luxembourg1935",
-            "full_title": "Luxembourg (Le) : Journal du matin",
-            "start_year": 1935,
-            "end_year": 1940,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1935-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1935-1940) - Research use",
-            "rights_statement_get_img": "Protected (1935-1940) - Research use"
-        }
-    },
     "landwortbild": {
         "1895-1895": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "landwortbild",
             "full_title": "Luxemburger Land in Wort und Bild",
@@ -533,15 +415,16 @@
             "rights_statement_get_img": "Protected (1895-1895) - Research use"
         }
     },
-    "volkfreu1869": {
-        "1869-1876": {
+    "lunion": {
+        "1860-1871": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
-            "title_alias": "volkfreu1869",
-            "full_title": "Luxemburger Volks-Freund",
-            "start_year": 1869,
-            "end_year": 1876,
+            "title_alias": "lunion",
+            "full_title": "L'Union",
+            "start_year": 1860,
+            "end_year": 1871,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -555,20 +438,77 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1869-1876)",
-            "rights_statement_get_tr": "Public Domain (1869-1876)",
-            "rights_statement_get_img": "Public Domain (1869-1876)"
+            "rights_statement_explore": "Public Domain (1860-1871)",
+            "rights_statement_get_tr": "Public Domain (1860-1871)",
+            "rights_statement_get_img": "Public Domain (1860-1871)"
+        }
+    },
+    "luxembourg1935": {
+        "1935-1940": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "no",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxembourg1935",
+            "full_title": "Luxembourg (Le) : Journal du matin",
+            "start_year": 1935,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1935-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1935-1940) - Research use",
+            "rights_statement_get_img": "Protected (1935-1940) - Research use"
+        }
+    },
+    "luxland": {
+        "1954-2022": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "no",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxland",
+            "full_title": "L\u00ebtzebuerger Land (d')",
+            "start_year": 1954,
+            "end_year": 2022,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1954-2022) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1954-2022) - Research use",
+            "rights_statement_get_img": "Protected (1954-2022) - Research use"
         }
     },
     "luxwort": {
-        "1848-1884": {
+        "1848-1881": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
             "start_year": 1848,
-            "end_year": 1884,
+            "end_year": 1881,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -582,17 +522,18 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1848-1884)",
-            "rights_statement_get_tr": "Public Domain (1848-1884)",
-            "rights_statement_get_img": "Public Domain (1848-1884)"
+            "rights_statement_explore": "Public Domain (1848-1881)",
+            "rights_statement_get_tr": "Public Domain (1848-1881)",
+            "rights_statement_get_img": "Public Domain (1848-1881)"
         },
-        "1885-1950": {
+        "1882-1950": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
-            "start_year": 1885,
+            "start_year": 1882,
             "end_year": 1950,
             "media_type": "Newspaper",
             "medium": "print",
@@ -607,15 +548,16 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1885-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1885-1950) - Research use",
-            "rights_statement_get_img": "Protected (1885-1950) - Research use"
+            "rights_statement_explore": "Protected (1882-1950) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1950) - Research use",
+            "rights_statement_get_img": "Protected (1882-1950) - Research use"
         }
     },
     "luxzeit1844": {
         "1844-1845": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxzeit1844",
             "full_title": "Luxemburger Zeitung",
@@ -643,6 +585,7 @@
         "1858-1859": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxzeit1858",
             "full_title": "Luxemburger Zeitung - Journal de Luxembourg",
@@ -666,37 +609,11 @@
             "rights_statement_get_img": "Public Domain (1858-1859)"
         }
     },
-    "demitock": {
-        "1937-1940": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "rights_holder_id": "BNL",
-            "title_alias": "demitock",
-            "full_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
-            "start_year": 1937,
-            "end_year": 1940,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1937-1940) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1937-1940) - Research use",
-            "rights_statement_get_img": "Protected (1937-1940) - Research use"
-        }
-    },
     "obermosel": {
         "1881-1881": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "obermosel",
             "full_title": "Obermosel-Zeitung",
@@ -722,6 +639,7 @@
         "1882-1948": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "obermosel",
             "full_title": "Obermosel-Zeitung",
@@ -749,6 +667,7 @@
         "1944-1951": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "onsjongen",
             "full_title": "Ons Jongen",
@@ -776,6 +695,7 @@
         "1916-1919": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
             "title_alias": "schmiede",
             "full_title": "Schmiede",
@@ -799,15 +719,16 @@
             "rights_statement_get_img": "Protected (1916-1919) - Research use"
         }
     },
-    "dunioun": {
-        "1944-1948": {
+    "tageblatt": {
+        "1913-1950": {
             "impresso_1_or_2": 1,
             "license": "",
+            "already_shared_for_impresso_ii": "no",
             "rights_holder_id": "BNL",
-            "title_alias": "dunioun",
-            "full_title": "Unio'n (D')",
-            "start_year": 1944,
-            "end_year": 1948,
+            "title_alias": "tageblatt",
+            "full_title": "Escher Tageblatt",
+            "start_year": 1913,
+            "end_year": 1950,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -821,9 +742,119 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1944-1948) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1944-1948) - Research use",
-            "rights_statement_get_img": "Protected (1944-1948) - Research use"
+            "rights_statement_explore": "Protected (1913-1950) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1913-1950) - Research use",
+            "rights_statement_get_img": "Protected (1913-1950) - Research use"
+        }
+    },
+    "volkfreu1869": {
+        "1869-1876": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volkfreu1869",
+            "full_title": "Luxemburger Volks-Freund",
+            "start_year": 1869,
+            "end_year": 1876,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1869-1876)",
+            "rights_statement_get_tr": "Public Domain (1869-1876)",
+            "rights_statement_get_img": "Public Domain (1869-1876)"
+        }
+    },
+    "waechtersauer": {
+        "1849-1869": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "waechtersauer",
+            "full_title": "Der W\u00e4chter an der Sauer",
+            "start_year": 1849,
+            "end_year": 1869,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1849-1869)",
+            "rights_statement_get_tr": "Public Domain (1849-1869)",
+            "rights_statement_get_img": "Public Domain (1849-1869)"
+        }
+    },
+    "waeschfra": {
+        "1868-1881": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "waeschfra",
+            "full_title": "D'W\u00e4schfra",
+            "start_year": 1868,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1868-1881)",
+            "rights_statement_get_tr": "Public Domain (1868-1881)",
+            "rights_statement_get_img": "Public Domain (1868-1881)"
+        },
+        "1882-1884": {
+            "impresso_1_or_2": 1,
+            "license": "",
+            "already_shared_for_impresso_ii": "no",
+            "rights_holder_id": "BNL",
+            "title_alias": "waeschfra",
+            "full_title": "D'W\u00e4schfra",
+            "start_year": 1882,
+            "end_year": 1884,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1884) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1884) - Research use",
+            "rights_statement_get_img": "Protected (1882-1884) - Research use"
         }
     }
 }
