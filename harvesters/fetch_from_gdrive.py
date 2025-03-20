@@ -1,4 +1,4 @@
-""" Python script downloading a given google drive spreadsheet into a json file."""
+"""Python script downloading a given google drive spreadsheet into a json file."""
 
 import re
 import random
@@ -108,7 +108,7 @@ MODELS_CHEATSHEET_RULES = {
     "model_internal_alias_shorten_version_of_run_id_used_in_solr_and_in_json_files": {
         "rename_key_to": "internal_alias"
     },
-    "task_name_used_in_s3_path": {"rename_key_to": "task_name"},
+    "task_name_full_human_readable": {"rename_key_to": "full_task_name"},
     "lang_used_in_model_id": {"rename_key_to": "lang"},
     "processing_label_used_in_s3_path_and_file_names": {
         "rename_key_to": "processing_label"
