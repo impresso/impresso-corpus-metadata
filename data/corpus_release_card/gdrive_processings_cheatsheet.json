@@ -165,7 +165,7 @@
     "run_id": "emb-docs_gte-multilingual_v1-1-0",
     "run_version": "v1-1-0",
     "processed_data_s3_path": "s3://42-processed-data-final/embeddings/docs/doc-embeddings_v1-1-0/",
-    "computed_manifest": "No"
+    "computed_manifest": "Yes"
   },
   {
     "model_version_base_model": "",

@@ -193,8 +193,8 @@ def create_enrichments_section(
 
 def main(
     processing_cheatsheet_path: str = "../data/corpus_release_card/gdrive_processings_cheatsheet.json",
-    release: str = "polar night",
-    output_release_card_path: str = "../data/corpus_release_card/.json",
+    release_name: str = "polar night",
+    output_release_card_path: str = "../data/corpus_release_card/corpus_release_card.json",
 ) -> None:
     print(f"access rights masterfiles dir path: {processing_cheatsheet_path}")
 
@@ -202,7 +202,7 @@ def main(
         processings = json.load(file)
 
     # add the manifest paths for each processing listed
-    proc_w_mft = find_manifests(processings, release)
+    proc_w_mft = find_manifests(processings, release_name)
 
     # Create the corpus overview dict and get the list of source types stats actually in corpus.
     corpus_dict, actual_src_tp_stats = create_corpus_section(proc_w_mft)
@@ -210,7 +210,7 @@ def main(
     enrichments_dict = create_enrichments_section(proc_w_mft, actual_src_tp_stats)
 
     corpus_release_card = {
-        "Release Name": release,
+        "Release Name": release_name,
         "Release Date": strftime("%Y-%m-%d"),
         "Impresso Corpus Overview": corpus_dict,
         "Impresso Enrichments": enrichments_dict,
