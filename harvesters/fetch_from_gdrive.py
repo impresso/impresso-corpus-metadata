@@ -111,10 +111,10 @@ MODELS_CHEATSHEET_RULES = {
     "task_name_full_human_readable": {"rename_key_to": "full_task_name"},
     "lang_used_in_model_id": {"rename_key_to": "lang"},
     "processing_label_used_in_s3_path_and_file_names": {
-        "rename_key_to": "processing_label"
+        "rename_key_to": "process_label"
     },
     "processing_subtype_label_used_in_s3_path": {
-        "rename_key_to": "processing_subtype_label"
+        "rename_key_to": "process_subtype_label"
     },
     "model_alias_internal_process_use": {"rename_key_to": "model_alias"},
     "full_model_name_base_model": {"rename_key_to": "full_model_name"},
