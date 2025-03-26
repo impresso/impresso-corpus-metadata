@@ -168,9 +168,9 @@ Ensure this directory structure is in place before running the `Makefile` comman
 ```bash
 # Copy metadata files to impresso-master-db:
 make sync-gdrive-metadata                # All files from gdrive_metadata  
-make sync-gdrive-metadata file_to_sync=<filename>  # Specific file from gdrive_metadata  
+make sync-gdrive-metadata additional_arg=<filename>  # Specific file from gdrive_metadata  
 make sync-apis-metadata                  # All files from api_metadata  
-make sync-apis-metadata file_to_sync=<filename>    # Specific file from api_metadata  
+make sync-apis-metadata additional_arg=<filename>    # Specific file from api_metadata  
 ```
 
 ### Access rights harvesters
@@ -202,7 +202,7 @@ Information from access right JSON files is ingested into both **MySQL** and **S
 ```bash
 # Copy access rights to impresso-master-db:
 make sync-access-rights                           # All files  
-make sync-access-rights file_to_sync=<filename>  # Specific file, e.g., access_rights.bcul.json  
+make sync-access-rights additional_arg=<filename>  # Specific file, e.g., access_rights.bcul.json  
 
 # Copy access rights to Solr:
 make sync-solr-access-rights

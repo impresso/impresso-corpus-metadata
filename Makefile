@@ -1,13 +1,14 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
 solr_ar_dir = ../impresso-pyindexing/impresso_solr/access_rights
+data_release_dir = ../release_prep/impresso-data-release/
 data_dir = data
 metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
 metadata_gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 ar_worksheet_name = DSA_access-rights
 cheatsheet_worksheet_name = 3-MODELS-AND-PROCESSINGS
-file_to_sync = 
+additional_arg = 
 
 # access rights gsheet ids
 snl_ar_gsheet_id = 1ctskS_dAy1EMmZDY3T-um-IE53ZaNuMbhF3EAOmajko
@@ -84,16 +85,19 @@ swa-fedgaz-metadata:
 	--gsheet_type="metadata"
 
 sync-gdrive-metadata: 
-	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gdrive_metadata"
+	rsync -r -v "$(data_dir)/gdrive_metadata/$(additional_arg)" "$(db_data_dir)/gdrive_metadata"
 
 sync-api-metadata: 
-	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
+	rsync -r -v "$(data_dir)/api_metadata/$(additional_arg)" "$(db_data_dir)/api_metadata"
 
 sync-access-rights: 
-	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(additional_arg)" "$(db_data_dir)/access_rights"
 
 sync-solr-access-rights:
 	rsync -r -v "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
+
+sync-corpus-release-card:
+	rsync -r -v "$(data_dir)/corpus_release_card/corpus_release_card.json" "$(data_release_dir)/data-release-$(additional_arg)"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
@@ -217,9 +221,15 @@ swa-fedgaz-nzz-access-rights:
 	python harvesters/access_rights_masterfile.py --partner="swa_fedgaz_nzz" --data-dir=$(data_dir)
 
 
+### Generating the Impresso Corpus & Enrichments Release Card ###
 corpus-release-card:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(cheatsheet_gsheet_id) \
 	--worksheet_name=$(cheatsheet_worksheet_name) \
 	--output_file="$(data_dir)/corpus_release_card/gdrive_processings_cheatsheet.json" \
 	--gsheet_type="cheatsheet"
+
+	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg)
+
+	$(MAKE) sync-corpus-release-card additionnal_arg=$(additional_arg)
+

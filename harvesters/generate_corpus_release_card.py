@@ -1,6 +1,8 @@
 """Script generating the Impresso Corpus and Enrichment Release Card.
 
 This card is a JSON file which documents and describes the data within a given release all in one place.
+
+Warning - When using the default arguments this script is to be run from the parent directory impresso-corpus-metadata/
 """
 
 import os
@@ -257,11 +259,11 @@ def create_processings_section(
 
 
 def main(
-    processing_cheatsheet_path: str = "../data/corpus_release_card/gdrive_processings_cheatsheet.json",
+    processing_cheatsheet_path: str = "data/corpus_release_card/gdrive_processings_cheatsheet.json",
     release_name: str = "polar night",
     release_version: str = "2025-04",
-    local_data_release_repo_path="/Users/piconti/impresso/impresso-data-release",
-    output_release_card_path: str = "../data/corpus_release_card/corpus_release_card.json",
+    local_data_release_repo_path: str = "/Users/piconti/impresso/release_prep/impresso-data-release",
+    output_release_card_path: str = "data/corpus_release_card/corpus_release_card.json",
 ) -> None:
     print(f"access rights masterfiles dir path: {processing_cheatsheet_path}")
 
