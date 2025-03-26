@@ -1,6 +1,6 @@
 {
   "Release Name": "polar night",
-  "Release Date": "2025-03",
+  "Release Version": "2025-04",
   "Impresso Corpus Overview": {
     "nps_stats": {
       "titles": 112,
@@ -122,17 +122,7 @@
     "topics": {
       "models": [
         {
-          "task name": "topic modelling de (tm-de)",
-          "model ID": "tm-mallet_infer_seed42_v2.0.1-multilingual",
-          "Hugging-face link": "MISSING HUGGING-FACE LINK"
-        },
-        {
-          "task name": "topic modelling en (tm-en)",
-          "model ID": "tm-mallet_infer_seed42_v2.0.1-multilingual",
-          "Hugging-face link": "MISSING HUGGING-FACE LINK"
-        },
-        {
-          "task name": "topic modelling fr (tm-fr)",
+          "task name": "topic modelling multilingual (tm-multi)",
           "model ID": "tm-mallet_infer_seed42_v2.0.1-multilingual",
           "Hugging-face link": "MISSING HUGGING-FACE LINK"
         }
@@ -481,52 +471,50 @@
           "model ID": "emb-docs_gte-multilingual_v1.0.0",
           "Hugging-face link": "https://huggingface.co/Alibaba-NLP/gte-multilingual-base"
         }
-      ],
-      "enrichment_stats": "MISSING MANIFEST!"
+      ]
     }
   },
   "Impresso Processings": {
     "canonical": {
-      "canonical": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-preparation/canonical_v4-5-0.json"
+      "canonical": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-preparation/canonical_v4-5-0.json"
     },
     "rebuilt": {
-      "rebuilt": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-preparation/rebuilt_v1-1-1.json"
+      "rebuilt": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-preparation/rebuilt_v1-1-1.json"
+    },
+    "passim": {
+      "rebuilt for passim": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-preparation/passim_v3-0-0.json"
     },
     "lingproc": {
       "linguistic processing": "MISSING MANIFEST!"
     },
     "langident": {
-      "language identification": "MISSING MANIFEST!"
+      "language identification": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/langident/langident_v1-4-4/langident_v0-0-2.json"
     },
     "textreuse": {
-      "text-reuse detection": "MISSING MANIFEST!"
+      "text-reuse detection": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/textreuse/textreuse_v1-0-0/textreuse_v0-1-1.json"
     },
     "entities": {
-      "named entity recognition (ner)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/entities/entities-bert-historic-multilingual_v4-0-0/entities_v0-0-3.json"
+      "named entity recognition (ner)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/entities/entities-bert-historic-multilingual_v4-0-0/entities_v0-0-3.json"
     },
     "emb-docs": {
-      "document embeddings": "MISSING MANIFEST!"
+      "document embeddings": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/embeddings/docs/doc-embeddings_v1-1-0/emb-docs_v1-0-0.json"
     },
-    "emb-words": {
-      "word embeddings": "MISSING MANIFEST!"
-    },
+    "emb-words": {},
     "newsagencies": {
-      "news agency recognition (nar)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/newsagencies/newsagencies-bert-base-historic-multilingual_v1-0-0/newsagencies_v0-1-0.json"
+      "news agency recognition (nar)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/newsagencies/newsagencies-bert-base-historic-multilingual_v1-0-0/newsagencies_v0-1-0.json"
     },
     "emb-images": {
-      "image embeddings (DINOv2)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/embeddings/images/embeddings_dinov2_v1-0-0/emb-images_v0-0-2.json",
-      "image embeddings (OpenCLIP)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json"
+      "image embeddings (DINOv2)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json",
+      "image embeddings (OpenCLIP)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json"
     },
     "topics": {
-      "topic modelling de (tm-de)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json",
-      "topic modelling en (tm-en)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json",
-      "topic modelling fr (tm-fr)": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json"
+      "topic modelling multilingual (tm-multi)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json"
     },
     "ocrqa": {
-      "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v1-1-0.json"
+      "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v1-1-0.json"
     },
     "mysql-ingestion": {
-      "mysql-ingestion": "MISSING MANIFEST!"
+      "mysql-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-ingestion/mysql-ingestion_v26-0-0.json"
     },
     "solr-text-ingestion": {
       "solr-text-ingestion": "MISSING MANIFEST!"

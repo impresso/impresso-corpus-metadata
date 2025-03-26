@@ -5,22 +5,15 @@ This card is a JSON file which documents and describes the data within a given r
 
 import os
 import json
-import copy
 import fire
-import logging
 import git
-from time import strftime
 from impresso_essentials.versioning.helpers import (
     DataStage,
     find_s3_data_manifest_path,
     read_manifest_from_s3_path,
 )
-from impresso_essentials.versioning.data_statistics import (
-    NewspaperStatistics,
-    DataStatistics,
-)
 
-logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name__)
 
 # TODO change with correct DataStatistics child class when it exists
 ALL_SOURCE_TYPE_STATS = [
@@ -30,14 +23,6 @@ ALL_SOURCE_TYPE_STATS = [
     "rs_stats",
     "mg_stats",
 ]
-"""{
-    "nps_stats": NewspaperStatistics,  # current name of Newspapers Stats
-    "np_stats": NewspaperStatistics,  # goal name for Newspaper stats (for next release)
-    "rb_stats": DataStatistics,
-    "rm_stats": DataStatistics,
-    "rs_stats": DataStatistics,
-    "mg_stats": DataStatistics,
-}"""
 CORPUS_STAGES = [DataStage.SOLR_TEXT, DataStage.MYSQL_CIS, DataStage.EMB_IMAGES]
 ENRICHMENT_STAGES = {
     DataStage.LINGPROC: [],
@@ -52,12 +37,14 @@ ENRICHMENT_STAGES = {
 }
 
 
-def find_manifests(processings: list[dict], release_name: str) -> dict[DataStage, dict]:
+def find_manifests(
+    processings: list[dict], release_name: str, release_version: str
+) -> dict[DataStage, dict]:
     processings_with_manifests = {}
     for proc in processings:
-        if release_name in proc["release"]:
+        if release_name in proc["release"] or release_version in proc["release"]:
             stage = DataStage._value2member_map_[proc["process_label"]]
-            if proc["processed_data_s3_path"] != "N/A":
+            if proc["computed_manifest"] != "N/A":
                 bucket_name = proc["processed_data_s3_path"].split("/")[2]
                 partition = proc["processed_data_s3_path"].replace(
                     f"s3://{bucket_name}/", ""
@@ -70,7 +57,7 @@ def find_manifests(processings: list[dict], release_name: str) -> dict[DataStage
                 if m_path is None:
                     msg = f"Warning, process {proc['process_label']}, with run_id {proc['run_id']} has no manifest on S3 in partition {proc['processed_data_s3_path']}."
                     print(msg)
-                    logger.warning(msg)
+                    # logger.warning(msg)
             else:
                 proc["manifest_s3_path"] = "N/A"
 
@@ -82,7 +69,7 @@ def find_manifests(processings: list[dict], release_name: str) -> dict[DataStage
         else:
             msg = f"Removing processing which is not in release: {proc}"
             print(msg)
-            logger.info(msg)
+            # logger.info(msg)
 
     return processings_with_manifests
 
@@ -168,7 +155,7 @@ def create_enrichments_section(
             if proc["manifest_s3_path"] is None:
                 msg = f"{proc['full_task_name']} --> Missing manifest!!"
                 print(msg)
-                logger.info(msg)
+                # logger.info(msg)
                 enrichment_stats = "MISSING MANIFEST!"
             elif len(incl_enrich_stats) != 0 and proc["manifest_s3_path"] != "N/A":
                 # not all enrichments have specific stats to fetch
@@ -181,7 +168,6 @@ def create_enrichments_section(
                                 s: ov_sts[source_type][s] for s in incl_enrich_stats
                             }
 
-                # TODO change fd into number of keys??
                 enrichment_stats = mft_stats
             else:
                 enrichment_stats = None
@@ -200,7 +186,7 @@ def create_enrichments_section(
                             f" New stats -> {enrichment_stats}"
                         )
                         print(msg)
-                        logger.warning(msg)
+                        # logger.warning(msg)
                 elif enrichment_stats is not None:
                     enrich_dict[proc_label]["enrichment_stats"] = enrichment_stats
             else:
@@ -213,17 +199,13 @@ def create_enrichments_section(
     return enrich_dict
 
 
-def get_links_of_mfts(
-    repo, local_repo_path, release_prefix="data-processing-versioning"
-):
+def get_links_of_mfts(repo, local_repo_path, release_dir):
     # release_prefix should be changed to the final release dir
     git_links = {}
     for obj in repo.head.commit.tree.traverse():
-        if release_prefix in obj.abspath and ".json" in obj.abspath:
+        if release_dir in obj.abspath and ".json" in obj.abspath:
             mft_key = "/".join(obj.abspath.split("/")[-2:])
-            mft_key = (
-                mft_key.split("/")[1] if "data-preparation" in mft_key else mft_key
-            )
+            mft_key = mft_key if "data-processing" in mft_key else mft_key.split("/")[1]
             git_links[mft_key] = obj.abspath.replace(
                 local_repo_path,
                 "https://github.com/impresso/impresso-data-release/blob/master",
@@ -237,9 +219,11 @@ def create_processings_section(
     repo: git.Repo,
     local_repo_path: str,
     release_month: str,
+    release_prefix: str = "data-release",
 ) -> dict[str, list]:
 
-    manifest_gh_links = get_links_of_mfts(repo, local_repo_path)
+    release_dir = "-".join([release_prefix, release_month])
+    manifest_gh_links = get_links_of_mfts(repo, local_repo_path, release_dir)
     proc_gh_links = {}
     for stg, processes_for_stg in processes.items():
 
@@ -250,7 +234,7 @@ def create_processings_section(
             if proc["manifest_s3_path"] is None:
                 msg = f"{proc['full_task_name']} --> Missing manifest!!"
                 print(msg)
-                logger.info(msg)
+                # logger.info(msg)
                 proc_gh_links[stg.value][proc["full_task_name"]] = "MISSING MANIFEST!"
             elif proc["manifest_s3_path"] != "N/A":
                 # not all enrichments have specific stats to fetch
@@ -268,24 +252,24 @@ def create_processings_section(
                     proc_gh_links[stg.value][
                         proc["full_task_name"]
                     ] = "MISSING MANIFEST!"
+
     return proc_gh_links
 
 
 def main(
     processing_cheatsheet_path: str = "../data/corpus_release_card/gdrive_processings_cheatsheet.json",
     release_name: str = "polar night",
-    release_month: str = "2025-03",
+    release_version: str = "2025-04",
     local_data_release_repo_path="/Users/piconti/impresso/impresso-data-release",
     output_release_card_path: str = "../data/corpus_release_card/corpus_release_card.json",
 ) -> None:
     print(f"access rights masterfiles dir path: {processing_cheatsheet_path}")
 
-    release_month = strftime("%Y-%m")
     with open(processing_cheatsheet_path, "r", encoding="utf-8") as file:
         processings = json.load(file)
 
     # add the manifest paths for each processing listed
-    proc_w_mft = find_manifests(processings, release_name)
+    proc_w_mft = find_manifests(processings, release_name, release_version)
 
     # Create the corpus overview dict and get the list of source types stats actually in corpus.
     corpus_dict, actual_src_tp_stats = create_corpus_section(proc_w_mft)
@@ -297,12 +281,12 @@ def main(
         repo.git.checkout("master")
         repo.remotes.origin.pull()
     proc_gh_links = create_processings_section(
-        proc_w_mft, repo, local_data_release_repo_path, release_month
+        proc_w_mft, repo, local_data_release_repo_path, release_version
     )
 
     corpus_release_card = {
         "Release Name": release_name,
-        "Release Date": release_month,
+        "Release Version": release_version,
         "Impresso Corpus Overview": corpus_dict,
         "Impresso Enrichments": enrichments_dict,
         "Impresso Processings": proc_gh_links,
@@ -310,6 +294,8 @@ def main(
 
     with open(output_release_card_path, "w", encoding="utf-8") as outfile:
         json.dump(corpus_release_card, outfile, indent=2)
+
+    print("✅ Finished generating the Corpus and Enrichments Release Card!")
 
 
 if __name__ == "__main__":
