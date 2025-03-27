@@ -210,7 +210,19 @@ make sync-solr-access-rights
 
 #### Access rights aggregator
 
-(description to come)
+The script `harvesters/generate_corpus_access_catalogue.py` compiles all the provider-specific access rights masterfiles into one complete catalogue documenting explicitely for each media title and period associated to specific access rights:
+- The media and medium
+- The period for which the copyrights and access rights specifications apply
+- The copyright status 
+- The permitted use in terms of Personal, Educational and Reseach
+- The minimum user plan required for each of the three base actions on the data which the Impresso App and API offer.
+
+To generate this catalogue:
+```bash
+make corpus-access-catalogue
+# OR
+python harvesters/generate_corpus_access_catalogue.py
+```
 
 ### Corpus and Enrichment Release Card Generation
 
