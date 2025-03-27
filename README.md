@@ -168,9 +168,9 @@ Ensure this directory structure is in place before running the `Makefile` comman
 ```bash
 # Copy metadata files to impresso-master-db:
 make sync-gdrive-metadata                # All files from gdrive_metadata  
-make sync-gdrive-metadata file_to_sync=<filename>  # Specific file from gdrive_metadata  
+make sync-gdrive-metadata additional_arg=<filename>  # Specific file from gdrive_metadata  
 make sync-apis-metadata                  # All files from api_metadata  
-make sync-apis-metadata file_to_sync=<filename>    # Specific file from api_metadata  
+make sync-apis-metadata additional_arg=<filename>    # Specific file from api_metadata  
 ```
 
 ### Access rights harvesters
@@ -202,7 +202,7 @@ Information from access right JSON files is ingested into both **MySQL** and **S
 ```bash
 # Copy access rights to impresso-master-db:
 make sync-access-rights                           # All files  
-make sync-access-rights file_to_sync=<filename>  # Specific file, e.g., access_rights.bcul.json  
+make sync-access-rights additional_arg=<filename>  # Specific file, e.g., access_rights.bcul.json  
 
 # Copy access rights to Solr:
 make sync-solr-access-rights
@@ -210,8 +210,40 @@ make sync-solr-access-rights
 
 #### Access rights aggregator
 
-(description to come)
+The script `harvesters/generate_corpus_access_catalogue.py` compiles all the provider-specific access rights masterfiles into one complete catalogue documenting explicitely for each media title and period associated to specific access rights:
+- The media and medium
+- The period for which the copyrights and access rights specifications apply
+- The copyright status 
+- The permitted use in terms of Personal, Educational and Reseach
+- The minimum user plan required for each of the three base actions on the data which the Impresso App and API offer.
 
+To generate this catalogue:
+```bash
+make corpus-access-catalogue
+# OR
+python harvesters/generate_corpus_access_catalogue.py
+```
+
+### Corpus and Enrichment Release Card Generation
+
+Once the preparation of the data for a given release is finished, after going through all the steps of the Impresso processing pipeline, it is to be released.
+This is done through a protocol described [here](https://github.com/impresso/impresso-data-release/blob/staging/release_protocol.md).
+
+Among the steps of the release protocol is the generation of the _Corpus and Enrichment Release Card_ which is a JSON file describing in detail the contents of the released data, as well as the processes and models used to obtain it.
+The generation of this card is based on the internal [impresso-cheasheet](https://docs.google.com/spreadsheets/d/1Z4_w8rnYctjZGk87qKxsEFINVUZFoWvCWtZqKRlC36Y/edit?gid=232976706#gid=232976706), which documents all the models used to generate the data of a given release, as well as where the corresponding manifests can be found.
+Just like for the metadata, this repository allows to fetch the contents of this Gsheet document using the script `harvesters/fetch_from_gdrive.py`.
+Then, the script `harvesters/generate_corpus_release_card.py` aggregates this information into the release card.
+
+To generate the Corpus Release Card for a given release (versioned through a `[year]-[month]` pair):
+```bash
+# Generate the Corpus Release Card:
+make corpus-release-card additional_arg=<[YYYY-MM]>  # version the release
+
+# Copy the generated JSON file to the corresponding data-release directory in local copy of the impresso-data-release GitHub directory
+make sync-corpus-release-card additional_arg=<[YYYY-MM]>
+```
+
+**Note!** : the declared value of `data_release_dir` inside `Makefile` should be modified if not correct for the user calling it.
 
 ## About Impresso
 

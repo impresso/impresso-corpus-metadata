@@ -1,5 +1,4 @@
-"""Script to combine all the institution-specific access-rights masterfiles into one Corpus Access Catalogue.
-"""
+"""Script to combine all the institution-specific access-rights masterfiles into one Corpus Access Catalogue."""
 
 import os
 import json
@@ -7,7 +6,7 @@ import copy
 import fire
 from harvesters.utils import transform_value, BITMAP_KEYS
 
-MASTER_AR_DIR = "../data/access_rights_masterfiles"
+MASTER_AR_DIR = "data/access_rights_masterfiles"
 AR_FILES_TO_EXCLUDE = ["debug", "catalogue", "institutions"]
 
 CATALOGUE_RULES = {

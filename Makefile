@@ -1,12 +1,14 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
 solr_ar_dir = ../impresso-pyindexing/impresso_solr/access_rights
+data_release_dir = ../release_prep/impresso-data-release
 data_dir = data
 metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
 metadata_gsheet_id = 1jkW6cuINgT7SpuvJE7jVW4lpWiCypVuFiQOhuDZ_o1E
 ar_worksheet_name = DSA_access-rights
-file_to_sync = 
+cheatsheet_worksheet_name = 3-MODELS-AND-PROCESSINGS
+additional_arg = 
 
 # access rights gsheet ids
 snl_ar_gsheet_id = 1ctskS_dAy1EMmZDY3T-um-IE53ZaNuMbhF3EAOmajko
@@ -21,6 +23,7 @@ sub_ar_gsheet_id = 1zglWsq5EL3HbfB8QF_vyEKIewi8AWHD6
 ina_ar_gsheet_id = 1P4XAjxIKyZuvaQelQzJFpLhLy_JciJWH5X63Erf5iKU
 bcul_ar_gsheet_id = 1EeMo01iwcLWIuAwWgYN7vwkmsOJM5dA1ipJuaikbBCo
 swa_fedgaz_nzz_ar_gsheet_id = 1PC7B90IkXT8arczM8FlV6PN5YbZH1LjHV8ZUno5UW9c
+cheatsheet_gsheet_id = 1Z4_w8rnYctjZGk87qKxsEFINVUZFoWvCWtZqKRlC36Y
 
 # Targets
 help:
@@ -33,7 +36,9 @@ help:
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
 	@echo "  sync-gdrive-metadata     - Synchronize all or part of the gdrive data folder with the one of the impresso-master-db repository"
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
-	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-master-db repository"
+	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-pyindexing repository"
+	@echo "  sync-solr-access-rights		- Synchronize all the access rights data folder with the one of the impresso-master-db repository"
+	@echo "  sync-corpus-release-card  additional_arg=<[YYYY-MM]>	- Synchronize the Corpus Release Card with the corresponding release in the impresso-data-release repository"
 	@echo "  all-access-rights     - Export the access rights for all partners"
 	@echo "  snl-access-rights     - Export the access rights for all SNL partners (01)"
 	@echo "  bnl-access-rights     - Export the access rights for BNL (02)"
@@ -47,6 +52,8 @@ help:
 	@echo "  ina-access-rights     - Export the access rights for INA (12)"
 	@echo "  bcul-access-rights     - Export the access rights for BCUL (22)"
 	@echo "  swa-fedgaz-nzz-access-rights     - Export the access rights for SWA, FedGaz and NZZ (35)"
+	@echo "  corpus-access-catalogue	- Generate the Impresso Corpus Access Catalogue from all access rights masterfiles"
+	@echo "  corpus-release-card  additional_arg=<[YYYY-MM]>   - Generare the Impresso Corpus Release Card for a given version"
 	@echo "  help      - Display this help message"
 
 
@@ -58,40 +65,43 @@ impresso1-metadata:
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="impresso1-collection" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).impresso1.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 bnf-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BNF" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnf.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 bcul-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BCUL" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bcul.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 swa-fedgaz-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json" \
-	--is_metadata
+	--gsheet_type="metadata"
 
 sync-gdrive-metadata: 
-	rsync -r -v "$(data_dir)/gdrive_metadata/$(file_to_sync)" "$(db_data_dir)/gdrive_metadata"
+	rsync -r -v "$(data_dir)/gdrive_metadata/$(additional_arg)" "$(db_data_dir)/gdrive_metadata"
 
 sync-api-metadata: 
-	rsync -r -v "$(data_dir)/api_metadata/$(file_to_sync)" "$(db_data_dir)/api_metadata"
+	rsync -r -v "$(data_dir)/api_metadata/$(additional_arg)" "$(db_data_dir)/api_metadata"
 
 sync-access-rights: 
-	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(file_to_sync)" "$(db_data_dir)/access_rights"
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/$(additional_arg)" "$(db_data_dir)/access_rights"
 
 sync-solr-access-rights:
-	rsync -r -v --exclude "$(data_dir)/access_rights_masterfiles/corpus_access_catalogue.json" "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
+	rsync -r -v "$(data_dir)/access_rights_masterfiles/" "$(solr_ar_dir)"
+
+sync-corpus-release-card:
+	rsync -r -v "$(data_dir)/corpus_release_card/corpus_release_card.json" "$(data_release_dir)/data-release-$(additional_arg)"
 
 ### Fetching access-rights ###
 debug-access-rights: # the gsheet id is going to change with each provider
@@ -213,4 +223,18 @@ swa-fedgaz-nzz-access-rights:
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).swa_fedgaz_nzz.json" 
 
 	python harvesters/access_rights_masterfile.py --partner="swa_fedgaz_nzz" --data-dir=$(data_dir)
+
+
+corpus-access-catalogue:
+	python harvesters/generate_corpus_access_catalogue.py
+
+### Generating the Impresso Corpus & Enrichments Release Card ###
+corpus-release-card:
+	python harvesters/fetch_from_gdrive.py \
+	--spreadsheet_id=$(cheatsheet_gsheet_id) \
+	--worksheet_name=$(cheatsheet_worksheet_name) \
+	--output_file="$(data_dir)/corpus_release_card/gdrive_processings_cheatsheet.json" \
+	--gsheet_type="cheatsheet"
+
+	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg)
 
