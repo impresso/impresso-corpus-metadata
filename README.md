@@ -212,6 +212,26 @@ make sync-solr-access-rights
 
 (description to come)
 
+### Corpus and Enrichment Release Card Generation
+
+Once the preparation of the data for a given release is finished, after going through all the steps of the Impresso processing pipeline, it is to be released.
+This is done through a protocol described [here](https://github.com/impresso/impresso-data-release/blob/staging/release_protocol.md).
+
+Among the steps of the release protocol is the generation of the _Corpus and Enrichment Release Card_ which is a JSON file describing in detail the contents of the released data, as well as the processes and models used to obtain it.
+The generation of this card is based on the internal [impresso-cheasheet](https://docs.google.com/spreadsheets/d/1Z4_w8rnYctjZGk87qKxsEFINVUZFoWvCWtZqKRlC36Y/edit?gid=232976706#gid=232976706), which documents all the models used to generate the data of a given release, as well as where the corresponding manifests can be found.
+Just like for the metadata, this repository allows to fetch the contents of this Gsheet document using the script `harvesters/fetch_from_gdrive.py`.
+Then, the script `harvesters/generate_corpus_release_card.py` aggregates this information into the release card.
+
+To generate the Corpus Release Card for a given release (versioned through a `[year]-[month]` pair):
+```bash
+# Generate the Corpus Release Card:
+make corpus-release-card additional_arg=<[YYYY-MM]>  # version the release
+
+# Copy the generated JSON file to the corresponding data-release directory in local copy of the impresso-data-release GitHub directory
+make sync-corpus-release-card additional_arg=<[YYYY-MM]>
+```
+
+**Note!** : the declared value of `data_release_dir` inside `Makefile` should be modified if not correct for the user calling it.
 
 ## About Impresso
 

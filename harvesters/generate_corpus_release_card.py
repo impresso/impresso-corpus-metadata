@@ -9,13 +9,15 @@ import os
 import json
 import fire
 import git
+import logging
 from impresso_essentials.versioning.helpers import (
     DataStage,
     find_s3_data_manifest_path,
     read_manifest_from_s3_path,
 )
+from impresso_essentials.utils import init_logger
 
-# logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)
 
 # TODO change with correct DataStatistics child class when it exists
 ALL_SOURCE_TYPE_STATS = [
@@ -42,6 +44,26 @@ ENRICHMENT_STAGES = {
 def find_manifests(
     processings: list[dict], release_name: str, release_version: str
 ) -> dict[DataStage, dict]:
+    """Finds and associates manifest S3 file paths with processing tasks for a given release.
+
+    This function iterates through a list of processing tasks and checks if they belong
+    to the specified release by matching `release_name` or `release_version`. If a process
+    has a valid computed manifest, it searches for its manifest file in an S3 bucket and
+    updates the process dictionary with the manifest path.
+
+    Args:
+        processings (list[dict]): A list of dictionaries where each dictionary represents
+            a processing task with metadata, including release information and S3 paths.
+        release_name (str): The name of the release to filter processing tasks.
+        release_version (str): The version of the release to filter processing tasks.
+
+    Returns:
+        dict[DataStage, dict]: A dictionary mapping data stages to lists of processing
+        tasks that include their associated manifest paths.
+
+    Raises:
+        KeyError: If a required key is missing from a processing dictionary.
+    """
     processings_with_manifests = {}
     for proc in processings:
         if release_name in proc["release"] or release_version in proc["release"]:
@@ -69,14 +91,40 @@ def find_manifests(
             else:
                 processings_with_manifests[stage] = [proc]
         else:
-            msg = f"Removing processing which is not in release: {proc}"
+            msg = (
+                f"Removing processing which is not in release: {proc['full_task_name']}"
+            )
             print(msg)
-            # logger.info(msg)
+            logger.info(msg)
 
     return processings_with_manifests
 
 
-def create_corpus_section(processes):
+def create_corpus_section(
+    processes: dict[DataStage, dict],
+) -> tuple[dict[str, dict], list[str]]:
+    """Generates a dictionary containing the main corpus-level statistics.
+
+    This function extracts relevant corpus statistics from various data stages,
+    such as the number of titles, issues, pages, content items, images, and tokens.
+    The extracted statistics are used to construct an overview of the corpus.
+
+    Args:
+        processes (dict[DataStage, dict]): A dictionary where keys represent data stages
+            and values are dictionaries containing processing task information.
+
+    Returns:
+        tuple[dict[str, dict], list[str]]: A tuple containing:
+            - A dictionary where keys are source types and values are dictionaries
+              containing corpus statistics for that source type.
+            - A list of source types for which statistics were successfully extracted.
+
+    Raises:
+        KeyError: If a required data stage is missing in `processes`.
+    """
+    print("Creating the Impresso Corpus section")
+    logger.info("Creating the Impresso Corpus section")
+
     source_types_stats = []
     corpus_dict = {}
     stage_to_overall_stats = {}
@@ -126,13 +174,36 @@ def create_corpus_section(processes):
 def create_enrichments_section(
     processes: dict[DataStage, list], actual_src_tp_stats: list[str]
 ) -> dict[str, list]:
+    """Generates a structured dictionary for enrichment processes and their associated statistics.
+
+    This function processes a given set of data enrichment tasks, linking them to model
+    identifiers, Hugging Face repositories (if applicable), and available manifest statistics.
+
+    Args:
+        processes (dict[DataStage, list]): A dictionary where keys are data stages and
+            values are lists of processing tasks associated with each stage.
+        actual_src_tp_stats (list[str]): A list of source types for which enrichment
+            statistics should be extracted.
+
+    Returns:
+        dict[str, list]: A dictionary where each key corresponds to a process label,
+        and the value contains:
+            - A list of models used in the process, including their task name, model ID,
+              and Hugging Face link (if applicable).
+            - Enrichment statistics if available.
+
+    Raises:
+        KeyError: If a data stage in `ENRICHMENT_STAGES` is not found in `processes`.
+    """
+    print("Creating the Impresso Enrichments section")
+    logger.info("Creating the Impresso Enrichments section")
+
     enrich_dict = {}
 
     for stg, incl_enrich_stats in ENRICHMENT_STAGES.items():
 
         proc_for_stg = processes[stg]
-        # if len(enrich_stats) != 0:
-        # stats_for_enrich = {source_type: {} for source_type in actual_src_tp_stats}
+
         for proc in proc_for_stg:
             proc_label = proc["process_label"]
             model_id = (
@@ -157,7 +228,7 @@ def create_enrichments_section(
             if proc["manifest_s3_path"] is None:
                 msg = f"{proc['full_task_name']} --> Missing manifest!!"
                 print(msg)
-                # logger.info(msg)
+                logger.info(msg)
                 enrichment_stats = "MISSING MANIFEST!"
             elif len(incl_enrich_stats) != 0 and proc["manifest_s3_path"] != "N/A":
                 # not all enrichments have specific stats to fetch
@@ -188,7 +259,7 @@ def create_enrichments_section(
                             f" New stats -> {enrichment_stats}"
                         )
                         print(msg)
-                        # logger.warning(msg)
+                        logger.warning(msg)
                 elif enrichment_stats is not None:
                     enrich_dict[proc_label]["enrichment_stats"] = enrichment_stats
             else:
@@ -201,8 +272,33 @@ def create_enrichments_section(
     return enrich_dict
 
 
-def get_links_of_mfts(repo, local_repo_path, release_dir):
-    # release_prefix should be changed to the final release dir
+def get_links_of_mfts(
+    repo: git.Repo,
+    local_repo_path: str,
+    release_dir: str,
+    master_branch_link: str = "https://github.com/impresso/impresso-data-release/blob/master",
+) -> dict[str, str]:
+    """Retrieves GitHub links for manifest files in a given release directory.
+
+    This function scans the latest commit in a Git repository, identifies manifest
+    files (`.json`) within the specified release directory, and constructs GitHub links
+    for each manifest.
+    The keys are either the manifest parent dir and filename or only the filename based on
+    whether the filename will be unique (manifests of the `data-processing` step are not).
+
+    Args:
+        repo (git.Repo): The Git repository object containing the release data.
+        local_repo_path (str): The local file system path to the repository.
+        release_dir (str): The release directory where manifests are stored. Is in format
+            `data-release-YYYY-MM`.
+        master_branch_link (str, optional): The base URL for the master branch of the
+            impresso-data-release repository.
+            Defaults to "https://github.com/impresso/impresso-data-release/blob/master".
+
+    Returns:
+        dict[str, str]: A dictionary mapping "manifest keys" (derived from file paths) to
+        their corresponding GitHub links.
+    """
     git_links = {}
     for obj in repo.head.commit.tree.traverse():
         if release_dir in obj.abspath and ".json" in obj.abspath:
@@ -210,7 +306,7 @@ def get_links_of_mfts(repo, local_repo_path, release_dir):
             mft_key = mft_key if "data-processing" in mft_key else mft_key.split("/")[1]
             git_links[mft_key] = obj.abspath.replace(
                 local_repo_path,
-                "https://github.com/impresso/impresso-data-release/blob/master",
+                master_branch_link,
             )
 
     return git_links
@@ -223,7 +319,26 @@ def create_processings_section(
     release_month: str,
     release_prefix: str = "data-release",
 ) -> dict[str, list]:
+    """Generates a dictionary linking processing tasks to their manifest GitHub links.
 
+    This function organizes processing tasks by data stage and retrieves corresponding
+    manifest GitHub links based on stored manifest paths.
+    If a manifest is missing, it logs a message and marks it as "MISSING MANIFEST!".
+
+    Args:
+        processes (dict[DataStage, list]): A dictionary mapping data stages to lists of processing tasks.
+        repo (git.Repo): The Git repository object containing the manifest files.
+        local_repo_path (str): Local path to the repository where manifests are stored.
+        release_month (str): The release month (e.g., "2025-03") used for constructing the release directory.
+        release_prefix (str, optional): Prefix for the release directory name. Defaults to "data-release".
+
+    Returns:
+        dict[str, list]: A dictionary where keys are data stage names and values are dictionaries
+        mapping processing task names to their corresponding GitHub manifest links. If a manifest
+        is missing, the value is "MISSING MANIFEST!".
+    """
+    print("Creating the Impresso Processings section")
+    logger.info("Creating the Impresso Processings section")
     release_dir = "-".join([release_prefix, release_month])
     manifest_gh_links = get_links_of_mfts(repo, local_repo_path, release_dir)
     proc_gh_links = {}
@@ -264,8 +379,15 @@ def main(
     release_version: str = "2025-04",
     local_data_release_repo_path: str = "/Users/piconti/impresso/release_prep/impresso-data-release",
     output_release_card_path: str = "data/corpus_release_card/corpus_release_card.json",
+    log_file: str | None = None,
 ) -> None:
-    print(f"access rights masterfiles dir path: {processing_cheatsheet_path}")
+    msg = f"Starting the generation of the Impresso Corpus Release Card for {release_version} release."
+    print(msg)
+    logger.info(msg)
+
+    if log_file is not None:
+        # initialize the logfile if a path was provided
+        init_logger(logger, logging.INFO, log_file)
 
     with open(processing_cheatsheet_path, "r", encoding="utf-8") as file:
         processings = json.load(file)
@@ -298,6 +420,7 @@ def main(
         json.dump(corpus_release_card, outfile, indent=2)
 
     print("✅ Finished generating the Corpus and Enrichments Release Card!")
+    logger.info("✅ Finished generating the Corpus and Enrichments Release Card!")
 
 
 if __name__ == "__main__":

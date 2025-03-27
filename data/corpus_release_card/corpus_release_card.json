@@ -19,8 +19,7 @@
           "model ID": "MISSING MODEL ID",
           "Hugging-face link": "MISSING HUGGING-FACE LINK"
         }
-      ],
-      "enrichment_stats": "MISSING MANIFEST!"
+      ]
     },
     "langident": {
       "models": [
@@ -485,7 +484,7 @@
       "rebuilt for passim": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-preparation/passim_v3-0-0.json"
     },
     "lingproc": {
-      "linguistic processing": "MISSING MANIFEST!"
+      "linguistic processing": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/lingproc/lingproc-pos-spacy_v3.6.0-multilingual_v1-0-3/lingproc_v0-0-1.json"
     },
     "langident": {
       "language identification": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/langident/langident_v1-4-4/langident_v0-0-2.json"
@@ -511,7 +510,7 @@
       "topic modelling multilingual (tm-multi)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json"
     },
     "ocrqa": {
-      "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v1-1-0.json"
+      "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v0-0-2.json"
     },
     "mysql-ingestion": {
       "mysql-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-04/data-processing-versioning/data-ingestion/mysql-ingestion_v26-0-0.json"

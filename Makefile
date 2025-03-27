@@ -1,7 +1,7 @@
 # Variables
 db_data_dir = ../impresso-master-db/impresso_db/data
 solr_ar_dir = ../impresso-pyindexing/impresso_solr/access_rights
-data_release_dir = ../release_prep/impresso-data-release/
+data_release_dir = ../release_prep/impresso-data-release
 data_dir = data
 metadata_file_prefix = gsheet_metadata
 access_rights_file_prefix = gsheet_access_rights
@@ -230,6 +230,4 @@ corpus-release-card:
 	--gsheet_type="cheatsheet"
 
 	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg)
-
-	$(MAKE) sync-corpus-release-card additionnal_arg=$(additional_arg)
 
