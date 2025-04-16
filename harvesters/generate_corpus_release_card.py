@@ -79,7 +79,7 @@ def find_manifests(
 
                 proc["manifest_s3_path"] = m_path
                 if m_path is None:
-                    msg = f"Warning, process {proc['process_label']}, with run_id {proc['run_id']} has no manifest on S3 in partition {proc['processed_data_s3_path']}."
+                    msg = f"⚠️  Warning ⚠️, process {proc['process_label']}, with run_id {proc['run_id']} has no manifest on S3 in partition {proc['processed_data_s3_path']}."
                     print(msg)
                     # logger.warning(msg)
             else:
@@ -134,7 +134,6 @@ def create_corpus_section(
         proc_for_stg = processes[stg]
         stage_to_overall_stats[stg] = {}
         for proc in proc_for_stg:
-            # print(proc['task_name'], proc['manifest_s3_path'], proc['manifest_s3_path'] is None)
             if proc["manifest_s3_path"] is not None:
                 manifest_stg = read_manifest_from_s3_path(proc["manifest_s3_path"])
 
@@ -149,23 +148,27 @@ def create_corpus_section(
                                 ]
 
     for source_type in source_types_stats:
-        corpus_dict[source_type] = {
-            "titles": stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
-                "titles"
-            ],
-            "issues": stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
-                "issues"
-            ],
-            "pages": stage_to_overall_stats[DataStage.MYSQL_CIS][source_type]["pages"],
-            "content_items": stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
+        if stage_to_overall_stats[DataStage.SOLR_TEXT] != {}:
+            titles = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["titles"]
+            issues = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["issues"]
+            cis = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
                 "content_items_out"
-            ],
+            ]
+            tokens = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
+                "ft_tokens"
+            ]
+        else:
+            titles, issues, cis, tokens = ("MISSING SOLR MANIFEST!",) * 4
+
+        corpus_dict[source_type] = {
+            "titles": titles,
+            "issues": issues,
+            "pages": stage_to_overall_stats[DataStage.MYSQL_CIS][source_type]["pages"],
+            "content_items": cis,
             "images": stage_to_overall_stats[DataStage.EMB_IMAGES][source_type][
                 "images"
             ],
-            "tokens": stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
-                "ft_tokens"
-            ],
+            "tokens": tokens,
         }
 
     return corpus_dict, source_types_stats

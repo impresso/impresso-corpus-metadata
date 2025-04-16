@@ -131,7 +131,9 @@ MODELS_CHEATSHEET_RULES = {
     "s3_path_of_processed_data_path_s3_bucket_processing_label_processing_subtype_label_component_run_id_processing_step_provider_alias_media_alias_file_stem_jsonlbz2_": {
         "remove_key": ""
     },
-    "s3_partition_of_output_data": {"rename_key_to": "processed_data_s3_path"},
+    "s3_partition_of_output_data_manifest_location": {
+        "rename_key_to": "processed_data_s3_path"
+    },
     "computed_manifest": {"copy_value_from_field": "computed_manifest"},
     "comment": {"remove_key": ""},
 }
