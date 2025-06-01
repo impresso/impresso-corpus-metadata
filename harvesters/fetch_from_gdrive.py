@@ -11,7 +11,7 @@ LANG_SPLIT_PATTERN = r"\s* \s*"
 
 METADATA_RULES = {
     "acronym": {  # to remove ?
-        "copy_value_from_field": "newspaper_acronym",
+        "copy_value_from_field": "media_alias",
     },
     "bibliographic_record_link": {
         "rename_key_to": "bib_record_link",
@@ -26,10 +26,10 @@ METADATA_RULES = {
         "rename_key_to": "last_issuedate_interface",
     },
     "date_of_first_publication": {
-        "rename_key_to": "newspaper_start_year",
+        "rename_key_to": "media_start_year",
     },
     "date_of_last_publication": {
-        "rename_key_to": "newspaper_end_year",
+        "rename_key_to": "media_end_year",
     },
     "partner_id": {
         "rename_key_to": "partner_uid",
@@ -44,7 +44,7 @@ METADATA_RULES = {
     "local_geographical_area": {
         "rename_key_to": "geographic_area",
     },
-    "newspaper_title": {
+    "media_title": {
         "rename_key_to": "title",
     },
     "periodicity": {
@@ -66,7 +66,7 @@ METADATA_RULES = {
         "rename_key_to": "ocr_format",
     },
     "uid": {
-        "copy_value_from_field": "newspaper_acronym",
+        "copy_value_from_field": "media_alias",
     },
 }
 
@@ -82,9 +82,7 @@ ACCESS_RIGHTS_RULES = {
     },
     "media_type": {"copy_value_from_field": "media_type"},
     "medium": {"copy_value_from_field": "medium"},
-    "do_you_provide_content_and_not_only_metadata": {
-        "rename_key_to": "content_and_metadata"
-    },
+    "do_you_provide_content_and_not_only_metadata": {"rename_key_to": "content_and_metadata"},
     "what_is_the_copyright_status_of_the_content_of_this_title_for_the_given_time_period_this_information_will_be_displayed_alongside_the_data_for_all_values_except_protected_domain_in_copyrigth_no_need_to_fill_the_columns_i_j_k_whose_values_are_then_no_restriction_please_contact_us_if_not_ok": {
         "rename_key_to": "copyright_status"
     },
@@ -110,21 +108,15 @@ MODELS_CHEATSHEET_RULES = {
     },
     "task_name_full_human_readable": {"rename_key_to": "full_task_name"},
     "lang_used_in_model_id": {"rename_key_to": "lang"},
-    "processing_label_used_in_s3_path_and_file_names": {
-        "rename_key_to": "process_label"
-    },
-    "processing_subtype_label_used_in_s3_path": {
-        "rename_key_to": "process_subtype_label"
-    },
+    "processing_label_used_in_s3_path_and_file_names": {"rename_key_to": "process_label"},
+    "processing_subtype_label_used_in_s3_path": {"rename_key_to": "process_subtype_label"},
     "model_alias_internal_process_use": {"rename_key_to": "model_alias"},
     "full_model_name_base_model": {"rename_key_to": "full_model_name"},
     "model_version_base_model": {"remove_key": ""},
     "model_specificity_we_could_leave_this_out_of_s3_path_and_keep_it_only_here": {
         "remove_key": ""
     },
-    "model_id_task_subtask_model_specifity_model_version_lang_": {
-        "rename_key_to": "model_id"
-    },
+    "model_id_task_subtask_model_specifity_model_version_lang_": {"rename_key_to": "model_id"},
     "huggingface_link": {"copy_value_from_field": "huggingface_link"},
     "run_id_processing_label_model_id_run_version_": {"rename_key_to": "run_id"},
     "run_version": {"copy_value_from_field": "run_version"},
@@ -187,14 +179,13 @@ def transform_value(d: dict, gsheet_type: str) -> dict:
     for key_with_rule, rule in rules.items():
         if "copy_value_from_field" in rule:
             val = transformed[rule["copy_value_from_field"]]
-            del transformed[key_with_rule]
+            if key_with_rule in transformed:
+                del transformed[key_with_rule]
             transformed[key_with_rule] = val
         if "split_values_by_re" in rule:
             transformed[key_with_rule] = [
                 x
-                for x in re.split(
-                    rule["split_values_by_re"], transformed[key_with_rule]
-                )
+                for x in re.split(rule["split_values_by_re"], transformed[key_with_rule])
                 if x.strip()
             ]
         if "rename_key_to" in rule:
@@ -211,9 +202,7 @@ def has_ar_values_defined(ar_entry):
         and ar_entry["copyright_status"] != ""
     )
     if not defined:
-        print(
-            f"Warning! Missing values for access right entry - will be ignored: {ar_entry}"
-        )
+        print(f"Warning! Missing values for access right entry - will be ignored: {ar_entry}")
 
     return defined
 
@@ -259,9 +248,7 @@ def download(
     worksheet_list = sheet.worksheets()
 
     if worksheet_name not in [worksheet.title for worksheet in worksheet_list]:
-        print(
-            f"Worksheet {worksheet_name} not found in the spreadsheet. Available sheets:"
-        )
+        print(f"Worksheet {worksheet_name} not found in the spreadsheet. Available sheets:")
         print(worksheet_list)
         return
     # Open worksheet by name
@@ -275,7 +262,7 @@ def download(
     # use transform_records as a mapper function
     transformed_values = list(map(transform_value, values, gsheet_types))
 
-    if not gsheet_type:
+    if gsheet_type == "access_rights":
         # only keep entries where all necessary values are defined
         transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
 

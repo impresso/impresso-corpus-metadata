@@ -2,7 +2,7 @@
   {
     "id": 96,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "ACI",
+    "media_alias": "ACI",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -46,8 +46,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1832,
     "last_issuedate_interface": 1832,
-    "newspaper_start_year": 1832,
-    "newspaper_end_year": 1832,
+    "media_start_year": 1832,
+    "media_end_year": 1832,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -63,7 +63,7 @@
   {
     "id": 97,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Castigat",
+    "media_alias": "Castigat",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -107,8 +107,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1879,
     "last_issuedate_interface": 1880,
-    "newspaper_start_year": 1879,
-    "newspaper_end_year": 1880,
+    "media_start_year": 1879,
+    "media_end_year": 1880,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -124,7 +124,7 @@
   {
     "id": 98,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "CL",
+    "media_alias": "CL",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -168,8 +168,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1882,
     "last_issuedate_interface": 1886,
-    "newspaper_start_year": 1882,
-    "newspaper_end_year": 1886,
+    "media_start_year": 1882,
+    "media_end_year": 1886,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -185,7 +185,7 @@
   {
     "id": 99,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Croquis",
+    "media_alias": "Croquis",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -229,8 +229,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1884,
     "last_issuedate_interface": 1887,
-    "newspaper_start_year": 1884,
-    "newspaper_end_year": 1887,
+    "media_start_year": 1884,
+    "media_end_year": 1887,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -246,7 +246,7 @@
   {
     "id": 100,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "FAMDE",
+    "media_alias": "FAMDE",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -290,8 +290,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1859,
     "last_issuedate_interface": 1859,
-    "newspaper_start_year": 1859,
-    "newspaper_end_year": 1859,
+    "media_start_year": 1859,
+    "media_end_year": 1859,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -307,7 +307,7 @@
   {
     "id": 101,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "FAN",
+    "media_alias": "FAN",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -351,8 +351,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1849,
     "last_issuedate_interface": 1867,
-    "newspaper_start_year": 1849,
-    "newspaper_end_year": 1867,
+    "media_start_year": 1849,
+    "media_end_year": 1867,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -368,7 +368,7 @@
   {
     "id": 102,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "feuilleP",
+    "media_alias": "feuilleP",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -412,8 +412,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1843,
     "last_issuedate_interface": 1845,
-    "newspaper_start_year": 1843,
-    "newspaper_end_year": 1845,
+    "media_start_year": 1843,
+    "media_end_year": 1845,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -429,7 +429,7 @@
   {
     "id": 103,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "feuillePMA",
+    "media_alias": "feuillePMA",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -473,8 +473,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1852,
     "last_issuedate_interface": 1852,
-    "newspaper_start_year": 1852,
-    "newspaper_end_year": 1852,
+    "media_start_year": 1852,
+    "media_end_year": 1852,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -490,7 +490,7 @@
   {
     "id": 104,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "GAVi",
+    "media_alias": "GAVi",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -534,8 +534,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1867,
     "last_issuedate_interface": 1868,
-    "newspaper_start_year": 1867,
-    "newspaper_end_year": 1868,
+    "media_start_year": 1867,
+    "media_end_year": 1868,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -551,7 +551,7 @@
   {
     "id": 105,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "AV",
+    "media_alias": "AV",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -595,8 +595,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1880,
     "last_issuedate_interface": 1886,
-    "newspaper_start_year": 1880,
-    "newspaper_end_year": 1886,
+    "media_start_year": 1880,
+    "media_end_year": 1886,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -612,7 +612,7 @@
   {
     "id": 106,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "JY2",
+    "media_alias": "JY2",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -656,8 +656,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1842,
     "last_issuedate_interface": 1843,
-    "newspaper_start_year": 1842,
-    "newspaper_end_year": 1843,
+    "media_start_year": 1842,
+    "media_end_year": 1843,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -673,7 +673,7 @@
   {
     "id": 107,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "JV",
+    "media_alias": "JV",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -717,8 +717,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1865,
     "last_issuedate_interface": 1882,
-    "newspaper_start_year": 1865,
-    "newspaper_end_year": 1882,
+    "media_start_year": 1865,
+    "media_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -734,7 +734,7 @@
   {
     "id": 108,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "JVE",
+    "media_alias": "JVE",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -778,8 +778,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1891,
     "last_issuedate_interface": 1894,
-    "newspaper_start_year": 1891,
-    "newspaper_end_year": 1894,
+    "media_start_year": 1891,
+    "media_end_year": 1894,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -795,7 +795,7 @@
   {
     "id": 109,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "JH",
+    "media_alias": "JH",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -839,8 +839,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1738,
     "last_issuedate_interface": 1782,
-    "newspaper_start_year": 1738,
-    "newspaper_end_year": 1782,
+    "media_start_year": 1738,
+    "media_end_year": 1782,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -856,7 +856,7 @@
   {
     "id": 110,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "OBS",
+    "media_alias": "OBS",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -900,8 +900,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1865,
     "last_issuedate_interface": 1865,
-    "newspaper_start_year": 1865,
-    "newspaper_end_year": 1865,
+    "media_start_year": 1865,
+    "media_end_year": 1865,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -917,7 +917,7 @@
   {
     "id": 111,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Bombe",
+    "media_alias": "Bombe",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -961,8 +961,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1889,
     "last_issuedate_interface": 1889,
-    "newspaper_start_year": 1889,
-    "newspaper_end_year": 1889,
+    "media_start_year": 1889,
+    "media_end_year": 1889,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -978,7 +978,7 @@
   {
     "id": 112,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Cancoire",
+    "media_alias": "Cancoire",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1022,8 +1022,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1898,
     "last_issuedate_interface": 1898,
-    "newspaper_start_year": 1898,
-    "newspaper_end_year": 1898,
+    "media_start_year": 1898,
+    "media_end_year": 1898,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1039,7 +1039,7 @@
   {
     "id": 113,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Fronde",
+    "media_alias": "Fronde",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1083,8 +1083,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1872,
     "last_issuedate_interface": 1872,
-    "newspaper_start_year": 1872,
-    "newspaper_end_year": 1872,
+    "media_start_year": 1872,
+    "media_end_year": 1872,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1100,7 +1100,7 @@
   {
     "id": 114,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Griffe",
+    "media_alias": "Griffe",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1144,8 +1144,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1864,
     "last_issuedate_interface": 1866,
-    "newspaper_start_year": 1864,
-    "newspaper_end_year": 1866,
+    "media_start_year": 1864,
+    "media_end_year": 1866,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1161,7 +1161,7 @@
   {
     "id": 115,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Guepe1851",
+    "media_alias": "Guepe1851",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1205,8 +1205,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1851,
     "last_issuedate_interface": 1854,
-    "newspaper_start_year": 1851,
-    "newspaper_end_year": 1854,
+    "media_start_year": 1851,
+    "media_end_year": 1854,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1222,7 +1222,7 @@
   {
     "id": 116,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Guepe1887",
+    "media_alias": "Guepe1887",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1266,8 +1266,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1887,
     "last_issuedate_interface": 1897,
-    "newspaper_start_year": 1887,
-    "newspaper_end_year": 1897,
+    "media_start_year": 1887,
+    "media_end_year": 1897,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1283,7 +1283,7 @@
   {
     "id": 117,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "RLA",
+    "media_alias": "RLA",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1327,8 +1327,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1891,
     "last_issuedate_interface": 1898,
-    "newspaper_start_year": 1891,
-    "newspaper_end_year": 1898,
+    "media_start_year": 1891,
+    "media_end_year": 1898,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1344,7 +1344,7 @@
   {
     "id": 118,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Charivari",
+    "media_alias": "Charivari",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1388,8 +1388,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1839,
     "last_issuedate_interface": 1841,
-    "newspaper_start_year": 1839,
-    "newspaper_end_year": 1841,
+    "media_start_year": 1839,
+    "media_end_year": 1841,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1405,7 +1405,7 @@
   {
     "id": 119,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "CharivariCH",
+    "media_alias": "CharivariCH",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1449,8 +1449,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1875,
     "last_issuedate_interface": 1877,
-    "newspaper_start_year": 1875,
-    "newspaper_end_year": 1877,
+    "media_start_year": 1875,
+    "media_end_year": 1877,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1466,7 +1466,7 @@
   {
     "id": 120,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Grelot",
+    "media_alias": "Grelot",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1510,8 +1510,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1843,
     "last_issuedate_interface": 1846,
-    "newspaper_start_year": 1843,
-    "newspaper_end_year": 1846,
+    "media_start_year": 1843,
+    "media_end_year": 1846,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1527,7 +1527,7 @@
   {
     "id": 121,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Moniteur",
+    "media_alias": "Moniteur",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1571,8 +1571,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1879,
     "last_issuedate_interface": 1880,
-    "newspaper_start_year": 1879,
-    "newspaper_end_year": 1880,
+    "media_start_year": 1879,
+    "media_end_year": 1880,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1588,7 +1588,7 @@
   {
     "id": 122,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "Moustique",
+    "media_alias": "Moustique",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -1632,8 +1632,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1887,
     "last_issuedate_interface": 1887,
-    "newspaper_start_year": 1887,
-    "newspaper_end_year": 1887,
+    "media_start_year": 1887,
+    "media_end_year": 1887,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1649,7 +1649,7 @@
   {
     "id": 123,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "ouistiti",
+    "media_alias": "ouistiti",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1693,8 +1693,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1882,
     "last_issuedate_interface": 1882,
-    "newspaper_start_year": 1882,
-    "newspaper_end_year": 1882,
+    "media_start_year": 1882,
+    "media_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1710,7 +1710,7 @@
   {
     "id": 124,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "PDN",
+    "media_alias": "PDN",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -1754,8 +1754,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1841,
     "last_issuedate_interface": 1841,
-    "newspaper_start_year": 1841,
-    "newspaper_end_year": 1841,
+    "media_start_year": 1841,
+    "media_end_year": 1841,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1771,7 +1771,7 @@
   {
     "id": 125,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "PDL",
+    "media_alias": "PDL",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1815,8 +1815,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1841,
     "last_issuedate_interface": 1842,
-    "newspaper_start_year": 1841,
-    "newspaper_end_year": 1842,
+    "media_start_year": 1841,
+    "media_end_year": 1842,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1832,7 +1832,7 @@
   {
     "id": 126,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "PJ",
+    "media_alias": "PJ",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1876,8 +1876,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1831,
     "last_issuedate_interface": 1832,
-    "newspaper_start_year": 1831,
-    "newspaper_end_year": 1832,
+    "media_start_year": 1831,
+    "media_end_year": 1832,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1893,7 +1893,7 @@
   {
     "id": 127,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "TouSuIl",
+    "media_alias": "TouSuIl",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1937,8 +1937,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1866,
     "last_issuedate_interface": 1882,
-    "newspaper_start_year": 1866,
-    "newspaper_end_year": 1882,
+    "media_start_year": 1866,
+    "media_end_year": 1882,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -1954,7 +1954,7 @@
   {
     "id": 128,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "VVS1",
+    "media_alias": "VVS1",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -1998,8 +1998,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1888,
     "last_issuedate_interface": 1889,
-    "newspaper_start_year": 1888,
-    "newspaper_end_year": 1889,
+    "media_start_year": 1888,
+    "media_end_year": 1889,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2015,7 +2015,7 @@
   {
     "id": 129,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "MESSAGER",
+    "media_alias": "MESSAGER",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2059,8 +2059,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1879,
     "last_issuedate_interface": 1881,
-    "newspaper_start_year": 1879,
-    "newspaper_end_year": 1881,
+    "media_start_year": 1879,
+    "media_end_year": 1881,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2076,7 +2076,7 @@
   {
     "id": 130,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "PS",
+    "media_alias": "PS",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2120,8 +2120,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1845,
     "last_issuedate_interface": 1846,
-    "newspaper_start_year": 1845,
-    "newspaper_end_year": 1846,
+    "media_start_year": 1845,
+    "media_end_year": 1846,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2137,7 +2137,7 @@
   {
     "id": 131,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "NV",
+    "media_alias": "NV",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2181,8 +2181,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1822,
     "last_issuedate_interface": 1823,
-    "newspaper_start_year": 1822,
-    "newspaper_end_year": 1823,
+    "media_start_year": 1822,
+    "media_end_year": 1823,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2198,7 +2198,7 @@
   {
     "id": 132,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "ME",
+    "media_alias": "ME",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2242,8 +2242,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1732,
     "last_issuedate_interface": 1747,
-    "newspaper_start_year": 1732,
-    "newspaper_end_year": 1747,
+    "media_start_year": 1732,
+    "media_end_year": 1747,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2259,7 +2259,7 @@
   {
     "id": 133,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "MB",
+    "media_alias": "MB",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2303,8 +2303,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1748,
     "last_issuedate_interface": 1800,
-    "newspaper_start_year": 1748,
-    "newspaper_end_year": 1800,
+    "media_start_year": 1748,
+    "media_end_year": 1800,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2320,7 +2320,7 @@
   {
     "id": 134,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "NS",
+    "media_alias": "NS",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2364,8 +2364,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1748,
     "last_issuedate_interface": 1769,
-    "newspaper_start_year": 1748,
-    "newspaper_end_year": 1769,
+    "media_start_year": 1748,
+    "media_end_year": 1769,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2381,7 +2381,7 @@
   {
     "id": 135,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "RN",
+    "media_alias": "RN",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -2425,8 +2425,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1829,
     "last_issuedate_interface": 2020,
-    "newspaper_start_year": 1829,
-    "newspaper_end_year": 2020,
+    "media_start_year": 1829,
+    "media_end_year": 2020,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2442,7 +2442,7 @@
   {
     "id": 136,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "FAM",
+    "media_alias": "FAM",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2486,8 +2486,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1854,
     "last_issuedate_interface": 1854,
-    "newspaper_start_year": 1854,
-    "newspaper_end_year": 1854,
+    "media_start_year": 1854,
+    "media_end_year": 1854,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2503,7 +2503,7 @@
   {
     "id": 137,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "FAV1",
+    "media_alias": "FAV1",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2547,8 +2547,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1784,
     "last_issuedate_interface": 1826,
-    "newspaper_start_year": 1784,
-    "newspaper_end_year": 1826,
+    "media_start_year": 1784,
+    "media_end_year": 1826,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2564,7 +2564,7 @@
   {
     "id": 138,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "EM",
+    "media_alias": "EM",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2608,8 +2608,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1883,
     "last_issuedate_interface": 1892,
-    "newspaper_start_year": 1883,
-    "newspaper_end_year": 1892,
+    "media_start_year": 1883,
+    "media_end_year": 1892,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2625,7 +2625,7 @@
   {
     "id": 139,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "esta",
+    "media_alias": "esta",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2669,8 +2669,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1862,
     "last_issuedate_interface": 1895,
-    "newspaper_start_year": 1862,
-    "newspaper_end_year": 1895,
+    "media_start_year": 1862,
+    "media_end_year": 1895,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2686,7 +2686,7 @@
   {
     "id": 140,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "PAT",
+    "media_alias": "PAT",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2730,8 +2730,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1841,
     "last_issuedate_interface": 1844,
-    "newspaper_start_year": 1841,
-    "newspaper_end_year": 1844,
+    "media_start_year": 1841,
+    "media_end_year": 1844,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2747,7 +2747,7 @@
   {
     "id": 141,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "VVS",
+    "media_alias": "VVS",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2791,8 +2791,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1840,
     "last_issuedate_interface": 1843,
-    "newspaper_start_year": 1840,
-    "newspaper_end_year": 1843,
+    "media_start_year": 1840,
+    "media_end_year": 1843,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2808,7 +2808,7 @@
   {
     "id": 142,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "NV1",
+    "media_alias": "NV1",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2852,8 +2852,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1824,
     "last_issuedate_interface": 1855,
-    "newspaper_start_year": 1824,
-    "newspaper_end_year": 1855,
+    "media_start_year": 1824,
+    "media_end_year": 1855,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2869,7 +2869,7 @@
   {
     "id": 143,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "NV2",
+    "media_alias": "NV2",
     "partner_country": "CH",
     "availability_eta": "30/06/2024",
     "subtitles": "",
@@ -2913,8 +2913,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1856,
     "last_issuedate_interface": 1891,
-    "newspaper_start_year": 1856,
-    "newspaper_end_year": 1891,
+    "media_start_year": 1856,
+    "media_end_year": 1891,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2930,7 +2930,7 @@
   {
     "id": 144,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "RN1",
+    "media_alias": "RN1",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -2974,8 +2974,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1907,
     "last_issuedate_interface": 1921,
-    "newspaper_start_year": 1907,
-    "newspaper_end_year": 1921,
+    "media_start_year": 1907,
+    "media_end_year": 1921,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -2991,7 +2991,7 @@
   {
     "id": 145,
     "ingestion_batch": "BCUL",
-    "newspaper_acronym": "RN2",
+    "media_alias": "RN2",
     "partner_country": "CH",
     "availability_eta": "29/10/2024",
     "subtitles": "",
@@ -3035,8 +3035,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1861,
     "last_issuedate_interface": 2002,
-    "newspaper_start_year": 1861,
-    "newspaper_end_year": 2002,
+    "media_start_year": 1861,
+    "media_end_year": 2002,
     "partner_uid": "BCUL",
     "languages": [
       "fr"

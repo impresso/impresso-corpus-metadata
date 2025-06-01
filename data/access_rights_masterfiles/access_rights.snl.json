@@ -1,10 +1,10 @@
 {
     "BLB": {
-        "1846-1847": {
+        "1845-1847": {
             "rights_holder_id": "SNL",
             "title_alias": "BLB",
             "full_title": "B\u00fcndner Landbote",
-            "start_year": 1846,
+            "start_year": 1845,
             "end_year": 1847,
             "media_type": "Newspaper",
             "medium": "print",
@@ -19,9 +19,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1846-1847)",
-            "rights_statement_get_tr": "Public Domain (1846-1847)",
-            "rights_statement_get_img": "Public Domain (1846-1847)"
+            "rights_statement_explore": "Public Domain (1845-1847)",
+            "rights_statement_get_tr": "Public Domain (1845-1847)",
+            "rights_statement_get_img": "Public Domain (1845-1847)"
         }
     },
     "BNN": {
@@ -75,11 +75,11 @@
         }
     },
     "DVF": {
-        "1879-1885": {
+        "1878-1885": {
             "rights_holder_id": "SNL",
             "title_alias": "DVF",
             "full_title": "Der Volksfreund",
-            "start_year": 1879,
+            "start_year": 1878,
             "end_year": 1885,
             "media_type": "Newspaper",
             "medium": "print",
@@ -94,9 +94,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1879-1885)",
-            "rights_statement_get_tr": "Public Domain (1879-1885)",
-            "rights_statement_get_img": "Public Domain (1879-1885)"
+            "rights_statement_explore": "Public Domain (1878-1885)",
+            "rights_statement_get_tr": "Public Domain (1878-1885)",
+            "rights_statement_get_img": "Public Domain (1878-1885)"
         }
     },
     "EZR": {
@@ -150,11 +150,11 @@
         }
     },
     "LAB": {
-        "1848-1860": {
+        "1847-1860": {
             "rights_holder_id": "SNL",
             "title_alias": "LAB",
             "full_title": "Der Liberale Alpenbote",
-            "start_year": 1848,
+            "start_year": 1847,
             "end_year": 1860,
             "media_type": "Newspaper",
             "medium": "print",
@@ -169,17 +169,17 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1848-1860)",
-            "rights_statement_get_tr": "Public Domain (1848-1860)",
-            "rights_statement_get_img": "Public Domain (1848-1860)"
+            "rights_statement_explore": "Public Domain (1847-1860)",
+            "rights_statement_get_tr": "Public Domain (1847-1860)",
+            "rights_statement_get_img": "Public Domain (1847-1860)"
         }
     },
     "MGS": {
-        "1842-1843": {
+        "1841-1843": {
             "rights_holder_id": "SNL",
             "title_alias": "MGS",
             "full_title": "Der Morgenstern",
-            "start_year": 1842,
+            "start_year": 1841,
             "end_year": 1843,
             "media_type": "Newspaper",
             "medium": "print",
@@ -194,9 +194,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1842-1843)",
-            "rights_statement_get_tr": "Public Domain (1842-1843)",
-            "rights_statement_get_img": "Public Domain (1842-1843)"
+            "rights_statement_explore": "Public Domain (1841-1843)",
+            "rights_statement_get_tr": "Public Domain (1841-1843)",
+            "rights_statement_get_img": "Public Domain (1841-1843)"
         }
     },
     "NTS": {
@@ -825,12 +825,12 @@
         }
     },
     "FZG": {
-        "1865-2018": {
+        "1864-2006": {
             "rights_holder_id": "BCUF",
             "title_alias": "FZG",
             "full_title": "Freiburger Nachrichten",
-            "start_year": 1865,
-            "end_year": 2018,
+            "start_year": 1864,
+            "end_year": 2006,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -844,9 +844,9 @@
                 "get_tr": "0000000000000000000000010000000000000000000000000000000000000000",
                 "get_img": "0000000000000000000000010000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1865-2018) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1865-2018) - Research and Educational use",
-            "rights_statement_get_img": "Protected (1865-2018) - Research and Educational use"
+            "rights_statement_explore": "Protected (1864-2006) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1864-2006) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1864-2006) - Research and Educational use"
         }
     },
     "LLE": {

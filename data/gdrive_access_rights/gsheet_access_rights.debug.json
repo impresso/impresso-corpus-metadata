@@ -1,7 +1,7 @@
 [
   {
     "": 1,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "NGV",
     "full_title": "La nouvelle Gazette de Vaud",
     "start_year": 1865,
@@ -17,7 +17,7 @@
   },
   {
     "": 2,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "NGV",
     "full_title": "La nouvelle Gazette de Vaud",
     "start_year": 1905,
@@ -25,7 +25,7 @@
     "media_type": "Newspaper",
     "medium": "print",
     "content_and_metadata": "yes",
-    "copyright_status": "Protected Domain: Copyright undetermined",
+    "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "Educational users at least OR Archive members",
     "get_transcript_req_status": "Academic users at least OR Archive members",
     "get_facsimile_req_status": "Only Archive members",
@@ -33,7 +33,7 @@
   },
   {
     "": 3,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "LNC",
     "full_title": "Le Nouveau Champion",
     "start_year": 1914,
@@ -41,7 +41,7 @@
     "media_type": "Newspaper",
     "medium": "print",
     "content_and_metadata": "yes",
-    "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+    "copyright_status": "Protected Domain: In copyright",
     "explore_req_status": "Educational users at least",
     "get_transcript_req_status": "Educational users at least OR Archive members",
     "get_facsimile_req_status": "Educational users at least",
@@ -49,7 +49,7 @@
   },
   {
     "": 4,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "LNCa",
     "full_title": "La Nouvelle Catastrophe",
     "start_year": 2020,
@@ -65,7 +65,7 @@
   },
   {
     "": 5,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "RL",
     "full_title": "Radio Libre",
     "start_year": 1960,
@@ -81,7 +81,7 @@
   },
   {
     "": 6,
-    "rights_holder_id": "BCUL",
+    "rights_holder_id": "ONB",
     "title_alias": "BLA",
     "full_title": "Bla bla bla",
     "start_year": 1960,
@@ -94,5 +94,37 @@
     "get_transcript_req_status": "No restriction (all registered users allowed)",
     "get_facsimile_req_status": "Forbidden",
     "allowed_use_archive_only": "Personal, Research and Educational"
+  },
+  {
+    "": 7,
+    "rights_holder_id": "ONB",
+    "title_alias": "FRM",
+    "full_title": "Fun Radio Magazine",
+    "start_year": 1960,
+    "end_year": 1975,
+    "media_type": "Radio Magazine",
+    "medium": "print",
+    "content_and_metadata": "yes",
+    "copyright_status": "Protected Domain: In copyright",
+    "explore_req_status": "Only Archive members",
+    "get_transcript_req_status": "Academic users at least OR Archive members",
+    "get_facsimile_req_status": "Educational users at least OR Archive members",
+    "allowed_use_archive_only": "Research and Educational"
+  },
+  {
+    "": 8,
+    "rights_holder_id": "ONB",
+    "title_alias": "RB",
+    "full_title": "Radio Bulletins",
+    "start_year": 1960,
+    "end_year": 1975,
+    "media_type": "Radio Bulletins",
+    "medium": "typescript",
+    "content_and_metadata": "yes",
+    "copyright_status": "Protected Domain: In copyright",
+    "explore_req_status": "Only Archive members",
+    "get_transcript_req_status": "No restriction (all registered users allowed)",
+    "get_facsimile_req_status": "Educational users at least",
+    "allowed_use_archive_only": "Research"
   }
 ]

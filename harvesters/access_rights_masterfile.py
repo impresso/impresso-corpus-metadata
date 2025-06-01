@@ -1,4 +1,4 @@
-""" Python script converting the DSA access rights entries into collection Access Rights Masterfiles.
+"""Python script converting the DSA access rights entries into collection Access Rights Masterfiles.
 
 Usage:
     harvesters/access_rights/access_rights_masterfile.py --partner=<p> --data-dir=<dd> [--log-file=<logfile> --verbose]
@@ -268,9 +268,7 @@ def entry_to_statement(entry: dict[str, Any], period: str, action_status: str) -
         return f"Public Domain ({period})"
     if entry["copyright_status"] == "Protected Domain: In copyright":
         # the human readable rights are only for the interface: explore
-        stmt = statement_from_status(
-            entry[action_status], entry["allowed_use_archive_only"]
-        )
+        stmt = statement_from_status(entry[action_status], entry["allowed_use_archive_only"])
         return f"Protected ({period}) - {stmt}"
     if entry["copyright_status"] == "":
         m = f"The copyright status was not provided for {entry['title_alias']}"
@@ -294,9 +292,7 @@ def main():
 
     masterfile = {}
     out_json_path = os.path.join(data_dir_path, MASTER_AR_FILE.format(partner=partner))
-    gdrive_json_path = os.path.join(
-        data_dir_path, GDRIVE_AR_FILE.format(partner=partner)
-    )
+    gdrive_json_path = os.path.join(data_dir_path, GDRIVE_AR_FILE.format(partner=partner))
 
     with open(gdrive_json_path, "r", encoding="utf-8") as file:
         fetched_ar = json.load(file)
