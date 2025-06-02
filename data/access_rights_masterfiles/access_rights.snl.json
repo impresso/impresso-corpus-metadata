@@ -700,11 +700,11 @@
         }
     },
     "LCS": {
-        "1830-1830": {
+        "1829-1830": {
             "rights_holder_id": "BCUF",
             "title_alias": "LCS",
             "full_title": "Le Courrier fribourgeois",
-            "start_year": 1830,
+            "start_year": 1829,
             "end_year": 1830,
             "media_type": "Newspaper",
             "medium": "print",
@@ -719,9 +719,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1830-1830)",
-            "rights_statement_get_tr": "Public Domain (1830-1830)",
-            "rights_statement_get_img": "Public Domain (1830-1830)"
+            "rights_statement_explore": "Public Domain (1829-1830)",
+            "rights_statement_get_tr": "Public Domain (1829-1830)",
+            "rights_statement_get_img": "Public Domain (1829-1830)"
         }
     },
     "LNF": {
