@@ -248,7 +248,7 @@ swissinfo-access-rights:
 	--worksheet_name=$(ar_worksheet_name) \
 	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).swissinfo.json" 
 
-	python harvesters/access_rights_masterfile.py --partner="ina" --data-dir=$(data_dir)
+	python harvesters/access_rights_masterfile.py --partner="swissinfo" --data-dir=$(data_dir)
 
 corpus-access-catalogue:
 	python harvesters/generate_corpus_access_catalogue.py
