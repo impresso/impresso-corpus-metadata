@@ -17,9 +17,11 @@
     "resource_holder_names": [
       "Institut National de L'audiovisuel (INA)"
     ],
-    "resource_holder_links": [],
+    "resource_holder_links": [
+      "https://www.ina.fr/"
+    ],
     "resource_holder_logos": [],
-    "provenance_id": "",
+    "provenance_id": "https://catalogue.ina.fr/doc/TV-RADIO/RD_165368.001/le-dimanche-des-europeens?rang=1 https://catalogue.ina.fr/doc/TV-RADIO/RD_167288.001/enseignement-education-chomage-et-emploi?rang=1",
     "source_permalink": "",
     "institution_portal": "https://www.ina.fr/",
     "ocr": "y",
@@ -38,7 +40,7 @@
     "letter_fonts": "",
     "format": "",
     "acronym": "CFCE",
-    "bib_record_link": "",
+    "bib_record_link": "https://catalogue.ina.fr/doc/TV-RADIO/RD_165368.001/le-dimanche-des-europeens?rang=1 https://catalogue.ina.fr/doc/TV-RADIO/RD_167288.001/enseignement-education-chomage-et-emploi?rang=1",
     "bib_record_text": "",
     "first_issuedate_interface": 1996,
     "last_issuedate_interface": 1996,
@@ -51,7 +53,7 @@
     "geographic_outreach": "",
     "geographic_area": "",
     "title": "C\u2019est en France, c\u2019est en Europe",
-    "latest_periodicity": "",
+    "latest_periodicity": "weekly",
     "change_periodicity": "",
     "ocr_format": "AudioDoc",
     "uid": "CFCE"
@@ -74,12 +76,14 @@
     "resource_holder_names": [
       "Institut National de L'audiovisuel (INA)"
     ],
-    "resource_holder_links": [],
+    "resource_holder_links": [
+      "https://www.ina.fr/"
+    ],
     "resource_holder_logos": [],
-    "provenance_id": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86024916/accords-economiques-internationaux?rang=1",
+    "provenance_id": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PH808003302/accords-economiques-internationaux?rang=2",
     "source_permalink": "",
     "institution_portal": "https://www.ina.fr/",
-    "ocr": "",
+    "ocr": "y",
     "olr": "",
     "olr_quality": "",
     "right_statement": "",
@@ -95,7 +99,7 @@
     "letter_fonts": "",
     "format": "",
     "acronym": "RDN",
-    "bib_record_link": "",
+    "bib_record_link": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PH808003302/accords-economiques-internationaux?rang=2",
     "bib_record_text": "",
     "first_issuedate_interface": 1949,
     "last_issuedate_interface": 1950,
