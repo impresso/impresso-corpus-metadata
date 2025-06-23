@@ -23,7 +23,6 @@ sub_ar_gsheet_id = 1zglWsq5EL3HbfB8QF_vyEKIewi8AWHD6
 ina_ar_gsheet_id = 1P4XAjxIKyZuvaQelQzJFpLhLy_JciJWH5X63Erf5iKU
 bcul_ar_gsheet_id = 1EeMo01iwcLWIuAwWgYN7vwkmsOJM5dA1ipJuaikbBCo
 swa_fedgaz_nzz_ar_gsheet_id = 1PC7B90IkXT8arczM8FlV6PN5YbZH1LjHV8ZUno5UW9c
-swissinfo_ar_gsheet_id = 1u0Mi12afp7UJ4r-Z7HgqsgxW7SQ9ZdONPMGqiejb3xw
 cheatsheet_gsheet_id = 1Z4_w8rnYctjZGk87qKxsEFINVUZFoWvCWtZqKRlC36Y
 
 # Targets
@@ -35,7 +34,6 @@ help:
 	@echo "  bnf-metadata      - Export the metadata for all BNF media titles"
 	@echo "  bcul-metadata       - Export the metadata for all BCUL media titles"
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
-	@echo "  swissinfo-metadata     - Export the metadata for all SWISSINFO media titles"
 	@echo "  sync-gdrive-metadata     - Synchronize all or part of the gdrive data folder with the one of the impresso-master-db repository"
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
 	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-pyindexing repository"
@@ -54,14 +52,13 @@ help:
 	@echo "  ina-access-rights     - Export the access rights for INA (12)"
 	@echo "  bcul-access-rights     - Export the access rights for BCUL (22)"
 	@echo "  swa-fedgaz-nzz-access-rights     - Export the access rights for SWA, FedGaz and NZZ (35)"
-	@echo "  swissinfo-access-rights     - Export the access rights for SWISSINFO (40)"
 	@echo "  corpus-access-catalogue	- Generate the Impresso Corpus Access Catalogue from all access rights masterfiles"
 	@echo "  corpus-release-card  additional_arg=<[YYYY-MM]>   - Generare the Impresso Corpus Release Card for a given version"
 	@echo "  help      - Display this help message"
 
 
 ### Fetching metadata ###
-all-metadata: impresso1-metadata bnf-metadata ina-metadata bcul-metadata swa-fedgaz-metadata swissinfo-metadata
+all-metadata: impresso1-metadata bnf-metadata bcul-metadata swa-fedgaz-metadata
 
 impresso1-metadata:
 	python harvesters/fetch_from_gdrive.py \
@@ -77,13 +74,6 @@ bnf-metadata:
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnf.json" \
 	--gsheet_type="metadata"
 
-ina-metadata:
-	python harvesters/fetch_from_gdrive.py \
-	--spreadsheet_id=$(metadata_gsheet_id) \
-	--worksheet_name="INA" \
-	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).ina.json" \
-	--gsheet_type="metadata"
-
 bcul-metadata:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(metadata_gsheet_id) \
@@ -96,13 +86,6 @@ swa-fedgaz-metadata:
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="SWA-FedGaz" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swa_fedgaz.json" \
-	--gsheet_type="metadata"
-
-swissinfo-metadata:
-	python harvesters/fetch_from_gdrive.py \
-	--spreadsheet_id=$(metadata_gsheet_id) \
-	--worksheet_name="SWISSINFO" \
-	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swissinfo.json" \
 	--gsheet_type="metadata"
 
 sync-gdrive-metadata: 
@@ -130,7 +113,7 @@ debug-access-rights: # the gsheet id is going to change with each provider
 	python harvesters/access_rights_masterfile.py --partner="debug" --data-dir=$(data_dir)
 
 
-all-access-rights: snl-access-rights bnl-access-rights bnf-access-rights ina-access-rights bcul-access-rights swa-fedgaz-nzz-access-rights swissinfo-access-rights
+all-access-rights: snl-access-rights bnl-access-rights bnf-access-rights bcul-access-rights swa-fedgaz-nzz-access-rights
 # todo add the rest once their access rights are filled in
 
 # 01 - SNL
@@ -241,14 +224,6 @@ swa-fedgaz-nzz-access-rights:
 
 	python harvesters/access_rights_masterfile.py --partner="swa_fedgaz_nzz" --data-dir=$(data_dir)
 
-# 40 - SWISSINFO
-swissinfo-access-rights:
-	python harvesters/fetch_from_gdrive.py \
-	--spreadsheet_id=$(swissinfo_ar_gsheet_id) \
-	--worksheet_name=$(ar_worksheet_name) \
-	--output_file="$(data_dir)/gdrive_access_rights/$(access_rights_file_prefix).swissinfo.json" 
-
-	python harvesters/access_rights_masterfile.py --partner="swissinfo" --data-dir=$(data_dir)
 
 corpus-access-catalogue:
 	python harvesters/generate_corpus_access_catalogue.py

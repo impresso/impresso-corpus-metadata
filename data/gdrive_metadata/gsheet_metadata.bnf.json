@@ -2,7 +2,7 @@
   {
     "id": 85,
     "ingestion_batch": "BNF",
-    "media_alias": "excelsior",
+    "newspaper_acronym": "excelsior",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -46,8 +46,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1910,
     "last_issuedate_interface": 1920,
-    "media_start_year": 1910,
-    "media_end_year": 1920,
+    "newspaper_start_year": 1910,
+    "newspaper_end_year": 1920,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -63,7 +63,7 @@
   {
     "id": 86,
     "ingestion_batch": "BNF",
-    "media_alias": "jdpl",
+    "newspaper_acronym": "jdpl",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -107,8 +107,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1814,
     "last_issuedate_interface": 1944,
-    "media_start_year": 1814,
-    "media_end_year": 1944,
+    "newspaper_start_year": 1814,
+    "newspaper_end_year": 1944,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -124,7 +124,7 @@
   {
     "id": 87,
     "ingestion_batch": "BNF",
-    "media_alias": "lafronde",
+    "newspaper_acronym": "lafronde",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -168,8 +168,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1897,
     "last_issuedate_interface": 1929,
-    "media_start_year": 1897,
-    "media_end_year": 1929,
+    "newspaper_start_year": 1897,
+    "newspaper_end_year": 1929,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -185,7 +185,7 @@
   {
     "id": 88,
     "ingestion_batch": "BNF",
-    "media_alias": "legaulois",
+    "newspaper_acronym": "legaulois",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -229,8 +229,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1868,
     "last_issuedate_interface": 1929,
-    "media_start_year": 1868,
-    "media_end_year": 1929,
+    "newspaper_start_year": 1868,
+    "newspaper_end_year": 1929,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -246,7 +246,7 @@
   {
     "id": 89,
     "ingestion_batch": "BNF",
-    "media_alias": "lematin",
+    "newspaper_acronym": "lematin",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -290,8 +290,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1884,
     "last_issuedate_interface": 1942,
-    "media_start_year": 1884,
-    "media_end_year": 1942,
+    "newspaper_start_year": 1884,
+    "newspaper_end_year": 1942,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -307,7 +307,7 @@
   {
     "id": 90,
     "ingestion_batch": "BNF",
-    "media_alias": "lepetitparisien",
+    "newspaper_acronym": "lepetitparisien",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -351,8 +351,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1876,
     "last_issuedate_interface": 1944,
-    "media_start_year": 1876,
-    "media_end_year": 1944,
+    "newspaper_start_year": 1876,
+    "newspaper_end_year": 1944,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -368,7 +368,7 @@
   {
     "id": 91,
     "ingestion_batch": "BNF",
-    "media_alias": "lepji",
+    "newspaper_acronym": "lepji",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -412,8 +412,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1884,
     "last_issuedate_interface": 1920,
-    "media_start_year": 1884,
-    "media_end_year": 1920,
+    "newspaper_start_year": 1884,
+    "newspaper_end_year": 1920,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -429,7 +429,7 @@
   {
     "id": 92,
     "ingestion_batch": "BNF",
-    "media_alias": "marieclaire",
+    "newspaper_acronym": "marieclaire",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -473,8 +473,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1937,
     "last_issuedate_interface": 1944,
-    "media_start_year": 1937,
-    "media_end_year": 1944,
+    "newspaper_start_year": 1937,
+    "newspaper_end_year": 1944,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -490,7 +490,7 @@
   {
     "id": 93,
     "ingestion_batch": "BNF",
-    "media_alias": "oecaen",
+    "newspaper_acronym": "oecaen",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -534,8 +534,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1912,
     "last_issuedate_interface": 1942,
-    "media_start_year": 1912,
-    "media_end_year": 1942,
+    "newspaper_start_year": 1912,
+    "newspaper_end_year": 1942,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -551,7 +551,7 @@
   {
     "id": 94,
     "ingestion_batch": "BNF",
-    "media_alias": "oerennes",
+    "newspaper_acronym": "oerennes",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -595,8 +595,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1899,
     "last_issuedate_interface": 1942,
-    "media_start_year": 1899,
-    "media_end_year": 1942,
+    "newspaper_start_year": 1899,
+    "newspaper_end_year": 1942,
     "partner_uid": "BNF",
     "languages": [
       "fr"
@@ -612,7 +612,7 @@
   {
     "id": 95,
     "ingestion_batch": "BNF",
-    "media_alias": "oeuvre",
+    "newspaper_acronym": "oeuvre",
     "partner_country": "FR",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -656,8 +656,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1915,
     "last_issuedate_interface": 1944,
-    "media_start_year": 1915,
-    "media_end_year": 1944,
+    "newspaper_start_year": 1915,
+    "newspaper_end_year": 1944,
     "partner_uid": "BNF",
     "languages": [
       "fr"

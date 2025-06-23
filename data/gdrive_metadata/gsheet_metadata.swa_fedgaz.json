@@ -2,7 +2,7 @@
   {
     "id": 78,
     "ingestion_batch": "SWA",
-    "media_alias": "arbeitgeber",
+    "newspaper_acronym": "arbeitgeber",
     "partner_country": "CH",
     "availability_eta": "30/09/2020",
     "subtitles": "Zentralverband Schweizerischer Arbeitgeber-Organisationen (Journal des associations patronales / Union centrale des associations patronales suisses)",
@@ -46,8 +46,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1907,
     "last_issuedate_interface": 2010,
-    "media_start_year": 1907,
-    "media_end_year": 2010,
+    "newspaper_start_year": 1907,
+    "newspaper_end_year": 2010,
     "partner_uid": "SWA",
     "languages": [
       "de",
@@ -65,7 +65,7 @@
   {
     "id": 79,
     "ingestion_batch": "SWA",
-    "media_alias": "handelsztg",
+    "newspaper_acronym": "handelsztg",
     "partner_country": "CH",
     "availability_eta": "30/09/2020",
     "subtitles": "allgemeines Industrie- und Wirtschaftsblatt",
@@ -109,8 +109,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1861,
     "last_issuedate_interface": 1894,
-    "media_start_year": 1868,
-    "media_end_year": 1993,
+    "newspaper_start_year": 1868,
+    "newspaper_end_year": 1993,
     "partner_uid": "SWA",
     "languages": [
       "de"
@@ -126,7 +126,7 @@
   {
     "id": 80,
     "ingestion_batch": "CH archives",
-    "media_alias": "FedGazDe",
+    "newspaper_acronym": "FedGazDe",
     "partner_country": "CH",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -170,8 +170,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1849,
     "last_issuedate_interface": 1999,
-    "media_start_year": 1849,
-    "media_end_year": 1999,
+    "newspaper_start_year": 1849,
+    "newspaper_end_year": 1999,
     "partner_uid": "SFA",
     "languages": [
       "de"
@@ -187,7 +187,7 @@
   {
     "id": 81,
     "ingestion_batch": "CH archives",
-    "media_alias": "FedGazFr",
+    "newspaper_acronym": "FedGazFr",
     "partner_country": "CH",
     "availability_eta": "30/09/2020",
     "subtitles": "",
@@ -231,8 +231,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1849,
     "last_issuedate_interface": 1999,
-    "media_start_year": 1849,
-    "media_end_year": 1999,
+    "newspaper_start_year": 1849,
+    "newspaper_end_year": 1999,
     "partner_uid": "SFA",
     "languages": [
       "fr"
@@ -248,7 +248,7 @@
   {
     "id": 82,
     "ingestion_batch": "CH archives",
-    "media_alias": "FedGazIt",
+    "newspaper_acronym": "FedGazIt",
     "partner_country": "CH",
     "availability_eta": "n/a",
     "subtitles": "",
@@ -292,8 +292,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": "",
     "last_issuedate_interface": "",
-    "media_start_year": "",
-    "media_end_year": "",
+    "newspaper_start_year": "",
+    "newspaper_end_year": "",
     "partner_uid": "SFA",
     "languages": [
       "it"
