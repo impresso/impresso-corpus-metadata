@@ -7,7 +7,7 @@ import fire
 from harvesters.utils import transform_value, BITMAP_KEYS
 
 MASTER_AR_DIR = "data/access_rights_masterfiles"
-AR_FILES_TO_EXCLUDE = ["debug", "catalogue", "institutions"]
+AR_FILES_TO_EXCLUDE = ["debug", "catalogue", "institutions", "bitmap"]
 
 CATALOGUE_RULES = {
     "rights_holder_id": {"rename_key_to": "data_partner_institution"},
@@ -140,8 +140,7 @@ def remap_keys_and_values(
         ]:
             catalogue_entry["permitted_use"] = "Personal, Research and Educational"
         elif (
-            "Student"
-            in catalogue_entry["minimum_user_plan_required_to_explore_in_the_webapp"]
+            "Student" in catalogue_entry["minimum_user_plan_required_to_explore_in_the_webapp"]
         ):
             catalogue_entry["permitted_use"] = "Research and Educational"
         else:
@@ -190,6 +189,14 @@ def main(ar_dir_path: str = MASTER_AR_DIR):
 
         access_rights_contents[partner.upper()] = tranformed_ar
         full_catalogue.extend(tranformed_ar_list)
+
+    catalogue_path = os.path.join(ar_dir_path, "corpus_access_catalogue.json")
+
+    msg = f"Writing the generated corpus access catalogue to disk: {catalogue_path}"
+    print(msg)
+
+    with open(catalogue_path, "w", encoding="utf-8") as fout:
+        json.dump(full_catalogue, fout, indent=4)
 
 
 if __name__ == "__main__":
