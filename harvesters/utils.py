@@ -1,5 +1,4 @@
-"""Small utilities module for the fetching and processing of the metadata and access rights.
-"""
+"""Small utilities module for the fetching and processing of the metadata and access rights."""
 
 import re
 
@@ -44,7 +43,7 @@ BITMAP_KEYS = [
     "BVCF",
     "BVU",
     "ArcInfo",
-    "Swissinfo",
+    "SWISSINFO",
     "CNA",
     "FedGaz",
 ]
@@ -92,9 +91,7 @@ def transform_value(d: dict, rules: dict[str, dict]) -> dict:
         if "split_values_by_re" in rule:
             transformed[key_with_rule] = [
                 x
-                for x in re.split(
-                    rule["split_values_by_re"], transformed[key_with_rule]
-                )
+                for x in re.split(rule["split_values_by_re"], transformed[key_with_rule])
                 if x.strip()
             ]
         if "rename_key_to" in rule:
