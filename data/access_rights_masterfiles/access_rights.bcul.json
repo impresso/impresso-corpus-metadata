@@ -24,6 +24,31 @@
             "rights_statement_get_img": "Public Domain (1832-1832)"
         }
     },
+    "RN": {
+        "1886-2020": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN",
+            "full_title": "Bulletins du Grand Conseil",
+            "start_year": 1886,
+            "end_year": 2020,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1886-2020) - Research use",
+            "rights_statement_get_tr": "Protected (1886-2020) - Research use",
+            "rights_statement_get_img": "Protected (1886-2020) - Research use"
+        }
+    },
     "Castigat": {
         "1879-1880": {
             "rights_holder_id": "BCUL",
@@ -172,6 +197,56 @@
             "rights_statement_explore": "Public Domain (1849-1867)",
             "rights_statement_get_tr": "Public Domain (1849-1867)",
             "rights_statement_get_img": "Public Domain (1849-1867)"
+        }
+    },
+    "feuilleP": {
+        "1843-1845": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "feuilleP",
+            "full_title": "Feuille d'avis de Payerne",
+            "start_year": 1843,
+            "end_year": 1845,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1843-1845)",
+            "rights_statement_get_tr": "Public Domain (1843-1845)",
+            "rights_statement_get_img": "Public Domain (1843-1845)"
+        }
+    },
+    "feuillePMA": {
+        "1852-1852": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "feuillePMA",
+            "full_title": "Feuille d'avis de Payerne, Moudon et Avenches",
+            "start_year": 1852,
+            "end_year": 1852,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1852-1852)",
+            "rights_statement_get_tr": "Public Domain (1852-1852)",
+            "rights_statement_get_img": "Public Domain (1852-1852)"
         }
     },
     "FAV1": {
@@ -799,6 +874,31 @@
             "rights_statement_get_img": "Public Domain (1879-1880)"
         }
     },
+    "Moustique": {
+        "1887-1887": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Moustique",
+            "full_title": "Le Moustique (Vevey)",
+            "start_year": 1887,
+            "end_year": 1887,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1887-1887)",
+            "rights_statement_get_tr": "Public Domain (1887-1887)",
+            "rights_statement_get_img": "Public Domain (1887-1887)"
+        }
+    },
     "NV1": {
         "1824-1855": {
             "rights_holder_id": "BCUL",
@@ -897,6 +997,31 @@
             "rights_statement_explore": "Public Domain (1845-1846)",
             "rights_statement_get_tr": "Public Domain (1845-1846)",
             "rights_statement_get_img": "Public Domain (1845-1846)"
+        }
+    },
+    "PDN": {
+        "1841-1841": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PDN",
+            "full_title": "Le Phare de Nyon",
+            "start_year": 1841,
+            "end_year": 1841,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1841-1841)",
+            "rights_statement_get_tr": "Public Domain (1841-1841)",
+            "rights_statement_get_img": "Public Domain (1841-1841)"
         }
     },
     "PDL": {
@@ -1072,6 +1197,79 @@
             "rights_statement_explore": "Public Domain (1856-1891)",
             "rights_statement_get_tr": "Public Domain (1856-1891)",
             "rights_statement_get_img": "Public Domain (1856-1891)"
+        }
+    },
+    "RN1": {
+        "1907-1921": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN1",
+            "full_title": "R\u00e9pertoires de Bulletins du Grand Conseil",
+            "start_year": 1907,
+            "end_year": 1921,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1907-1921) - Research use",
+            "rights_statement_get_tr": "Protected (1907-1921) - Research use",
+            "rights_statement_get_img": "Protected (1907-1921) - Research use"
+        }
+    },
+    "RN2": {
+        "1861-1885": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN2",
+            "full_title": "Travaux des Constituantes",
+            "start_year": 1861,
+            "end_year": 1885,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1861-1885)",
+            "rights_statement_get_tr": "Public Domain (1861-1885)",
+            "rights_statement_get_img": "Public Domain (1861-1885)"
+        },
+        "1886-2002": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RN2",
+            "full_title": "Travaux des Constituantes",
+            "start_year": 1886,
+            "end_year": 2002,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1886-2002) - Research use",
+            "rights_statement_get_tr": "Protected (1886-2002) - Research use",
+            "rights_statement_get_img": "Protected (1886-2002) - Research use"
         }
     }
 }
