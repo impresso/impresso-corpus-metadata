@@ -1,0 +1,52 @@
+{
+    "CFCE": {
+        "1996-1996": {
+            "rights_holder_id": "INA",
+            "title_alias": "CFCE",
+            "full_title": "C\u2019est en France, c\u2019est en Europe",
+            "start_year": 1996,
+            "end_year": 1996,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least OR Archive members",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0001000000000000100000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000100000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000100000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1996-1996) - Research",
+            "rights_statement_get_tr": "Protected (1996-1996) - Research use",
+            "rights_statement_get_img": "Protected (1996-1996) - Research use"
+        }
+    },
+    "RDN": {
+        "1949-1950": {
+            "rights_holder_id": "INA",
+            "title_alias": "RDN",
+            "full_title": "La ronde des nations",
+            "start_year": 1949,
+            "end_year": 1950,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least OR Archive members",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0001000000000000100000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000100000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000100000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1949-1950) - Research",
+            "rights_statement_get_tr": "Protected (1949-1950) - Research use",
+            "rights_statement_get_img": "Protected (1949-1950) - Research use"
+        }
+    }
+}
