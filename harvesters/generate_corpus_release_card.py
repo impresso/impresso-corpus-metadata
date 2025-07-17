@@ -7,22 +7,23 @@ Warning - When using the default arguments this script is to be run from the par
 
 import os
 import json
+import logging
 import fire
 import git
-import logging
+
 from impresso_essentials.versioning.helpers import (
-    DataStage,
     find_s3_data_manifest_path,
     read_manifest_from_s3_path,
 )
-from impresso_essentials.utils import init_logger
+from impresso_essentials.utils import init_logger, DataStage
 
 logger = logging.getLogger(__name__)
 
-# TODO change with correct DataStatistics child class when it exists
+# TODO Either keep only media_stats or add medium-specific stats when in time
 ALL_SOURCE_TYPE_STATS = [
     "nps_stats",  # current name of Newspapers Stats
-    "rb_stats",  # goal name for Newspaper stats (for next release)
+    "media_stats",  # goal name for media stats (for next release)
+    "rb_stats",
     "rm_stats",
     "rs_stats",
     "mg_stats",
@@ -70,12 +71,8 @@ def find_manifests(
             stage = DataStage._value2member_map_[proc["process_label"]]
             if proc["computed_manifest"] != "N/A":
                 bucket_name = proc["processed_data_s3_path"].split("/")[2]
-                partition = proc["processed_data_s3_path"].replace(
-                    f"s3://{bucket_name}/", ""
-                )
-                m_path = find_s3_data_manifest_path(
-                    bucket_name, proc["process_label"], partition
-                )
+                partition = proc["processed_data_s3_path"].replace(f"s3://{bucket_name}/", "")
+                m_path = find_s3_data_manifest_path(bucket_name, proc["process_label"], partition)
 
                 proc["manifest_s3_path"] = m_path
                 if m_path is None:
@@ -91,9 +88,7 @@ def find_manifests(
             else:
                 processings_with_manifests[stage] = [proc]
         else:
-            msg = (
-                f"Removing processing which is not in release: {proc['full_task_name']}"
-            )
+            msg = f"Removing processing which is not in release: {proc['full_task_name']}"
             print(msg)
             logger.info(msg)
 
@@ -141,37 +136,61 @@ def create_corpus_section(
                     if sts["stage"] == stg.value:
                         for source_type in ALL_SOURCE_TYPE_STATS:
                             if source_type in sts:
-                                # add to the effective list of stats to include in the overall corpus overview
-                                source_types_stats.append(source_type)
-                                stage_to_overall_stats[stg][source_type] = sts[
-                                    source_type
-                                ]
+                                # specific case for nps_stats as it's deprecated
+                                if source_type == "nps_stats":
+                                    stage_to_overall_stats[stg]["media_stats"] = sts[source_type]
+                                else:
+                                    # add to the effective list of stats to include in the overall corpus overview
+                                    source_types_stats.append(source_type)
+                                    stage_to_overall_stats[stg][source_type] = sts[source_type]
 
     for source_type in source_types_stats:
         if stage_to_overall_stats[DataStage.SOLR_TEXT] != {}:
             titles = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["titles"]
             issues = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["issues"]
-            cis = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
-                "content_items_out"
-            ]
-            tokens = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type][
-                "ft_tokens"
-            ]
+            cis = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["content_items_out"]
+            tokens = stage_to_overall_stats[DataStage.SOLR_TEXT][source_type]["ft_tokens"]
         else:
             titles, issues, cis, tokens = ("MISSING SOLR MANIFEST!",) * 4
 
+        source_type = "media_stats" if source_type == "nps_stats" else source_type
         corpus_dict[source_type] = {
             "titles": titles,
             "issues": issues,
             "pages": stage_to_overall_stats[DataStage.MYSQL_CIS][source_type]["pages"],
             "content_items": cis,
-            "images": stage_to_overall_stats[DataStage.EMB_IMAGES][source_type][
-                "images"
-            ],
+            "images": stage_to_overall_stats[DataStage.EMB_IMAGES][source_type]["images"],
             "tokens": tokens,
         }
 
     return corpus_dict, source_types_stats
+
+
+def get_model_link(process: dict[str, str | int]) -> dict[str, str]:
+    """Handle the various cases possible relative to links to models.
+
+    Not all processed have hugging face links, and some have
+
+    Args:
+        process (dict[str, str  |  int]): Dict with the information
+            describing the process.
+
+    Returns:
+        dict[str, str]: Correct model link key-value pair.
+    """
+    if process["huggingface_link"].startswith("https://huggingface.co"):
+        return {"huggingface_link": process["huggingface_link"]}
+    elif process["huggingface_link"].startswith("https://github.com"):
+        return {"github_link": process["huggingface_link"]}
+    elif process["huggingface_link"] == "":
+        # If the hugging face link is missing
+        return {"huggingface_link": "MISSING HUGGING-FACE/GITHUB LINK"}
+
+    # if the link had yet another format
+    msg = f"process {process['process_label']} has an incorrect model link!"
+    logger.warning(msg)
+    print(msg)
+    return {"huggingface_link": "INCORRECT HUGGING-FACE/GITHUB LINK"}
 
 
 def create_enrichments_section(
@@ -209,24 +228,13 @@ def create_enrichments_section(
 
         for proc in proc_for_stg:
             proc_label = proc["process_label"]
-            model_id = (
-                proc["model_id"] if proc["model_id"] != "" else "MISSING MODEL ID"
-            )
-            if stg == DataStage.TEXT_REUSE:
-                # text reuse is not on Hugging-Face
-                hf_link = "N/A"
-            else:
-                hf_link = (
-                    proc["huggingface_link"]
-                    if proc["huggingface_link"] != ""
-                    else "MISSING HUGGING-FACE LINK"
-                )
+            model_id = proc["model_id"] if proc["model_id"] != "" else "MISSING MODEL ID"
 
             enrichment = {
-                "task name": proc["full_task_name"],
-                "model ID": model_id,
-                "Hugging-face link": hf_link,
+                "task_name": proc["full_task_name"],
+                "model_ID": model_id,
             }
+            enrichment.update(get_model_link(proc))
 
             if proc["manifest_s3_path"] is None:
                 msg = f"{proc['full_task_name']} --> Missing manifest!!"
@@ -240,9 +248,19 @@ def create_enrichments_section(
                 for ov_sts in manifest_stg["overall_statistics"]:
                     if ov_sts["stage"] == stg.value:
                         for source_type in actual_src_tp_stats:
-                            mft_stats[source_type] = {
-                                s: ov_sts[source_type][s] for s in incl_enrich_stats
-                            }
+                            ## Temporary fix while we have multiple names for stats
+                            if source_type == "nps_stats":
+                                mft_stats["media_stats"] = {
+                                    s: ov_sts[source_type][s] for s in incl_enrich_stats
+                                }
+                            elif source_type == "media_stats" and "media_stats" not in ov_sts:
+                                mft_stats["media_stats"] = {
+                                    s: ov_sts["nps_stats"][s] for s in incl_enrich_stats
+                                }
+                            else:
+                                mft_stats[source_type] = {
+                                    s: (ov_sts[source_type][s]) for s in incl_enrich_stats
+                                }
 
                 enrichment_stats = mft_stats
             else:
@@ -303,8 +321,12 @@ def get_links_of_mfts(
         their corresponding GitHub links.
     """
     git_links = {}
+    # pull from the repository
+    repo.remotes.origin.pull()
+
     for obj in repo.head.commit.tree.traverse():
         if release_dir in obj.abspath and ".json" in obj.abspath:
+            print(f"obj.abspath: {obj.abspath}")
             mft_key = "/".join(obj.abspath.split("/")[-2:])
             mft_key = mft_key if "data-processing" in mft_key else mft_key.split("/")[1]
             git_links[mft_key] = obj.abspath.replace(
@@ -361,17 +383,11 @@ def create_processings_section(
                 mft_name = os.path.split(proc["manifest_s3_path"])[1]
                 mft_key = "/".join(proc["manifest_s3_path"].split("/")[-2:])
                 if mft_key in manifest_gh_links:
-                    proc_gh_links[stg.value][proc["full_task_name"]] = (
-                        manifest_gh_links[mft_key]
-                    )
+                    proc_gh_links[stg.value][proc["full_task_name"]] = manifest_gh_links[mft_key]
                 elif mft_name in manifest_gh_links:
-                    proc_gh_links[stg.value][proc["full_task_name"]] = (
-                        manifest_gh_links[mft_name]
-                    )
+                    proc_gh_links[stg.value][proc["full_task_name"]] = manifest_gh_links[mft_name]
                 else:
-                    proc_gh_links[stg.value][
-                        proc["full_task_name"]
-                    ] = "MISSING MANIFEST!"
+                    proc_gh_links[stg.value][proc["full_task_name"]] = "MISSING MANIFEST!"
 
     return proc_gh_links
 
