@@ -1,522 +1,522 @@
 {
-    "Release Name": "polar night",
-    "Release Version": "2025-05",
-    "Impresso Corpus Overview": {
-        "nps_stats": {
-            "titles": 112,
-            "issues": 173424,
-            "pages": 7483588,
-            "content_items": 3286536,
-            "images": 4002089,
-            "tokens": 1643977083
-        }
-    },
-    "Impresso Enrichments": {
-        "lingproc": {
-            "models": [
-                {
-                    "task name": "linguistic processing",
-                    "model ID": "spacy_v3.6.0-multilingual",
-                    "Hugging-face link": "n/a"
-                }
-            ]
-        },
-        "langident": {
-            "models": [
-                {
-                    "task name": "language identification",
-                    "model ID": "??",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/language-identifier"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "images": 4078196,
-                    "lang_fd": {
-                        "fr": 45436094,
-                        "None": 4078196,
-                        "de": 8842551,
-                        "it": 55602,
-                        "en": 98970,
-                        "lb": 98235,
-                        "pl": 524,
-                        "sw": 219,
-                        "es": 4181,
-                        "et": 89,
-                        "fi": 74,
-                        "no": 37,
-                        "nl": 417,
-                        "pt": 2526,
-                        "ro": 80,
-                        "ca": 108,
-                        "sq": 442,
-                        "sv": 77,
-                        "la": 10,
-                        "hu": 637,
-                        "tl": 78,
-                        "da": 24,
-                        "tr": 150,
-                        "cy": 4,
-                        "sl": 8,
-                        "lt": 7,
-                        "ja": 5,
-                        "el": 14,
-                        "br": 211,
-                        "cs": 6,
-                        "hr": 8
-                    }
-                }
-            }
-        },
-        "textreuse": {
-            "models": [
-                {
-                    "task name": "text-reuse detection",
-                    "model ID": "textreuse_passim-spark-scala_v0.2.0",
-                    "Hugging-face link": "N/A"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "text_reuse_clusters": 21645846,
-                    "text_reuse_passages": 22960176
-                }
-            }
-        },
-        "entities": {
-            "models": [
-                {
-                    "task name": "named entity recognition (ner)",
-                    "model ID": "ner_bert-stacked-2-medium-historic-multilingual_v1.0.0",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/ner-stacked-bert-multilingual"
-                },
-                {
-                    "task name": "named entity linking (nel)",
-                    "model ID": "nel_mgenre-multilingual_v1.0.0",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/nel-mgenre-multilingual"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "ne_entities": 1667420,
-                    "ne_mentions": 25971561
-                }
-            }
-        },
-        "newsagencies": {
-            "models": [
-                {
-                    "task name": "news agency recognition (nar)",
-                    "model ID": "ner-newsagency_bert-base-historic-multilingual-v1.0.0",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/nel-mgenre-multilingual"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "ne_entities": 29245,
-                    "ne_mentions": 8399254
-                }
-            }
-        },
-        "topics": {
-            "models": [
-                {
-                    "task name": "topic modelling multilingual (tm-multi)",
-                    "model ID": "tm-mallet_infer_seed42_v2.0.1-multilingual",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/mallet-topic-inferencer"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "topics": 16746650,
-                    "topics_fd": {
-                        "tm-fr-all-v2.0_tp07_fr": 345717,
-                        "tm-fr-all-v2.0_tp22_fr": 1058080,
-                        "tm-fr-all-v2.0_tp27_fr": 401524,
-                        "tm-fr-all-v2.0_tp34_fr": 663660,
-                        "tm-fr-all-v2.0_tp49_fr": 667908,
-                        "tm-fr-all-v2.0_tp82_fr": 782895,
-                        "tm-fr-all-v2.0_tp84_fr": 309527,
-                        "tm-fr-all-v2.0_tp40_fr": 730927,
-                        "tm-fr-all-v2.0_tp52_fr": 4437143,
-                        "tm-fr-all-v2.0_tp20_fr": 638134,
-                        "tm-fr-all-v2.0_tp36_fr": 2908815,
-                        "tm-fr-all-v2.0_tp83_fr": 428271,
-                        "tm-fr-all-v2.0_tp58_fr": 8487317,
-                        "tm-fr-all-v2.0_tp99_fr": 546914,
-                        "tm-fr-all-v2.0_tp14_fr": 357309,
-                        "tm-fr-all-v2.0_tp61_fr": 428545,
-                        "tm-fr-all-v2.0_tp68_fr": 532083,
-                        "tm-fr-all-v2.0_tp79_fr": 607426,
-                        "tm-fr-all-v2.0_tp81_fr": 688385,
-                        "tm-fr-all-v2.0_tp47_fr": 554651,
-                        "tm-fr-all-v2.0_tp90_fr": 660630,
-                        "tm-fr-all-v2.0_tp01_fr": 362924,
-                        "tm-fr-all-v2.0_tp17_fr": 518865,
-                        "tm-fr-all-v2.0_tp97_fr": 1053713,
-                        "tm-fr-all-v2.0_tp09_fr": 655874,
-                        "tm-fr-all-v2.0_tp87_fr": 1757494,
-                        "tm-fr-all-v2.0_tp89_fr": 417371,
-                        "tm-fr-all-v2.0_tp26_fr": 453803,
-                        "tm-fr-all-v2.0_tp43_fr": 688653,
-                        "tm-fr-all-v2.0_tp02_fr": 708214,
-                        "tm-fr-all-v2.0_tp93_fr": 530407,
-                        "tm-fr-all-v2.0_tp80_fr": 469638,
-                        "tm-fr-all-v2.0_tp42_fr": 649839,
-                        "tm-fr-all-v2.0_tp04_fr": 995273,
-                        "tm-fr-all-v2.0_tp91_fr": 587795,
-                        "tm-fr-all-v2.0_tp74_fr": 609073,
-                        "tm-fr-all-v2.0_tp13_fr": 629323,
-                        "tm-fr-all-v2.0_tp94_fr": 324050,
-                        "tm-fr-all-v2.0_tp31_fr": 426977,
-                        "tm-fr-all-v2.0_tp78_fr": 526684,
-                        "tm-fr-all-v2.0_tp46_fr": 455938,
-                        "tm-fr-all-v2.0_tp56_fr": 316727,
-                        "tm-fr-all-v2.0_tp23_fr": 697390,
-                        "tm-fr-all-v2.0_tp38_fr": 186374,
-                        "tm-fr-all-v2.0_tp45_fr": 600692,
-                        "tm-fr-all-v2.0_tp59_fr": 521828,
-                        "tm-fr-all-v2.0_tp67_fr": 353148,
-                        "tm-fr-all-v2.0_tp69_fr": 555274,
-                        "tm-fr-all-v2.0_tp51_fr": 609014,
-                        "tm-fr-all-v2.0_tp57_fr": 385154,
-                        "tm-fr-all-v2.0_tp11_fr": 545294,
-                        "tm-fr-all-v2.0_tp28_fr": 458425,
-                        "tm-fr-all-v2.0_tp86_fr": 125329,
-                        "tm-fr-all-v2.0_tp96_fr": 468611,
-                        "tm-fr-all-v2.0_tp00_fr": 1683700,
-                        "tm-fr-all-v2.0_tp64_fr": 987686,
-                        "tm-fr-all-v2.0_tp85_fr": 941943,
-                        "tm-fr-all-v2.0_tp30_fr": 397932,
-                        "tm-fr-all-v2.0_tp48_fr": 416896,
-                        "tm-fr-all-v2.0_tp06_fr": 916224,
-                        "tm-fr-all-v2.0_tp12_fr": 661303,
-                        "tm-fr-all-v2.0_tp66_fr": 396192,
-                        "tm-fr-all-v2.0_tp95_fr": 469241,
-                        "tm-fr-all-v2.0_tp88_fr": 530869,
-                        "tm-fr-all-v2.0_tp25_fr": 2260562,
-                        "tm-fr-all-v2.0_tp33_fr": 813115,
-                        "tm-fr-all-v2.0_tp75_fr": 1381374,
-                        "tm-fr-all-v2.0_tp16_fr": 570700,
-                        "tm-fr-all-v2.0_tp24_fr": 512546,
-                        "tm-fr-all-v2.0_tp54_fr": 633258,
-                        "tm-fr-all-v2.0_tp10_fr": 689559,
-                        "tm-fr-all-v2.0_tp18_fr": 2108861,
-                        "tm-fr-all-v2.0_tp63_fr": 314605,
-                        "tm-fr-all-v2.0_tp41_fr": 287154,
-                        "tm-fr-all-v2.0_tp60_fr": 522927,
-                        "tm-fr-all-v2.0_tp08_fr": 451113,
-                        "tm-fr-all-v2.0_tp70_fr": 591555,
-                        "tm-fr-all-v2.0_tp55_fr": 1267800,
-                        "tm-fr-all-v2.0_tp39_fr": 432374,
-                        "tm-fr-all-v2.0_tp35_fr": 525407,
-                        "tm-fr-all-v2.0_tp53_fr": 347191,
-                        "tm-fr-all-v2.0_tp72_fr": 244826,
-                        "tm-fr-all-v2.0_tp77_fr": 547433,
-                        "tm-fr-all-v2.0_tp44_fr": 1178085,
-                        "tm-fr-all-v2.0_tp15_fr": 663381,
-                        "tm-fr-all-v2.0_tp62_fr": 418104,
-                        "tm-fr-all-v2.0_tp92_fr": 268901,
-                        "tm-fr-all-v2.0_tp29_fr": 428103,
-                        "tm-fr-all-v2.0_tp73_fr": 493683,
-                        "tm-fr-all-v2.0_tp19_fr": 739913,
-                        "tm-fr-all-v2.0_tp21_fr": 430774,
-                        "tm-fr-all-v2.0_tp76_fr": 301198,
-                        "tm-fr-all-v2.0_tp37_fr": 1617576,
-                        "tm-fr-all-v2.0_tp05_fr": 560294,
-                        "tm-fr-all-v2.0_tp65_fr": 689096,
-                        "tm-fr-all-v2.0_tp32_fr": 499406,
-                        "tm-fr-all-v2.0_tp03_fr": 423935,
-                        "tm-de-all-v2.0_tp03_de": 180548,
-                        "tm-de-all-v2.0_tp12_de": 236554,
-                        "tm-de-all-v2.0_tp54_de": 182640,
-                        "tm-de-all-v2.0_tp68_de": 227982,
-                        "tm-de-all-v2.0_tp78_de": 155714,
-                        "tm-de-all-v2.0_tp23_de": 210750,
-                        "tm-de-all-v2.0_tp89_de": 190404,
-                        "tm-de-all-v2.0_tp24_de": 742510,
-                        "tm-de-all-v2.0_tp47_de": 227005,
-                        "tm-de-all-v2.0_tp83_de": 280190,
-                        "tm-de-all-v2.0_tp53_de": 193149,
-                        "tm-de-all-v2.0_tp22_de": 418589,
-                        "tm-de-all-v2.0_tp61_de": 195002,
-                        "tm-de-all-v2.0_tp82_de": 153600,
-                        "tm-de-all-v2.0_tp87_de": 343064,
-                        "tm-de-all-v2.0_tp13_de": 168108,
-                        "tm-de-all-v2.0_tp44_de": 124124,
-                        "tm-de-all-v2.0_tp99_de": 150772,
-                        "tm-de-all-v2.0_tp07_de": 177370,
-                        "tm-de-all-v2.0_tp43_de": 184704,
-                        "tm-de-all-v2.0_tp14_de": 180505,
-                        "tm-de-all-v2.0_tp81_de": 201926,
-                        "tm-de-all-v2.0_tp63_de": 171060,
-                        "tm-de-all-v2.0_tp95_de": 167753,
-                        "tm-de-all-v2.0_tp85_de": 204503,
-                        "tm-de-all-v2.0_tp33_de": 147062,
-                        "tm-de-all-v2.0_tp79_de": 1048292,
-                        "tm-de-all-v2.0_tp18_de": 193214,
-                        "tm-de-all-v2.0_tp58_de": 187771,
-                        "tm-de-all-v2.0_tp08_de": 156614,
-                        "tm-de-all-v2.0_tp65_de": 176427,
-                        "tm-de-all-v2.0_tp40_de": 123015,
-                        "tm-de-all-v2.0_tp56_de": 139338,
-                        "tm-de-all-v2.0_tp90_de": 173515,
-                        "tm-de-all-v2.0_tp30_de": 262853,
-                        "tm-de-all-v2.0_tp06_de": 114705,
-                        "tm-de-all-v2.0_tp31_de": 191486,
-                        "tm-de-all-v2.0_tp75_de": 178913,
-                        "tm-de-all-v2.0_tp76_de": 204723,
-                        "tm-de-all-v2.0_tp35_de": 209105,
-                        "tm-de-all-v2.0_tp37_de": 171081,
-                        "tm-de-all-v2.0_tp71_de": 212830,
-                        "tm-de-all-v2.0_tp80_de": 173689,
-                        "tm-de-all-v2.0_tp01_de": 172329,
-                        "tm-de-all-v2.0_tp94_de": 103738,
-                        "tm-de-all-v2.0_tp26_de": 200557,
-                        "tm-de-all-v2.0_tp41_de": 137155,
-                        "tm-de-all-v2.0_tp46_de": 195533,
-                        "tm-de-all-v2.0_tp50_de": 132789,
-                        "tm-de-all-v2.0_tp97_de": 228471,
-                        "tm-de-all-v2.0_tp11_de": 242121,
-                        "tm-de-all-v2.0_tp57_de": 168365,
-                        "tm-de-all-v2.0_tp64_de": 177673,
-                        "tm-de-all-v2.0_tp96_de": 298690,
-                        "tm-de-all-v2.0_tp74_de": 110512,
-                        "tm-de-all-v2.0_tp51_de": 186605,
-                        "tm-de-all-v2.0_tp34_de": 114145,
-                        "tm-de-all-v2.0_tp39_de": 190368,
-                        "tm-de-all-v2.0_tp38_de": 138805,
-                        "tm-de-all-v2.0_tp70_de": 143306,
-                        "tm-de-all-v2.0_tp28_de": 172297,
-                        "tm-de-all-v2.0_tp25_de": 208529,
-                        "tm-de-all-v2.0_tp88_de": 214485,
-                        "tm-de-all-v2.0_tp48_de": 240175,
-                        "tm-de-all-v2.0_tp55_de": 206794,
-                        "tm-de-all-v2.0_tp04_de": 134253,
-                        "tm-de-all-v2.0_tp92_de": 169856,
-                        "tm-de-all-v2.0_tp15_de": 139104,
-                        "tm-de-all-v2.0_tp98_de": 109730,
-                        "tm-de-all-v2.0_tp52_de": 210441,
-                        "tm-de-all-v2.0_tp86_de": 171652,
-                        "tm-de-all-v2.0_tp66_de": 132017,
-                        "tm-de-all-v2.0_tp91_de": 178391,
-                        "tm-de-all-v2.0_tp19_de": 260508,
-                        "tm-de-all-v2.0_tp69_de": 143575,
-                        "tm-de-all-v2.0_tp02_de": 140334,
-                        "tm-de-all-v2.0_tp59_de": 209808,
-                        "tm-de-all-v2.0_tp93_de": 157027,
-                        "tm-de-all-v2.0_tp49_de": 132536,
-                        "tm-de-all-v2.0_tp72_de": 136404,
-                        "tm-de-all-v2.0_tp42_de": 133131,
-                        "tm-de-all-v2.0_tp73_de": 85796,
-                        "tm-de-all-v2.0_tp29_de": 170245,
-                        "tm-de-all-v2.0_tp05_de": 142217,
-                        "tm-de-all-v2.0_tp10_de": 175806,
-                        "tm-de-all-v2.0_tp62_de": 86418,
-                        "tm-de-all-v2.0_tp16_de": 113742,
-                        "tm-de-all-v2.0_tp17_de": 109111,
-                        "tm-de-all-v2.0_tp60_de": 248562,
-                        "tm-de-all-v2.0_tp27_de": 226348,
-                        "tm-de-all-v2.0_tp21_de": 165253,
-                        "tm-de-all-v2.0_tp00_de": 81396,
-                        "tm-de-all-v2.0_tp09_de": 69060,
-                        "tm-de-all-v2.0_tp36_de": 110151,
-                        "tm-de-all-v2.0_tp84_de": 114890,
-                        "tm-de-all-v2.0_tp77_de": 158817,
-                        "tm-de-all-v2.0_tp20_de": 282946,
-                        "tm-de-all-v2.0_tp32_de": 141406,
-                        "tm-de-all-v2.0_tp45_de": 66843,
-                        "tm-de-all-v2.0_tp67_de": 94956,
-                        "tm-fr-all-v2.0_tp71_fr": 208966,
-                        "tm-fr-all-v2.0_tp98_fr": 431783,
-                        "tm-fr-all-v2.0_tp50_fr": 521970,
-                        "no-topic": 202,
-                        "tm-lb-all-v2.1_tp86_lb": 2113,
-                        "tm-lb-all-v2.1_tp29_lb": 4406,
-                        "tm-lb-all-v2.1_tp12_lb": 3541,
-                        "tm-lb-all-v2.1_tp21_lb": 2327,
-                        "tm-lb-all-v2.1_tp27_lb": 2491,
-                        "tm-lb-all-v2.1_tp95_lb": 2182,
-                        "tm-lb-all-v2.1_tp11_lb": 3166,
-                        "tm-lb-all-v2.1_tp13_lb": 4095,
-                        "tm-lb-all-v2.1_tp36_lb": 31323,
-                        "tm-lb-all-v2.1_tp45_lb": 1695,
-                        "tm-lb-all-v2.1_tp53_lb": 1354,
-                        "tm-lb-all-v2.1_tp30_lb": 1033,
-                        "tm-lb-all-v2.1_tp90_lb": 1714,
-                        "tm-lb-all-v2.1_tp96_lb": 3883,
-                        "tm-lb-all-v2.1_tp32_lb": 527,
-                        "tm-lb-all-v2.1_tp38_lb": 3489,
-                        "tm-lb-all-v2.1_tp00_lb": 633,
-                        "tm-lb-all-v2.1_tp64_lb": 3092,
-                        "tm-lb-all-v2.1_tp48_lb": 4082,
-                        "tm-lb-all-v2.1_tp80_lb": 28110,
-                        "tm-lb-all-v2.1_tp09_lb": 1908,
-                        "tm-lb-all-v2.1_tp17_lb": 2071,
-                        "tm-lb-all-v2.1_tp65_lb": 1975,
-                        "tm-lb-all-v2.1_tp69_lb": 814,
-                        "tm-lb-all-v2.1_tp76_lb": 1269,
-                        "tm-lb-all-v2.1_tp56_lb": 1128,
-                        "tm-lb-all-v2.1_tp92_lb": 1374,
-                        "tm-lb-all-v2.1_tp94_lb": 2023,
-                        "tm-lb-all-v2.1_tp68_lb": 2647,
-                        "tm-lb-all-v2.1_tp84_lb": 632,
-                        "tm-lb-all-v2.1_tp98_lb": 1882,
-                        "tm-lb-all-v2.1_tp18_lb": 822,
-                        "tm-lb-all-v2.1_tp35_lb": 1893,
-                        "tm-lb-all-v2.1_tp31_lb": 1727,
-                        "tm-lb-all-v2.1_tp85_lb": 1089,
-                        "tm-lb-all-v2.1_tp66_lb": 824,
-                        "tm-lb-all-v2.1_tp74_lb": 1812,
-                        "tm-lb-all-v2.1_tp25_lb": 928,
-                        "tm-lb-all-v2.1_tp15_lb": 1069,
-                        "tm-lb-all-v2.1_tp82_lb": 853,
-                        "tm-lb-all-v2.1_tp78_lb": 19668,
-                        "tm-lb-all-v2.1_tp50_lb": 1025,
-                        "tm-lb-all-v2.1_tp61_lb": 1699,
-                        "tm-lb-all-v2.1_tp71_lb": 4621,
-                        "tm-lb-all-v2.1_tp40_lb": 996,
-                        "tm-lb-all-v2.1_tp63_lb": 786,
-                        "tm-lb-all-v2.1_tp19_lb": 2243,
-                        "tm-lb-all-v2.1_tp49_lb": 1060,
-                        "tm-lb-all-v2.1_tp34_lb": 4477,
-                        "tm-lb-all-v2.1_tp70_lb": 878,
-                        "tm-lb-all-v2.1_tp41_lb": 1112,
-                        "tm-lb-all-v2.1_tp39_lb": 1338,
-                        "tm-lb-all-v2.1_tp93_lb": 2963,
-                        "tm-lb-all-v2.1_tp26_lb": 1268,
-                        "tm-lb-all-v2.1_tp23_lb": 2850,
-                        "tm-lb-all-v2.1_tp87_lb": 1822,
-                        "tm-lb-all-v2.1_tp43_lb": 1070,
-                        "tm-lb-all-v2.1_tp20_lb": 7022,
-                        "tm-lb-all-v2.1_tp07_lb": 1229,
-                        "tm-lb-all-v2.1_tp08_lb": 2190,
-                        "tm-lb-all-v2.1_tp57_lb": 1651,
-                        "tm-lb-all-v2.1_tp59_lb": 733,
-                        "tm-lb-all-v2.1_tp16_lb": 10639,
-                        "tm-lb-all-v2.1_tp02_lb": 1731,
-                        "tm-lb-all-v2.1_tp44_lb": 1819,
-                        "tm-lb-all-v2.1_tp51_lb": 608,
-                        "tm-lb-all-v2.1_tp60_lb": 780,
-                        "tm-lb-all-v2.1_tp04_lb": 862,
-                        "tm-lb-all-v2.1_tp83_lb": 1049,
-                        "tm-lb-all-v2.1_tp97_lb": 3799,
-                        "tm-lb-all-v2.1_tp24_lb": 1696,
-                        "tm-lb-all-v2.1_tp42_lb": 1746,
-                        "tm-lb-all-v2.1_tp47_lb": 591,
-                        "tm-lb-all-v2.1_tp58_lb": 10372,
-                        "tm-lb-all-v2.1_tp77_lb": 1283,
-                        "tm-lb-all-v2.1_tp52_lb": 1630,
-                        "tm-lb-all-v2.1_tp54_lb": 2031,
-                        "tm-lb-all-v2.1_tp46_lb": 1793,
-                        "tm-lb-all-v2.1_tp10_lb": 1043,
-                        "tm-lb-all-v2.1_tp33_lb": 1876,
-                        "tm-lb-all-v2.1_tp79_lb": 2707,
-                        "tm-lb-all-v2.1_tp03_lb": 1402,
-                        "tm-lb-all-v2.1_tp72_lb": 1598,
-                        "tm-lb-all-v2.1_tp14_lb": 2411,
-                        "tm-lb-all-v2.1_tp67_lb": 990,
-                        "tm-lb-all-v2.1_tp88_lb": 1681,
-                        "tm-lb-all-v2.1_tp01_lb": 4822,
-                        "tm-lb-all-v2.1_tp06_lb": 2921,
-                        "tm-lb-all-v2.1_tp91_lb": 626,
-                        "tm-lb-all-v2.1_tp37_lb": 1207,
-                        "tm-lb-all-v2.1_tp55_lb": 5590,
-                        "tm-lb-all-v2.1_tp73_lb": 5439,
-                        "tm-lb-all-v2.1_tp05_lb": 1488,
-                        "tm-lb-all-v2.1_tp28_lb": 2447,
-                        "tm-lb-all-v2.1_tp81_lb": 2069,
-                        "tm-lb-all-v2.1_tp62_lb": 2282,
-                        "tm-lb-all-v2.1_tp75_lb": 2496,
-                        "tm-lb-all-v2.1_tp22_lb": 1573,
-                        "tm-lb-all-v2.1_tp99_lb": 1278,
-                        "tm-lb-all-v2.1_tp89_lb": 2853
-                    }
-                }
-            }
-        },
-        "ocrqa": {
-            "models": [
-                {
-                    "task name": "OCR quality assessment",
-                    "model ID": "ocrqa-ocrqa-wp_v1.0.6",
-                    "Hugging-face link": "https://huggingface.co/impresso-project/OCR-quality-assessment-unigram, https://huggingface.co/impresso-project/ocr-quality-assessor-unigram-light "
-                }
-            ]
-        },
-        "emb-images": {
-            "models": [
-                {
-                    "task name": "image embeddings (DINOv2)",
-                    "model ID": "emb-images_dinov2_v0.0.1",
-                    "Hugging-face link": "https://huggingface.co/facebook/dinov2-large"
-                },
-                {
-                    "task name": "image embeddings (OpenCLIP)",
-                    "model ID": "emb-images_openclip_v0.0.1",
-                    "Hugging-face link": "https://huggingface.co/laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K"
-                }
-            ],
-            "enrichment_stats": {
-                "nps_stats": {
-                    "images": 4002089
-                }
-            }
-        },
-        "emb-docs": {
-            "models": [
-                {
-                    "task name": "document embeddings",
-                    "model ID": "emb-docs_gte-multilingual_v1.0.0",
-                    "Hugging-face link": "https://huggingface.co/Alibaba-NLP/gte-multilingual-base"
-                }
-            ]
-        }
-    },
-    "Impresso Processings": {
-        "canonical": {
-            "canonical": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/canonical_v4-5-0.json"
-        },
-        "rebuilt": {
-            "rebuilt": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/rebuilt_v1-1-1.json"
-        },
-        "passim": {
-            "rebuilt for passim": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/passim_v3-0-0.json"
-        },
-        "lingproc": {
-            "linguistic processing": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/lingproc/lingproc-pos-spacy_v3.6.0-multilingual_v1-0-3/lingproc_v0-0-1.json"
-        },
-        "langident": {
-            "language identification": "MISSING MANIFEST!"
-        },
-        "textreuse": {
-            "text-reuse detection": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/textreuse/textreuse_v1-0-0/textreuse_v0-1-1.json"
-        },
-        "entities": {
-            "named entity recognition (ner)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/entities/entities-bert-historic-multilingual_v4-0-0/entities_v0-0-3.json"
-        },
-        "emb-docs": {
-            "document embeddings": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/docs/doc-embeddings_v1-1-0/emb-docs_v1-0-0.json"
-        },
-        "emb-words": {},
-        "newsagencies": {
-            "news agency recognition (nar)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/newsagencies/newsagencies-bert-base-historic-multilingual_v1-0-0/newsagencies_v0-1-0.json"
-        },
-        "emb-images": {
-            "image embeddings (DINOv2)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json",
-            "image embeddings (OpenCLIP)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json"
-        },
-        "topics": {
-            "topic modelling multilingual (tm-multi)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json"
-        },
-        "ocrqa": {
-            "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v0-0-1.json"
-        },
-        "mysql-ingestion": {
-            "mysql-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-ingestion/mysql-ingestion_v26-0-0.json"
-        },
-        "solr-text-ingestion": {
-            "solr-text-ingestion": "MISSING MANIFEST!"
-        }
+  "Release Name": "polar night",
+  "Release Version": "2025-05",
+  "Impresso Corpus Overview": {
+    "media_stats": {
+      "titles": 134,
+      "issues": 780186,
+      "pages": 7483588,
+      "content_items": 52358158,
+      "images": 4002089,
+      "tokens": 15652402700
     }
+  },
+  "Impresso Enrichments": {
+    "lingproc": {
+      "models": [
+        {
+          "task_name": "linguistic processing",
+          "model_ID": "spacy_v3.6.0-multilingual",
+          "github_link": "https://github.com/impresso/impresso-linguistic-processing/releases/tag/v2024.11.27"
+        }
+      ]
+    },
+    "langident": {
+      "models": [
+        {
+          "task_name": "language identification",
+          "model_ID": "langident_v1.4.4",
+          "github_link": "https://github.com/impresso/impresso-language-identification/releases/tag/v1.4.4"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "images": 4078196,
+          "lang_fd": {
+            "fr": 45436094,
+            "None": 4078196,
+            "de": 8842551,
+            "it": 55602,
+            "en": 98970,
+            "lb": 98235,
+            "pl": 524,
+            "sw": 219,
+            "es": 4181,
+            "et": 89,
+            "fi": 74,
+            "no": 37,
+            "nl": 417,
+            "pt": 2526,
+            "ro": 80,
+            "ca": 108,
+            "sq": 442,
+            "sv": 77,
+            "la": 10,
+            "hu": 637,
+            "tl": 78,
+            "da": 24,
+            "tr": 150,
+            "cy": 4,
+            "sl": 8,
+            "lt": 7,
+            "ja": 5,
+            "el": 14,
+            "br": 211,
+            "cs": 6,
+            "hr": 8
+          }
+        }
+      }
+    },
+    "textreuse": {
+      "models": [
+        {
+          "task_name": "text-reuse detection",
+          "model_ID": "textreuse_passim-spark-scala_v0.2.0",
+          "github_link": "https://github.com/dasmiq/passim/tree/v1.0.0"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "text_reuse_clusters": 21645846,
+          "text_reuse_passages": 22960176
+        }
+      }
+    },
+    "entities": {
+      "models": [
+        {
+          "task_name": "named entity recognition (ner)",
+          "model_ID": "entities-bert-historic-multilingual_fil-pers-loc_v4-0-4",
+          "huggingface_link": "https://huggingface.co/impresso-project/ner-stacked-bert-multilingual"
+        },
+        {
+          "task_name": "named entity linking (nel)",
+          "model_ID": "nel_mgenre-multilingual_v1.0.0",
+          "huggingface_link": "https://huggingface.co/impresso-project/nel-mgenre-multilingual"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "ne_entities": 12440375,
+          "ne_mentions": 428138680
+        }
+      }
+    },
+    "newsagencies": {
+      "models": [
+        {
+          "task_name": "news agency recognition (nar)",
+          "model_ID": "ner-newsagency_bert-base-historic-multilingual-v1.0.0",
+          "huggingface_link": "https://huggingface.co/impresso-project/nel-mgenre-multilingual"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "ne_entities": 29245,
+          "ne_mentions": 8399254
+        }
+      }
+    },
+    "topics": {
+      "models": [
+        {
+          "task_name": "topic modelling multilingual (tm-multi)",
+          "model_ID": "tm-mallet_infer_seed42_v2.0.1-multilingual",
+          "huggingface_link": "https://huggingface.co/impresso-project/mallet-topic-inferencer"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "topics": 16746650,
+          "topics_fd": {
+            "tm-fr-all-v2.0_tp07_fr": 345717,
+            "tm-fr-all-v2.0_tp22_fr": 1058080,
+            "tm-fr-all-v2.0_tp27_fr": 401524,
+            "tm-fr-all-v2.0_tp34_fr": 663660,
+            "tm-fr-all-v2.0_tp49_fr": 667908,
+            "tm-fr-all-v2.0_tp82_fr": 782895,
+            "tm-fr-all-v2.0_tp84_fr": 309527,
+            "tm-fr-all-v2.0_tp40_fr": 730927,
+            "tm-fr-all-v2.0_tp52_fr": 4437143,
+            "tm-fr-all-v2.0_tp20_fr": 638134,
+            "tm-fr-all-v2.0_tp36_fr": 2908815,
+            "tm-fr-all-v2.0_tp83_fr": 428271,
+            "tm-fr-all-v2.0_tp58_fr": 8487317,
+            "tm-fr-all-v2.0_tp99_fr": 546914,
+            "tm-fr-all-v2.0_tp14_fr": 357309,
+            "tm-fr-all-v2.0_tp61_fr": 428545,
+            "tm-fr-all-v2.0_tp68_fr": 532083,
+            "tm-fr-all-v2.0_tp79_fr": 607426,
+            "tm-fr-all-v2.0_tp81_fr": 688385,
+            "tm-fr-all-v2.0_tp47_fr": 554651,
+            "tm-fr-all-v2.0_tp90_fr": 660630,
+            "tm-fr-all-v2.0_tp01_fr": 362924,
+            "tm-fr-all-v2.0_tp17_fr": 518865,
+            "tm-fr-all-v2.0_tp97_fr": 1053713,
+            "tm-fr-all-v2.0_tp09_fr": 655874,
+            "tm-fr-all-v2.0_tp87_fr": 1757494,
+            "tm-fr-all-v2.0_tp89_fr": 417371,
+            "tm-fr-all-v2.0_tp26_fr": 453803,
+            "tm-fr-all-v2.0_tp43_fr": 688653,
+            "tm-fr-all-v2.0_tp02_fr": 708214,
+            "tm-fr-all-v2.0_tp93_fr": 530407,
+            "tm-fr-all-v2.0_tp80_fr": 469638,
+            "tm-fr-all-v2.0_tp42_fr": 649839,
+            "tm-fr-all-v2.0_tp04_fr": 995273,
+            "tm-fr-all-v2.0_tp91_fr": 587795,
+            "tm-fr-all-v2.0_tp74_fr": 609073,
+            "tm-fr-all-v2.0_tp13_fr": 629323,
+            "tm-fr-all-v2.0_tp94_fr": 324050,
+            "tm-fr-all-v2.0_tp31_fr": 426977,
+            "tm-fr-all-v2.0_tp78_fr": 526684,
+            "tm-fr-all-v2.0_tp46_fr": 455938,
+            "tm-fr-all-v2.0_tp56_fr": 316727,
+            "tm-fr-all-v2.0_tp23_fr": 697390,
+            "tm-fr-all-v2.0_tp38_fr": 186374,
+            "tm-fr-all-v2.0_tp45_fr": 600692,
+            "tm-fr-all-v2.0_tp59_fr": 521828,
+            "tm-fr-all-v2.0_tp67_fr": 353148,
+            "tm-fr-all-v2.0_tp69_fr": 555274,
+            "tm-fr-all-v2.0_tp51_fr": 609014,
+            "tm-fr-all-v2.0_tp57_fr": 385154,
+            "tm-fr-all-v2.0_tp11_fr": 545294,
+            "tm-fr-all-v2.0_tp28_fr": 458425,
+            "tm-fr-all-v2.0_tp86_fr": 125329,
+            "tm-fr-all-v2.0_tp96_fr": 468611,
+            "tm-fr-all-v2.0_tp00_fr": 1683700,
+            "tm-fr-all-v2.0_tp64_fr": 987686,
+            "tm-fr-all-v2.0_tp85_fr": 941943,
+            "tm-fr-all-v2.0_tp30_fr": 397932,
+            "tm-fr-all-v2.0_tp48_fr": 416896,
+            "tm-fr-all-v2.0_tp06_fr": 916224,
+            "tm-fr-all-v2.0_tp12_fr": 661303,
+            "tm-fr-all-v2.0_tp66_fr": 396192,
+            "tm-fr-all-v2.0_tp95_fr": 469241,
+            "tm-fr-all-v2.0_tp88_fr": 530869,
+            "tm-fr-all-v2.0_tp25_fr": 2260562,
+            "tm-fr-all-v2.0_tp33_fr": 813115,
+            "tm-fr-all-v2.0_tp75_fr": 1381374,
+            "tm-fr-all-v2.0_tp16_fr": 570700,
+            "tm-fr-all-v2.0_tp24_fr": 512546,
+            "tm-fr-all-v2.0_tp54_fr": 633258,
+            "tm-fr-all-v2.0_tp10_fr": 689559,
+            "tm-fr-all-v2.0_tp18_fr": 2108861,
+            "tm-fr-all-v2.0_tp63_fr": 314605,
+            "tm-fr-all-v2.0_tp41_fr": 287154,
+            "tm-fr-all-v2.0_tp60_fr": 522927,
+            "tm-fr-all-v2.0_tp08_fr": 451113,
+            "tm-fr-all-v2.0_tp70_fr": 591555,
+            "tm-fr-all-v2.0_tp55_fr": 1267800,
+            "tm-fr-all-v2.0_tp39_fr": 432374,
+            "tm-fr-all-v2.0_tp35_fr": 525407,
+            "tm-fr-all-v2.0_tp53_fr": 347191,
+            "tm-fr-all-v2.0_tp72_fr": 244826,
+            "tm-fr-all-v2.0_tp77_fr": 547433,
+            "tm-fr-all-v2.0_tp44_fr": 1178085,
+            "tm-fr-all-v2.0_tp15_fr": 663381,
+            "tm-fr-all-v2.0_tp62_fr": 418104,
+            "tm-fr-all-v2.0_tp92_fr": 268901,
+            "tm-fr-all-v2.0_tp29_fr": 428103,
+            "tm-fr-all-v2.0_tp73_fr": 493683,
+            "tm-fr-all-v2.0_tp19_fr": 739913,
+            "tm-fr-all-v2.0_tp21_fr": 430774,
+            "tm-fr-all-v2.0_tp76_fr": 301198,
+            "tm-fr-all-v2.0_tp37_fr": 1617576,
+            "tm-fr-all-v2.0_tp05_fr": 560294,
+            "tm-fr-all-v2.0_tp65_fr": 689096,
+            "tm-fr-all-v2.0_tp32_fr": 499406,
+            "tm-fr-all-v2.0_tp03_fr": 423935,
+            "tm-de-all-v2.0_tp03_de": 180548,
+            "tm-de-all-v2.0_tp12_de": 236554,
+            "tm-de-all-v2.0_tp54_de": 182640,
+            "tm-de-all-v2.0_tp68_de": 227982,
+            "tm-de-all-v2.0_tp78_de": 155714,
+            "tm-de-all-v2.0_tp23_de": 210750,
+            "tm-de-all-v2.0_tp89_de": 190404,
+            "tm-de-all-v2.0_tp24_de": 742510,
+            "tm-de-all-v2.0_tp47_de": 227005,
+            "tm-de-all-v2.0_tp83_de": 280190,
+            "tm-de-all-v2.0_tp53_de": 193149,
+            "tm-de-all-v2.0_tp22_de": 418589,
+            "tm-de-all-v2.0_tp61_de": 195002,
+            "tm-de-all-v2.0_tp82_de": 153600,
+            "tm-de-all-v2.0_tp87_de": 343064,
+            "tm-de-all-v2.0_tp13_de": 168108,
+            "tm-de-all-v2.0_tp44_de": 124124,
+            "tm-de-all-v2.0_tp99_de": 150772,
+            "tm-de-all-v2.0_tp07_de": 177370,
+            "tm-de-all-v2.0_tp43_de": 184704,
+            "tm-de-all-v2.0_tp14_de": 180505,
+            "tm-de-all-v2.0_tp81_de": 201926,
+            "tm-de-all-v2.0_tp63_de": 171060,
+            "tm-de-all-v2.0_tp95_de": 167753,
+            "tm-de-all-v2.0_tp85_de": 204503,
+            "tm-de-all-v2.0_tp33_de": 147062,
+            "tm-de-all-v2.0_tp79_de": 1048292,
+            "tm-de-all-v2.0_tp18_de": 193214,
+            "tm-de-all-v2.0_tp58_de": 187771,
+            "tm-de-all-v2.0_tp08_de": 156614,
+            "tm-de-all-v2.0_tp65_de": 176427,
+            "tm-de-all-v2.0_tp40_de": 123015,
+            "tm-de-all-v2.0_tp56_de": 139338,
+            "tm-de-all-v2.0_tp90_de": 173515,
+            "tm-de-all-v2.0_tp30_de": 262853,
+            "tm-de-all-v2.0_tp06_de": 114705,
+            "tm-de-all-v2.0_tp31_de": 191486,
+            "tm-de-all-v2.0_tp75_de": 178913,
+            "tm-de-all-v2.0_tp76_de": 204723,
+            "tm-de-all-v2.0_tp35_de": 209105,
+            "tm-de-all-v2.0_tp37_de": 171081,
+            "tm-de-all-v2.0_tp71_de": 212830,
+            "tm-de-all-v2.0_tp80_de": 173689,
+            "tm-de-all-v2.0_tp01_de": 172329,
+            "tm-de-all-v2.0_tp94_de": 103738,
+            "tm-de-all-v2.0_tp26_de": 200557,
+            "tm-de-all-v2.0_tp41_de": 137155,
+            "tm-de-all-v2.0_tp46_de": 195533,
+            "tm-de-all-v2.0_tp50_de": 132789,
+            "tm-de-all-v2.0_tp97_de": 228471,
+            "tm-de-all-v2.0_tp11_de": 242121,
+            "tm-de-all-v2.0_tp57_de": 168365,
+            "tm-de-all-v2.0_tp64_de": 177673,
+            "tm-de-all-v2.0_tp96_de": 298690,
+            "tm-de-all-v2.0_tp74_de": 110512,
+            "tm-de-all-v2.0_tp51_de": 186605,
+            "tm-de-all-v2.0_tp34_de": 114145,
+            "tm-de-all-v2.0_tp39_de": 190368,
+            "tm-de-all-v2.0_tp38_de": 138805,
+            "tm-de-all-v2.0_tp70_de": 143306,
+            "tm-de-all-v2.0_tp28_de": 172297,
+            "tm-de-all-v2.0_tp25_de": 208529,
+            "tm-de-all-v2.0_tp88_de": 214485,
+            "tm-de-all-v2.0_tp48_de": 240175,
+            "tm-de-all-v2.0_tp55_de": 206794,
+            "tm-de-all-v2.0_tp04_de": 134253,
+            "tm-de-all-v2.0_tp92_de": 169856,
+            "tm-de-all-v2.0_tp15_de": 139104,
+            "tm-de-all-v2.0_tp98_de": 109730,
+            "tm-de-all-v2.0_tp52_de": 210441,
+            "tm-de-all-v2.0_tp86_de": 171652,
+            "tm-de-all-v2.0_tp66_de": 132017,
+            "tm-de-all-v2.0_tp91_de": 178391,
+            "tm-de-all-v2.0_tp19_de": 260508,
+            "tm-de-all-v2.0_tp69_de": 143575,
+            "tm-de-all-v2.0_tp02_de": 140334,
+            "tm-de-all-v2.0_tp59_de": 209808,
+            "tm-de-all-v2.0_tp93_de": 157027,
+            "tm-de-all-v2.0_tp49_de": 132536,
+            "tm-de-all-v2.0_tp72_de": 136404,
+            "tm-de-all-v2.0_tp42_de": 133131,
+            "tm-de-all-v2.0_tp73_de": 85796,
+            "tm-de-all-v2.0_tp29_de": 170245,
+            "tm-de-all-v2.0_tp05_de": 142217,
+            "tm-de-all-v2.0_tp10_de": 175806,
+            "tm-de-all-v2.0_tp62_de": 86418,
+            "tm-de-all-v2.0_tp16_de": 113742,
+            "tm-de-all-v2.0_tp17_de": 109111,
+            "tm-de-all-v2.0_tp60_de": 248562,
+            "tm-de-all-v2.0_tp27_de": 226348,
+            "tm-de-all-v2.0_tp21_de": 165253,
+            "tm-de-all-v2.0_tp00_de": 81396,
+            "tm-de-all-v2.0_tp09_de": 69060,
+            "tm-de-all-v2.0_tp36_de": 110151,
+            "tm-de-all-v2.0_tp84_de": 114890,
+            "tm-de-all-v2.0_tp77_de": 158817,
+            "tm-de-all-v2.0_tp20_de": 282946,
+            "tm-de-all-v2.0_tp32_de": 141406,
+            "tm-de-all-v2.0_tp45_de": 66843,
+            "tm-de-all-v2.0_tp67_de": 94956,
+            "tm-fr-all-v2.0_tp71_fr": 208966,
+            "tm-fr-all-v2.0_tp98_fr": 431783,
+            "tm-fr-all-v2.0_tp50_fr": 521970,
+            "no-topic": 202,
+            "tm-lb-all-v2.1_tp86_lb": 2113,
+            "tm-lb-all-v2.1_tp29_lb": 4406,
+            "tm-lb-all-v2.1_tp12_lb": 3541,
+            "tm-lb-all-v2.1_tp21_lb": 2327,
+            "tm-lb-all-v2.1_tp27_lb": 2491,
+            "tm-lb-all-v2.1_tp95_lb": 2182,
+            "tm-lb-all-v2.1_tp11_lb": 3166,
+            "tm-lb-all-v2.1_tp13_lb": 4095,
+            "tm-lb-all-v2.1_tp36_lb": 31323,
+            "tm-lb-all-v2.1_tp45_lb": 1695,
+            "tm-lb-all-v2.1_tp53_lb": 1354,
+            "tm-lb-all-v2.1_tp30_lb": 1033,
+            "tm-lb-all-v2.1_tp90_lb": 1714,
+            "tm-lb-all-v2.1_tp96_lb": 3883,
+            "tm-lb-all-v2.1_tp32_lb": 527,
+            "tm-lb-all-v2.1_tp38_lb": 3489,
+            "tm-lb-all-v2.1_tp00_lb": 633,
+            "tm-lb-all-v2.1_tp64_lb": 3092,
+            "tm-lb-all-v2.1_tp48_lb": 4082,
+            "tm-lb-all-v2.1_tp80_lb": 28110,
+            "tm-lb-all-v2.1_tp09_lb": 1908,
+            "tm-lb-all-v2.1_tp17_lb": 2071,
+            "tm-lb-all-v2.1_tp65_lb": 1975,
+            "tm-lb-all-v2.1_tp69_lb": 814,
+            "tm-lb-all-v2.1_tp76_lb": 1269,
+            "tm-lb-all-v2.1_tp56_lb": 1128,
+            "tm-lb-all-v2.1_tp92_lb": 1374,
+            "tm-lb-all-v2.1_tp94_lb": 2023,
+            "tm-lb-all-v2.1_tp68_lb": 2647,
+            "tm-lb-all-v2.1_tp84_lb": 632,
+            "tm-lb-all-v2.1_tp98_lb": 1882,
+            "tm-lb-all-v2.1_tp18_lb": 822,
+            "tm-lb-all-v2.1_tp35_lb": 1893,
+            "tm-lb-all-v2.1_tp31_lb": 1727,
+            "tm-lb-all-v2.1_tp85_lb": 1089,
+            "tm-lb-all-v2.1_tp66_lb": 824,
+            "tm-lb-all-v2.1_tp74_lb": 1812,
+            "tm-lb-all-v2.1_tp25_lb": 928,
+            "tm-lb-all-v2.1_tp15_lb": 1069,
+            "tm-lb-all-v2.1_tp82_lb": 853,
+            "tm-lb-all-v2.1_tp78_lb": 19668,
+            "tm-lb-all-v2.1_tp50_lb": 1025,
+            "tm-lb-all-v2.1_tp61_lb": 1699,
+            "tm-lb-all-v2.1_tp71_lb": 4621,
+            "tm-lb-all-v2.1_tp40_lb": 996,
+            "tm-lb-all-v2.1_tp63_lb": 786,
+            "tm-lb-all-v2.1_tp19_lb": 2243,
+            "tm-lb-all-v2.1_tp49_lb": 1060,
+            "tm-lb-all-v2.1_tp34_lb": 4477,
+            "tm-lb-all-v2.1_tp70_lb": 878,
+            "tm-lb-all-v2.1_tp41_lb": 1112,
+            "tm-lb-all-v2.1_tp39_lb": 1338,
+            "tm-lb-all-v2.1_tp93_lb": 2963,
+            "tm-lb-all-v2.1_tp26_lb": 1268,
+            "tm-lb-all-v2.1_tp23_lb": 2850,
+            "tm-lb-all-v2.1_tp87_lb": 1822,
+            "tm-lb-all-v2.1_tp43_lb": 1070,
+            "tm-lb-all-v2.1_tp20_lb": 7022,
+            "tm-lb-all-v2.1_tp07_lb": 1229,
+            "tm-lb-all-v2.1_tp08_lb": 2190,
+            "tm-lb-all-v2.1_tp57_lb": 1651,
+            "tm-lb-all-v2.1_tp59_lb": 733,
+            "tm-lb-all-v2.1_tp16_lb": 10639,
+            "tm-lb-all-v2.1_tp02_lb": 1731,
+            "tm-lb-all-v2.1_tp44_lb": 1819,
+            "tm-lb-all-v2.1_tp51_lb": 608,
+            "tm-lb-all-v2.1_tp60_lb": 780,
+            "tm-lb-all-v2.1_tp04_lb": 862,
+            "tm-lb-all-v2.1_tp83_lb": 1049,
+            "tm-lb-all-v2.1_tp97_lb": 3799,
+            "tm-lb-all-v2.1_tp24_lb": 1696,
+            "tm-lb-all-v2.1_tp42_lb": 1746,
+            "tm-lb-all-v2.1_tp47_lb": 591,
+            "tm-lb-all-v2.1_tp58_lb": 10372,
+            "tm-lb-all-v2.1_tp77_lb": 1283,
+            "tm-lb-all-v2.1_tp52_lb": 1630,
+            "tm-lb-all-v2.1_tp54_lb": 2031,
+            "tm-lb-all-v2.1_tp46_lb": 1793,
+            "tm-lb-all-v2.1_tp10_lb": 1043,
+            "tm-lb-all-v2.1_tp33_lb": 1876,
+            "tm-lb-all-v2.1_tp79_lb": 2707,
+            "tm-lb-all-v2.1_tp03_lb": 1402,
+            "tm-lb-all-v2.1_tp72_lb": 1598,
+            "tm-lb-all-v2.1_tp14_lb": 2411,
+            "tm-lb-all-v2.1_tp67_lb": 990,
+            "tm-lb-all-v2.1_tp88_lb": 1681,
+            "tm-lb-all-v2.1_tp01_lb": 4822,
+            "tm-lb-all-v2.1_tp06_lb": 2921,
+            "tm-lb-all-v2.1_tp91_lb": 626,
+            "tm-lb-all-v2.1_tp37_lb": 1207,
+            "tm-lb-all-v2.1_tp55_lb": 5590,
+            "tm-lb-all-v2.1_tp73_lb": 5439,
+            "tm-lb-all-v2.1_tp05_lb": 1488,
+            "tm-lb-all-v2.1_tp28_lb": 2447,
+            "tm-lb-all-v2.1_tp81_lb": 2069,
+            "tm-lb-all-v2.1_tp62_lb": 2282,
+            "tm-lb-all-v2.1_tp75_lb": 2496,
+            "tm-lb-all-v2.1_tp22_lb": 1573,
+            "tm-lb-all-v2.1_tp99_lb": 1278,
+            "tm-lb-all-v2.1_tp89_lb": 2853
+          }
+        }
+      }
+    },
+    "ocrqa": {
+      "models": [
+        {
+          "task_name": "OCR quality assessment",
+          "model_ID": "ocrqa-ocrqa-wp_v1.0.6",
+          "huggingface_link": "https://huggingface.co/impresso-project/OCR-quality-assessment-unigram, https://huggingface.co/impresso-project/ocr-quality-assessor-unigram-light "
+        }
+      ]
+    },
+    "emb-images": {
+      "models": [
+        {
+          "task_name": "image embeddings (DINOv2)",
+          "model_ID": "emb-images_dinov2_v0.0.1",
+          "huggingface_link": "https://huggingface.co/facebook/dinov2-large"
+        },
+        {
+          "task_name": "image embeddings (OpenCLIP)",
+          "model_ID": "emb-images_openclip_v0.0.1",
+          "huggingface_link": "https://huggingface.co/laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K"
+        }
+      ],
+      "enrichment_stats": {
+        "media_stats": {
+          "images": 4002089
+        }
+      }
+    },
+    "emb-docs": {
+      "models": [
+        {
+          "task_name": "document embeddings",
+          "model_ID": "emb-docs_gte-multilingual_v1.0.0",
+          "huggingface_link": "https://huggingface.co/Alibaba-NLP/gte-multilingual-base"
+        }
+      ]
+    }
+  },
+  "Impresso Processings": {
+    "canonical": {
+      "canonical": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/canonical_v4-5-0.json"
+    },
+    "rebuilt": {
+      "rebuilt": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/rebuilt_v1-1-1.json"
+    },
+    "passim": {
+      "rebuilt for passim": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-preparation/passim_v3-0-0.json"
+    },
+    "lingproc": {
+      "linguistic processing": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/lingproc/lingproc-pos-spacy_v3.6.0-multilingual_v1-0-3/lingproc_v0-0-1.json"
+    },
+    "langident": {
+      "language identification": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/langident/langident_v1-4-4/langident_v0-0-1.json"
+    },
+    "textreuse": {
+      "text-reuse detection": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/textreuse/textreuse_v1-0-0/textreuse_v0-1-1.json"
+    },
+    "entities": {
+      "named entity recognition (ner)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/entities/entities-bert-historic-multilingual_fil-pers-loc_v4-0-4/entities_v1-0-0.json"
+    },
+    "emb-docs": {
+      "document embeddings": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/docs/doc-embeddings_v1-1-0/emb-docs_v1-0-0.json"
+    },
+    "emb-words": {},
+    "newsagencies": {
+      "news agency recognition (nar)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/newsagencies/newsagencies-bert-base-historic-multilingual_v1-0-0/newsagencies_v0-1-0.json"
+    },
+    "emb-images": {
+      "image embeddings (DINOv2)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json",
+      "image embeddings (OpenCLIP)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/embeddings/images/embeddings_openclip_v1-0-0/emb-images_v0-0-2.json"
+    },
+    "topics": {
+      "topic modelling multilingual (tm-multi)": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/topics/topics-tm-mallet_infer_seed42_v2.0.1-multilingual_v2-0-1/topics_v0-0-1.json"
+    },
+    "ocrqa": {
+      "OCR quality assessment": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-processing/ocrqa/ocrqa-ocrqa-wp_v1.0.6_v1-0-0/ocrqa_v0-0-1.json"
+    },
+    "mysql-ingestion": {
+      "mysql-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-ingestion/mysql-ingestion_v26-0-0.json"
+    },
+    "solr-text-ingestion": {
+      "solr-text-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2025-05/data-processing-versioning/data-ingestion/solr-text-ingestion_v1-0-0.json"
+    }
+  }
 }
