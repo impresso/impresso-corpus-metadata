@@ -975,11 +975,11 @@
         }
     },
     "GDL": {
-        "1804-1991": {
+        "1798-1991": {
             "rights_holder_id": "LeTemps",
             "title_alias": "GDL",
             "full_title": "Gazette de Lausanne",
-            "start_year": 1804,
+            "start_year": 1798,
             "end_year": 1991,
             "media_type": "Newspaper",
             "medium": "print",
@@ -994,9 +994,9 @@
                 "get_tr": "0000000000000010000000000000000000000000000000000000000000000000",
                 "get_img": "0000000000000010000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1804-1991) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1804-1991) - Research and Educational use",
-            "rights_statement_get_img": "Protected (1804-1991) - Research and Educational use"
+            "rights_statement_explore": "Protected (1798-1991) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1798-1991) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1798-1991) - Research and Educational use"
         }
     },
     "DTT": {
