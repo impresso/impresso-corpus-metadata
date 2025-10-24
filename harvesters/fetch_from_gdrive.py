@@ -10,9 +10,6 @@ SPLIT_PATTERN = r"\s*,\s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
 
 METADATA_RULES = {
-    "acronym": {  # to remove ?
-        "copy_value_from_field": "media_alias",
-    },
     "bibliographic_record_link": {
         "rename_key_to": "bib_record_link",
     },
@@ -47,11 +44,14 @@ METADATA_RULES = {
     "media_title": {
         "rename_key_to": "title",
     },
+    "source_type": {
+        "rename_key_to": "src_type",
+    },
+    "source_medium": {
+        "rename_key_to": "src_medium",
+    },
     "periodicity": {
         "rename_key_to": "latest_periodicity",
-    },
-    "change_in_periodicity": {
-        "rename_key_to": "change_periodicity",
     },
     "resource_holder_names": {
         "split_values_by_re": SPLIT_PATTERN,
@@ -68,6 +68,10 @@ METADATA_RULES = {
     "uid": {
         "copy_value_from_field": "media_alias",
     },
+    "free_text_description": {"rename_key_to": "description"},
+    "dhs_link_without_the_date_section_of_the_URL": {"rename_key_to": "dhs"},
+    "wikipedia_page": {"rename_key_to": "wikipedia"},
+    "additional_sources_comma_separated_links": {"rename_key_to": "additional_sources"},
 }
 
 ACCESS_RIGHTS_RULES = {
@@ -123,9 +127,7 @@ MODELS_CHEATSHEET_RULES = {
     "s3_path_of_processed_data_path_s3_bucket_processing_label_processing_subtype_label_component_run_id_processing_step_provider_alias_media_alias_file_stem_jsonlbz2_": {
         "remove_key": ""
     },
-    "s3_partition_of_output_data_manifest_location": {
-        "rename_key_to": "processed_data_s3_path"
-    },
+    "s3_partition_of_output_data_manifest_location": {"rename_key_to": "processed_data_s3_path"},
     "computed_manifest": {"copy_value_from_field": "computed_manifest"},
     "comment": {"remove_key": ""},
 }
