@@ -69,7 +69,7 @@ METADATA_RULES = {
         "copy_value_from_field": "media_alias",
     },
     "free_text_description": {"rename_key_to": "description"},
-    "dhs_link_without_the_date_section_of_the_URL": {"rename_key_to": "dhs"},
+    "dhs_link_without_the_date_section_of_the_url": {"rename_key_to": "dhs_link"},
     "wikipedia_page": {"rename_key_to": "wikipedia"},
     "additional_sources_comma_separated_links": {"rename_key_to": "additional_sources"},
 }
