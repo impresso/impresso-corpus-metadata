@@ -2950,7 +2950,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 524,
     "ingestion_batch": "BCUL2",
     "media_alias": "ABal",
     "partner_country": "CH",
@@ -2989,8 +2989,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1922,
     "last_issuedate_interface": 1926,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1922,
+    "media_end_year": 1926,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3009,7 +3009,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 525,
     "ingestion_batch": "BCUL2",
     "media_alias": "AChal",
     "partner_country": "CH",
@@ -3048,8 +3048,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1911,
     "last_issuedate_interface": 1919,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1911,
+    "media_end_year": 1919,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3068,7 +3068,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 526,
     "ingestion_batch": "BCUL2",
     "media_alias": "ALT",
     "partner_country": "CH",
@@ -3107,8 +3107,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1972,
     "last_issuedate_interface": 1972,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1972,
+    "media_end_year": 1972,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3127,7 +3127,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 527,
     "ingestion_batch": "BCUL2",
     "media_alias": "CHU",
     "partner_country": "CH",
@@ -3166,8 +3166,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1977,
     "last_issuedate_interface": 1977,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1977,
+    "media_end_year": 1977,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3186,7 +3186,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 528,
     "ingestion_batch": "BCUL2",
     "media_alias": "CONF",
     "partner_country": "CH",
@@ -3225,8 +3225,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1949,
     "last_issuedate_interface": 1951,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1949,
+    "media_end_year": 1951,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3245,7 +3245,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 529,
     "ingestion_batch": "BCUL2",
     "media_alias": "CM",
     "partner_country": "CH",
@@ -3284,8 +3284,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1912,
     "last_issuedate_interface": 1917,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1912,
+    "media_end_year": 1917,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3304,7 +3304,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 530,
     "ingestion_batch": "BCUL2",
     "media_alias": "CLey",
     "partner_country": "CH",
@@ -3343,8 +3343,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1924,
     "last_issuedate_interface": 1972,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1924,
+    "media_end_year": 1972,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3363,7 +3363,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 531,
     "ingestion_batch": "BCUL2",
     "media_alias": "COVE",
     "partner_country": "CH",
@@ -3402,8 +3402,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1907,
     "last_issuedate_interface": 1939,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1907,
+    "media_end_year": 1939,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3422,7 +3422,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 532,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAA",
     "partner_country": "CH",
@@ -3461,8 +3461,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1882,
     "last_issuedate_interface": 1972,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1882,
+    "media_end_year": 1972,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3481,7 +3481,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 533,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAAV",
     "partner_country": "CH",
@@ -3520,8 +3520,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1882,
     "last_issuedate_interface": 2010,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1882,
+    "media_end_year": 2010,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3540,7 +3540,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 534,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAOR",
     "partner_country": "CH",
@@ -3579,8 +3579,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1906,
     "last_issuedate_interface": 2003,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1906,
+    "media_end_year": 2003,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3599,7 +3599,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 535,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAG",
     "partner_country": "CH",
@@ -3638,8 +3638,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1911,
     "last_issuedate_interface": 1918,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1911,
+    "media_end_year": 1918,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3658,7 +3658,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 536,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAC",
     "partner_country": "CH",
@@ -3697,8 +3697,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1898,
     "last_issuedate_interface": 1943,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1898,
+    "media_end_year": 1943,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3717,7 +3717,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 537,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAMX",
     "partner_country": "CH",
@@ -3756,8 +3756,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1867,
     "last_issuedate_interface": 1935,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1867,
+    "media_end_year": 1935,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3776,7 +3776,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 538,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAM2",
     "partner_country": "CH",
@@ -3815,8 +3815,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1861,
     "last_issuedate_interface": 1972,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1861,
+    "media_end_year": 1972,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3835,7 +3835,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 539,
     "ingestion_batch": "BCUL2",
     "media_alias": "FASC",
     "partner_country": "CH",
@@ -3874,8 +3874,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1852,
     "last_issuedate_interface": 1988,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1852,
+    "media_end_year": 1988,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3894,7 +3894,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 540,
     "ingestion_batch": "BCUL2",
     "media_alias": "FACLG",
     "partner_country": "CH",
@@ -3933,8 +3933,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1907,
     "last_issuedate_interface": 1999,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1907,
+    "media_end_year": 1999,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -3953,7 +3953,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 541,
     "ingestion_batch": "BCUL2",
     "media_alias": "BIMG",
     "partner_country": "CH",
@@ -3992,8 +3992,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1990,
     "last_issuedate_interface": 1996,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1990,
+    "media_end_year": 1996,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4012,7 +4012,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 542,
     "ingestion_batch": "BCUL2",
     "media_alias": "GLEC",
     "partner_country": "CH",
@@ -4051,8 +4051,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1986,
     "last_issuedate_interface": 2017,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1986,
+    "media_end_year": 2017,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4071,7 +4071,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 543,
     "ingestion_batch": "BCUL2",
     "media_alias": "GER",
     "partner_country": "CH",
@@ -4110,8 +4110,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1904,
     "last_issuedate_interface": 1911,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1904,
+    "media_end_year": 1911,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4130,7 +4130,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 544,
     "ingestion_batch": "BCUL2",
     "media_alias": "JCOP",
     "partner_country": "CH",
@@ -4169,8 +4169,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1912,
     "last_issuedate_interface": 1923,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1912,
+    "media_end_year": 1923,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4189,7 +4189,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 545,
     "ingestion_batch": "BCUL2",
     "media_alias": "JCO ",
     "partner_country": "CH",
@@ -4228,8 +4228,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1881,
     "last_issuedate_interface": 1989,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1881,
+    "media_end_year": 1989,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4248,7 +4248,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 546,
     "ingestion_batch": "BCUL2",
     "media_alias": "JLI",
     "partner_country": "CH",
@@ -4287,8 +4287,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1946,
     "last_issuedate_interface": 1947,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1946,
+    "media_end_year": 1947,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4307,7 +4307,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 547,
     "ingestion_batch": "BCUL2",
     "media_alias": "JLS",
     "partner_country": "CH",
@@ -4346,8 +4346,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1942,
     "last_issuedate_interface": 1947,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1942,
+    "media_end_year": 1947,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4366,7 +4366,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 548,
     "ingestion_batch": "BCUL2",
     "media_alias": "JL",
     "partner_country": "CH",
@@ -4405,8 +4405,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1902,
     "last_issuedate_interface": 1939,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1902,
+    "media_end_year": 1939,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4425,7 +4425,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 549,
     "ingestion_batch": "BCUL2",
     "media_alias": "JOM",
     "partner_country": "CH",
@@ -4464,8 +4464,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1936,
     "last_issuedate_interface": 1972,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1936,
+    "media_end_year": 1972,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4484,7 +4484,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 550,
     "ingestion_batch": "BCUL2",
     "media_alias": "JPU",
     "partner_country": "CH",
@@ -4523,8 +4523,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1930,
     "last_issuedate_interface": 1995,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1930,
+    "media_end_year": 1995,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4543,7 +4543,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 551,
     "ingestion_batch": "BCUL2",
     "media_alias": "JBM",
     "partner_country": "CH",
@@ -4582,8 +4582,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1976,
     "last_issuedate_interface": 2022,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1976,
+    "media_end_year": 2022,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4602,7 +4602,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 552,
     "ingestion_batch": "BCUL2",
     "media_alias": "JAVE",
     "partner_country": "CH",
@@ -4641,8 +4641,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1890,
     "last_issuedate_interface": 1899,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1890,
+    "media_end_year": 1899,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4661,7 +4661,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 553,
     "ingestion_batch": "BCUL2",
     "media_alias": "JLEM",
     "partner_country": "CH",
@@ -4700,8 +4700,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1892,
     "last_issuedate_interface": 1939,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1892,
+    "media_end_year": 1939,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4720,7 +4720,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 554,
     "ingestion_batch": "BCUL2",
     "media_alias": "JOV",
     "partner_country": "CH",
@@ -4759,8 +4759,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1932,
     "last_issuedate_interface": 1939,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1932,
+    "media_end_year": 1939,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4779,7 +4779,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 555,
     "ingestion_batch": "BCUL2",
     "media_alias": "ARB",
     "partner_country": "CH",
@@ -4818,8 +4818,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1916,
     "last_issuedate_interface": 1917,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1916,
+    "media_end_year": 1917,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4838,7 +4838,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 556,
     "ingestion_batch": "BCUL2",
     "media_alias": "ECR",
     "partner_country": "CH",
@@ -4877,8 +4877,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1878,
     "last_issuedate_interface": 1905,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1878,
+    "media_end_year": 1905,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4897,7 +4897,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 557,
     "ingestion_batch": "BCUL2",
     "media_alias": "ETER",
     "partner_country": "CH",
@@ -4936,8 +4936,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1994,
     "last_issuedate_interface": 1994,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1994,
+    "media_end_year": 1994,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -4956,7 +4956,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 558,
     "ingestion_batch": "BCUL2",
     "media_alias": "ETIN",
     "partner_country": "CH",
@@ -4995,8 +4995,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1964,
     "last_issuedate_interface": 1969,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1964,
+    "media_end_year": 1969,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5015,7 +5015,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 559,
     "ingestion_batch": "BCUL2",
     "media_alias": "CREC",
     "partner_country": "CH",
@@ -5054,8 +5054,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1920,
     "last_issuedate_interface": 1921,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1920,
+    "media_end_year": 1921,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5074,7 +5074,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 560,
     "ingestion_batch": "BCUL2",
     "media_alias": "DETO",
     "partner_country": "CH",
@@ -5113,8 +5113,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1985,
     "last_issuedate_interface": 1986,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1985,
+    "media_end_year": 1986,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5133,7 +5133,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 561,
     "ingestion_batch": "BCUL2",
     "media_alias": "FDL",
     "partner_country": "CH",
@@ -5172,8 +5172,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1908,
     "last_issuedate_interface": 1908,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1908,
+    "media_end_year": 1908,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5192,7 +5192,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 562,
     "ingestion_batch": "BCUL2",
     "media_alias": "MARG",
     "partner_country": "CH",
@@ -5231,8 +5231,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1973,
     "last_issuedate_interface": 1973,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1973,
+    "media_end_year": 1973,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5251,7 +5251,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 563,
     "ingestion_batch": "BCUL2",
     "media_alias": "MOU",
     "partner_country": "CH",
@@ -5290,8 +5290,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1948,
     "last_issuedate_interface": 1948,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1948,
+    "media_end_year": 1948,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5310,7 +5310,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 564,
     "ingestion_batch": "BCUL2",
     "media_alias": "RLP",
     "partner_country": "CH",
@@ -5349,8 +5349,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1938,
     "last_issuedate_interface": 1946,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1938,
+    "media_end_year": 1946,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5369,7 +5369,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 565,
     "ingestion_batch": "BCUL2",
     "media_alias": "POM",
     "partner_country": "CH",
@@ -5408,8 +5408,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1969,
     "last_issuedate_interface": 1973,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1969,
+    "media_end_year": 1973,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5428,7 +5428,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 566,
     "ingestion_batch": "BCUL2",
     "media_alias": "RL",
     "partner_country": "CH",
@@ -5467,8 +5467,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1946,
     "last_issuedate_interface": 1946,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1946,
+    "media_end_year": 1946,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5487,7 +5487,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 567,
     "ingestion_batch": "BCUL2",
     "media_alias": "RLD",
     "partner_country": "CH",
@@ -5526,8 +5526,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1941,
     "last_issuedate_interface": 1946,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1941,
+    "media_end_year": 1946,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5546,7 +5546,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 568,
     "ingestion_batch": "BCUL2",
     "media_alias": "TDM",
     "partner_country": "CH",
@@ -5585,8 +5585,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1938,
     "last_issuedate_interface": 1939,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1938,
+    "media_end_year": 1939,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5605,7 +5605,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 569,
     "ingestion_batch": "BCUL2",
     "media_alias": "TRVE",
     "partner_country": "CH",
@@ -5644,8 +5644,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1906,
     "last_issuedate_interface": 1907,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1906,
+    "media_end_year": 1907,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5664,7 +5664,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 570,
     "ingestion_batch": "BCUL2",
     "media_alias": "VAG",
     "partner_country": "CH",
@@ -5703,8 +5703,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1940,
     "last_issuedate_interface": 1944,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1940,
+    "media_end_year": 1944,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5723,7 +5723,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 571,
     "ingestion_batch": "BCUL2",
     "media_alias": "VPV",
     "partner_country": "CH",
@@ -5762,8 +5762,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1955,
     "last_issuedate_interface": 1955,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1955,
+    "media_end_year": 1955,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5782,7 +5782,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 572,
     "ingestion_batch": "BCUL2",
     "media_alias": "RLS",
     "partner_country": "CH",
@@ -5821,8 +5821,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1975,
     "last_issuedate_interface": 1976,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1975,
+    "media_end_year": 1976,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5841,7 +5841,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 573,
     "ingestion_batch": "BCUL2",
     "media_alias": "BIST",
     "partner_country": "CH",
@@ -5880,8 +5880,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1934,
     "last_issuedate_interface": 1934,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1934,
+    "media_end_year": 1934,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5900,7 +5900,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 574,
     "ingestion_batch": "BCUL2",
     "media_alias": "Rollan1",
     "partner_country": "CH",
@@ -5939,8 +5939,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1952,
     "last_issuedate_interface": 1959,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1952,
+    "media_end_year": 1959,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5959,7 +5959,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 575,
     "ingestion_batch": "BCUL2",
     "media_alias": "Rollan2",
     "partner_country": "CH",
@@ -5998,8 +5998,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1974,
     "last_issuedate_interface": 1974,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1974,
+    "media_end_year": 1974,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6018,7 +6018,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 576,
     "ingestion_batch": "BCUL2",
     "media_alias": "CLib",
     "partner_country": "CH",
@@ -6057,8 +6057,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1936,
     "last_issuedate_interface": 1938,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1936,
+    "media_end_year": 1938,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6077,7 +6077,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 577,
     "ingestion_batch": "BCUL2",
     "media_alias": "CRit",
     "partner_country": "CH",
@@ -6116,8 +6116,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1930,
     "last_issuedate_interface": 1942,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1930,
+    "media_end_year": 1942,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6136,7 +6136,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 578,
     "ingestion_batch": "BCUL2",
     "media_alias": "CLN",
     "partner_country": "CH",
@@ -6175,8 +6175,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1974,
     "last_issuedate_interface": 1974,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1974,
+    "media_end_year": 1974,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6195,7 +6195,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 579,
     "ingestion_batch": "BCUL2",
     "media_alias": "COPU",
     "partner_country": "CH",
@@ -6234,8 +6234,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1947,
     "last_issuedate_interface": 1948,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1947,
+    "media_end_year": 1948,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6254,7 +6254,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 580,
     "ingestion_batch": "BCUL2",
     "media_alias": "DPA",
     "partner_country": "CH",
@@ -6293,8 +6293,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1846,
     "last_issuedate_interface": 1999,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1846,
+    "media_end_year": 1999,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6313,7 +6313,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 581,
     "ingestion_batch": "BCUL2",
     "media_alias": "FRON",
     "partner_country": "CH",
@@ -6352,8 +6352,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1917,
     "last_issuedate_interface": 1917,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1917,
+    "media_end_year": 1917,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6372,7 +6372,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 582,
     "ingestion_batch": "BCUL2",
     "media_alias": "JOR",
     "partner_country": "CH",
@@ -6411,8 +6411,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1925,
     "last_issuedate_interface": 1940,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1925,
+    "media_end_year": 1940,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6431,7 +6431,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 583,
     "ingestion_batch": "BCUL2",
     "media_alias": "KANG",
     "partner_country": "CH",
@@ -6470,8 +6470,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1959,
     "last_issuedate_interface": 1959,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1959,
+    "media_end_year": 1959,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6490,7 +6490,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 584,
     "ingestion_batch": "BCUL2",
     "media_alias": "MA ",
     "partner_country": "CH",
@@ -6529,8 +6529,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1914,
     "last_issuedate_interface": 1937,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1914,
+    "media_end_year": 1937,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6549,7 +6549,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 585,
     "ingestion_batch": "BCUL2",
     "media_alias": "MOU2",
     "partner_country": "CH",
@@ -6588,8 +6588,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1912,
     "last_issuedate_interface": 1914,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1912,
+    "media_end_year": 1914,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6608,7 +6608,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 586,
     "ingestion_batch": "BCUL2",
     "media_alias": "PT",
     "partner_country": "CH",
@@ -6647,8 +6647,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1901,
     "last_issuedate_interface": 1901,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1901,
+    "media_end_year": 1901,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6667,7 +6667,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 587,
     "ingestion_batch": "BCUL2",
     "media_alias": "PEP",
     "partner_country": "CH",
@@ -6706,8 +6706,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1982,
     "last_issuedate_interface": 1991,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1982,
+    "media_end_year": 1991,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6726,7 +6726,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 588,
     "ingestion_batch": "BCUL2",
     "media_alias": "PDech",
     "partner_country": "CH",
@@ -6765,8 +6765,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1936,
     "last_issuedate_interface": 1936,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1936,
+    "media_end_year": 1936,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6785,7 +6785,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 589,
     "ingestion_batch": "BCUL2",
     "media_alias": "PCO",
     "partner_country": "CH",
@@ -6824,8 +6824,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1877,
     "last_issuedate_interface": 1940,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1877,
+    "media_end_year": 1940,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6844,7 +6844,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 590,
     "ingestion_batch": "BCUL2",
     "media_alias": "PMorg",
     "partner_country": "CH",
@@ -6883,8 +6883,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1907,
     "last_issuedate_interface": 1907,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1907,
+    "media_end_year": 1907,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6903,7 +6903,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 591,
     "ingestion_batch": "BCUL2",
     "media_alias": "SEM",
     "partner_country": "CH",
@@ -6942,8 +6942,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1991,
     "last_issuedate_interface": 1993,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1991,
+    "media_end_year": 1993,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -6962,7 +6962,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 592,
     "ingestion_batch": "BCUL2",
     "media_alias": "VVS2",
     "partner_country": "CH",
@@ -7001,8 +7001,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1935,
     "last_issuedate_interface": 1945,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1935,
+    "media_end_year": 1945,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7021,7 +7021,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 593,
     "ingestion_batch": "BCUL2",
     "media_alias": "ALP",
     "partner_country": "CH",
@@ -7060,8 +7060,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1914,
     "last_issuedate_interface": 1920,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1914,
+    "media_end_year": 1920,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7080,7 +7080,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 594,
     "ingestion_batch": "BCUL2",
     "media_alias": "LEB",
     "partner_country": "CH",
@@ -7119,8 +7119,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1900,
     "last_issuedate_interface": 1912,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1900,
+    "media_end_year": 1912,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7139,7 +7139,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 595,
     "ingestion_batch": "BCUL2",
     "media_alias": "MEP",
     "partner_country": "CH",
@@ -7178,8 +7178,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1973,
     "last_issuedate_interface": 1974,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1973,
+    "media_end_year": 1974,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7198,7 +7198,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 596,
     "ingestion_batch": "BCUL2",
     "media_alias": "MH",
     "partner_country": "CH",
@@ -7237,8 +7237,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1973,
     "last_issuedate_interface": 1987,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1973,
+    "media_end_year": 1987,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7257,7 +7257,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 597,
     "ingestion_batch": "BCUL2",
     "media_alias": "NRev",
     "partner_country": "CH",
@@ -7296,8 +7296,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 2005,
     "last_issuedate_interface": 2012,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 2005,
+    "media_end_year": 2012,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7316,7 +7316,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 598,
     "ingestion_batch": "BCUL2",
     "media_alias": "NRL",
     "partner_country": "CH",
@@ -7355,8 +7355,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1990,
     "last_issuedate_interface": 1991,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1990,
+    "media_end_year": 1991,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7375,7 +7375,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 599,
     "ingestion_batch": "BCUL2",
     "media_alias": "NRH",
     "partner_country": "CH",
@@ -7414,8 +7414,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1991,
     "last_issuedate_interface": 1994,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1991,
+    "media_end_year": 1994,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7434,7 +7434,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 600,
     "ingestion_batch": "BCUL2",
     "media_alias": "OUI ",
     "partner_country": "CH",
@@ -7473,8 +7473,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1964,
     "last_issuedate_interface": 1980,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1964,
+    "media_end_year": 1980,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7493,7 +7493,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 601,
     "ingestion_batch": "BCUL2",
     "media_alias": "PI",
     "partner_country": "CH",
@@ -7532,8 +7532,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1913,
     "last_issuedate_interface": 1916,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1913,
+    "media_end_year": 1916,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7552,7 +7552,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 602,
     "ingestion_batch": "BCUL2",
     "media_alias": "PLF",
     "partner_country": "CH",
@@ -7591,8 +7591,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1925,
     "last_issuedate_interface": 1931,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1925,
+    "media_end_year": 1931,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7611,7 +7611,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 603,
     "ingestion_batch": "BCUL2",
     "media_alias": "PL ",
     "partner_country": "CH",
@@ -7650,8 +7650,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1922,
     "last_issuedate_interface": 1922,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1922,
+    "media_end_year": 1922,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7670,7 +7670,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 604,
     "ingestion_batch": "BCUL2",
     "media_alias": "PN",
     "partner_country": "CH",
@@ -7709,8 +7709,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1953,
     "last_issuedate_interface": 1958,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1953,
+    "media_end_year": 1958,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7729,7 +7729,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 605,
     "ingestion_batch": "BCUL2",
     "media_alias": "PV",
     "partner_country": "CH",
@@ -7768,8 +7768,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1916,
     "last_issuedate_interface": 1916,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1916,
+    "media_end_year": 1916,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7788,7 +7788,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 606,
     "ingestion_batch": "BCUL2",
     "media_alias": "REC",
     "partner_country": "CH",
@@ -7827,8 +7827,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1980,
     "last_issuedate_interface": 1982,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1980,
+    "media_end_year": 1982,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7847,7 +7847,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 607,
     "ingestion_batch": "BCUL2",
     "media_alias": "RMorg",
     "partner_country": "CH",
@@ -7886,8 +7886,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1902,
     "last_issuedate_interface": 1905,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1902,
+    "media_end_year": 1905,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7906,7 +7906,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 608,
     "ingestion_batch": "BCUL2",
     "media_alias": "RPR",
     "partner_country": "CH",
@@ -7945,8 +7945,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1902,
     "last_issuedate_interface": 1902,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1902,
+    "media_end_year": 1902,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -7965,7 +7965,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 609,
     "ingestion_batch": "BCUL2",
     "media_alias": "YRE",
     "partner_country": "CH",
@@ -8004,8 +8004,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1935,
     "last_issuedate_interface": 1994,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1935,
+    "media_end_year": 1994,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8024,7 +8024,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 610,
     "ingestion_batch": "BCUL2",
     "media_alias": "AS",
     "partner_country": "CH",
@@ -8063,8 +8063,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1994,
     "last_issuedate_interface": 2023,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1994,
+    "media_end_year": 2023,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8083,7 +8083,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 611,
     "ingestion_batch": "BCUL2",
     "media_alias": "AQCMJ",
     "partner_country": "CH",
@@ -8122,8 +8122,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1974,
     "last_issuedate_interface": 2022,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1974,
+    "media_end_year": 2022,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8142,7 +8142,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 612,
     "ingestion_batch": "BCUL2",
     "media_alias": "BN",
     "partner_country": "CH",
@@ -8181,8 +8181,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 2000,
     "last_issuedate_interface": 2016,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 2000,
+    "media_end_year": 2016,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8201,7 +8201,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 613,
     "ingestion_batch": "BCUL2",
     "media_alias": "CLOEIL",
     "partner_country": "CH",
@@ -8240,8 +8240,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1984,
     "last_issuedate_interface": 2019,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1984,
+    "media_end_year": 2019,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8260,7 +8260,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 614,
     "ingestion_batch": "BCUL2",
     "media_alias": "CC",
     "partner_country": "CH",
@@ -8299,8 +8299,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1864,
     "last_issuedate_interface": 1968,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1864,
+    "media_end_year": 1968,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8319,7 +8319,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 615,
     "ingestion_batch": "BCUL2",
     "media_alias": "croire",
     "partner_country": "CH",
@@ -8358,8 +8358,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1981,
     "last_issuedate_interface": 2000,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1981,
+    "media_end_year": 2000,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8378,7 +8378,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 616,
     "ingestion_batch": "BCUL2",
     "media_alias": "DP ",
     "partner_country": "CH",
@@ -8417,8 +8417,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1963,
     "last_issuedate_interface": 2021,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1963,
+    "media_end_year": 2021,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8437,7 +8437,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 617,
     "ingestion_batch": "BCUL2",
     "media_alias": "ECM",
     "partner_country": "CH",
@@ -8476,8 +8476,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1896,
     "last_issuedate_interface": 1992,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1896,
+    "media_end_year": 1992,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8496,7 +8496,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 618,
     "ingestion_batch": "BCUL2",
     "media_alias": "RDRG",
     "partner_country": "CH",
@@ -8535,8 +8535,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1946,
     "last_issuedate_interface": 1990,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1946,
+    "media_end_year": 1990,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8555,7 +8555,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 619,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAB1",
     "partner_country": "CH",
@@ -8594,8 +8594,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1891,
     "last_issuedate_interface": 1910,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1891,
+    "media_end_year": 1910,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8614,7 +8614,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 620,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAB2",
     "partner_country": "CH",
@@ -8653,8 +8653,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1908,
     "last_issuedate_interface": 1987,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1908,
+    "media_end_year": 1987,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8673,7 +8673,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 621,
     "ingestion_batch": "BCUL2",
     "media_alias": "FAVA",
     "partner_country": "CH",
@@ -8712,8 +8712,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1904,
     "last_issuedate_interface": 2019,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1904,
+    "media_end_year": 2019,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8732,7 +8732,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 622,
     "ingestion_batch": "BCUL2",
     "media_alias": "JA ",
     "partner_country": "CH",
@@ -8771,8 +8771,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1897,
     "last_issuedate_interface": 1966,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1897,
+    "media_end_year": 1966,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8791,7 +8791,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 623,
     "ingestion_batch": "BCUL2",
     "media_alias": "JBEX",
     "partner_country": "CH",
@@ -8830,8 +8830,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1899,
     "last_issuedate_interface": 1993,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1899,
+    "media_end_year": 1993,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8850,7 +8850,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 624,
     "ingestion_batch": "BCUL2",
     "media_alias": "JB",
     "partner_country": "CH",
@@ -8889,8 +8889,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1962,
     "last_issuedate_interface": 1999,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1962,
+    "media_end_year": 1999,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8909,7 +8909,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 625,
     "ingestion_batch": "BCUL2",
     "media_alias": "JC",
     "partner_country": "CH",
@@ -8948,8 +8948,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1899,
     "last_issuedate_interface": 2017,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1899,
+    "media_end_year": 2017,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -8968,7 +8968,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 626,
     "ingestion_batch": "BCUL2",
     "media_alias": "JM",
     "partner_country": "CH",
@@ -9007,8 +9007,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1899,
     "last_issuedate_interface": 2017,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1899,
+    "media_end_year": 2017,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9027,7 +9027,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 627,
     "ingestion_batch": "BCUL2",
     "media_alias": "JMOU",
     "partner_country": "CH",
@@ -9066,8 +9066,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1962,
     "last_issuedate_interface": 2021,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1962,
+    "media_end_year": 2021,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9086,7 +9086,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 628,
     "ingestion_batch": "BCUL2",
     "media_alias": "JN",
     "partner_country": "CH",
@@ -9125,8 +9125,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1892,
     "last_issuedate_interface": 1987,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1892,
+    "media_end_year": 1987,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9145,7 +9145,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 629,
     "ingestion_batch": "BCUL2",
     "media_alias": "JPA",
     "partner_country": "CH",
@@ -9184,8 +9184,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1891,
     "last_issuedate_interface": 2002,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1891,
+    "media_end_year": 2002,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9204,7 +9204,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 630,
     "ingestion_batch": "BCUL2",
     "media_alias": "JP",
     "partner_country": "CH",
@@ -9243,8 +9243,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1998,
     "last_issuedate_interface": 2000,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1998,
+    "media_end_year": 2000,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9263,7 +9263,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 631,
     "ingestion_batch": "BCUL2",
     "media_alias": "JR",
     "partner_country": "CH",
@@ -9302,8 +9302,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1900,
     "last_issuedate_interface": 1987,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1900,
+    "media_end_year": 1987,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9322,7 +9322,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 632,
     "ingestion_batch": "BCUL2",
     "media_alias": "JoVA",
     "partner_country": "CH",
@@ -9361,8 +9361,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1899,
     "last_issuedate_interface": 1900,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1899,
+    "media_end_year": 1900,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9381,7 +9381,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 633,
     "ingestion_batch": "BCUL2",
     "media_alias": "JDC",
     "partner_country": "CH",
@@ -9420,8 +9420,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1993,
     "last_issuedate_interface": 2004,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1993,
+    "media_end_year": 2004,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9440,7 +9440,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 634,
     "ingestion_batch": "BCUL2",
     "media_alias": "JPE",
     "partner_country": "CH",
@@ -9479,8 +9479,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1989,
     "last_issuedate_interface": 2018,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1989,
+    "media_end_year": 2018,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9499,7 +9499,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 635,
     "ingestion_batch": "BCUL2",
     "media_alias": "AVVE",
     "partner_country": "CH",
@@ -9538,8 +9538,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1898,
     "last_issuedate_interface": 1900,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1898,
+    "media_end_year": 1900,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9558,7 +9558,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 636,
     "ingestion_batch": "BCUL2",
     "media_alias": "ECHO",
     "partner_country": "CH",
@@ -9597,8 +9597,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1910,
     "last_issuedate_interface": 2004,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1910,
+    "media_end_year": 2004,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9617,7 +9617,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 637,
     "ingestion_batch": "BCUL2",
     "media_alias": "ECHOB",
     "partner_country": "CH",
@@ -9656,8 +9656,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1871,
     "last_issuedate_interface": 1961,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1871,
+    "media_end_year": 1961,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9676,7 +9676,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 638,
     "ingestion_batch": "BCUL2",
     "media_alias": "ECHOGV",
     "partner_country": "CH",
@@ -9715,8 +9715,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1938,
     "last_issuedate_interface": 2019,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1938,
+    "media_end_year": 2019,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9735,7 +9735,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 639,
     "ingestion_batch": "BCUL2",
     "media_alias": "ER",
     "partner_country": "CH",
@@ -9774,8 +9774,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1990,
     "last_issuedate_interface": 2015,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1990,
+    "media_end_year": 2015,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9794,7 +9794,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 640,
     "ingestion_batch": "BCUL2",
     "media_alias": "EVE",
     "partner_country": "CH",
@@ -9833,8 +9833,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1888,
     "last_issuedate_interface": 1961,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1888,
+    "media_end_year": 1961,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9853,7 +9853,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 641,
     "ingestion_batch": "BCUL2",
     "media_alias": "OMN",
     "partner_country": "CH",
@@ -9892,8 +9892,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 2005,
     "last_issuedate_interface": 2021,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 2005,
+    "media_end_year": 2021,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9912,7 +9912,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 642,
     "ingestion_batch": "BCUL2",
     "media_alias": "BROYE",
     "partner_country": "CH",
@@ -9951,8 +9951,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1998,
     "last_issuedate_interface": 2019,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1998,
+    "media_end_year": 2019,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -9971,7 +9971,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 643,
     "ingestion_batch": "BCUL2",
     "media_alias": "LC",
     "partner_country": "CH",
@@ -10010,8 +10010,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1987,
     "last_issuedate_interface": 2017,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1987,
+    "media_end_year": 2017,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10030,7 +10030,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 644,
     "ingestion_batch": "BCUL2",
     "media_alias": "NAT",
     "partner_country": "CH",
@@ -10069,8 +10069,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1931,
     "last_issuedate_interface": 2020,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1931,
+    "media_end_year": 2020,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10089,7 +10089,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 645,
     "ingestion_batch": "BCUL2",
     "media_alias": "COTT",
     "partner_country": "CH",
@@ -10128,8 +10128,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 2003,
     "last_issuedate_interface": 2022,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 2003,
+    "media_end_year": 2022,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10148,7 +10148,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 646,
     "ingestion_batch": "BCUL2",
     "media_alias": "CBJ",
     "partner_country": "CH",
@@ -10187,8 +10187,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1950,
     "last_issuedate_interface": 2019,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1950,
+    "media_end_year": 2019,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10207,7 +10207,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 647,
     "ingestion_batch": "BCUL2",
     "media_alias": "Rollan3",
     "partner_country": "CH",
@@ -10246,8 +10246,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1960,
     "last_issuedate_interface": 1961,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1960,
+    "media_end_year": 1961,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10266,7 +10266,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 648,
     "ingestion_batch": "BCUL2",
     "media_alias": "JURV",
     "partner_country": "CH",
@@ -10305,8 +10305,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1883,
     "last_issuedate_interface": 2004,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1883,
+    "media_end_year": 2004,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10325,7 +10325,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 649,
     "ingestion_batch": "BCUL2",
     "media_alias": "MEM",
     "partner_country": "CH",
@@ -10364,8 +10364,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1904,
     "last_issuedate_interface": 1936,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1904,
+    "media_end_year": 1936,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -10384,7 +10384,7 @@
     "additional_sources": ""
   },
   {
-    "id": "",
+    "id": 650,
     "ingestion_batch": "BCUL2",
     "media_alias": "TV",
     "partner_country": "CH",
@@ -10423,8 +10423,8 @@
     "bib_record_text": "",
     "first_issuedate_interface": 1953,
     "last_issuedate_interface": 2010,
-    "media_start_year": "",
-    "media_end_year": "",
+    "media_start_year": 1953,
+    "media_end_year": 2010,
     "partner_uid": "BCUL",
     "languages": [
       "fr"

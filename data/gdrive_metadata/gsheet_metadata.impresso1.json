@@ -1414,7 +1414,7 @@
     "src_type": "newspaper",
     "src_medium": "print",
     "latest_periodicity": "daily",
-    "ocr_format": "PDF (JPEG+TXT)",
+    "ocr_format": "Text-embedded PDF",
     "uid": "NZZ",
     "description": "",
     "dhs_link": "https://hls-dhs-dss.ch/fr/articles/048585/2015-04-10/",
