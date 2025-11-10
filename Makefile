@@ -61,7 +61,7 @@ help:
 
 
 ### Fetching metadata ###
-all-metadata: impresso1-metadata bnf-metadata ina-metadata bcul-metadata swa-fedgaz-metadata swissinfo-metadata
+all-metadata: impresso1-metadata bnf-metadata ina-metadata bcul-metadata swa-fedgaz-metadata swissinfo-metadata bl-metadata
 
 impresso1-metadata:
 	python harvesters/fetch_from_gdrive.py \
@@ -105,6 +105,13 @@ swissinfo-metadata:
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).swissinfo.json" \
 	--gsheet_type="metadata"
 
+bl-metadata:
+	python harvesters/fetch_from_gdrive.py \
+	--spreadsheet_id=$(metadata_gsheet_id) \
+	--worksheet_name="BL" \
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bl.json" \
+	--gsheet_type="metadata"
+
 sync-gdrive-metadata: 
 	rsync -r -v "$(data_dir)/gdrive_metadata/$(additional_arg)" "$(db_data_dir)/gdrive_metadata"
 
@@ -130,7 +137,7 @@ debug-access-rights: # the gsheet id is going to change with each provider
 	python harvesters/access_rights_masterfile.py --partner="debug" --data-dir=$(data_dir)
 
 
-all-access-rights: snl-access-rights bnl-access-rights bnf-access-rights ina-access-rights bcul-access-rights swa-fedgaz-nzz-access-rights swissinfo-access-rights
+all-access-rights: snl-access-rights bnl-access-rights bnf-access-rights ina-access-rights bcul-access-rights swa-fedgaz-nzz-access-rights swissinfo-access-rights bl-access-rights
 # todo add the rest once their access rights are filled in
 
 # 01 - SNL
