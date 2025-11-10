@@ -8,6 +8,7 @@ import fire
 
 SPLIT_PATTERN = r"\s*,\s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
+NUM_DIGITS_PROV_ID = {"BL": 7}
 
 METADATA_RULES = {
     "bibliographic_record_link": {
@@ -67,6 +68,9 @@ METADATA_RULES = {
     },
     "uid": {
         "copy_value_from_field": "media_alias",
+    },
+    "provenance_id": {
+        "z_fill_to_size_if_int": NUM_DIGITS_PROV_ID,
     },
     "free_text_description": {"rename_key_to": "description"},
     "dhs_link_without_the_date_section_of_the_url": {"rename_key_to": "dhs_link"},
@@ -193,6 +197,12 @@ def transform_value(d: dict, gsheet_type: str) -> dict:
         if "rename_key_to" in rule:
             transformed[rule["rename_key_to"]] = transformed[key_with_rule]
             del transformed[key_with_rule]
+        if "z_fill_to_size_if_int" in rule:
+            # sometimes provenance IDs have leading 0s
+            if isinstance(transformed[key_with_rule], int):
+                num_digits = rule["z_fill_to_size_if_int"][transformed["partner_uid"]]
+                val = transformed[key_with_rule]
+                transformed[key_with_rule] = str.zfill(str(val), num_digits)
 
     return transformed
 
