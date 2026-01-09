@@ -7,6 +7,7 @@ import gspread
 import fire
 
 SPLIT_PATTERN = r"\s*,\s*"
+TITLES_SPLIT_PATTERN = r"(?<=\))\s*; \s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
 NUM_DIGITS_PROV_ID = {"BL": 7}
 
@@ -62,6 +63,9 @@ METADATA_RULES = {
     },
     "resource_holder_logos": {
         "split_values_by_re": SPLIT_PATTERN,
+    },
+    "other_titles_semicolon_separated_with_dates": {
+        "split_values_by_re": TITLES_SPLIT_PATTERN,
     },
     "ocr_format_before_ingestion_in_impresso": {
         "rename_key_to": "ocr_format",
