@@ -1024,6 +1024,22 @@
     "allowed_use_archive_only": ""
   },
   {
+    "": 82,
+    "rights_holder_id": "BL",
+    "title_alias": "LSIR",
+    "full_title": "Leeds Intelligencer",
+    "start_year": 1754,
+    "end_year": 1866,
+    "media_type": "Newspaper",
+    "medium": "print",
+    "content_and_metadata": "yes",
+    "copyright_status": "Public Domain",
+    "explore_req_status": "No restriction (all registered users allowed)",
+    "get_transcript_req_status": "No restriction (all registered users allowed)",
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
+  },
+  {
     "": 85,
     "rights_holder_id": "BL",
     "title_alias": "LSGA",
@@ -4272,6 +4288,22 @@
     "allowed_use_archive_only": ""
   },
   {
+    "": 319,
+    "rights_holder_id": "BL",
+    "title_alias": "SCPR",
+    "full_title": "The Sun & Central Press",
+    "start_year": 1871,
+    "end_year": 1874,
+    "media_type": "Newspaper",
+    "medium": "print",
+    "content_and_metadata": "yes",
+    "copyright_status": "Public Domain",
+    "explore_req_status": "No restriction (all registered users allowed)",
+    "get_transcript_req_status": "No restriction (all registered users allowed)",
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
+  },
+  {
     "": 320,
     "rights_holder_id": "BL",
     "title_alias": "SEGL",
@@ -4582,6 +4614,22 @@
     "full_title": "The Weekly Advertiser",
     "start_year": 1865,
     "end_year": 1866,
+    "media_type": "Newspaper",
+    "medium": "print",
+    "content_and_metadata": "yes",
+    "copyright_status": "Public Domain",
+    "explore_req_status": "No restriction (all registered users allowed)",
+    "get_transcript_req_status": "No restriction (all registered users allowed)",
+    "get_facsimile_req_status": "No restriction (all registered users allowed)",
+    "allowed_use_archive_only": ""
+  },
+  {
+    "": 339,
+    "rights_holder_id": "BL",
+    "title_alias": "WKCH",
+    "full_title": "The Weekly Chronicle",
+    "start_year": 1836,
+    "end_year": 1867,
     "media_type": "Newspaper",
     "medium": "print",
     "content_and_metadata": "yes",

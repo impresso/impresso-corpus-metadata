@@ -1589,6 +1589,31 @@
             "rights_statement_get_img": "Protected (1906-1909) - Operation not permitted"
         }
     },
+    "LSIR": {
+        "1754-1866": {
+            "rights_holder_id": "BL",
+            "title_alias": "LSIR",
+            "full_title": "Leeds Intelligencer",
+            "start_year": 1754,
+            "end_year": 1866,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1754-1866)",
+            "rights_statement_get_tr": "Public Domain (1754-1866)",
+            "rights_statement_get_img": "Public Domain (1754-1866)"
+        }
+    },
     "LSGA": {
         "1832-1856": {
             "rights_holder_id": "BL",
@@ -6640,6 +6665,31 @@
             "rights_statement_get_img": "Public Domain (1878-1879)"
         }
     },
+    "SCPR": {
+        "1871-1874": {
+            "rights_holder_id": "BL",
+            "title_alias": "SCPR",
+            "full_title": "The Sun & Central Press",
+            "start_year": 1871,
+            "end_year": 1874,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1871-1874)",
+            "rights_statement_get_tr": "Public Domain (1871-1874)",
+            "rights_statement_get_img": "Public Domain (1871-1874)"
+        }
+    },
     "SEGL": {
         "1836-1837": {
             "rights_holder_id": "BL",
@@ -7136,6 +7186,31 @@
             "rights_statement_explore": "Public Domain (1865-1866)",
             "rights_statement_get_tr": "Public Domain (1865-1866)",
             "rights_statement_get_img": "Public Domain (1865-1866)"
+        }
+    },
+    "WKCH": {
+        "1836-1867": {
+            "rights_holder_id": "BL",
+            "title_alias": "WKCH",
+            "full_title": "The Weekly Chronicle",
+            "start_year": 1836,
+            "end_year": 1867,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1836-1867)",
+            "rights_statement_get_tr": "Public Domain (1836-1867)",
+            "rights_statement_get_img": "Public Domain (1836-1867)"
         }
     },
     "WKEC": {
