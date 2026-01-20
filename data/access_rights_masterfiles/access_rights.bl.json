@@ -7786,6 +7786,31 @@
             "rights_statement_get_img": "Public Domain (1826-1832)"
         }
     },
+    "WKTS": {
+        "1833-1843": {
+            "rights_holder_id": "BL",
+            "title_alias": "WKTS",
+            "full_title": "Weekly True Sun",
+            "start_year": 1833,
+            "end_year": 1843,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1833-1843)",
+            "rights_statement_get_tr": "Public Domain (1833-1843)",
+            "rights_statement_get_img": "Public Domain (1833-1843)"
+        }
+    },
     "WLSA": {
         "1870-1872": {
             "rights_holder_id": "BL",
