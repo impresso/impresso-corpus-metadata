@@ -147,31 +147,6 @@
             "rights_statement_get_img": "Public Domain (1842-1842)"
         }
     },
-    "WOJL": {
-        "1822-1896": {
-            "rights_holder_id": "BL",
-            "title_alias": "WOJL",
-            "full_title": "Berrow's Worcester Journal",
-            "start_year": 1822,
-            "end_year": 1896,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1822-1896)",
-            "rights_statement_get_tr": "Public Domain (1822-1896)",
-            "rights_statement_get_img": "Public Domain (1822-1896)"
-        }
-    },
     "BPHF": {
         "1831-1831": {
             "rights_holder_id": "BL",
@@ -2878,12 +2853,12 @@
         }
     },
     "SHCA": {
-        "1826-1826": {
+        "1826-1828": {
             "rights_holder_id": "BL",
             "title_alias": "SHCA",
             "full_title": "Surrey Herald and County Advertiser",
             "start_year": 1826,
-            "end_year": 1826,
+            "end_year": 1828,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -2897,9 +2872,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1826-1826)",
-            "rights_statement_get_tr": "Public Domain (1826-1826)",
-            "rights_statement_get_img": "Public Domain (1826-1826)"
+            "rights_statement_explore": "Public Domain (1826-1828)",
+            "rights_statement_get_tr": "Public Domain (1826-1828)",
+            "rights_statement_get_img": "Public Domain (1826-1828)"
         }
     },
     "SURY": {
@@ -3869,31 +3844,6 @@
             "rights_statement_explore": "Public Domain (1813-1822)",
             "rights_statement_get_tr": "Public Domain (1813-1822)",
             "rights_statement_get_img": "Public Domain (1813-1822)"
-        }
-    },
-    "CHTR": {
-        "1839-1840": {
-            "rights_holder_id": "BL",
-            "title_alias": "CHTR",
-            "full_title": "The Charter",
-            "start_year": 1839,
-            "end_year": 1840,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1839-1840)",
-            "rights_statement_get_tr": "Public Domain (1839-1840)",
-            "rights_statement_get_img": "Public Domain (1839-1840)"
         }
     },
     "CICN": {
