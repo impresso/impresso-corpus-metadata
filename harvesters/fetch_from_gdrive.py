@@ -7,12 +7,11 @@ import gspread
 import fire
 
 SPLIT_PATTERN = r"\s*,\s*"
+TITLES_SPLIT_PATTERN = r"(?<=\))\s*; \s*"
 LANG_SPLIT_PATTERN = r"\s* \s*"
+NUM_DIGITS_PROV_ID = {"BL": 7}
 
 METADATA_RULES = {
-    "acronym": {  # to remove ?
-        "copy_value_from_field": "media_alias",
-    },
     "bibliographic_record_link": {
         "rename_key_to": "bib_record_link",
     },
@@ -47,11 +46,14 @@ METADATA_RULES = {
     "media_title": {
         "rename_key_to": "title",
     },
+    "source_type": {
+        "rename_key_to": "src_type",
+    },
+    "source_medium": {
+        "rename_key_to": "src_medium",
+    },
     "periodicity": {
         "rename_key_to": "latest_periodicity",
-    },
-    "change_in_periodicity": {
-        "rename_key_to": "change_periodicity",
     },
     "resource_holder_names": {
         "split_values_by_re": SPLIT_PATTERN,
@@ -62,12 +64,22 @@ METADATA_RULES = {
     "resource_holder_logos": {
         "split_values_by_re": SPLIT_PATTERN,
     },
+    "other_titles_semicolon_separated_with_dates": {
+        "split_values_by_re": TITLES_SPLIT_PATTERN,
+    },
     "ocr_format_before_ingestion_in_impresso": {
         "rename_key_to": "ocr_format",
     },
     "uid": {
         "copy_value_from_field": "media_alias",
     },
+    "provenance_id": {
+        "z_fill_to_size_if_int": NUM_DIGITS_PROV_ID,
+    },
+    "free_text_description": {"rename_key_to": "description"},
+    "dhs_link_without_the_date_section_of_the_url": {"rename_key_to": "dhs_link"},
+    "wikipedia_page": {"rename_key_to": "wikipedia"},
+    "additional_sources_comma_separated_links": {"rename_key_to": "additional_sources"},
 }
 
 ACCESS_RIGHTS_RULES = {
@@ -123,9 +135,7 @@ MODELS_CHEATSHEET_RULES = {
     "s3_path_of_processed_data_path_s3_bucket_processing_label_processing_subtype_label_component_run_id_processing_step_provider_alias_media_alias_file_stem_jsonlbz2_": {
         "remove_key": ""
     },
-    "s3_partition_of_output_data_manifest_location": {
-        "rename_key_to": "processed_data_s3_path"
-    },
+    "s3_partition_of_output_data_manifest_location": {"rename_key_to": "processed_data_s3_path"},
     "computed_manifest": {"copy_value_from_field": "computed_manifest"},
     "comment": {"remove_key": ""},
 }
@@ -191,6 +201,12 @@ def transform_value(d: dict, gsheet_type: str) -> dict:
         if "rename_key_to" in rule:
             transformed[rule["rename_key_to"]] = transformed[key_with_rule]
             del transformed[key_with_rule]
+        if "z_fill_to_size_if_int" in rule:
+            # sometimes provenance IDs have leading 0s
+            if isinstance(transformed[key_with_rule], int):
+                num_digits = rule["z_fill_to_size_if_int"][transformed["partner_uid"]]
+                val = transformed[key_with_rule]
+                transformed[key_with_rule] = str.zfill(str(val), num_digits)
 
     return transformed
 

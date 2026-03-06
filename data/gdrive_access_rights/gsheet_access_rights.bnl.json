@@ -183,11 +183,11 @@
     "media_type": "Newspaper",
     "medium": "print",
     "content_and_metadata": "yes",
-    "copyright_status": "Protected Domain: In copyright",
-    "explore_req_status": "No restriction (all registered users allowed)",
-    "get_transcript_req_status": "Only Archive members",
-    "get_facsimile_req_status": "Only Archive members",
-    "allowed_use_archive_only": "Research"
+    "copyright_status": "Public Domain",
+    "explore_req_status": "",
+    "get_transcript_req_status": "",
+    "get_facsimile_req_status": "",
+    "allowed_use_archive_only": ""
   },
   {
     "": 12,

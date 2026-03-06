@@ -1,6 +1,7 @@
 {
     "excelsior": {
         "1910-1920": {
+            "ark_id": "cb32771891w",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "excelsior",
@@ -10,23 +11,24 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1910-1920) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1910-1920) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1910-1920) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1910-1920)",
+            "rights_statement_get_tr": "Public Domain (1910-1920)",
+            "rights_statement_get_img": "Public Domain (1910-1920)"
         }
     },
     "lafronde": {
         "1897-1929": {
+            "ark_id": "cb327788531",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "lafronde",
@@ -36,23 +38,24 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1897-1929) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1897-1929) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1897-1929) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1897-1929)",
+            "rights_statement_get_tr": "Public Domain (1897-1929)",
+            "rights_statement_get_img": "Public Domain (1897-1929)"
         }
     },
     "marieclaire": {
         "1937-1944": {
+            "ark_id": "cb343488519",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "marieclaire",
@@ -62,23 +65,24 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1937-1944) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1937-1944) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1937-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1937-1944)",
+            "rights_statement_get_tr": "Public Domain (1937-1944)",
+            "rights_statement_get_img": "Public Domain (1937-1944)"
         }
     },
     "oeuvre": {
         "1915-1944": {
+            "ark_id": "cb34429265b",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "oeuvre",
@@ -88,29 +92,30 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1915-1944) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1915-1944) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1915-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1915-1944)",
+            "rights_statement_get_tr": "Public Domain (1915-1944)",
+            "rights_statement_get_img": "Public Domain (1915-1944)"
         }
     },
     "jdpl": {
-        "1814-1885": {
+        "1814-1944": {
+            "ark_id": "cb39294634r",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "jdpl",
             "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
             "start_year": 1814,
-            "end_year": 1885,
+            "end_year": 1944,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -124,96 +129,23 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1814-1885)",
-            "rights_statement_get_tr": "Public Domain (1814-1885)",
-            "rights_statement_get_img": "Public Domain (1814-1885)"
-        },
-        "1886-1944": {
-            "already_shared_with_impresso": "yes",
-            "rights_holder_id": "BNF",
-            "title_alias": "jdpl",
-            "full_title": "Journal des d\u00e9bats politiques et litt\u00e9raires",
-            "start_year": 1886,
-            "end_year": 1944,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1886-1944) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1886-1944) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1886-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1814-1944)",
+            "rights_statement_get_tr": "Public Domain (1814-1944)",
+            "rights_statement_get_img": "Public Domain (1814-1944)"
         }
     },
     "legaulois": {
-        "1868-1885": {
+        "1868-1929": {
+            "ark_id": "cb32779904b",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "legaulois",
             "full_title": "Le Gaulois",
             "start_year": 1868,
-            "end_year": 1885,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1868-1885)",
-            "rights_statement_get_tr": "Public Domain (1868-1885)",
-            "rights_statement_get_img": "Public Domain (1868-1885)"
-        },
-        "1886-1929": {
-            "already_shared_with_impresso": "yes",
-            "rights_holder_id": "BNF",
-            "title_alias": "legaulois",
-            "full_title": "Le Gaulois",
-            "start_year": 1886,
             "end_year": 1929,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1886-1929) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1886-1929) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1886-1929) - Personal, Research and Educational use"
-        }
-    },
-    "lematin": {
-        "1884-1885": {
-            "already_shared_with_impresso": "yes",
-            "rights_holder_id": "BNF",
-            "title_alias": "lematin",
-            "full_title": "Le Matin",
-            "start_year": 1884,
-            "end_year": 1885,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
             "copyright_status": "Public Domain",
             "explore_req_status": "",
             "get_transcript_req_status": "",
@@ -224,43 +156,47 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1884-1885)",
-            "rights_statement_get_tr": "Public Domain (1884-1885)",
-            "rights_statement_get_img": "Public Domain (1884-1885)"
-        },
-        "1886-1942": {
+            "rights_statement_explore": "Public Domain (1868-1929)",
+            "rights_statement_get_tr": "Public Domain (1868-1929)",
+            "rights_statement_get_img": "Public Domain (1868-1929)"
+        }
+    },
+    "lematin": {
+        "1884-1942": {
+            "ark_id": "cb328123058",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "lematin",
             "full_title": "Le Matin",
-            "start_year": 1886,
+            "start_year": 1884,
             "end_year": 1942,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "In copyright (Protected Domain)",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1886-1942) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1886-1942) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1886-1942) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1884-1942)",
+            "rights_statement_get_tr": "Public Domain (1884-1942)",
+            "rights_statement_get_img": "Public Domain (1884-1942)"
         }
     },
     "lepji": {
-        "1884-1885": {
+        "1884-1920": {
+            "ark_id": "cb32836564q",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "lepji",
             "full_title": "Le Petit Journal Illustr\u00e9 - Suppl\u00e9ement du dimanche",
             "start_year": 1884,
-            "end_year": 1885,
+            "end_year": 1920,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -274,43 +210,20 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1884-1885)",
-            "rights_statement_get_tr": "Public Domain (1884-1885)",
-            "rights_statement_get_img": "Public Domain (1884-1885)"
-        },
-        "1886-1920": {
-            "already_shared_with_impresso": "yes",
-            "rights_holder_id": "BNF",
-            "title_alias": "lepji",
-            "full_title": "Le Petit Journal Illustr\u00e9 - Suppl\u00e9ement du dimanche",
-            "start_year": 1886,
-            "end_year": 1920,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1886-1920) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1886-1920) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1886-1920) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1884-1920)",
+            "rights_statement_get_tr": "Public Domain (1884-1920)",
+            "rights_statement_get_img": "Public Domain (1884-1920)"
         }
     },
     "lepetitparisien": {
-        "1876-1885": {
+        "1876-1944": {
+            "ark_id": "cb34419111x",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "lepetitparisien",
             "full_title": "Le Petit Parisien",
             "start_year": 1876,
-            "end_year": 1885,
+            "end_year": 1944,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -324,37 +237,14 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1876-1885)",
-            "rights_statement_get_tr": "Public Domain (1876-1885)",
-            "rights_statement_get_img": "Public Domain (1876-1885)"
-        },
-        "1886-1944": {
-            "already_shared_with_impresso": "yes",
-            "rights_holder_id": "BNF",
-            "title_alias": "lepetitparisien",
-            "full_title": "Le Petit Parisien",
-            "start_year": 1886,
-            "end_year": 1944,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1886-1944) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1886-1944) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1886-1944) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1876-1944)",
+            "rights_statement_get_tr": "Public Domain (1876-1944)",
+            "rights_statement_get_img": "Public Domain (1876-1944)"
         }
     },
     "oecaen": {
         "1912-1942": {
+            "ark_id": "cb41193642z",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "oecaen",
@@ -364,23 +254,24 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1912-1942) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1912-1942) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1912-1942) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1912-1942)",
+            "rights_statement_get_tr": "Public Domain (1912-1942)",
+            "rights_statement_get_img": "Public Domain (1912-1942)"
         }
     },
     "oerennes": {
         "1899-1942": {
+            "ark_id": "cb32830550k",
             "already_shared_with_impresso": "yes",
             "rights_holder_id": "BNF",
             "title_alias": "oerennes",
@@ -390,19 +281,19 @@
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "No restriction (all registered users allowed)",
-            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
             "allowed_use_archive_only": "",
             "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1899-1942) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1899-1942) - Personal, Research and Educational use",
-            "rights_statement_get_img": "Protected (1899-1942) - Personal, Research and Educational use"
+            "rights_statement_explore": "Public Domain (1899-1942)",
+            "rights_statement_get_tr": "Public Domain (1899-1942)",
+            "rights_statement_get_img": "Public Domain (1899-1942)"
         }
     }
 }
