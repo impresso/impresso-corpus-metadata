@@ -1,0 +1,648 @@
+{"media_alias": "ACI", "media_title": "Almanach pour le commerce", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Castigat", "media_title": "Castigat ridendo mores", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CL", "media_title": "Courrier du Léman", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Croquis", "media_title": "Croquis vaudois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAMDE", "media_title": "Feuille d'avis de Moudon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAN", "media_title": "Feuille d'avis de Nyon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "feuilleP", "media_title": "Feuille d'avis de Payerne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "feuillePMA", "media_title": "Feuille d'avis de Payerne, Moudon et Avenches", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "GAVi", "media_title": "Gazette des Villages", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AV", "media_title": "Indicateur de Lausanne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JY2", "media_title": "Journal d'Yverdon 2", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JV", "media_title": "Journal de Vevey", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JVE", "media_title": "Journal de Vevey et des étrangers", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JH", "media_title": "Journal helvétique", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "OBS", "media_title": "L'Observateur du Léman", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Bombe", "media_title": "La Bombe", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Cancoire", "media_title": "La Cancoire", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Fronde", "media_title": "La Fronde", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Griffe", "media_title": "La Griffe", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Guepe1851", "media_title": "La Guêpe [1]", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Guepe1887", "media_title": "La Guêpe [2]", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RLA", "media_title": "La revue agricole", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Charivari", "media_title": "Le Charivari [1]", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CharivariCH", "media_title": "Le Charivari [2]", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Grelot", "media_title": "Le Grelot", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Moniteur", "media_title": "Le Moniteur", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Moustique", "media_title": "Le Moustique (Vevey)", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ouistiti", "media_title": "Le Ouistiti", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PDN", "media_title": "Le Phare de Nyon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PDL", "media_title": "Le Phare du Léman", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PJ", "media_title": "Le Père Jérôme", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "TouSuIl", "media_title": "Le Touriste - La Suisse illustrée", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "VVS1", "media_title": "Le Veveysan 1", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MESSAGER", "media_title": "Le Messager", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PS", "media_title": "Le Peuple Souverain", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NV", "media_title": "L’ami de la vérité - Journal du Canton de Vaud", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ME", "media_title": "Mercure Suisse", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MB", "media_title": "Messager Boîteux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NS", "media_title": "Nouvelliste Suisse", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RN", "media_title": "Bulletins du Grand Conseil", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAM", "media_title": "Feuille d'avis de Morges 1", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAV1", "media_title": "Feuille d'avis de Vevey 1", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "EM", "media_title": "L'Echo de Morges", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "esta", "media_title": "L'Estafette Journal suisse", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PAT", "media_title": "La Veveysanne - La Patrie (La Patrie)", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "VVS", "media_title": "La Veveysanne - La Patrie (La Veveysanne)", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NV1", "media_title": "Le Nouvelliste vaudois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NV2", "media_title": "Nouvelliste vaudois et journal national suisse", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RN1", "media_title": "Repertoires de Bulletins du Grand Conseil", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RN2", "media_title": "Travaux des Constituantes", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ABal", "media_title": "Almanach Balthasar", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AChal", "media_title": "Almanach de Chalamala", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ALT", "media_title": "Arrêtez-les tous !", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CHU", "media_title": "Chut", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CONF", "media_title": "Confiance", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CM", "media_title": "Courrier de la Montagne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CLey", "media_title": "Courrier de Leysin", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "COVE", "media_title": "Courrier de Vevey", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAA", "media_title": "Feuille d'avis d'Aigle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAAV", "media_title": "Feuille d'avis d'Avenches", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAOR", "media_title": "Feuille d'avis d'Orbe", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAG", "media_title": "Feuille d'avis de Grandson", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAC", "media_title": "Feuille d'avis de la Côte", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAMX", "media_title": "Feuille d'avis de Montreux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAM2", "media_title": "Feuille d'avis de Morges 2 / L'Ami de Morges", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FASC", "media_title": "Feuille d'avis de Sainte-Croix", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FACLG", "media_title": "Feuille d'avis des cercles de Lucens et Granges", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "BIMG", "media_title": "Gland - Bulletin d'information municipal", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "GLEC", "media_title": "Gland Eco/Gland Cité", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "GER", "media_title": "Gribouille et Redzipet", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JCOP", "media_title": "Journal - Feuille d'avis de Coppet", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JCO ", "media_title": "Journal de Chateau -d'Oex", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JLI", "media_title": "Journal de l'Isle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JLS", "media_title": "Journal de la Sarraz", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JL", "media_title": "Journal de Leysin", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JOM", "media_title": "Journal de Montreux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JPU", "media_title": "Journal de Pully", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JBM", "media_title": "Journal des Brandons de Moudon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JAVE", "media_title": "Journal du district d'Avenches", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JLEM", "media_title": "Journal et liste des étrangers de Montreux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JOV", "media_title": "Journal officiel de Vevey", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ARB", "media_title": "L'Arbalète", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ECR", "media_title": "L'Echo du Rhône", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ETER", "media_title": "L’Éternité", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ETIN", "media_title": "L'Etincelle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CREC", "media_title": "La Crécelle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "DETO", "media_title": "La détonation", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FDL", "media_title": "La Fronde de Lausanne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MARG", "media_title": "La Marge", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MOU", "media_title": "La Mouette", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RLP", "media_title": "La Petite revue", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "POM", "media_title": "La Pomme", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RL", "media_title": "La Revue de Lausanne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RLD", "media_title": "La Revue dimanche", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "TDM", "media_title": "La Tribune de Montreux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "TRVE", "media_title": "La Tribune de Vevey", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "VAG", "media_title": "La Vague", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "VPV", "media_title": "La voix du peuple vaudois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RLS", "media_title": "Lausanne-Soir", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "BIST", "media_title": "Le Bistouri", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Rollan1", "media_title": "Le Bon jour de Jack Rollan", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Rollan2", "media_title": "Le Bonjour de Jack Rollan (2)", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CLib", "media_title": "Le Canard libre", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CRit", "media_title": "Le Canard rit", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CLN", "media_title": "Le Clairon du Nord", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "COPU", "media_title": "Le Courrier de Prilly", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "DPA", "media_title": "Le Démocrate de Payerne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FRON", "media_title": "Le Frondeur", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JOR", "media_title": "Le Jorat", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "KANG", "media_title": "Le Kangourou", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MA ", "media_title": "Le Magazine", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MOU2", "media_title": "Le Moustique (Lausanne)", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PT", "media_title": "Le Passe-Temps", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PEP", "media_title": "Le Petit Paysan - Région Evasion", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PDech", "media_title": "Le poisson déchaîné", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PCO", "media_title": "Le Progrès de Château d'Oex", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PMorg", "media_title": "Le Progrès de Morges", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "SEM", "media_title": "Le Semeur", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "VVS2", "media_title": "Le Veveysan 2", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ALP", "media_title": "Les Alpes vaudoises", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "LEB", "media_title": "Liste des étrangers de Bex", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MEP", "media_title": "Mépris", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MH", "media_title": "Morges actualité - Morges Hebdo", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NRev", "media_title": "Nouvelle revue", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NRL", "media_title": "Nouvelle revue de Lausanne et du Pays de Vaud", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NRH", "media_title": "Nouvelle revue hebdo", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "OUI ", "media_title": "Ouest Informations", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PI", "media_title": "Pages Illustrées", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PLF", "media_title": "Pour la famille", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PL ", "media_title": "Presse Lausannoise", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PN", "media_title": "Prilly Nouveau", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "PV", "media_title": "Propos vaudois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "REC", "media_title": "Reflets de la Côte", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RMorg", "media_title": "Revue morgienne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RPR", "media_title": "Revue photo-rigolotipique", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "YRE", "media_title": "Yverdon Revue / Flash Revue", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AS", "media_title": "Allez savoir!", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AQCMJ", "media_title": "Aux quatre coins du Mont", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "BN", "media_title": "Bonne nouvelle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CLOEIL", "media_title": "Clin d'Oeil", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CC", "media_title": "Courrier de la Côte", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "croire", "media_title": "Croire / Ensemble", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "DP ", "media_title": "Domaine public", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ECM", "media_title": "Echo de la Montagne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "RDRG", "media_title": "Echo du Petit-Lac/Rive droite Rive gauche", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAB1", "media_title": "Feuille d'avis de Bière 1", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAB2", "media_title": "Feuille d'avis de Bière 2", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "FAVA", "media_title": "Feuille d'avis de Vallorbe", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JA ", "media_title": "Journal d'Aubonne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JBEX", "media_title": "Journal de Bex", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JB", "media_title": "Journal de Bussigny", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JC", "media_title": "Journal de Cossonay", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JM", "media_title": "Journal de Morges", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JMOU", "media_title": "Journal de Moudon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JN", "media_title": "Journal de Nyon", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JPA", "media_title": "Journal de Payerne", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JP", "media_title": "Journal de Prilly", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JR", "media_title": "Journal de Rolle", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JoVA", "media_title": "Journal de Vallorbe", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JDC", "media_title": "Journal du Chablais", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JPE", "media_title": "Journal du Pays d'Enhaut", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AVVE", "media_title": "L'Avenir de Vevey", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ECHO", "media_title": "L'Echo", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ECHOB", "media_title": "L'Echo de la Broye", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ECHOGV", "media_title": "L'Echo du Gros-de-Vaud", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "ER", "media_title": "L'Echo rollois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "EVE", "media_title": "L'Eveil", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "OMN", "media_title": "L'Omnibus", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "BROYE", "media_title": "La Broye / Broye Hebdo", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "LC", "media_title": "La Côte", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "NAT", "media_title": "La Nation", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "COTT", "media_title": "Le Cotterg", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "CBJ", "media_title": "Le Courrier de la Broye et du Jorat", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "Rollan3", "media_title": "Le Journal de Jack Rollan", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "JURV", "media_title": "Le Jura vaudois", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "MEM", "media_title": "Messager de Montreux", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "TV", "media_title": "Terre vuilleraine", "provider_alias": "BCUL", "provider_name": "Bibliothèque Cantonale Universitaire de Lausanne (BCUL)"}
+{"media_alias": "AATA", "media_title": "The Agricultural Advertiser and Tenant-Farmers' Advocate", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "AGE52", "media_title": "The Age 1852", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "AGMO", "media_title": "The Anti-Gallican Monitor", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "AHEC", "media_title": "Alston Herald and East Cumberland Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ALBN", "media_title": "The Albion", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ALST", "media_title": "The Albion and the Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ANJO", "media_title": "Aberdeen Press and Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ANWT", "media_title": "The Atherstone, Nuneaton, and Warwickshire Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ARGB", "media_title": "The Argus, or, Broad-sheet of the Empire", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "AUBO", "media_title": "The Aurora Borealis", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BBLT", "media_title": "Bridport, Beaminster, and Lyme Regis Telegram", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BCE1", "media_title": "The Beacon (Edinburgh)", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BCL2", "media_title": "The Beacon (London)", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BDPO", "media_title": "Birmingham Daily Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BEHI", "media_title": "The Bee-Hive", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BELL", "media_title": "Bell's News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BFNP", "media_title": "Bell's Family Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BGCH", "media_title": "Bridgend Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BGFP", "media_title": "The Borough of Greenwich Free Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BGJO", "media_title": "Bargoed Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BHCH", "media_title": "The Bath Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BHFA", "media_title": "The Barrow Herald and Furness Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BKNW", "media_title": "The Birkenhead News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BLHD", "media_title": "The Blackpool Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BLMY", "media_title": "The Bristol Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BLOT", "media_title": "The Ballot", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BLSD", "media_title": "The Blackburn Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BLWJ", "media_title": "Baldwin's London Weekly Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BNER", "media_title": "Baner ac Amserau Cymru", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BNPT", "media_title": "The Bury and Norwich Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BNWL", "media_title": "The Belfast News-Letter", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BPDH", "media_title": "Bell's Penny Dispatch", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BPHF", "media_title": "Berthold's Political Handkerchief", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BQGA", "media_title": "Bridlington and Quay Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRAD", "media_title": "British Army Despatch", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRBN", "media_title": "The British Banner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BREM", "media_title": "The British Emancipator", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BREN", "media_title": "The British Ensign", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRGA", "media_title": "Brighouse & Rastrick Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRIF", "media_title": "Brief", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRLB", "media_title": "The British Liberator", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRLU", "media_title": "The British Luminary", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRMG", "media_title": "British Miner and General Newsman", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRMW", "media_title": "British Mercury or Wednesday Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRNP", "media_title": "The British Neptune", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BROR", "media_title": "Bradford Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRPR", "media_title": "The British Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRPT", "media_title": "Brighton Patriot", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRSS", "media_title": "The British Statesman", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRST", "media_title": "The British Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BRTB", "media_title": "The Brunswick, or, True Blue", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BTEP", "media_title": "Barnsley Telephone", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BWNW", "media_title": "Blandford Weekly News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "BWTE", "media_title": "The Blandford and Wimborne Telegram", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CBEP", "media_title": "Cobbett's Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CCEX", "media_title": "The Cannock Chase Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CCGZ", "media_title": "The Crim. Con. Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CCWA", "media_title": "The Colonist and Commercial Weekly Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CFTM", "media_title": "The Cotton Factory Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CGFG", "media_title": "The Court Gazette and Fashionable Guide", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CGGA", "media_title": "The Central Glamorgan Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHOR", "media_title": "Cheshire Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHPL", "media_title": "The Champion (London)", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHPN", "media_title": "The Champion", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHSO", "media_title": "Cradley Heath & Stourbridge Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHTI", "media_title": "Christian Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHTR", "media_title": "The Charter", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CHTT", "media_title": "The Chartist", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CICN", "media_title": "The City Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CKTC", "media_title": "Charles Knight's Town & Country Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CLDF", "media_title": "The Clerkenwell Dial and Finsbury Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CLNW", "media_title": "Colored News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CLTP", "media_title": "City of London Trade Protection Circular", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CMCH", "media_title": "The Commercial Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CMGA", "media_title": "The Civil & Military Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CMSN", "media_title": "Common Sense", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CNMR", "media_title": "Caledonian Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CNSN", "media_title": "The Constitution", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "COGE", "media_title": "Royal Cornwall Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "COUR", "media_title": "The Courier", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CPAD", "media_title": "Chelsea & Pimlico Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CRWN", "media_title": "The Crown", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CSMP", "media_title": "The Cosmopolitan", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CSTT", "media_title": "The Censor or Satirical Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CWPG", "media_title": "Cleave's Weekly Police Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "CWPR", "media_title": "Cobbett's Weekly Political Register", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DCEA", "media_title": "Dorset County Express and Agricultural Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DCWR", "media_title": "Dewsbury Chronicle and West Riding Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DDEN", "media_title": "The Daily Director and Entr'acte", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DDIS", "media_title": "Duckett's Dispatch", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DGMH", "media_title": "Daily Gazette For Middlesbrough", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DHEX", "media_title": "Denton and Haughton Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DJWN", "media_title": "Douglas Jerrold's Weekly Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DNLN", "media_title": "Daily News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DPLT", "media_title": "Daily Politician", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DRHE", "media_title": "Darlington & Richmond Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DSNR", "media_title": "The Dissenter", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DUCR", "media_title": "Dundee Courier", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "DYMR", "media_title": "Derby Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EAST", "media_title": "The Eastern Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EAWN", "media_title": "East Wind", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ECLA", "media_title": "The Emigrant and the Colonial Advocate", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ECWP", "media_title": "The English Chronicle and Whitehall Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ELAD", "media_title": "East London Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ENGL", "media_title": "The Englishman", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ERLN", "media_title": "The Era", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ERTG", "media_title": "The East Riding Telegraph", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ESSD", "media_title": "The Essex Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EVST", "media_title": "The Evening Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EVT25", "media_title": "The Evening Times 1825", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EVTL", "media_title": "The Evening Times (London)", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EXLN", "media_title": "The Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "EXPR", "media_title": "The Express", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FBFC", "media_title": "Fleming's British Farmers' Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FFPR", "media_title": "Finsbury Free Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FMNW", "media_title": "Francis's Metropolitan News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FODE", "media_title": "The Forest of Dean Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FONU", "media_title": "Fonetic Nuz", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FRJO", "media_title": "Freeman's Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "FWEX", "media_title": "Fleming's Weekly Express", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GCLN", "media_title": "The Graphic", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GEVP", "media_title": "The General Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GLAD", "media_title": "Y Goleuad", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GLCH", "media_title": "The Glasgow Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GLCO", "media_title": "Glasgow Courier", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GLSE", "media_title": "Glasgow Sentinel", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GNDL", "media_title": "Y Genedl Gymreig", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GOTM", "media_title": "Golden Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "GWHD", "media_title": "Glasgow Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HAGZ", "media_title": "Haslingden Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HBOV", "media_title": "The Hebrew Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HLCM", "media_title": "Halifax Comet", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HLLN", "media_title": "High Life in London", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HLPA", "media_title": "Hull Packet", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HMSA", "media_title": "The Hammersmith Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HOUR", "media_title": "Hour", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HOWL", "media_title": "The Herald of Wales", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HPNW", "media_title": "The Illustrated Police News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HPTE", "media_title": "Hampshire Telegraph", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HTWD", "media_title": "Hetherington's Twopenny Dispatch", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HUCE", "media_title": "Huddersfield Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "HWCH", "media_title": "Holt's Weekly Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ICPG", "media_title": "Illustrated Crystal Palace Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ILNP", "media_title": "The Illustrated Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ILOL", "media_title": "Illustrated London Life", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ILT53", "media_title": "Illustrated Times 1853", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ILWT", "media_title": "Illustrated Weekly Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IMNW", "media_title": "Illustrated Midland News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IMTS", "media_title": "The Isle of Man Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IPJO", "media_title": "The Ipswich Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IREX", "media_title": "Irvine Express", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ISNT", "media_title": "Illustrated Sporting News and Theatrical and Musical Review", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ISTM", "media_title": "Islington Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ISWA", "media_title": "The Instructor and Select Weekly Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IWGZ", "media_title": "The Imperial Weekly Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "IWOR", "media_title": "Isle of Wight Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "JOJL", "media_title": "Oxford Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "JSMN", "media_title": "Johnson's Sunday Monitor", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "JWRC", "media_title": "Jewish Record", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "KEAD", "media_title": "Kenilworth Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "KTGA", "media_title": "The Kingsland Times and General Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LAGER", "media_title": "The Lancaster Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LCCR", "media_title": "The London Chronicle and Country Record", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LCHH", "media_title": "The London & China Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LCPP", "media_title": "Lloyd's Companion to the Penny Sunday Times and Peoples' Police Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LDGS", "media_title": "The London Daily Guide and Stranger's Companion", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LECH", "media_title": "Leicester Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LEMR", "media_title": "The Leeds Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LEVP", "media_title": "The London Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LFPR", "media_title": "The London Free Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LHPN", "media_title": "London Halfpenny Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LHTC", "media_title": "The Lancaster Herald and Town and County Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LIAL", "media_title": "The Liverpool Albion", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LINP", "media_title": "Lloyd's Weekly Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LITG", "media_title": "The Liverpool Telegraph", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LIVC", "media_title": "The Liverpool Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LIWL", "media_title": "The London Illustrated Weekly", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LJGA", "media_title": "London Journal and General Advertiser for Town and Country", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LJPN", "media_title": "The London Journal and Pioneer Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LLAD", "media_title": "The London and Liverpool Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LMNA", "media_title": "London Moderator and National Adviser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNCH", "media_title": "The London Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNDH", "media_title": "London Dispatch", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNLF", "media_title": "London Life", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNM1", "media_title": "The London Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNM2", "media_title": "The London Mercury 1836", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNM3", "media_title": "The London Mercury 1847", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNPC", "media_title": "The London News Letter and Price Current", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LNPT", "media_title": "The Lady's Newspaper and Pictorial Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LONM", "media_title": "The London Mirror", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LOPA", "media_title": "The Lady's Own Paper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LOPH", "media_title": "The London Phalanx", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LPNGA", "media_title": "London & Provincial News and General Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LPNL", "media_title": "The London Packet and New Lloyd's Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LRNW", "media_title": "London Railway Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LSCA", "media_title": "Lancaster Standard and County Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LSCR", "media_title": "The London and Scottish Review", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LSCT", "media_title": "The London Scotsman", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LSGA", "media_title": "Liverpool Standard and General Commercial Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LSIR", "media_title": "Leeds Intelligencer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LTIM", "media_title": "The Little Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LTLG", "media_title": "The London Telegraph", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LVMR", "media_title": "Liverpool Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LWC", "media_title": "Liverpool Weekly Courier", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "LWI", "media_title": "The London Weekly Investigator", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MATN", "media_title": "The Man about Town", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MCLN", "media_title": "Morning Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MEWT", "media_title": "The Midland Examiner and Wolverhampton Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MEXA", "media_title": "Manchester Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MNTM", "media_title": "The Monthly Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MOGA", "media_title": "The Morning Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MOMA", "media_title": "The Morning Mail", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MOPT", "media_title": "Morning Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MRHD", "media_title": "Morning Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MRTM", "media_title": "Manchester Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MRTT", "media_title": "Mirror of the Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "MTPN", "media_title": "The Metropolitan", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NATN", "media_title": "The Nation", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NCCO", "media_title": "Nelson Chronicle, Colne Observer and Clitheroe Division News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NCEF", "media_title": "Nonconformist Elector", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NCGA", "media_title": "New Court Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NCRF", "media_title": "The North Cumberland Reformer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NDTM", "media_title": "The Northern Daily Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NECT", "media_title": "The Newcastle Courant", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NGLB", "media_title": "The New Globe", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NLON", "media_title": "The North Londoner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NLRD", "media_title": "North London Record", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NOGN", "media_title": "The Nottinghamshire Guardian", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NOGU", "media_title": "The Northern Guardian", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NREC", "media_title": "Northern Echo", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NRLR", "media_title": "Northern Liberator", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NRSR", "media_title": "Northern Star and Leeds General Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NRWC", "media_title": "North Wales Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NSCS", "media_title": "Nantwich, Sandbach & Crewe Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NTNL", "media_title": "The National", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NTPR", "media_title": "The National Protector", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NTRG", "media_title": "National Register", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NTSD", "media_title": "The National Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NUNT", "media_title": "The Nuneaton Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NWGZ", "media_title": "Northern Weekly Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NWLT", "media_title": "The North-West London Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NWTM", "media_title": "New Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "NWTS", "media_title": "The New Weekly True Sun", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "OBTM", "media_title": "The Observer of the Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ODFW", "media_title": "The Odd Fellow", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "OKJL", "media_title": "Orr's Kentish Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "OLEN", "media_title": "Old England", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "OPTE", "media_title": "The Operative", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "ORDA", "media_title": "The Oracle and the Daily Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PADV", "media_title": "The Paddington Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PATR", "media_title": "The Patriot", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PDHD", "media_title": "The Pontypridd District Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PELL", "media_title": "Pierce Egan's Life in London, and Sporting Guide", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PHCW", "media_title": "The People's Hue and Cry or Weekly Police Register", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PICT", "media_title": "Pictorial Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PITM", "media_title": "Picture Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PLDM", "media_title": "The Palladium", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PLNT", "media_title": "The Planet", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PLOB", "media_title": "The Political Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PLTO", "media_title": "The Pilot", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PMGU", "media_title": "The Poor Man's Guardian", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PMGZ", "media_title": "The Pall Mall Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PNCH", "media_title": "The Preston Chronicle and Lancashire Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PNPC", "media_title": "Pen and Pencil", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "POEX", "media_title": "The Potteries Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "POLL", "media_title": "The Political Letter", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PORC", "media_title": "The Porcupine", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "POTG", "media_title": "Poole Telegram", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PPLP", "media_title": "The People's Paper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PRPL", "media_title": "Preston Pilot", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PSEV", "media_title": "Passing Events", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PSHE", "media_title": "Penistone, Stocksbridge and Hoyland Express", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PUCA", "media_title": "The Public Cause", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "PWRM", "media_title": "The Pioneer and Weekly Record of Movements", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RADL", "media_title": "The Radical", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RBLD", "media_title": "The Railway Bell and London Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RDNP", "media_title": "Reynold's Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "REFM", "media_title": "The Reformer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "REPR", "media_title": "The Representative", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RIOB", "media_title": "Ripon Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RUEX", "media_title": "Runcorn Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "RYRK", "media_title": "Royal York", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SATR", "media_title": "The Satirist; or, the Censor of the Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SCPR", "media_title": "The Sun & Central Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SDLN", "media_title": "The Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SEGL", "media_title": "The Sunday Evening Globe", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SESD", "media_title": "The Stockton Examiner and South Durham and North Yorkshire Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SGCV", "media_title": "The Slaithwaite Guardian and Colne Valley News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SGHL", "media_title": "Swansea and Glamorgan Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHCA", "media_title": "Surrey Herald and County Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHEP", "media_title": "The St. Helens Examiner, and Prescot Weekly News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHIN", "media_title": "The Sheffield Independent", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHPA", "media_title": "Sheffield Public Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHRE", "media_title": "The Shropshire Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SHSD", "media_title": "Stockton Herald, South Durham and Cleveland Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SJCH", "media_title": "The Saint James's Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SJWL", "media_title": "Swansea Journal and South Wales Liberal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SLAD", "media_title": "South London Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SLTL", "media_title": "South London Times and Lambeth Observer", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SMHE", "media_title": "The Sunday Morning Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SMSD", "media_title": "Surrey & Middlesex Standard", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SNSR", "media_title": "Southern Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SOFR", "media_title": "The Standard of Freedom", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SOHD", "media_title": "The Hampshire Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SPRT", "media_title": "Sport", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SSCH", "media_title": "The Sussex & Surrey Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SSEX", "media_title": "The South Staffordshire Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "STEX", "media_title": "Stalybridge Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "STGY", "media_title": "The Star", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "STUE", "media_title": "Stretford and Urmston Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SUGA", "media_title": "Sunday Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SUNW", "media_title": "Sunday News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SURY", "media_title": "Surrey Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SWME", "media_title": "Southwark Mercury", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "SWRJ", "media_title": "Sainsbury's Weekly Register and Advertising Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TALN", "media_title": "The Age (London)", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TCAA", "media_title": "Town and Country Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TCDN", "media_title": "Town & Country Daily Newspaper", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TDAY", "media_title": "The Day", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TDIA", "media_title": "The Dial", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TEFP", "media_title": "Exeter Flying Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TFPR", "media_title": "The Trades' Free Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "THML", "media_title": "The Tower Hamlets Mail", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TIGA", "media_title": "The Tichborne Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TMEW", "media_title": "The Tamworth Miners' Examiner and Working Men's Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TNAJ", "media_title": "The Tichborne News and Anti-Oppression Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TNEW", "media_title": "The News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TONI", "media_title": "Thacker's Overland News for India and the Colonies", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TPRD", "media_title": "Trade Protection Record", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TPRS", "media_title": "The Press", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TRBT", "media_title": "The True Briton", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TRSN", "media_title": "The True Sun", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TSUN", "media_title": "The Sun", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TTK22", "media_title": "Town Talk 1822", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TTLK", "media_title": "Town Talk", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "TUNI", "media_title": "The Union", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "UNIV", "media_title": "The Universe", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "VERL", "media_title": "The Verulam", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "VIND", "media_title": "The Vindicator", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WAEX", "media_title": "The Warrington Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WAHD", "media_title": "The Warwickshire Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WBGZ", "media_title": "Wooler's British Gazette", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WDEX", "media_title": "Widnes Examiner", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WENW", "media_title": "The West End News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WFSC", "media_title": "The World and Fashionable Sunday Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WGMC", "media_title": "The Wellington Gazette and Military Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WHEP", "media_title": "Whitehall Evening Post", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WJBS", "media_title": "Westminster Journal and Old British Spy", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKAD", "media_title": "The Weekly Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKCH", "media_title": "The Weekly Chronicle", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKEC", "media_title": "The Weekly Echo", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKGB", "media_title": "The Weekly Globe", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKIN", "media_title": "The Weekly Independent", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKIT", "media_title": "The Weekly Intelligence", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKJL", "media_title": "The Weekly Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKML", "media_title": "The Weekly Mail", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKNW", "media_title": "The Week's News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKRV", "media_title": "The Weekly Review", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKTN", "media_title": "Weekly Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WKTS", "media_title": "Weekly True Sun", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WLSA", "media_title": "West Londoner and Select Advertiser for the Borough of Marylebone", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WLTM", "media_title": "The West London Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WMCF", "media_title": "Western Mail", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WMTG", "media_title": "The Weymouth Telegram", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WMTM", "media_title": "The Westminster Times", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WOJL", "media_title": "Berrow's Worcester Journal", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WRLD", "media_title": "The World", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WRWA", "media_title": "Wrexham Advertiser", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WSBN", "media_title": "The Weekly Star and Bell's News", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "WTCH", "media_title": "The Watchman", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "YOHD", "media_title": "The York Herald", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "YOHP", "media_title": "York House Papers", "provider_alias": "BL", "provider_name": "British Library"}
+{"media_alias": "excelsior", "media_title": "Excelsior", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "jdpl", "media_title": "Journal des débats politiques et littéraires", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "lafronde", "media_title": "La Fronde", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "legaulois", "media_title": "Le Gaulois", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "lematin", "media_title": "Le Matin", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "lepetitparisien", "media_title": "Le Petit Parisien", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "lepji", "media_title": "Le Petit Journal", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "marieclaire", "media_title": "Marie-Claire", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "oecaen", "media_title": "L'Ouest-Éclair (Caen)", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "oerennes", "media_title": "L'Ouest-Éclair (Rennes)", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "oeuvre", "media_title": "L'Œuvre (Paris)", "provider_alias": "BNF", "provider_name": "Bibliothèque nationale de France (BNF)"}
+{"media_alias": "BDC", "media_title": "Bulletin des séances de la Constituante", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "CDV", "media_title": "Courrier du Valais", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "DLE", "media_title": "Der Landbote des freiburgischen Seebezirks", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "EDA", "media_title": "L’Écho des Alpes", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "JDF", "media_title": "Journal du canton de Fribourg", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "JDV", "media_title": "Le Journal du Valais", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "LBP", "media_title": "Le Bien public", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LCR", "media_title": "Le Chroniqueur", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LCS", "media_title": "Le Courrier fribourgeois", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LNF", "media_title": "Le Narrateur fribourgeois", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LSR", "media_title": "L’Observateur", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "LTF", "media_title": "La Tribune de Fribourg", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LVE", "media_title": "Le Véridique", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "LSE", "media_title": "Le Peuple, La Sentinelle", "provider_alias": "SNL", "provider_name": "Bibliothèque de la Ville La Chaux-de-Fonds"}
+{"media_alias": "EXP", "media_title": "L'Express", "provider_alias": "SNL", "provider_name": "ArcInfo"}
+{"media_alias": "LES", "media_title": "L'Essor", "provider_alias": "SNL", "provider_name": "Bibliothèque de la Ville La Chaux-de-Fonds"}
+{"media_alias": "IMP", "media_title": "L'Impartial", "provider_alias": "SNL", "provider_name": "ArcInfo"}
+{"media_alias": "LCE", "media_title": "Confédéré", "provider_alias": "SNL", "provider_name": "Le Confédéré"}
+{"media_alias": "LCG", "media_title": "Le Confédéré de Fribourg", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "JDG", "media_title": "Journal de Genève", "provider_alias": "SNL", "provider_name": "Ringier Le Temps"}
+{"media_alias": "GDL", "media_title": "Gazette de Lausanne", "provider_alias": "SNL", "provider_name": "Ringier Le Temps"}
+{"media_alias": "NZZ", "media_title": "Neue Zürcher Zeitung", "provider_alias": "NZZ", "provider_name": "NZZ"}
+{"media_alias": "armeteufel", "media_title": "Arme Teufel", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "actionfem", "media_title": "L'Action féminine", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "avenirgdl", "media_title": "L'avenir", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "buergerbeamten", "media_title": "Bürger- und Beamten-Zeitung", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "courriergdl", "media_title": "Courrier du Grand-Duché de Luxembourg", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "deletz1893", "media_title": "De Letzeburger", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "demitock", "media_title": "De Mitock e Wocheblad fir Jux an Zodi", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "diekwochen", "media_title": "Diekircher Wochenblatt", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "dunioun", "media_title": "D'Unio'n", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "gazgrdlux", "media_title": "Gazette du Grand-Duché de Luxembourg", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "indeplux", "media_title": "L'indépendance luxembourgeoise", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "kommmit", "media_title": "Komm mit mir!", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "landwortbild", "media_title": "Luxemburger Land in Wort und Bild", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "luxland", "media_title": "d'Letzeburger Land", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "luxzeit1844", "media_title": "Luxemburger Zeitung", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "luxzeit1858", "media_title": "Luxemburger Zeitung - Journal de Luxembourg", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "luxwort", "media_title": "Luxemburger Wort", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "obermosel", "media_title": "Obermosel-Zeitung", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "onsjongen", "media_title": "Ons Jongen", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "schmiede", "media_title": "Schmiede", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "volkfreu1869", "media_title": "Volksfreund", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "tageblatt", "media_title": "Escher Tageblatt", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "lunion", "media_title": "L'Union", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "waechtersauer", "media_title": "Der Wächter an der Sauer", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "waeschfra", "media_title": "D'Wäschfra", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "luxembourg1935", "media_title": "Luxembourg (1935)", "provider_alias": "BNL", "provider_name": "Bibliothèque Nationale du Luxembourg"}
+{"media_alias": "BLB", "media_title": "Bündner Landbote", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Graubünden"}
+{"media_alias": "BNN", "media_title": "Bündner Nachrichten", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Graubünden"}
+{"media_alias": "DFS", "media_title": "Wochenblatt für die vier löblichen Kantone Ury, Schwytz, Unterwalden und Zug", "provider_alias": "SNL", "provider_name": "Bibliothek Zug"}
+{"media_alias": "DVF", "media_title": "Der Volksfreund", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Graubünden"}
+{"media_alias": "EZR", "media_title": "Der Erzähler", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "FZG", "media_title": "Freiburger Nachrichten", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "HRV", "media_title": "Der helvetische Volksfreund", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "LAB", "media_title": "Der Liberale Alpenbote", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Graubünden"}
+{"media_alias": "LLE", "media_title": "La Liberté", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "MGS", "media_title": "Der Morgenstern", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Graubünden"}
+{"media_alias": "NTS", "media_title": "Neues Tagblatt aus der östlichen Schweiz", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "NZG", "media_title": "Neue Zuger Zeitung (II)", "provider_alias": "SNL", "provider_name": "Bibliothek Zug"}
+{"media_alias": "SGZ", "media_title": "St.Galler Zeitung", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "SRT", "media_title": "Schweizerische Tag-Blätter", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "WHD", "media_title": "Der Wahrheitsfreund", "provider_alias": "SNL", "provider_name": "Kantonsbibliothek Vadiana"}
+{"media_alias": "ZBT", "media_title": "Der Zugerbieter", "provider_alias": "SNL", "provider_name": "Bibliothek Zug"}
+{"media_alias": "CON", "media_title": "La Contrée", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "DTT", "media_title": "Die Tat", "provider_alias": "SNL", "provider_name": "BCU Fribourg"}
+{"media_alias": "FCT", "media_title": "La FCTA", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "GAV", "media_title": "Gazette du Valais / Nouvelle gazette du Valais", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "GAZ", "media_title": "Gazette du Simplon", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "LLS", "media_title": "La lutte syndicale", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "OIZ", "media_title": "Die Gewerkschaft", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "SAX", "media_title": "Journal de Saxon", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "SDT", "media_title": "Solidarité", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "SMZ", "media_title": "SMUV-Zeitung", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "VDR", "media_title": "La Voix du Rhône", "provider_alias": "SNL", "provider_name": "Médiathèque Valais"}
+{"media_alias": "VHT", "media_title": "VHTL-Zeitung", "provider_alias": "SNL", "provider_name": "Schweizerisches Sozialarchiv"}
+{"media_alias": "CFCE", "media_title": "C’est en France, c’est en Europe", "provider_alias": "INA", "provider_name": "Institut National de L'audiovisuel (INA)"}
+{"media_alias": "RDN", "media_title": "La ronde des nations", "provider_alias": "INA", "provider_name": "Institut National de L'audiovisuel (INA)"}
+{"media_alias": "arbeitgeber", "media_title": "Schweizer Arbeitgeber", "provider_alias": "SWA", "provider_name": "Schweizerische Wirtschaftsarchiv (SWA)"}
+{"media_alias": "handelsztg", "media_title": "Schweizerische Handels-Zeitung", "provider_alias": "SWA", "provider_name": "Schweizerische Wirtschaftsarchiv (SWA)"}
+{"media_alias": "FedGazDe", "media_title": "Bundesblatt", "provider_alias": "SFA", "provider_name": "Swiss Federal Archives (SFA)"}
+{"media_alias": "FedGazFr", "media_title": "Feuille Fédérale", "provider_alias": "SFA", "provider_name": "Swiss Federal Archives (SFA)"}
+{"media_alias": "FedGazIt", "media_title": "Foglio federale", "provider_alias": "SFA", "provider_name": "Swiss Federal Archives (SFA)"}
+{"media_alias": "SOC_CJ", "media_title": "Chronique du jour", "provider_alias": "SWISSINFO", "provider_name": "SWISSINFO"}
+{"media_alias": "SOC_CP", "media_title": "Chroniques politiques", "provider_alias": "SWISSINFO", "provider_name": "SWISSINFO"}
+{"media_alias": "SOC_SO", "media_title": "Swiss Observer", "provider_alias": "SWISSINFO", "provider_name": "SWISSINFO"}
+{"media_alias": "SOC_TH", "media_title": "Today at Home and Abroad", "provider_alias": "SWISSINFO", "provider_name": "SWISSINFO"}
+{"media_alias": "SOC_VS", "media_title": "Voix de la Suisse", "provider_alias": "SWISSINFO", "provider_name": "SWISSINFO"}
