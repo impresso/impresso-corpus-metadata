@@ -36,6 +36,8 @@ help:
 	@echo "  bcul-metadata       - Export the metadata for all BCUL media titles"
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
 	@echo "  swissinfo-metadata     - Export the metadata for all SWISSINFO media titles"
+	@echo "  gdrive-metadata-ALL-jsonl  - Combine all data/gdrive_metadata/*.json files into ALL.jsonl"
+	@echo "  gdrive-metadata-ALL-ALIAS-jsonl  - Extract alias/title/partner/holder fields from ALL.jsonl into ALL-ALIAS.jsonl"
 	@echo "  sync-gdrive-metadata     - Synchronize all or part of the gdrive data folder with the one of the impresso-master-db repository"
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
 	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-pyindexing repository"
@@ -111,6 +113,22 @@ bl-metadata:
 	--worksheet_name="BL" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bl.json" \
 	--gsheet_type="metadata"
+
+
+aggregate-metadata: $(data_dir)/gdrive_metadata/ALL.jsonl $(data_dir)/gdrive_metadata/ALL-ALIAS.jsonl
+$(data_dir)/gdrive_metadata/ALL.jsonl:
+	python -c "\
+import json, glob; \
+out = open('$@', 'w'); \
+n = sum(out.write(json.dumps(r, ensure_ascii=False) + '\n') and 1 for f in glob.glob('$(data_dir)/gdrive_metadata/*.json') for d in [json.load(open(f))] for r in (d if isinstance(d, list) else [d])); \
+print(f'Written {n} records to {out.name}')"
+
+$(data_dir)/gdrive_metadata/ALL-ALIAS.jsonl: $(data_dir)/gdrive_metadata/ALL.jsonl
+	python -c "\
+import json; \
+out = open('$@', 'w'); \
+n = sum(out.write(json.dumps({'media_alias': r.get('media_alias'), 'media_title': r.get('title'), 'provider_alias': r.get('partner_uid'), 'provider_name': (r.get('resource_holder_names') or [None])[0]}, ensure_ascii=False) + '\n') and 1 for r in map(json.loads, open('$(data_dir)/gdrive_metadata/ALL.jsonl')) if r.get('media_alias')); \
+print(f'Written {n} records to {out.name}')"
 
 sync-gdrive-metadata: 
 	rsync -r -v "$(data_dir)/gdrive_metadata/$(additional_arg)" "$(db_data_dir)/gdrive_metadata"
@@ -269,4 +287,3 @@ corpus-release-card:
 	--gsheet_type="cheatsheet"
 
 	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg)
-
