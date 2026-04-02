@@ -223,6 +223,18 @@ def has_ar_values_defined(ar_entry):
     return defined
 
 
+def has_metadata_values_defined(metadata_entry):
+    defined = (
+        metadata_entry["ingestion_batch"] != ""
+        and metadata_entry["media_alias"] != ""
+        and metadata_entry["partner_uid"] != ""
+    )
+    if not defined:
+        print(f"Warning! Missing values for metadata entry - will be ignored: {metadata_entry}")
+
+    return defined
+
+
 def download(
     spreadsheet_id: str,  # Use spreadsheet id instead of URL
     worksheet_name: str = "impresso1-collection",  # Default worksheet name
@@ -281,6 +293,9 @@ def download(
     if gsheet_type == "access_rights":
         # only keep entries where all necessary values are defined
         transformed_values = [v for v in transformed_values if has_ar_values_defined(v)]
+    if gsheet_type == "metadata":
+        # only keep entries where all necessary values are defined
+        transformed_values = [v for v in transformed_values if has_metadata_values_defined(v)]
 
     # get random index for the values list
     idx = random.randint(0, len(transformed_values) - 1)

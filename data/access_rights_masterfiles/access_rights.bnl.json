@@ -3,7 +3,7 @@
         "1927-1940": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "actionfem",
             "full_title": "Action f\u00e9minine (L')",
@@ -31,7 +31,7 @@
         "1903-1929": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "armeteufel",
             "full_title": "Arme Teufel (Der)",
@@ -87,7 +87,7 @@
         "1898-1916": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "buergerbeamten",
             "full_title": "B\u00fcrger- und Beamten-Zeitung",
@@ -143,7 +143,7 @@
         "1893-1909": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "deletz1893",
             "full_title": "Letzeburger (De)",
@@ -171,7 +171,7 @@
         "1937-1940": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "demitock",
             "full_title": "Mitock e Wocheblad fir Jux an Zodi (De)",
@@ -227,7 +227,7 @@
         "1944-1948": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "dunioun",
             "full_title": "Unio'n (D')",
@@ -309,7 +309,7 @@
         "1882-1934": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "indeplux",
             "full_title": "Ind\u00e9pendance luxembourgeoise (L')",
@@ -334,40 +334,14 @@
         }
     },
     "kommmit": {
-        "1884-1881": {
+        "1884-1884": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "kommmit",
             "full_title": "Komm mit mir!",
             "start_year": 1884,
-            "end_year": 1881,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "",
-            "get_transcript_req_status": "",
-            "get_facsimile_req_status": "",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1884-1881)",
-            "rights_statement_get_tr": "Public Domain (1884-1881)",
-            "rights_statement_get_img": "Public Domain (1884-1881)"
-        },
-        "1882-1884": {
-            "impresso_1_or_2": 1,
-            "license": "",
-            "already_shared_for_impresso_ii": "no",
-            "rights_holder_id": "BNL",
-            "title_alias": "kommmit",
-            "full_title": "Komm mit mir!",
-            "start_year": 1882,
             "end_year": 1884,
             "media_type": "Newspaper",
             "medium": "print",
@@ -382,16 +356,16 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1882-1884)",
-            "rights_statement_get_tr": "Public Domain (1882-1884)",
-            "rights_statement_get_img": "Public Domain (1882-1884)"
+            "rights_statement_explore": "Public Domain (1884-1884)",
+            "rights_statement_get_tr": "Public Domain (1884-1884)",
+            "rights_statement_get_img": "Public Domain (1884-1884)"
         }
     },
     "landwortbild": {
         "1895-1895": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "landwortbild",
             "full_title": "Luxemburger Land in Wort und Bild",
@@ -447,7 +421,7 @@
         "1935-1940": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxembourg1935",
             "full_title": "Luxembourg (Le) : Journal du matin",
@@ -475,7 +449,7 @@
         "1954-2022": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxland",
             "full_title": "L\u00ebtzebuerger Land (d')",
@@ -529,7 +503,7 @@
         "1882-1950": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
@@ -551,6 +525,32 @@
             "rights_statement_explore": "Protected (1882-1950) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1882-1950) - Research use",
             "rights_statement_get_img": "Protected (1882-1950) - Research use"
+        },
+        "1950-1980": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxwort",
+            "full_title": "Luxemburger Wort",
+            "start_year": 1950,
+            "end_year": 1980,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1950-1980) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1950-1980) - Research use",
+            "rights_statement_get_img": "Protected (1950-1980) - Research use"
         }
     },
     "luxzeit1844": {
@@ -639,7 +639,7 @@
         "1882-1948": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "obermosel",
             "full_title": "Obermosel-Zeitung",
@@ -667,7 +667,7 @@
         "1944-1951": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "onsjongen",
             "full_title": "Ons Jongen",
@@ -695,7 +695,7 @@
         "1916-1919": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "schmiede",
             "full_title": "Schmiede",
@@ -723,7 +723,7 @@
         "1913-1950": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "tageblatt",
             "full_title": "Escher Tageblatt",
@@ -833,7 +833,7 @@
         "1882-1884": {
             "impresso_1_or_2": 1,
             "license": "",
-            "already_shared_for_impresso_ii": "no",
+            "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "waeschfra",
             "full_title": "D'W\u00e4schfra",
@@ -855,6 +855,2738 @@
             "rights_statement_explore": "Protected (1882-1884) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1882-1884) - Research use",
             "rights_statement_get_img": "Protected (1882-1884) - Research use"
+        }
+    },
+    "arbeiter1878": {
+        "1878-1881": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "arbeiter1878",
+            "full_title": "Arbeiter (Der)",
+            "start_year": 1878,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1878-1881)",
+            "rights_statement_get_tr": "Public Domain (1878-1881)",
+            "rights_statement_get_img": "Public Domain (1878-1881)"
+        },
+        "1882-1882": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "no",
+            "rights_holder_id": "BNL",
+            "title_alias": "arbeiter1878",
+            "full_title": "Arbeiter (Der)",
+            "start_year": 1882,
+            "end_year": 1882,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1882) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1882) - Research use",
+            "rights_statement_get_img": "Protected (1882-1882) - Research use"
+        }
+    },
+    "arlequin": {
+        "1848-1848": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "arlequin",
+            "full_title": "Arlequin (L')",
+            "start_year": 1848,
+            "end_year": 1848,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1848-1848)",
+            "rights_statement_get_tr": "Public Domain (1848-1848)",
+            "rights_statement_get_img": "Public Domain (1848-1848)"
+        }
+    },
+    "beilagekirchlicheranzeiger": {
+        "1946-1970": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "beilagekirchlicheranzeiger",
+            "full_title": "Beilage zum Kirchlichen Anzeiger ",
+            "start_year": 1946,
+            "end_year": 1970,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1970) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1946-1970) - Research use",
+            "rights_statement_get_img": "Protected (1946-1970) - Research use"
+        }
+    },
+    "bulletinackerbauverein": {
+        "1848-1876": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "bulletinackerbauverein",
+            "full_title": "Bulletin des Ackerbauvereins des Gro\u00dfherzogthums Luxemburg",
+            "start_year": 1848,
+            "end_year": 1876,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1848-1876)",
+            "rights_statement_get_tr": "Public Domain (1848-1876)",
+            "rights_statement_get_img": "Public Domain (1848-1876)"
+        }
+    },
+    "caecilia": {
+        "1863-1871": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "caecilia",
+            "full_title": "C\u00e4cilia",
+            "start_year": 1863,
+            "end_year": 1871,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1863-1871)",
+            "rights_statement_get_tr": "Public Domain (1863-1871)",
+            "rights_statement_get_img": "Public Domain (1863-1871)"
+        }
+    },
+    "charribarri": {
+        "1934-1938": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "charribarri",
+            "full_title": "Charri-Barri",
+            "start_year": 1934,
+            "end_year": 1938,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1934-1938) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1934-1938) - Research use",
+            "rights_statement_get_img": "Protected (1934-1938) - Research use"
+        }
+    },
+    "clarte": {
+        "1945-1945": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "clarte",
+            "full_title": "Clart\u00e9",
+            "start_year": 1945,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1945) - Research use",
+            "rights_statement_get_img": "Protected (1945-1945) - Research use"
+        }
+    },
+    "courieresch": {
+        "1895-1896": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "courieresch",
+            "full_title": "Escher Courrier",
+            "start_year": 1895,
+            "end_year": 1896,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1895-1896) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1895-1896) - Research use",
+            "rights_statement_get_img": "Protected (1895-1896) - Research use"
+        }
+    },
+    "cycliste": {
+        "1921-1921": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "cycliste",
+            "full_title": "Cycliste (Le)",
+            "start_year": 1921,
+            "end_year": 1921,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1921-1921) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1921-1921) - Research use",
+            "rights_statement_get_img": "Protected (1921-1921) - Research use"
+        }
+    },
+    "deletzeburger1872": {
+        "1872-1873": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "deletzeburger1872",
+            "full_title": "De Letzeburger",
+            "start_year": 1872,
+            "end_year": 1873,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1872-1873)",
+            "rights_statement_get_tr": "Public Domain (1872-1873)",
+            "rights_statement_get_img": "Public Domain (1872-1873)"
+        }
+    },
+    "derarbeiter1889": {
+        "1889-1890": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "derarbeiter1889",
+            "full_title": "Der Arbeiter",
+            "start_year": 1889,
+            "end_year": 1890,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1889-1890) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1889-1890) - Research use",
+            "rights_statement_get_img": "Protected (1889-1890) - Research use"
+        }
+    },
+    "diamond": {
+        "1919-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "diamond",
+            "full_title": "The Fifth Division Diamond ",
+            "start_year": 1919,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1919-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1919-1919) - Research use",
+            "rights_statement_get_img": "Protected (1919-1919) - Research use"
+        }
+    },
+    "dossierinformatioundokumentatioun": {
+        "1992-1997": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "dossierinformatioundokumentatioun",
+            "full_title": "Dossier fir Informatioun an Dokumentatioun",
+            "start_year": 1992,
+            "end_year": 1997,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1992-1997) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1992-1997) - Research use",
+            "rights_statement_get_img": "Protected (1992-1997) - Research use"
+        }
+    },
+    "echo1890": {
+        "1980-1987": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "echo1890",
+            "full_title": "Das Echo",
+            "start_year": 1980,
+            "end_year": 1987,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1980-1987) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1980-1987) - Research use",
+            "rights_statement_get_img": "Protected (1980-1987) - Research use"
+        }
+    },
+    "econom1871": {
+        "1871-1872": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "econom1871",
+            "full_title": "L'\u00e9conomiste du Grand-Duch\u00e9 de Luxembourg ",
+            "start_year": 1871,
+            "end_year": 1872,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1871-1872)",
+            "rights_statement_get_tr": "Public Domain (1871-1872)",
+            "rights_statement_get_img": "Public Domain (1871-1872)"
+        }
+    },
+    "eschervolkszeitung": {
+        "1884-1891": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "eschervolkszeitung",
+            "full_title": "Escher Volks-Zeitung",
+            "start_year": 1884,
+            "end_year": 1891,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1884-1891) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1884-1891) - Research use",
+            "rights_statement_get_img": "Protected (1884-1891) - Research use"
+        }
+    },
+    "escherzeitung": {
+        "1889-1896": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "escherzeitung",
+            "full_title": "Escher Zeitung",
+            "start_year": 1889,
+            "end_year": 1896,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1889-1896) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1889-1896) - Research use",
+            "rights_statement_get_img": "Protected (1889-1896) - Research use"
+        }
+    },
+    "floreal": {
+        "1907-1908": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "floreal",
+            "full_title": "Flor\u00e9al",
+            "start_year": 1907,
+            "end_year": 1908,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1907-1908) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1907-1908) - Research use",
+            "rights_statement_get_img": "Protected (1907-1908) - Research use"
+        }
+    },
+    "fortschrit1870": {
+        "1870-1872": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "fortschrit1870",
+            "full_title": "Fortschritt",
+            "start_year": 1870,
+            "end_year": 1872,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1870-1872)",
+            "rights_statement_get_tr": "Public Domain (1870-1872)",
+            "rights_statement_get_img": "Public Domain (1870-1872)"
+        }
+    },
+    "freiejugend": {
+        "1938-1940": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "freiejugend",
+            "full_title": "Freie Jugend",
+            "start_year": 1938,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1938-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1938-1940) - Research use",
+            "rights_statement_get_img": "Protected (1938-1940) - Research use"
+        }
+    },
+    "freihet": {
+        "1945-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "freihet",
+            "full_title": "Freih\u00e9t",
+            "start_year": 1945,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1946) - Research use",
+            "rights_statement_get_img": "Protected (1945-1946) - Research use"
+        }
+    },
+    "gemengemwinfo": {
+        "1998-2017": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "gemengemwinfo",
+            "full_title": "Gemengen\u00cbmweltInfo",
+            "start_year": 1998,
+            "end_year": 2017,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1998-2017) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1998-2017) - Research use",
+            "rights_statement_get_img": "Protected (1998-2017) - Research use"
+        }
+    },
+    "gewerkschaftler": {
+        "1917-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "gewerkschaftler",
+            "full_title": "Der Gewerkschaftler",
+            "start_year": 1917,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1919) - Research use",
+            "rights_statement_get_img": "Protected (1917-1919) - Research use"
+        }
+    },
+    "granducal": {
+        "1945-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "granducal",
+            "full_title": "Le Grand-Ducal",
+            "start_year": 1945,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1946) - Research use",
+            "rights_statement_get_img": "Protected (1945-1946) - Research use"
+        }
+    },
+    "gratislux": {
+        "1857-1858": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "gratislux",
+            "full_title": "Gratis luxembourgeois (Le)",
+            "start_year": 1857,
+            "end_year": 1858,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1857-1858)",
+            "rights_statement_get_tr": "Public Domain (1857-1858)",
+            "rights_statement_get_img": "Public Domain (1857-1858)"
+        }
+    },
+    "gukuk": {
+        "1922-1934": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "gukuk",
+            "full_title": "Gukuk (De)",
+            "start_year": 1922,
+            "end_year": 1934,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1922-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1922-1934) - Research use",
+            "rights_statement_get_img": "Protected (1922-1934) - Research use"
+        }
+    },
+    "handwerker": {
+        "1895-1897": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "handwerker",
+            "full_title": "Der Handwerker",
+            "start_year": 1895,
+            "end_year": 1897,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1895-1897) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1895-1897) - Research use",
+            "rights_statement_get_img": "Protected (1895-1897) - Research use"
+        }
+    },
+    "hemecht1944": {
+        "1944-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "hemecht1944",
+            "full_title": "D'H\u00eamecht",
+            "start_year": 1944,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1944-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1944-1946) - Research use",
+            "rights_statement_get_img": "Protected (1944-1946) - Research use"
+        }
+    },
+    "hollywood": {
+        "1928-1929": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "hollywood",
+            "full_title": "Hollywood",
+            "start_year": 1928,
+            "end_year": 1929,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1928-1929) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1928-1929) - Research use",
+            "rights_statement_get_img": "Protected (1928-1929) - Research use"
+        }
+    },
+    "jonghemecht": {
+        "1926-1940": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "jonghemecht",
+            "full_title": "Jong-H\u00e9mecht",
+            "start_year": 1926,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1926-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1926-1940) - Research use",
+            "rights_statement_get_img": "Protected (1926-1940) - Research use"
+        }
+    },
+    "jungekommunist": {
+        "1921-1921": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "no",
+            "rights_holder_id": "BNL",
+            "title_alias": "jungekommunist",
+            "full_title": "Der Junge Kommunist",
+            "start_year": 1921,
+            "end_year": 1921,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1921-1921) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1921-1921) - Research use",
+            "rights_statement_get_img": "Protected (1921-1921) - Research use"
+        }
+    },
+    "jungewelt": {
+        "1928-1932": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "jungewelt",
+            "full_title": "Junge Welt",
+            "start_year": 1928,
+            "end_year": 1932,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1928-1932) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1928-1932) - Research use",
+            "rights_statement_get_img": "Protected (1928-1932) - Research use"
+        }
+    },
+    "kampf": {
+        "1920-1922": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kampf",
+            "full_title": "Der Kampf",
+            "start_year": 1920,
+            "end_year": 1922,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1920-1922) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1920-1922) - Research use",
+            "rights_statement_get_img": "Protected (1920-1922) - Research use"
+        }
+    },
+    "keisecker": {
+        "1970-2013": {
+            "impresso_1_or_2": 2,
+            "license": "cc by-4.0",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "keisecker",
+            "full_title": "K\u00e9is\u00e9cker (De)",
+            "start_year": 1970,
+            "end_year": 2013,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1970-2013) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1970-2013) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1970-2013) - Personal, Research and Educational use"
+        }
+    },
+    "keiseckerinfo": {
+        "1982-2017": {
+            "impresso_1_or_2": 2,
+            "license": "cc by-4.0",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "keiseckerinfo",
+            "full_title": "K\u00e9isecker info (De)",
+            "start_year": 1982,
+            "end_year": 2017,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1982-2017) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1982-2017) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1982-2017) - Personal, Research and Educational use"
+        }
+    },
+    "kirchanzeiger1871": {
+        "1871-1881": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kirchanzeiger1871",
+            "full_title": "Kirchlicher Anzeiger f\u00fcr die Di\u00f6zese Luxemburg",
+            "start_year": 1871,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1871-1881)",
+            "rights_statement_get_tr": "Public Domain (1871-1881)",
+            "rights_statement_get_img": "Public Domain (1871-1881)"
+        },
+        "1882-1934": {
+            "impresso_1_or_2": 2,
+            "license": "cc by-4.0",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kirchanzeiger1871",
+            "full_title": "Kirchlicher Anzeiger f\u00fcr die Di\u00f6zese Luxemburg",
+            "start_year": 1882,
+            "end_year": 1934,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1934) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1882-1934) - Personal, Research and Educational use"
+        },
+        "1935-2020": {
+            "impresso_1_or_2": 2,
+            "license": "cc by-4.0",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kirchanzeiger1871",
+            "full_title": "Kirchlicher Anzeiger f\u00fcr die Di\u00f6zese Luxemburg",
+            "start_year": 1935,
+            "end_year": 2020,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0100000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1935-2020) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1935-2020) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1935-2020) - Personal, Research and Educational use"
+        }
+    },
+    "kladderadatsch": {
+        "1886-1898": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kladderadatsch",
+            "full_title": "Letzeburger Kladderadatsch (De)",
+            "start_year": 1886,
+            "end_year": 1898,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1886-1898) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1886-1898) - Research use",
+            "rights_statement_get_img": "Protected (1886-1898) - Research use"
+        }
+    },
+    "kommunistischegwerkschaftler": {
+        "1921-1922": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kommunistischegwerkschaftler",
+            "full_title": "Der kommunistische Gewerkschafter ",
+            "start_year": 1921,
+            "end_year": 1922,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1921-1922) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1921-1922) - Research use",
+            "rights_statement_get_img": "Protected (1921-1922) - Research use"
+        }
+    },
+    "kulturkampf": {
+        "1875-1875": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "kulturkampf",
+            "full_title": "Der \u201eKulturkampf\u201c",
+            "start_year": 1875,
+            "end_year": 1875,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1875-1875)",
+            "rights_statement_get_tr": "Public Domain (1875-1875)",
+            "rights_statement_get_img": "Public Domain (1875-1875)"
+        }
+    },
+    "land1866": {
+        "1866-1868": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "land1866",
+            "full_title": "Das Land",
+            "start_year": 1866,
+            "end_year": 1868,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1866-1868)",
+            "rights_statement_get_tr": "Public Domain (1866-1868)",
+            "rights_statement_get_img": "Public Domain (1866-1868)"
+        }
+    },
+    "landwirth": {
+        "1877-1881": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "landwirth",
+            "full_title": "Der Landwirth",
+            "start_year": 1877,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1877-1881)",
+            "rights_statement_get_tr": "Public Domain (1877-1881)",
+            "rights_statement_get_img": "Public Domain (1877-1881)"
+        },
+        "1882-1941": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "landwirth",
+            "full_title": "Der Landwirth",
+            "start_year": 1882,
+            "end_year": 1941,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1941) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1941) - Research use",
+            "rights_statement_get_img": "Protected (1882-1941) - Research use"
+        }
+    },
+    "laterne": {
+        "1917-1917": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "laterne",
+            "full_title": "Die Laterne",
+            "start_year": 1917,
+            "end_year": 1917,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1917) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1917) - Research use",
+            "rights_statement_get_img": "Protected (1917-1917) - Research use"
+        }
+    },
+    "letzebuergerfleer": {
+        "1932-1934": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "letzebuergerfleer",
+            "full_title": "De Letzeburger Fle'er",
+            "start_year": 1932,
+            "end_year": 1934,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1932-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1932-1934) - Research use",
+            "rights_statement_get_img": "Protected (1932-1934) - Research use"
+        }
+    },
+    "letzeburgerin": {
+        "1945-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "letzeburgerin",
+            "full_title": "D'Letzeburgerin",
+            "start_year": 1945,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1946) - Research use",
+            "rights_statement_get_img": "Protected (1945-1946) - Research use"
+        }
+    },
+    "lew": {
+        "1945-1951": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "lew",
+            "full_title": "Le'w",
+            "start_year": 1945,
+            "end_year": 1951,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1951) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1951) - Research use",
+            "rights_statement_get_img": "Protected (1945-1951) - Research use"
+        }
+    },
+    "luxanzeiger": {
+        "1856-1856": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxanzeiger",
+            "full_title": "Luxemburger Anzeiger",
+            "start_year": 1856,
+            "end_year": 1856,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1856-1856)",
+            "rights_statement_get_tr": "Public Domain (1856-1856)",
+            "rights_statement_get_img": "Public Domain (1856-1856)"
+        }
+    },
+    "luxbauern": {
+        "1857-1857": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxbauern",
+            "full_title": "Luxemburger Bauernzeitung",
+            "start_year": 1857,
+            "end_year": 1857,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1857-1857)",
+            "rights_statement_get_tr": "Public Domain (1857-1857)",
+            "rights_statement_get_img": "Public Domain (1857-1857)"
+        }
+    },
+    "luxbulllondon": {
+        "1942-1954": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxbulllondon",
+            "full_title": "Luxembourg Bulletin (London)",
+            "start_year": 1942,
+            "end_year": 1954,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1942-1954) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1942-1954) - Research use",
+            "rights_statement_get_img": "Protected (1942-1954) - Research use"
+        }
+    },
+    "luxbullmontreal": {
+        "1942-1945": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxbullmontreal",
+            "full_title": "Luxembourg Bulletin (Montreal)",
+            "start_year": 1942,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1942-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1942-1945) - Research use",
+            "rights_statement_get_img": "Protected (1942-1945) - Research use"
+        }
+    },
+    "luxembourg1919": {
+        "1919-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxembourg1919",
+            "full_title": "Le Luxembourg",
+            "start_year": 1919,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1919-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1919-1919) - Research use",
+            "rights_statement_get_img": "Protected (1919-1919) - Research use"
+        }
+    },
+    "luxemburgerin": {
+        "1933-1937": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxemburgerin",
+            "full_title": "Die Luxemburgerin",
+            "start_year": 1933,
+            "end_year": 1937,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1933-1937) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1933-1937) - Research use",
+            "rights_statement_get_img": "Protected (1933-1937) - Research use"
+        }
+    },
+    "luxemburgervolkszeitung1871": {
+        "1871-1871": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxemburgervolkszeitung1871",
+            "full_title": "Luxemburger Volks-Zeitung",
+            "start_year": 1871,
+            "end_year": 1871,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1871-1871)",
+            "rights_statement_get_tr": "Public Domain (1871-1871)",
+            "rights_statement_get_img": "Public Domain (1871-1871)"
+        }
+    },
+    "luxemburgerzeitung1868": {
+        "1868-1881": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxemburgerzeitung1868",
+            "full_title": "Luxemburger Zeitung",
+            "start_year": 1868,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1868-1881)",
+            "rights_statement_get_tr": "Public Domain (1868-1881)",
+            "rights_statement_get_img": "Public Domain (1868-1881)"
+        },
+        "1882-1941": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxemburgerzeitung1868",
+            "full_title": "Luxemburger Zeitung",
+            "start_year": 1882,
+            "end_year": 1941,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1941) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1941) - Research use",
+            "rights_statement_get_img": "Protected (1882-1941) - Research use"
+        }
+    },
+    "luxillustrierte": {
+        "1924-1931": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxillustrierte",
+            "full_title": "Luxemburger Illustrierte = L'Illustr\u00e9 Luxembourgeois",
+            "start_year": 1924,
+            "end_year": 1931,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1924-1931) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1924-1931) - Research use",
+            "rights_statement_get_img": "Protected (1924-1931) - Research use"
+        }
+    },
+    "luxlibre": {
+        "1917-1918": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxlibre",
+            "full_title": "Luxembourg libre (Le)",
+            "start_year": 1917,
+            "end_year": 1918,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1918) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1918) - Research use",
+            "rights_statement_get_img": "Protected (1917-1918) - Research use"
+        }
+    },
+    "luxvolk1888": {
+        "1888-1889": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxvolk1888",
+            "full_title": "Luxemburger Volks-Bl\u00e4ttchen",
+            "start_year": 1888,
+            "end_year": 1889,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1888-1889) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1888-1889) - Research use",
+            "rights_statement_get_img": "Protected (1888-1889) - Research use"
+        }
+    },
+    "luxvolksbote": {
+        "1882-1882": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "luxvolksbote",
+            "full_title": "Luxemburger Volksbote",
+            "start_year": 1882,
+            "end_year": 1882,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1882-1882) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1882) - Research use",
+            "rights_statement_get_img": "Protected (1882-1882) - Research use"
+        }
+    },
+    "mitteilungsblatt1941": {
+        "1941-1942": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "mitteilungsblatt1941",
+            "full_title": "Mitteilungsblatt",
+            "start_year": 1941,
+            "end_year": 1942,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1941-1942) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1941-1942) - Research use",
+            "rights_statement_get_img": "Protected (1941-1942) - Research use"
+        }
+    },
+    "monatsrevue1911": {
+        "1911-1911": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "monatsrevue1911",
+            "full_title": "Monatsrev\u00fce des \u00f6ffentlichen Lebens",
+            "start_year": 1911,
+            "end_year": 1911,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1911-1911) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1911-1911) - Research use",
+            "rights_statement_get_img": "Protected (1911-1911) - Research use"
+        }
+    },
+    "natioun": {
+        "1915-1947": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "natioun",
+            "full_title": "Nation (D')",
+            "start_year": 1915,
+            "end_year": 1947,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1915-1947) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1915-1947) - Research use",
+            "rights_statement_get_img": "Protected (1915-1947) - Research use"
+        }
+    },
+    "neuezeit1911": {
+        "1911-1914": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "neuezeit1911",
+            "full_title": "Neue Zeit (Die) = Les Temps Nouveaux",
+            "start_year": 1911,
+            "end_year": 1914,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1911-1914) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1911-1914) - Research use",
+            "rights_statement_get_img": "Protected (1911-1914) - Research use"
+        }
+    },
+    "neuezeit1936": {
+        "1936-1940": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "neuezeit1936",
+            "full_title": "Neue Zeit (Die)",
+            "start_year": 1936,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1936-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1936-1940) - Research use",
+            "rights_statement_get_img": "Protected (1936-1940) - Research use"
+        }
+    },
+    "noteconjoncture": {
+        "1970-2019": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "noteconjoncture",
+            "full_title": "Note de conjoncture",
+            "start_year": 1970,
+            "end_year": 2019,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1970-2019) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1970-2019) - Research use",
+            "rights_statement_get_img": "Protected (1970-2019) - Research use"
+        }
+    },
+    "obstbaufreund": {
+        "1895-2021": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "obstbaufreund",
+            "full_title": "Luxemburger Obstbaufreund",
+            "start_year": 1895,
+            "end_year": 2021,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1895-2021) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1895-2021) - Research use",
+            "rights_statement_get_img": "Protected (1895-2021) - Research use"
+        }
+    },
+    "oeffentlicheranzeiger": {
+        "1941-1944": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "oeffentlicheranzeiger",
+            "full_title": "\u00d6ffentlicher Anzeiger zum Verordnungsblatt f\u00fcr Luxemburg",
+            "start_year": 1941,
+            "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1941-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1941-1944) - Research use",
+            "rights_statement_get_img": "Protected (1941-1944) - Research use"
+        }
+    },
+    "oesling": {
+        "1938-1938": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "oesling",
+            "full_title": "Oesling",
+            "start_year": 1938,
+            "end_year": 1938,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1938-1938) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1938-1938) - Research use",
+            "rights_statement_get_img": "Protected (1938-1938) - Research use"
+        }
+    },
+    "olympia": {
+        "1945-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "olympia",
+            "full_title": "Olympia",
+            "start_year": 1945,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1946) - Research use",
+            "rights_statement_get_img": "Protected (1945-1946) - Research use"
+        }
+    },
+    "omnibus": {
+        "1867-1870": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "omnibus",
+            "full_title": "L'Omnibus",
+            "start_year": 1867,
+            "end_year": 1870,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1867-1870)",
+            "rights_statement_get_tr": "Public Domain (1867-1870)",
+            "rights_statement_get_img": "Public Domain (1867-1870)"
+        }
+    },
+    "onszeidong1941": {
+        "1941-1949": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "onszeidong1941",
+            "full_title": "Eis Zeidong",
+            "start_year": 1941,
+            "end_year": 1949,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1941-1949) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1941-1949) - Research use",
+            "rights_statement_get_img": "Protected (1941-1949) - Research use"
+        }
+    },
+    "proletarier": {
+        "1919-1940": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "proletarier",
+            "full_title": "Der Proletarier",
+            "start_year": 1919,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1919-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1919-1940) - Research use",
+            "rights_statement_get_img": "Protected (1919-1940) - Research use"
+        }
+    },
+    "renaissance": {
+        "1947-1948": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "renaissance",
+            "full_title": "D'Renaissance",
+            "start_year": 1947,
+            "end_year": 1948,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1947-1948) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1947-1948) - Research use",
+            "rights_statement_get_img": "Protected (1947-1948) - Research use"
+        }
+    },
+    "revue1855": {
+        "1855-1857": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "revue1855",
+            "full_title": "La Revue",
+            "start_year": 1855,
+            "end_year": 1857,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1855-1857)",
+            "rights_statement_get_tr": "Public Domain (1855-1857)",
+            "rights_statement_get_img": "Public Domain (1855-1857)"
+        }
+    },
+    "revue1939": {
+        "1939-1940": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "revue1939",
+            "full_title": "d'Revue",
+            "start_year": 1939,
+            "end_year": 1940,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1939-1940) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1939-1940) - Research use",
+            "rights_statement_get_img": "Protected (1939-1940) - Research use"
+        }
+    },
+    "signal": {
+        "1920-1945": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "signal",
+            "full_title": "Le Signal",
+            "start_year": 1920,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1920-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1920-1945) - Research use",
+            "rights_statement_get_img": "Protected (1920-1945) - Research use"
+        }
+    },
+    "sozrepublik": {
+        "1920-1927": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "sozrepublik",
+            "full_title": "Soziale Republik = R\u00e9publique Sociale",
+            "start_year": 1920,
+            "end_year": 1927,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1920-1927) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1920-1927) - Research use",
+            "rights_statement_get_img": "Protected (1920-1927) - Research use"
+        }
+    },
+    "spanienheute": {
+        "1946-1947": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "spanienheute",
+            "full_title": "Spanien heute",
+            "start_year": 1946,
+            "end_year": 1947,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1947) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1946-1947) - Research use",
+            "rights_statement_get_img": "Protected (1946-1947) - Research use"
+        }
+    },
+    "touringclubluxembourgeois": {
+        "1897-1914": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "touringclubluxembourgeois",
+            "full_title": "Touring Club Luxembourgeois",
+            "start_year": 1897,
+            "end_year": 1914,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1897-1914) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1897-1914) - Research use",
+            "rights_statement_get_img": "Protected (1897-1914) - Research use"
+        }
+    },
+    "tribuene": {
+        "1935-1935": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "tribuene",
+            "full_title": "Die Trib\u00fcne",
+            "start_year": 1935,
+            "end_year": 1935,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1935-1935) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1935-1935) - Research use",
+            "rights_statement_get_img": "Protected (1935-1935) - Research use"
+        }
+    },
+    "tribuneclanjeunes": {
+        "1949-1965": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "tribuneclanjeunes",
+            "full_title": "Tribune du Clan des Jeunes",
+            "start_year": 1949,
+            "end_year": 1965,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1949-1965) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1949-1965) - Research use",
+            "rights_statement_get_img": "Protected (1949-1965) - Research use"
+        }
+    },
+    "vaterland1869": {
+        "1869-1870": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "vaterland1869",
+            "full_title": "Vaterland (Das)",
+            "start_year": 1869,
+            "end_year": 1870,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1869-1870)",
+            "rights_statement_get_tr": "Public Domain (1869-1870)",
+            "rights_statement_get_img": "Public Domain (1869-1870)"
+        }
+    },
+    "verband1945": {
+        "1945-1945": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "verband1945",
+            "full_title": "De Verband",
+            "start_year": 1945,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1945-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1945-1945) - Research use",
+            "rights_statement_get_img": "Protected (1945-1945) - Research use"
+        }
+    },
+    "verordnungsblatt": {
+        "1940-1944": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "verordnungsblatt",
+            "full_title": "Verordungsblatt f\u00fcr das besetzte Gebiet des Gro\u00dfherzogtums Luxemburg",
+            "start_year": 1940,
+            "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1940-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1940-1944) - Research use",
+            "rights_statement_get_img": "Protected (1940-1944) - Research use"
+        }
+    },
+    "voixdesjeunes": {
+        "1917-1969": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "voixdesjeunes",
+            "full_title": "Voix des jeunes",
+            "start_year": 1917,
+            "end_year": 1969,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1969) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1969) - Research use",
+            "rights_statement_get_img": "Protected (1917-1969) - Research use"
+        }
+    },
+    "volksfreund1848": {
+        "1848-1849": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volksfreund1848",
+            "full_title": "Volksfreund (Der)",
+            "start_year": 1848,
+            "end_year": 1849,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1848-1849)",
+            "rights_statement_get_tr": "Public Domain (1848-1849)",
+            "rights_statement_get_img": "Public Domain (1848-1849)"
+        }
+    },
+    "volksstimme1896": {
+        "1896-1896": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volksstimme1896",
+            "full_title": "Volksstimme (Die)",
+            "start_year": 1896,
+            "end_year": 1896,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1896-1896) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1896-1896) - Research use",
+            "rights_statement_get_img": "Protected (1896-1896) - Research use"
+        }
+    },
+    "volksstimme1917": {
+        "1917-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volksstimme1917",
+            "full_title": "Volksstimme (Die)",
+            "start_year": 1917,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1919) - Research use",
+            "rights_statement_get_img": "Protected (1917-1919) - Research use"
+        }
+    },
+    "volksstimme1935": {
+        "1935-1946": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volksstimme1935",
+            "full_title": "Die Volksstimme",
+            "start_year": 1935,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1935-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1935-1946) - Research use",
+            "rights_statement_get_img": "Protected (1935-1946) - Research use"
+        }
+    },
+    "volkstribuene": {
+        "1917-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "volkstribuene",
+            "full_title": "Volkstrib\u00fcne (Die)",
+            "start_year": 1917,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1919) - Research use",
+            "rights_statement_get_img": "Protected (1917-1919) - Research use"
+        }
+    },
+    "waehler1872": {
+        "1872-1872": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "waehler1872",
+            "full_title": "Der W\u00e4hler",
+            "start_year": 1872,
+            "end_year": 1872,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "",
+            "get_transcript_req_status": "",
+            "get_facsimile_req_status": "",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1872-1872)",
+            "rights_statement_get_tr": "Public Domain (1872-1872)",
+            "rights_statement_get_img": "Public Domain (1872-1872)"
+        }
+    },
+    "wahrheit": {
+        "1914-1915": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "wahrheit",
+            "full_title": "Die Wahrheit",
+            "start_year": 1914,
+            "end_year": 1915,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1914-1915) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1914-1915) - Research use",
+            "rights_statement_get_img": "Protected (1914-1915) - Research use"
+        },
+        "1915-1915": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "wahrheit",
+            "full_title": "Wahrheit (Die)",
+            "start_year": 1915,
+            "end_year": 1915,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1915-1915) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1915-1915) - Research use",
+            "rights_statement_get_img": "Protected (1915-1915) - Research use"
+        }
+    },
+    "wahrheit1941": {
+        "1941-1945": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "wahrheit1941",
+            "full_title": "Die Wahrheit",
+            "start_year": 1941,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1941-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1941-1945) - Research use",
+            "rights_statement_get_img": "Protected (1941-1945) - Research use"
+        }
+    },
+    "wegweiser": {
+        "1918-1919": {
+            "impresso_1_or_2": 2,
+            "license": "",
+            "already_shared_for_impresso_ii": "yes",
+            "rights_holder_id": "BNL",
+            "title_alias": "wegweiser",
+            "full_title": "Wegweiser (Der)",
+            "start_year": 1918,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1918-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1918-1919) - Research use",
+            "rights_statement_get_img": "Protected (1918-1919) - Research use"
         }
     }
 }

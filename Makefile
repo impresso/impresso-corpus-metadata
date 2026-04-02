@@ -33,6 +33,7 @@ help:
 	@echo "  all-metadata   - Export the metadata for all ingestion batches"
 	@echo "  impresso1-metadata      - Export the metadata for all Impresso 1 data"
 	@echo "  bnf-metadata      - Export the metadata for all BNF media titles"
+	@echo "  bnl-metadata      - Export the metadata for all BNL media titles"
 	@echo "  bcul-metadata       - Export the metadata for all BCUL media titles"
 	@echo "  swa-fedgaz-metadata     - Export the metadata for all SWA and FedGaz media titles"
 	@echo "  swissinfo-metadata     - Export the metadata for all SWISSINFO media titles"
@@ -77,6 +78,13 @@ bnf-metadata:
 	--spreadsheet_id=$(metadata_gsheet_id) \
 	--worksheet_name="BNF" \
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnf.json" \
+	--gsheet_type="metadata"
+
+bnl-metadata:
+	python harvesters/fetch_from_gdrive.py \
+	--spreadsheet_id=$(metadata_gsheet_id) \
+	--worksheet_name="BNL" \
+	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).bnl.json" \
 	--gsheet_type="metadata"
 
 ina-metadata:
@@ -248,7 +256,7 @@ ina-access-rights:
 
 	python harvesters/access_rights_masterfile.py --partner="ina" --data-dir=$(data_dir)
 
-# 22 - INA
+# 22 - BCUL
 bcul-access-rights:
 	python harvesters/fetch_from_gdrive.py \
 	--spreadsheet_id=$(bcul_ar_gsheet_id) \
