@@ -48,9 +48,7 @@ RIGHTS_AR_KEYS = {
 }
 
 
-def list_ar_masterfiles(
-    ar_dir: str, to_exclude: list[str] = AR_FILES_TO_EXCLUDE
-) -> dict[str, str]:
+def list_ar_masterfiles(ar_dir: str, to_exclude: list[str] = AR_FILES_TO_EXCLUDE) -> dict[str, str]:
     ar_master_files = {}
     for ar_master_file in os.listdir(ar_dir):
         if all(word not in ar_master_file for word in to_exclude):
@@ -139,9 +137,7 @@ def remap_keys_and_values(
             "Basic User Plan",
         ]:
             catalogue_entry["permitted_use"] = "Personal, Research and Educational"
-        elif (
-            "Student" in catalogue_entry["minimum_user_plan_required_to_explore_in_the_webapp"]
-        ):
+        elif "Student" in catalogue_entry["minimum_user_plan_required_to_explore_in_the_webapp"]:
             catalogue_entry["permitted_use"] = "Research and Educational"
         else:
             catalogue_entry["permitted_use"] = "Research"
@@ -149,6 +145,20 @@ def remap_keys_and_values(
     catalogue_entry["partner_bitmap_index"] = BITMAP_KEYS.index(
         catalogue_entry["data_partner_institution"]
     )
+    if catalogue_entry["data_partner_institution"] in [
+        "MVS",
+        "BCUF",
+        "ArcInfo",
+        "LCE",
+        "LeTemps",
+        "Migros",
+        "Unia",
+        "BVCF",
+    ]:
+        # these are the rights holders but the partner institution is actually another
+        catalogue_entry["data_partner_institution"] = "SNL"
+        catalogue_entry["additional_bitmap_index"] = catalogue_entry["partner_bitmap_index"]
+        catalogue_entry["partner_bitmap_index"] = BITMAP_KEYS.index("SNL")
 
     return catalogue_entry
 

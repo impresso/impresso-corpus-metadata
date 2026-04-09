@@ -224,7 +224,7 @@
         "partner_bitmap_index": 5
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "BDC",
         "media_title": "Bulletin des s\u00e9ances de la Constituante",
         "time_period": "1839-1839",
@@ -235,10 +235,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "CDV",
         "media_title": "Courrier du Valais",
         "time_period": "1843-1857",
@@ -249,10 +250,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "EDA",
         "media_title": "L\u2019\u00c9cho des Alpes",
         "time_period": "1839-1844",
@@ -263,10 +265,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "JDV",
         "media_title": "Le Journal du Valais",
         "time_period": "1848-1848",
@@ -277,10 +280,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "LSR",
         "media_title": "L\u2019Observateur",
         "time_period": "1846-1848",
@@ -291,10 +295,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "CON",
         "media_title": "La Contr\u00e9e",
         "time_period": "1902-1903",
@@ -305,10 +310,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "GAV",
         "media_title": "Gazette du Valais / Nouvelle gazette du Valais",
         "time_period": "1855-1922",
@@ -319,10 +325,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "GAZ",
         "media_title": "Gazette du Simplon",
         "time_period": "1842-1847",
@@ -333,10 +340,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "SAX",
         "media_title": "Journal de Saxon",
         "time_period": "1882-1884",
@@ -347,10 +355,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "MVS",
+        "data_partner_institution": "SNL",
         "media_alias": "VDR",
         "media_title": "La Voix du Rh\u00f4ne",
         "time_period": "1844-1844",
@@ -361,10 +370,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 30
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 30
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "DLE",
         "media_title": "Der Landbote des freiburgischen Seebezirks",
         "time_period": "1909-1914",
@@ -375,10 +385,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "JDF",
         "media_title": "Journal du canton de Fribourg",
         "time_period": "1830-1833",
@@ -389,10 +400,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LBP",
         "media_title": "Le Bien public",
         "time_period": "1879-1888",
@@ -403,10 +415,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LCR",
         "media_title": "Le Chroniqueur",
         "time_period": "1854-1881",
@@ -417,10 +430,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LCS",
         "media_title": "Le Courrier fribourgeois",
         "time_period": "1829-1830",
@@ -431,10 +445,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LNF",
         "media_title": "Le Narrateur fribourgeois",
         "time_period": "1840-1855",
@@ -445,10 +460,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LTF",
         "media_title": "La Tribune de Fribourg",
         "time_period": "1905-1905",
@@ -459,10 +475,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LVE",
         "media_title": "Le V\u00e9ridique",
         "time_period": "1831-1833",
@@ -473,10 +490,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LCG",
         "media_title": "Le Conf\u00e9d\u00e9r\u00e9 de Fribourg",
         "time_period": "1848-1907",
@@ -487,10 +505,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "FZG",
         "media_title": "Freiburger Nachrichten",
         "time_period": "1864-2006",
@@ -501,10 +520,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "BCUF",
+        "data_partner_institution": "SNL",
         "media_alias": "LLE",
         "media_title": "La Libert\u00e9",
         "time_period": "1871-2018",
@@ -515,10 +535,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 23
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 23
     },
     {
-        "data_partner_institution": "ArcInfo",
+        "data_partner_institution": "SNL",
         "media_alias": "EXP",
         "media_title": "L'Express",
         "time_period": "1738-2018",
@@ -529,10 +550,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 39
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 39
     },
     {
-        "data_partner_institution": "ArcInfo",
+        "data_partner_institution": "SNL",
         "media_alias": "IMP",
         "media_title": "L'Impartial",
         "time_period": "1881-2018",
@@ -543,10 +565,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 39
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 39
     },
     {
-        "data_partner_institution": "LCE",
+        "data_partner_institution": "SNL",
         "media_alias": "LCE",
         "media_title": "Conf\u00e9d\u00e9r\u00e9",
         "time_period": "1861-2018",
@@ -557,10 +580,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 28
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 28
     },
     {
-        "data_partner_institution": "LeTemps",
+        "data_partner_institution": "SNL",
         "media_alias": "JDG",
         "media_title": "Journal de Gen\u00e8ve",
         "time_period": "1826-1998",
@@ -571,10 +595,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 14
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 14
     },
     {
-        "data_partner_institution": "LeTemps",
+        "data_partner_institution": "SNL",
         "media_alias": "GDL",
         "media_title": "Gazette de Lausanne",
         "time_period": "1798-1991",
@@ -585,10 +610,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 14
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 14
     },
     {
-        "data_partner_institution": "Migros",
+        "data_partner_institution": "SNL",
         "media_alias": "DTT",
         "media_title": "Die Tat",
         "time_period": "1935-1978",
@@ -599,10 +625,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 24
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 24
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "FCT",
         "media_title": "La FCTA",
         "time_period": "1955-1963",
@@ -613,10 +640,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "LLS",
         "media_title": "La lutte syndicale",
         "time_period": "1906-1998",
@@ -627,10 +655,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "OIZ",
         "media_title": "Die Gewerkschaft",
         "time_period": "1901-1992",
@@ -641,10 +670,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "SDT",
         "media_title": "Solidarit\u00e9",
         "time_period": "1909-2001",
@@ -655,10 +685,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "SMZ",
         "media_title": "SMUV-Zeitung",
         "time_period": "1902-2004",
@@ -669,10 +700,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "Unia",
+        "data_partner_institution": "SNL",
         "media_alias": "VHT",
         "media_title": "VHTL-Zeitung",
         "time_period": "1904-2004",
@@ -683,10 +715,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 34
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 34
     },
     {
-        "data_partner_institution": "BVCF",
+        "data_partner_institution": "SNL",
         "media_alias": "LSE",
         "media_title": "Le Peuple, La Sentinelle",
         "time_period": "1890-1971",
@@ -697,10 +730,11 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 37
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 37
     },
     {
-        "data_partner_institution": "BVCF",
+        "data_partner_institution": "SNL",
         "media_alias": "LES",
         "media_title": "L'Essor",
         "time_period": "1906-2018",
@@ -711,7 +745,50 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Student User Plan",
         "minimum_user_plan_required_to_export_illustration": "Student User Plan",
-        "partner_bitmap_index": 37
+        "partner_bitmap_index": 5,
+        "additional_bitmap_index": 37
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "AS",
+        "media_title": "Allez savoir!",
+        "time_period": "1994-2023",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "ABal",
+        "media_title": "Almanach Balthasar",
+        "time_period": "1922-1926",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "AChal",
+        "media_title": "Almanach de Chalamala",
+        "time_period": "1911-1919",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
     },
     {
         "data_partner_institution": "BCUL",
@@ -729,6 +806,20 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "ALT",
+        "media_title": "Arr\u00eatez-les tous !",
+        "time_period": "1972-1972",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "Castigat",
         "media_title": "Castigat ridendo mores",
         "time_period": "1879-1880",
@@ -739,6 +830,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "CHU",
+        "media_title": "Chut",
+        "time_period": "1977-1977",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -767,6 +872,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "DP ",
+        "media_title": "Domaine public",
+        "time_period": "1963-2021",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -837,6 +956,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "GER",
+        "media_title": "Gribouille et Redzipet",
+        "time_period": "1904-1911",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -925,6 +1058,20 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "ARB",
+        "media_title": "L'Arbal\u00e8te",
+        "time_period": "1916-1917",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "EM",
         "media_title": "L'Echo de Morges",
         "time_period": "1883-1892",
@@ -995,6 +1142,34 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "CREC",
+        "media_title": "La Cr\u00e9celle",
+        "time_period": "1920-1921",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "DETO",
+        "media_title": "La d\u00e9tonation",
+        "time_period": "1985-1986",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "Fronde",
         "media_title": "La Fronde",
         "time_period": "1872-1872",
@@ -1005,6 +1180,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "FDL",
+        "media_title": "La Fronde de Lausanne",
+        "time_period": "1908-1908",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -1051,6 +1240,48 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "MARG",
+        "media_title": "La Marge",
+        "time_period": "1973-1973",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "RLP",
+        "media_title": "La Petite revue",
+        "time_period": "1938-1946",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "POM",
+        "media_title": "La Pomme",
+        "time_period": "1969-1973",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "RLA",
         "media_title": "La Revue agricole",
         "time_period": "1891-1898",
@@ -1061,6 +1292,34 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "RL",
+        "media_title": "La Revue de Lausanne",
+        "time_period": "1946-1946",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "RLD",
+        "media_title": "La Revue dimanche",
+        "time_period": "1941-1946",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -1093,6 +1352,76 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "RLS",
+        "media_title": "Lausanne-Soir",
+        "time_period": "1975-1976",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "BIST",
+        "media_title": "Le Bistouri",
+        "time_period": "1934-1934",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "Rollan1",
+        "media_title": "Le Bon jour de Jack Rollan",
+        "time_period": "1952-1959",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "Rollan2",
+        "media_title": "Le Bonjour de Jack Rollan (2)",
+        "time_period": "1974-1974",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "CLib",
+        "media_title": "Le Canard libre",
+        "time_period": "1936-1938",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "Charivari",
         "media_title": "Le Charivari [1]",
         "time_period": "1839-1841",
@@ -1121,6 +1450,34 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "CLN",
+        "media_title": "Le Clairon du Nord",
+        "time_period": "1974-1974",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "FRON",
+        "media_title": "Le Frondeur",
+        "time_period": "1917-1917",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "Grelot",
         "media_title": "Le Grelot",
         "time_period": "1843-1846",
@@ -1131,6 +1488,34 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "Rollan3",
+        "media_title": "Le Journal de Jack Rollan",
+        "time_period": "1960-1961",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "KANG",
+        "media_title": "Le Kangourou",
+        "time_period": "1959-1959",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -1163,6 +1548,20 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "MOU2",
+        "media_title": "Le Moustique (Lausanne)",
+        "time_period": "1912-1914",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "NV1",
         "media_title": "Le Nouvelliste vaudois",
         "time_period": "1824-1855",
@@ -1187,6 +1586,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "PT",
+        "media_title": "Le Passe-Temps",
+        "time_period": "1901-1901",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -1233,6 +1646,20 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "SEM",
+        "media_title": "Le Semeur",
+        "time_period": "1991-1993",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "TouSuIl",
         "media_title": "Le Touriste / La Suisse Illustr\u00e9e",
         "time_period": "1866-1882",
@@ -1257,6 +1684,20 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "MEP",
+        "media_title": "M\u00e9pris",
+        "time_period": "1973-1974",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {
@@ -1289,6 +1730,48 @@
     },
     {
         "data_partner_institution": "BCUL",
+        "media_alias": "NRev",
+        "media_title": "Nouvelle revue",
+        "time_period": "2005-2012",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "NRL",
+        "media_title": "Nouvelle revue de Lausanne et du Pays de Vaud",
+        "time_period": "1990-1991",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "NRH",
+        "media_title": "Nouvelle revue hebdo",
+        "time_period": "1991-1994",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright",
+        "permitted_use": "Research",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Academic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
         "media_alias": "NS",
         "media_title": "Nouvelliste suisse",
         "time_period": "1748-1769",
@@ -1313,6 +1796,48 @@
         "minimum_user_plan_required_to_explore_in_the_webapp": "Guest User Plan",
         "minimum_user_plan_required_to_export_transcripts": "Basic User Plan",
         "minimum_user_plan_required_to_export_illustration": "Basic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "PL ",
+        "media_title": "Presse Lausannoise",
+        "time_period": "1922-1922",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "PV",
+        "media_title": "Propos vaudois",
+        "time_period": "1916-1916",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
+        "partner_bitmap_index": 22
+    },
+    {
+        "data_partner_institution": "BCUL",
+        "media_alias": "RPR",
+        "media_title": "Revue photo-rigolotipique",
+        "time_period": "1902-1902",
+        "source_type": "Newspaper",
+        "source_medium": "print",
+        "copyright_or_copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+        "permitted_use": "Personal, Research and Educational",
+        "minimum_user_plan_required_to_explore_in_the_webapp": "Basic User Plan",
+        "minimum_user_plan_required_to_export_transcripts": "Academic User Plan",
+        "minimum_user_plan_required_to_export_illustration": "Academic User Plan",
         "partner_bitmap_index": 22
     },
     {

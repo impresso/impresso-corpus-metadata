@@ -79,14 +79,15 @@ def allowed_status_to_bitmap(
         case "Forbidden":
             # start of bitmap: '0000'
             indices_to_set = []
+        case "To be defined":
+            # start of bitmap: '0000'
+            indices_to_set = []
 
     # set all selected indices to 1 (there can be 0, 1 or 2)
     for idx in indices_to_set:
         bitmap[idx] = "1"
 
-    assert Counter(bitmap)["1"] in range(
-        3
-    ), "Content bitmaps should have at most two active bits!"
+    assert Counter(bitmap)["1"] in range(3), "Content bitmaps should have at most two active bits!"
 
     return bitmap
 
@@ -156,7 +157,10 @@ def entry_to_bitmaps(
     # if it's not public, each bitmap changes based on the various columns
     else:
         # undetermined, unknown or orphan copyright don't have restrictions
-        if ar_entry["copyright_status"] not in "Protected Domain: In copyright":
+        if ar_entry["copyright_status"] not in [
+            "Protected Domain: In copyright",
+            "Protected Domain: In copyright - Unknown rightsholder",
+        ]:
             allowed_status = no_restr_ar
         else:
             allowed_status = None

@@ -1,4 +1,79 @@
 {
+    "AS": {
+        "1994-2023": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "AS",
+            "full_title": "Allez savoir!",
+            "start_year": 1994,
+            "end_year": 2023,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1994-2023) - Research use",
+            "rights_statement_get_tr": "Protected (1994-2023) - Research use",
+            "rights_statement_get_img": "Protected (1994-2023) - Research use"
+        }
+    },
+    "ABal": {
+        "1922-1926": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ABal",
+            "full_title": "Almanach Balthasar",
+            "start_year": 1922,
+            "end_year": 1926,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1922-1926) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1922-1926) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1922-1926) - Personal, Research and Educational use"
+        }
+    },
+    "AChal": {
+        "1911-1919": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "AChal",
+            "full_title": "Almanach de Chalamala",
+            "start_year": 1911,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1911-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1911-1919) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1911-1919) - Personal, Research and Educational use"
+        }
+    },
     "ACI": {
         "1832-1832": {
             "rights_holder_id": "BCUL",
@@ -24,6 +99,31 @@
             "rights_statement_get_img": "Public Domain (1832-1832)"
         }
     },
+    "ALT": {
+        "1972-1972": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ALT",
+            "full_title": "Arr\u00eatez-les tous !",
+            "start_year": 1972,
+            "end_year": 1972,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1972-1972) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1972-1972) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1972-1972) - Personal, Research and Educational use"
+        }
+    },
     "Castigat": {
         "1879-1880": {
             "rights_holder_id": "BCUL",
@@ -47,6 +147,31 @@
             "rights_statement_explore": "Public Domain (1879-1880)",
             "rights_statement_get_tr": "Public Domain (1879-1880)",
             "rights_statement_get_img": "Public Domain (1879-1880)"
+        }
+    },
+    "CHU": {
+        "1977-1977": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CHU",
+            "full_title": "Chut",
+            "start_year": 1977,
+            "end_year": 1977,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1977-1977) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1977-1977) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1977-1977) - Personal, Research and Educational use"
         }
     },
     "CL": {
@@ -97,6 +222,31 @@
             "rights_statement_explore": "Public Domain (1884-1887)",
             "rights_statement_get_tr": "Public Domain (1884-1887)",
             "rights_statement_get_img": "Public Domain (1884-1887)"
+        }
+    },
+    "DP": {
+        "1963-2021": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "DP ",
+            "full_title": "Domaine public",
+            "start_year": 1963,
+            "end_year": 2021,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1963-2021) - Research use",
+            "rights_statement_get_tr": "Protected (1963-2021) - Research use",
+            "rights_statement_get_img": "Protected (1963-2021) - Research use"
         }
     },
     "FAM": {
@@ -222,6 +372,31 @@
             "rights_statement_explore": "Public Domain (1867-1868)",
             "rights_statement_get_tr": "Public Domain (1867-1868)",
             "rights_statement_get_img": "Public Domain (1867-1868)"
+        }
+    },
+    "GER": {
+        "1904-1911": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "GER",
+            "full_title": "Gribouille et Redzipet",
+            "start_year": 1904,
+            "end_year": 1911,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1904-1911) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1904-1911) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1904-1911) - Personal, Research and Educational use"
         }
     },
     "AV": {
@@ -374,6 +549,31 @@
             "rights_statement_get_img": "Public Domain (1822-1823)"
         }
     },
+    "ARB": {
+        "1916-1917": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "ARB",
+            "full_title": "L'Arbal\u00e8te",
+            "start_year": 1916,
+            "end_year": 1917,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1916-1917) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1916-1917) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1916-1917) - Personal, Research and Educational use"
+        }
+    },
     "EM": {
         "1883-1892": {
             "rights_holder_id": "BCUL",
@@ -499,6 +699,56 @@
             "rights_statement_get_img": "Public Domain (1898-1898)"
         }
     },
+    "CREC": {
+        "1920-1921": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CREC",
+            "full_title": "La Cr\u00e9celle",
+            "start_year": 1920,
+            "end_year": 1921,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1920-1921) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1920-1921) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1920-1921) - Personal, Research and Educational use"
+        }
+    },
+    "DETO": {
+        "1985-1986": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "DETO",
+            "full_title": "La d\u00e9tonation",
+            "start_year": 1985,
+            "end_year": 1986,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1985-1986) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1985-1986) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1985-1986) - Personal, Research and Educational use"
+        }
+    },
     "Fronde": {
         "1872-1872": {
             "rights_holder_id": "BCUL",
@@ -522,6 +772,31 @@
             "rights_statement_explore": "Public Domain (1872-1872)",
             "rights_statement_get_tr": "Public Domain (1872-1872)",
             "rights_statement_get_img": "Public Domain (1872-1872)"
+        }
+    },
+    "FDL": {
+        "1908-1908": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FDL",
+            "full_title": "La Fronde de Lausanne",
+            "start_year": 1908,
+            "end_year": 1908,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1908-1908) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1908-1908) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1908-1908) - Personal, Research and Educational use"
         }
     },
     "Griffe": {
@@ -599,6 +874,81 @@
             "rights_statement_get_img": "Public Domain (1887-1897)"
         }
     },
+    "MARG": {
+        "1973-1973": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "MARG",
+            "full_title": "La Marge",
+            "start_year": 1973,
+            "end_year": 1973,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1973-1973) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1973-1973) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1973-1973) - Personal, Research and Educational use"
+        }
+    },
+    "RLP": {
+        "1938-1946": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RLP",
+            "full_title": "La Petite revue",
+            "start_year": 1938,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1938-1946) - Research use",
+            "rights_statement_get_tr": "Protected (1938-1946) - Research use",
+            "rights_statement_get_img": "Protected (1938-1946) - Research use"
+        }
+    },
+    "POM": {
+        "1969-1973": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "POM",
+            "full_title": "La Pomme",
+            "start_year": 1969,
+            "end_year": 1973,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1969-1973) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1969-1973) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1969-1973) - Personal, Research and Educational use"
+        }
+    },
     "RLA": {
         "1891-1898": {
             "rights_holder_id": "BCUL",
@@ -622,6 +972,56 @@
             "rights_statement_explore": "Public Domain (1891-1898)",
             "rights_statement_get_tr": "Public Domain (1891-1898)",
             "rights_statement_get_img": "Public Domain (1891-1898)"
+        }
+    },
+    "RL": {
+        "1946-1946": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RL",
+            "full_title": "La Revue de Lausanne",
+            "start_year": 1946,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1946) - Research use",
+            "rights_statement_get_tr": "Protected (1946-1946) - Research use",
+            "rights_statement_get_img": "Protected (1946-1946) - Research use"
+        }
+    },
+    "RLD": {
+        "1941-1946": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RLD",
+            "full_title": "La Revue dimanche",
+            "start_year": 1941,
+            "end_year": 1946,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1941-1946) - Research use",
+            "rights_statement_get_tr": "Protected (1941-1946) - Research use",
+            "rights_statement_get_img": "Protected (1941-1946) - Research use"
         }
     },
     "PAT": {
@@ -674,6 +1074,131 @@
             "rights_statement_get_img": "Public Domain (1840-1843)"
         }
     },
+    "RLS": {
+        "1975-1976": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RLS",
+            "full_title": "Lausanne-Soir",
+            "start_year": 1975,
+            "end_year": 1976,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1975-1976) - Research use",
+            "rights_statement_get_tr": "Protected (1975-1976) - Research use",
+            "rights_statement_get_img": "Protected (1975-1976) - Research use"
+        }
+    },
+    "BIST": {
+        "1934-1934": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "BIST",
+            "full_title": "Le Bistouri",
+            "start_year": 1934,
+            "end_year": 1934,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1934-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1934-1934) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1934-1934) - Personal, Research and Educational use"
+        }
+    },
+    "Rollan1": {
+        "1952-1959": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Rollan1",
+            "full_title": "Le Bon jour de Jack Rollan",
+            "start_year": 1952,
+            "end_year": 1959,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1952-1959) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1952-1959) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1952-1959) - Personal, Research and Educational use"
+        }
+    },
+    "Rollan2": {
+        "1974-1974": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Rollan2",
+            "full_title": "Le Bonjour de Jack Rollan (2)",
+            "start_year": 1974,
+            "end_year": 1974,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1974-1974) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1974-1974) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1974-1974) - Personal, Research and Educational use"
+        }
+    },
+    "CLib": {
+        "1936-1938": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CLib",
+            "full_title": "Le Canard libre",
+            "start_year": 1936,
+            "end_year": 1938,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1936-1938) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1936-1938) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1936-1938) - Personal, Research and Educational use"
+        }
+    },
     "Charivari": {
         "1839-1841": {
             "rights_holder_id": "BCUL",
@@ -724,6 +1249,56 @@
             "rights_statement_get_img": "Public Domain (1875-1877)"
         }
     },
+    "CLN": {
+        "1974-1974": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "CLN",
+            "full_title": "Le Clairon du Nord",
+            "start_year": 1974,
+            "end_year": 1974,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1974-1974) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1974-1974) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1974-1974) - Personal, Research and Educational use"
+        }
+    },
+    "FRON": {
+        "1917-1917": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "FRON",
+            "full_title": "Le Frondeur",
+            "start_year": 1917,
+            "end_year": 1917,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1917-1917) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1917-1917) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1917-1917) - Personal, Research and Educational use"
+        }
+    },
     "Grelot": {
         "1843-1846": {
             "rights_holder_id": "BCUL",
@@ -747,6 +1322,56 @@
             "rights_statement_explore": "Public Domain (1843-1846)",
             "rights_statement_get_tr": "Public Domain (1843-1846)",
             "rights_statement_get_img": "Public Domain (1843-1846)"
+        }
+    },
+    "Rollan3": {
+        "1960-1961": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "Rollan3",
+            "full_title": "Le Journal de Jack Rollan",
+            "start_year": 1960,
+            "end_year": 1961,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1960-1961) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1960-1961) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1960-1961) - Personal, Research and Educational use"
+        }
+    },
+    "KANG": {
+        "1959-1959": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "KANG",
+            "full_title": "Le Kangourou",
+            "start_year": 1959,
+            "end_year": 1959,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1959-1959) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1959-1959) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1959-1959) - Personal, Research and Educational use"
         }
     },
     "MESSAGER": {
@@ -799,6 +1424,31 @@
             "rights_statement_get_img": "Public Domain (1879-1880)"
         }
     },
+    "MOU2": {
+        "1912-1914": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "MOU2",
+            "full_title": "Le Moustique (Lausanne)",
+            "start_year": 1912,
+            "end_year": 1914,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1912-1914) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1912-1914) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1912-1914) - Personal, Research and Educational use"
+        }
+    },
     "NV1": {
         "1824-1855": {
             "rights_holder_id": "BCUL",
@@ -847,6 +1497,31 @@
             "rights_statement_explore": "Public Domain (1882-1882)",
             "rights_statement_get_tr": "Public Domain (1882-1882)",
             "rights_statement_get_img": "Public Domain (1882-1882)"
+        }
+    },
+    "PT": {
+        "1901-1901": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PT",
+            "full_title": "Le Passe-Temps",
+            "start_year": 1901,
+            "end_year": 1901,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1901-1901) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1901-1901) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1901-1901) - Personal, Research and Educational use"
         }
     },
     "PJ": {
@@ -924,6 +1599,31 @@
             "rights_statement_get_img": "Public Domain (1841-1842)"
         }
     },
+    "SEM": {
+        "1991-1993": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "SEM",
+            "full_title": "Le Semeur",
+            "start_year": 1991,
+            "end_year": 1993,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1991-1993) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1991-1993) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1991-1993) - Personal, Research and Educational use"
+        }
+    },
     "TouSuIl": {
         "1866-1882": {
             "rights_holder_id": "BCUL",
@@ -972,6 +1672,31 @@
             "rights_statement_explore": "Public Domain (1888-1889)",
             "rights_statement_get_tr": "Public Domain (1888-1889)",
             "rights_statement_get_img": "Public Domain (1888-1889)"
+        }
+    },
+    "MEP": {
+        "1973-1974": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "MEP",
+            "full_title": "M\u00e9pris",
+            "start_year": 1973,
+            "end_year": 1974,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1973-1974) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1973-1974) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1973-1974) - Personal, Research and Educational use"
         }
     },
     "ME": {
@@ -1024,6 +1749,81 @@
             "rights_statement_get_img": "Public Domain (1748-1800)"
         }
     },
+    "NRev": {
+        "2005-2012": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NRev",
+            "full_title": "Nouvelle revue",
+            "start_year": 2005,
+            "end_year": 2012,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (2005-2012) - Research use",
+            "rights_statement_get_tr": "Protected (2005-2012) - Research use",
+            "rights_statement_get_img": "Protected (2005-2012) - Research use"
+        }
+    },
+    "NRL": {
+        "1990-1991": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NRL",
+            "full_title": "Nouvelle revue de Lausanne et du Pays de Vaud",
+            "start_year": 1990,
+            "end_year": 1991,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1990-1991) - Research use",
+            "rights_statement_get_tr": "Protected (1990-1991) - Research use",
+            "rights_statement_get_img": "Protected (1990-1991) - Research use"
+        }
+    },
+    "NRH": {
+        "1991-1994": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "NRH",
+            "full_title": "Nouvelle revue hebdo",
+            "start_year": 1991,
+            "end_year": 1994,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1991-1994) - Research use",
+            "rights_statement_get_tr": "Protected (1991-1994) - Research use",
+            "rights_statement_get_img": "Protected (1991-1994) - Research use"
+        }
+    },
     "NS": {
         "1748-1769": {
             "rights_holder_id": "BCUL",
@@ -1072,6 +1872,81 @@
             "rights_statement_explore": "Public Domain (1856-1891)",
             "rights_statement_get_tr": "Public Domain (1856-1891)",
             "rights_statement_get_img": "Public Domain (1856-1891)"
+        }
+    },
+    "PL": {
+        "1922-1922": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PL ",
+            "full_title": "Presse Lausannoise",
+            "start_year": 1922,
+            "end_year": 1922,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1922-1922) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1922-1922) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1922-1922) - Personal, Research and Educational use"
+        }
+    },
+    "PV": {
+        "1916-1916": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "PV",
+            "full_title": "Propos vaudois",
+            "start_year": 1916,
+            "end_year": 1916,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1916-1916) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1916-1916) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1916-1916) - Personal, Research and Educational use"
+        }
+    },
+    "RPR": {
+        "1902-1902": {
+            "rights_holder_id": "BCUL",
+            "title_alias": "RPR",
+            "full_title": "Revue photo-rigolotipique",
+            "start_year": 1902,
+            "end_year": 1902,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright - Unknown rightsholder",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1902-1902) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1902-1902) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1902-1902) - Personal, Research and Educational use"
         }
     }
 }
