@@ -1,0 +1,1220 @@
+{
+    "ecoute_paix": {
+        "1946-1947": {
+            "radio_channel": "Radio Sottens / Radio-Lausanne ",
+            "rights_holder_id": "RTS",
+            "title_alias": "ecoute_paix",
+            "full_title": "A l'\u00e9coute de la paix qui vient",
+            "start_year": 1946,
+            "end_year": 1947,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1947) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1946-1947) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1946-1947) - Personal, Research and Educational use"
+        }
+    },
+    "mag_eco": {
+        "1971-1974": {
+            "radio_channel": "Premier programme/Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "mag_eco",
+            "full_title": "Magazine \u00e9conomique",
+            "start_year": 1971,
+            "end_year": 1974,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1971-1974) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1971-1974) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1971-1974) - Personal, Research and Educational use"
+        }
+    },
+    "ombres_eco": {
+        "1993-1994": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "ombres_eco",
+            "full_title": "Ombres et lumi\u00e8res de l'\u00e9conomie suisse",
+            "start_year": 1993,
+            "end_year": 1994,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1993-1994) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1993-1994) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1993-1994) - Personal, Research and Educational use"
+        }
+    },
+    "j_mat": {
+        "1972-1999": {
+            "radio_channel": "Premier programme / La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_mat",
+            "full_title": "Journal du matin",
+            "start_year": 1972,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1972-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1972-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1972-1999) - Personal, Research and Educational use"
+        },
+        "2015-2015": {
+            "radio_channel": "Premier programme / La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_mat",
+            "full_title": "Journal du matin",
+            "start_year": 2015,
+            "end_year": 2015,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (2015-2015) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (2015-2015) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (2015-2015) - Personal, Research and Educational use"
+        }
+    },
+    "j_soir": {
+        "1956-1999": {
+            "radio_channel": "Radio-Lausanne",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_soir",
+            "full_title": "Journal du soir",
+            "start_year": 1956,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1956-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1956-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1956-1999) - Personal, Research and Educational use"
+        }
+    },
+    "j_midi": {
+        "1940-1999": {
+            "radio_channel": "La Premi\u00e8re / Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_midi",
+            "full_title": "Journal de midi",
+            "start_year": 1940,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1940-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1940-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1940-1999) - Personal, Research and Educational use"
+        },
+        "2011-2011": {
+            "radio_channel": "La Premi\u00e8re / Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_midi",
+            "full_title": "Journal de midi",
+            "start_year": 2011,
+            "end_year": 2011,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (2011-2011) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (2011-2011) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (2011-2011) - Personal, Research and Educational use"
+        }
+    },
+    "petitdej": {
+        "1985-1998": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "petitdej",
+            "full_title": "Petit d\u00e9jeuner",
+            "start_year": 1985,
+            "end_year": 1998,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1985-1998) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1985-1998) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1985-1998) - Personal, Research and Educational use"
+        }
+    },
+    "mag_info": {
+        "1956-1991": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "mag_info",
+            "full_title": "Magazine (Emission Info)",
+            "start_year": 1956,
+            "end_year": 1991,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1956-1991) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1956-1991) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1956-1991) - Personal, Research and Educational use"
+        }
+    },
+    "trib_prem": {
+        "1985-1999": {
+            "radio_channel": "la Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "trib_prem",
+            "full_title": "Tribune de Premi\u00e8re",
+            "start_year": 1985,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1985-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1985-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1985-1999) - Personal, Research and Educational use"
+        }
+    },
+    "infopile": {
+        "1990-1999": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "infopile",
+            "full_title": "Info-pile",
+            "start_year": 1990,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1990-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1990-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1990-1999) - Personal, Research and Educational use"
+        }
+    },
+    "enquest": {
+        "1971-1981": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "enquest",
+            "full_title": "En questions",
+            "start_year": 1971,
+            "end_year": 1981,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1971-1981) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1971-1981) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1971-1981) - Personal, Research and Educational use"
+        }
+    },
+    "parole_prem": {
+        "1986-1990": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "parole_prem",
+            "full_title": "Parole de Premi\u00e8re",
+            "start_year": 1986,
+            "end_year": 1990,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1986-1990) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1986-1990) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1986-1990) - Personal, Research and Educational use"
+        }
+    },
+    "forum": {
+        "1992-2013": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "forum",
+            "full_title": "Forum",
+            "start_year": 1992,
+            "end_year": 2013,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1992-2013) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1992-2013) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1992-2013) - Personal, Research and Educational use"
+        }
+    },
+    "forum_lau": {
+        "1946-1961": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "forum_lau",
+            "full_title": "Forum de Radio-Lausanne",
+            "start_year": 1946,
+            "end_year": 1961,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1961) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1946-1961) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1946-1961) - Personal, Research and Educational use"
+        }
+    },
+    "geneve_info": {
+        "1958-1961": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "geneve_info",
+            "full_title": "Gen\u00e8ve vous informe",
+            "start_year": 1958,
+            "end_year": 1961,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1958-1961) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1958-1961) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1958-1961) - Personal, Research and Educational use"
+        }
+    },
+    "j13h": {
+        "1981-1987": {
+            "radio_channel": "Premier programme / Deuxi\u00e8me programme / Espace 2 / La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "j13h",
+            "full_title": "Journal de 13h",
+            "start_year": 1981,
+            "end_year": 1987,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1981-1987) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1981-1987) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1981-1987) - Personal, Research and Educational use"
+        }
+    },
+    "j13h2": {
+        "1979-1987": {
+            "radio_channel": "Premier programme / Deuxi\u00e8me programme / La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "j13h2",
+            "full_title": "Journal de 13 heures",
+            "start_year": 1979,
+            "end_year": 1987,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1979-1987) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1979-1987) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1979-1987) - Personal, Research and Educational use"
+        }
+    },
+    "j_nuit": {
+        "1981-1998": {
+            "radio_channel": "Premier programme / La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "j_nuit",
+            "full_title": "Journal de nuit",
+            "start_year": 1981,
+            "end_year": 1998,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1981-1998) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1981-1998) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1981-1998) - Personal, Research and Educational use"
+        }
+    },
+    "miroir_monde": {
+        "1939-1987": {
+            "radio_channel": "Radio Sottens / Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "miroir_monde",
+            "full_title": "Miroir du monde",
+            "start_year": 1939,
+            "end_year": 1987,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1939-1987) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1939-1987) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1939-1987) - Personal, Research and Educational use"
+        }
+    },
+    "inst_monde": {
+        "1951-1958": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "inst_monde",
+            "full_title": "Instants du monde",
+            "start_year": 1951,
+            "end_year": 1958,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1951-1958) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1951-1958) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1951-1958) - Personal, Research and Educational use"
+        }
+    },
+    "miroir_temps": {
+        "1949-1963": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "miroir_temps",
+            "full_title": "Miroir du temps",
+            "start_year": 1949,
+            "end_year": 1963,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1949-1963) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1949-1963) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1949-1963) - Personal, Research and Educational use"
+        }
+    },
+    "paris_parle": {
+        "1951-1961": {
+            "radio_channel": "Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "paris_parle",
+            "full_title": "Paris vous parle",
+            "start_year": 1951,
+            "end_year": 1961,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1951-1961) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1951-1961) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1951-1961) - Personal, Research and Educational use"
+        }
+    },
+    "vie_monde": {
+        "1959-1976": {
+            "radio_channel": "Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "vie_monde",
+            "full_title": "Vingt-quatre heures de la vie du monde",
+            "start_year": 1959,
+            "end_year": 1976,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1959-1976) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1959-1976) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1959-1976) - Personal, Research and Educational use"
+        }
+    },
+    "chron_instit": {
+        "1946-1954": {
+            "radio_channel": "Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "chron_instit",
+            "full_title": "Chronique des institutions internationales",
+            "start_year": 1946,
+            "end_year": 1954,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1946-1954) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1946-1954) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1946-1954) - Personal, Research and Educational use"
+        }
+    },
+    "nu_parle": {
+        "1951-1951": {
+            "radio_channel": "Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "nu_parle",
+            "full_title": "Nations-Unies vous parlent",
+            "start_year": 1951,
+            "end_year": 1951,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1951-1951) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1951-1951) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1951-1951) - Personal, Research and Educational use"
+        }
+    },
+    "chron_unesco": {
+        "1952-1952": {
+            "radio_channel": "Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "chron_unesco",
+            "full_title": "Chronique de l'UNESCO",
+            "start_year": 1952,
+            "end_year": 1952,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1952-1952) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1952-1952) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1952-1952) - Personal, Research and Educational use"
+        }
+    },
+    "monde_sem": {
+        "1956-1958": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "monde_sem",
+            "full_title": "Monde cette semaine",
+            "start_year": 1956,
+            "end_year": 1958,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1956-1958) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1956-1958) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1956-1958) - Personal, Research and Educational use"
+        }
+    },
+    "monde_ant": {
+        "1960-1965": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "monde_ant",
+            "full_title": "Monde est sur l'antenne (Le)",
+            "start_year": 1960,
+            "end_year": 1965,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1960-1965) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1960-1965) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1960-1965) - Personal, Research and Educational use"
+        }
+    },
+    "suisse_euro": {
+        "1970-1977": {
+            "radio_channel": "Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "suisse_euro",
+            "full_title": "Suisse \u00e0 la rencontre de l'Europe",
+            "start_year": 1970,
+            "end_year": 1977,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1970-1977) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1970-1977) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1970-1977) - Personal, Research and Educational use"
+        }
+    },
+    "canal_euro": {
+        "1988-1989": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "canal_euro",
+            "full_title": "Canal Europe",
+            "start_year": 1988,
+            "end_year": 1989,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1988-1989) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1988-1989) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1988-1989) - Personal, Research and Educational use"
+        }
+    },
+    "min_oecu": {
+        "1964-1987": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "min_oecu",
+            "full_title": "Minute oecum\u00e9nique",
+            "start_year": 1964,
+            "end_year": 1987,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1964-1987) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1964-1987) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1964-1987) - Personal, Research and Educational use"
+        }
+    },
+    "terre_ciel": {
+        "1970-1992": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "terre_ciel",
+            "full_title": "Sur la terre comme au ciel",
+            "start_year": 1970,
+            "end_year": 1992,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1970-1992) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1970-1992) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1970-1992) - Personal, Research and Educational use"
+        }
+    },
+    "paraboles": {
+        "1970-2000": {
+            "radio_channel": "Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "paraboles",
+            "full_title": "Paraboles",
+            "start_year": 1970,
+            "end_year": 2000,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1970-2000) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1970-2000) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1970-2000) - Personal, Research and Educational use"
+        }
+    },
+    "culte": {
+        "1962-1999": {
+            "radio_channel": "Espace 2",
+            "rights_holder_id": "RTS",
+            "title_alias": "culte",
+            "full_title": "Culte",
+            "start_year": 1962,
+            "end_year": 1999,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1962-1999) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1962-1999) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1962-1999) - Personal, Research and Educational use"
+        }
+    },
+    "bigbang": {
+        "1996-1996": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "bigbang",
+            "full_title": "Big Bang",
+            "start_year": 1996,
+            "end_year": 1996,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1996-1996) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1996-1996) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1996-1996) - Personal, Research and Educational use"
+        }
+    },
+    "vie_va": {
+        "1982-1984": {
+            "radio_channel": "Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "vie_va",
+            "full_title": "Vie qui va",
+            "start_year": 1982,
+            "end_year": 1984,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1982-1984) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1982-1984) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1982-1984) - Personal, Research and Educational use"
+        }
+    },
+    "nickel": {
+        "1994-1995": {
+            "radio_channel": "La Premi\u00e8re",
+            "rights_holder_id": "RTS",
+            "title_alias": "nickel",
+            "full_title": "Nickel",
+            "start_year": 1994,
+            "end_year": 1995,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1994-1995) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1994-1995) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1994-1995) - Personal, Research and Educational use"
+        }
+    },
+    "causerie_uni": {
+        "1939-1946": {
+            "radio_channel": "Radio Lausanne / Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "causerie_uni",
+            "full_title": "Causerie universitaire",
+            "start_year": 1939,
+            "end_year": 1946,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1939-1946) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1939-1946) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1939-1946) - Personal, Research and Educational use"
+        }
+    },
+    "dos_sci": {
+        "1987-1992": {
+            "radio_channel": "Espace 2",
+            "rights_holder_id": "RTS",
+            "title_alias": "dos_sci",
+            "full_title": "Dossier : sciences",
+            "start_year": 1987,
+            "end_year": 1992,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1987-1992) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1987-1992) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1987-1992) - Personal, Research and Educational use"
+        }
+    },
+    "mag_sci1": {
+        "1964-1988": {
+            "radio_channel": "Premier programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "mag_sci1",
+            "full_title": "Magazine des sciences",
+            "start_year": 1964,
+            "end_year": 1988,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1964-1988) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1964-1988) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1964-1988) - Personal, Research and Educational use"
+        }
+    },
+    "mag_sci2": {
+        "1958-1971": {
+            "radio_channel": "Deuxi\u00e8me programme",
+            "rights_holder_id": "RTS",
+            "title_alias": "mag_sci2",
+            "full_title": "Magazine de la science",
+            "start_year": 1958,
+            "end_year": 1971,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1958-1971) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1958-1971) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1958-1971) - Personal, Research and Educational use"
+        }
+    },
+    "ana_media": {
+        "1996-1997": {
+            "radio_channel": "Espace 2",
+            "rights_holder_id": "RTS",
+            "title_alias": "ana_media",
+            "full_title": "Analyse des m\u00e9dias",
+            "start_year": 1996,
+            "end_year": 1997,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1996-1997) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1996-1997) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1996-1997) - Personal, Research and Educational use"
+        }
+    },
+    "hist_ondes": {
+        "1989-1989": {
+            "radio_channel": "Espace 2",
+            "rights_holder_id": "RTS",
+            "title_alias": "hist_ondes",
+            "full_title": "Histoire d'ondes",
+            "start_year": 1989,
+            "end_year": 1989,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1989-1989) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1989-1989) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1989-1989) - Personal, Research and Educational use"
+        }
+    },
+    "mag_tv2": {
+        "1953-1955": {
+            "radio_channel": "Radio Sottens",
+            "rights_holder_id": "RTS",
+            "title_alias": "mag_tv2",
+            "full_title": "Magazine de t\u00e9l\u00e9vision",
+            "start_year": 1953,
+            "end_year": 1955,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1953-1955) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1953-1955) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1953-1955) - Personal, Research and Educational use"
+        }
+    },
+    "mem_ondes": {
+        "1989-1991": {
+            "radio_channel": "Espace 2",
+            "rights_holder_id": "RTS",
+            "title_alias": "mem_ondes",
+            "full_title": "M\u00e9moire des ondes",
+            "start_year": 1989,
+            "end_year": 1991,
+            "media_type": "Radio Broadcast",
+            "medium": "audio record",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Only Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Personal, Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0000000000000000010000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000000010000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1989-1991) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1989-1991) - Personal, Research and Educational use",
+            "rights_statement_get_img": "Protected (1989-1991) - Personal, Research and Educational use"
+        }
+    }
+}
