@@ -1,0 +1,59 @@
+[
+  {
+    "id": 525,
+    "ingestion_batch": "SUB",
+    "media_alias": "hamb_echo",
+    "partner_country": "DE",
+    "subtitles": "",
+    "title_changes_over_time": "",
+    "resource_holder_names": [
+      "Staats- und Universit\u00e4tsbibliothek Hamburg"
+    ],
+    "resource_holder_links": [
+      "https://www.sub.uni-hamburg.de/startseite.html"
+    ],
+    "resource_holder_logos": [],
+    "provenance_id": "PPN1754726119",
+    "source_permalink": "https://zeitungen.sub.uni-hamburg.de/recherche-zeitungen?tx_dlf_listview%5Baction%5D=main&tx_dlf_listview%5Bcontroller%5D=ListView&tx_dlf_listview%5Bpage%5D=1&tx_dlf_listview%5BsearchParameter%5D%5Bcollection%5D=338&tx_dlf_listview%5BsearchParameter%5D%5Bfq%5D%5B0%5D=-type%3Apage&tx_dlf_listview%5BsearchParameter%5D%5Bfq%5D%5B1%5D=%28%28location%3A%2APPN1754726119%2A%29%29&tx_dlf_listview%5BsearchParameter%5D%5Bfq%5D%5B2%5D=newspaper_faceting%3A%28%22Hamburger%20Echo%22%29&cHash=b57a6ad1d757e733080a6438f45f77c5",
+    "institution_portal": "https://zeitungen.sub.uni-hamburg.de/",
+    "other_titles_semicolon_separated_with_dates": [],
+    "predecessor_acronym": "",
+    "predecessor_until_date": "",
+    "immediate_predecessor_id": "",
+    "supplement_title": "",
+    "supplement_dates": "",
+    "parallel_editions_title": "",
+    "parallel_editions_date": "",
+    "ocrasr": "y",
+    "olr": "y",
+    "political_orientation": "Social democratic",
+    "topics": "",
+    "publication_place": "Hamburg",
+    "publisher": "",
+    "editor": "",
+    "printer": "",
+    "founder": "",
+    "bib_record_link": "",
+    "bib_record_text": "",
+    "first_issuedate_interface": 1887,
+    "last_issuedate_interface": 1933,
+    "media_start_year": "",
+    "media_end_year": "",
+    "partner_uid": "SUB",
+    "languages": [
+      "de"
+    ],
+    "geographic_outreach": "",
+    "geographic_area": "",
+    "title": "Hamburger Echo",
+    "src_type": "newspaper",
+    "src_medium": "print",
+    "latest_periodicity": "daily",
+    "ocr_format": "METS/ALTO",
+    "uid": "hamb_echo",
+    "description": "",
+    "dhs_link": "",
+    "wikipedia": "",
+    "additional_sources": ""
+  }
+]
