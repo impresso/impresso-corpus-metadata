@@ -180,6 +180,22 @@ def entry_to_bitmaps(
                 bitmap_keys.index(ar_entry["rights_holder_id"]),
             )
 
+            if ar_entry["rights_holder_id"] in [
+                "MVS",
+                "BCUF",
+                "ArcInfo",
+                "LCE",
+                "LeTemps",
+                "Migros",
+                "Unia",
+                "BVCF",
+            ]:
+                bitmaps[bm_key] = allowed_status_to_bitmap(
+                    ar_entry[ar_key] if allowed_status is None else allowed_status,
+                    bitmaps[bm_key],
+                    bitmap_keys.index("SNL"),
+                )
+
     str_bitmaps = {k: "".join(val) for k, val in bitmaps.items()}
 
     # return bitmaps as strings

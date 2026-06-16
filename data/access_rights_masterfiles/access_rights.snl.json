@@ -841,8 +841,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000010000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000010000000000000000000000000000000000000000"
+                "get_tr": "0000010000000000000000010000000000000000000000000000000000000000",
+                "get_img": "0000010000000000000000010000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1864-2006) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1864-2006) - Research and Educational use",
@@ -866,8 +866,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000010000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000010000000000000000000000000000000000000000"
+                "get_tr": "0000010000000000000000010000000000000000000000000000000000000000",
+                "get_img": "0000010000000000000000010000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1871-2018) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1871-2018) - Research and Educational use",
@@ -891,8 +891,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000001000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000001000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000000001000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000000001000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1738-2018) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1738-2018) - Research and Educational use",
@@ -916,8 +916,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000001000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000001000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000000001000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000000001000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1881-2018) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1881-2018) - Research and Educational use",
@@ -941,8 +941,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000100000000000000000000000000000000000",
-                "get_img": "0000000000000000000000000000100000000000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000100000000000000000000000000000000000",
+                "get_img": "0000010000000000000000000000100000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1861-2018) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1861-2018) - Research and Educational use",
@@ -966,8 +966,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000010000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000010000000000000000000000000000000000000000000000000"
+                "get_tr": "0000010000000010000000000000000000000000000000000000000000000000",
+                "get_img": "0000010000000010000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1826-1998) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1826-1998) - Research and Educational use",
@@ -991,8 +991,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000010000000000000000000000000000000000000000000000000",
-                "get_img": "0000000000000010000000000000000000000000000000000000000000000000"
+                "get_tr": "0000010000000010000000000000000000000000000000000000000000000000",
+                "get_img": "0000010000000010000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1798-1991) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1798-1991) - Research and Educational use",
@@ -1016,8 +1016,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000001000000000000000000000000000000000000000",
-                "get_img": "0000000000000000000000001000000000000000000000000000000000000000"
+                "get_tr": "0000010000000000000000001000000000000000000000000000000000000000",
+                "get_img": "0000010000000000000000001000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1935-1978) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1935-1978) - Research and Educational use",
@@ -1041,8 +1041,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1955-1963) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1955-1963) - Research and Educational use",
@@ -1066,8 +1066,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1906-1998) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1906-1998) - Research and Educational use",
@@ -1091,8 +1091,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1901-1992) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1901-1992) - Research and Educational use",
@@ -1116,8 +1116,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1909-2001) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1909-2001) - Research and Educational use",
@@ -1141,8 +1141,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1902-2004) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1902-2004) - Research and Educational use",
@@ -1166,8 +1166,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000100000000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000100000000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000100000000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000100000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1904-2004) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1904-2004) - Research and Educational use",
@@ -1191,8 +1191,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000100000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000100000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000000100000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000000100000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1890-1971) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1890-1971) - Research and Educational use",
@@ -1216,8 +1216,8 @@
             "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000000000000000000000000000000000000100000000000000000000000000",
-                "get_img": "0000000000000000000000000000000000000100000000000000000000000000"
+                "get_tr": "0000010000000000000000000000000000000100000000000000000000000000",
+                "get_img": "0000010000000000000000000000000000000100000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1906-2018) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1906-2018) - Research and Educational use",
