@@ -321,12 +321,12 @@
         }
     },
     "InterSoir": {
-        "1990-1996": {
+        "1990-1997": {
             "rights_holder_id": "INA",
             "title_alias": "InterSoir",
             "full_title": "Inter soir 19h00",
             "start_year": 1990,
-            "end_year": 1996,
+            "end_year": 1997,
             "media_type": "Radio Broadcast",
             "medium": "audio record",
             "content_and_metadata": "yes",
@@ -340,9 +340,9 @@
                 "get_tr": "0000000000000000100000000000000000000000000000000000000000000000",
                 "get_img": "0000000000000000100000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1990-1996) - Research",
-            "rights_statement_get_tr": "Protected (1990-1996) - Research use",
-            "rights_statement_get_img": "Protected (1990-1996) - Research use"
+            "rights_statement_explore": "Protected (1990-1997) - Research",
+            "rights_statement_get_tr": "Protected (1990-1997) - Research use",
+            "rights_statement_get_img": "Protected (1990-1997) - Research use"
         }
     },
     "LVFCB": {
@@ -1070,10 +1070,10 @@
             "rights_statement_get_img": "Protected (1958-1968) - Research use"
         }
     },
-    "GEnquetes": {
+    "GrEnquetes": {
         "1964-1968": {
             "rights_holder_id": "INA",
-            "title_alias": "GEnquetes",
+            "title_alias": "GrEnquetes",
             "full_title": "Grandes enqu\u00eates",
             "start_year": 1964,
             "end_year": 1968,
