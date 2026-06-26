@@ -271,12 +271,12 @@
         }
     },
     "TrParis": {
-        "1946-1963": {
+        "1946-1970": {
             "rights_holder_id": "INA",
             "title_alias": "TrParis",
             "full_title": "Tribune de Paris : Les hommes, les \u00e9v\u00e9nements, les id\u00e9es \u00e0 l'ordre du jour",
             "start_year": 1946,
-            "end_year": 1963,
+            "end_year": 1970,
             "media_type": "Radio Broadcast",
             "medium": "audio record",
             "content_and_metadata": "yes",
@@ -290,9 +290,9 @@
                 "get_tr": "0000000000000000100000000000000000000000000000000000000000000000",
                 "get_img": "0000000000000000100000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1946-1963) - Research",
-            "rights_statement_get_tr": "Protected (1946-1963) - Research use",
-            "rights_statement_get_img": "Protected (1946-1963) - Research use"
+            "rights_statement_explore": "Protected (1946-1970) - Research",
+            "rights_statement_get_tr": "Protected (1946-1970) - Research use",
+            "rights_statement_get_img": "Protected (1946-1970) - Research use"
         }
     },
     "InterActu": {
@@ -921,12 +921,12 @@
         }
     },
     "MagONU": {
-        "1949-1956": {
+        "1949-1957": {
             "rights_holder_id": "INA",
             "title_alias": "MagONU",
             "full_title": "Magazine de l'ONU",
             "start_year": 1949,
-            "end_year": 1956,
+            "end_year": 1957,
             "media_type": "Radio Broadcast",
             "medium": "audio record",
             "content_and_metadata": "yes",
@@ -940,9 +940,9 @@
                 "get_tr": "0000000000000000100000000000000000000000000000000000000000000000",
                 "get_img": "0000000000000000100000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1949-1956) - Research",
-            "rights_statement_get_tr": "Protected (1949-1956) - Research use",
-            "rights_statement_get_img": "Protected (1949-1956) - Research use"
+            "rights_statement_explore": "Protected (1949-1957) - Research",
+            "rights_statement_get_tr": "Protected (1949-1957) - Research use",
+            "rights_statement_get_img": "Protected (1949-1957) - Research use"
         }
     },
     "ProbInt": {
