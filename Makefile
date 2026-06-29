@@ -142,7 +142,7 @@ sub-metadata:
 	--output_file="$(data_dir)/gdrive_metadata/$(metadata_file_prefix).sub.json" \
 	--gsheet_type="metadata"
 
-
+# if files exist, won't do anything
 aggregate-metadata: $(data_dir)/gdrive_metadata/ALL.jsonl $(data_dir)/gdrive_metadata/ALL-ALIAS.jsonl
 $(data_dir)/gdrive_metadata/ALL.jsonl:
 	python -c "\
