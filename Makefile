@@ -155,7 +155,7 @@ $(data_dir)/gdrive_metadata/ALL-ALIAS.jsonl: $(data_dir)/gdrive_metadata/ALL.jso
 	python -c "\
 import json; \
 out = open('$@', 'w'); \
-n = sum(out.write(json.dumps({'media_alias': r.get('media_alias'), 'media_title': r.get('title'), 'provider_alias': r.get('partner_uid'), 'provider_name': (r.get('resource_holder_names') or [None])[0]}, ensure_ascii=False) + '\n') and 1 for r in map(json.loads, open('$(data_dir)/gdrive_metadata/ALL.jsonl')) if r.get('media_alias')); \
+n = sum(out.write(json.dumps({'media_alias': r.get('media_alias'), 'media_title': r.get('title'), 'source_type': r.get('src_type'), 'source_medium': r.get('src_medium'), 'provider_alias': r.get('partner_uid'), 'provider_name': (r.get('resource_holder_names') or [None])[0]}, ensure_ascii=False) + '\n') and 1 for r in map(json.loads, open('$(data_dir)/gdrive_metadata/ALL.jsonl')) if r.get('media_alias')); \
 print(f'Written {n} records to {out.name}')"
 
 sync-gdrive-metadata: 
