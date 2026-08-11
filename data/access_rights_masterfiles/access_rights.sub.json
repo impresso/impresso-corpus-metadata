@@ -1,4 +1,400 @@
 {
+    "alt_mercur": {
+        "1839-1870": {
+            "rights_holder_id": "SUB",
+            "title_alias": "alt_mercur",
+            "full_title": "Altonaer Mercur",
+            "start_year": 1839,
+            "end_year": 1870,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1839-1870)",
+            "rights_statement_get_tr": "Public Domain (1839-1870)",
+            "rights_statement_get_img": "Public Domain (1839-1870)"
+        }
+    },
+    "alt_merc": {
+        "1752-1838": {
+            "rights_holder_id": "SUB",
+            "title_alias": "alt_merc",
+            "full_title": "Altonaischer Mercurius",
+            "start_year": 1752,
+            "end_year": 1838,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1752-1838)",
+            "rights_statement_get_tr": "Public Domain (1752-1838)",
+            "rights_statement_get_img": "Public Domain (1752-1838)"
+        }
+    },
+    "berg_eisb_z": {
+        "1851-1854": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_eisb_z",
+            "full_title": "Bergedorfer Eisenbahn-Zeitung",
+            "start_year": 1851,
+            "end_year": 1854,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1851-1854)",
+            "rights_statement_get_tr": "Public Domain (1851-1854)",
+            "rights_statement_get_img": "Public Domain (1851-1854)"
+        }
+    },
+    "berg_wbl_eisb": {
+        "1842-1851": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_wbl_eisb",
+            "full_title": "Bergedorfer Wochenblatt und Eisenbahn-Zeitung",
+            "start_year": 1842,
+            "end_year": 1851,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1842-1851)",
+            "rights_statement_get_tr": "Public Domain (1842-1851)",
+            "rights_statement_get_img": "Public Domain (1842-1851)"
+        }
+    },
+    "berg_wbl_nu": {
+        "1831-1842": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_wbl_nu",
+            "full_title": "Bergedorfer Wochenblatt zum Nutzen und zur Unterhaltung",
+            "start_year": 1831,
+            "end_year": 1842,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1831-1842)",
+            "rights_statement_get_tr": "Public Domain (1831-1842)",
+            "rights_statement_get_img": "Public Domain (1831-1842)"
+        }
+    },
+    "berg_ztg": {
+        "1883-1943": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_ztg",
+            "full_title": "Bergedorfer Zeitung",
+            "start_year": 1883,
+            "end_year": 1943,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1883-1943) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1883-1943) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1883-1943) - Research and Educational use"
+        }
+    },
+    "berg_ztg_anz": {
+        "1873-1880": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_ztg_anz",
+            "full_title": "Bergedorfer Zeitung und Anzeiger",
+            "start_year": 1873,
+            "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1873-1880)",
+            "rights_statement_get_tr": "Public Domain (1873-1880)",
+            "rights_statement_get_img": "Public Domain (1873-1880)"
+        },
+        "1881-1883": {
+            "rights_holder_id": "SUB",
+            "title_alias": "berg_ztg_anz",
+            "full_title": "Bergedorfer Zeitung und Anzeiger",
+            "start_year": 1881,
+            "end_year": 1883,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1883) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1883) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1883) - Research and Educational use"
+        }
+    },
+    "billst_ztg": {
+        "1928-1941": {
+            "rights_holder_id": "SUB",
+            "title_alias": "billst_ztg",
+            "full_title": "Billstedter Zeitung",
+            "start_year": 1928,
+            "end_year": 1941,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1928-1941) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1928-1941) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1928-1941) - Research and Educational use"
+        }
+    },
+    "buerger_ztg": {
+        "1881-1887": {
+            "rights_holder_id": "SUB",
+            "title_alias": "buerger_ztg",
+            "full_title": "B\u00fcrgerzeitung",
+            "start_year": 1881,
+            "end_year": 1887,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1887) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1887) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1887) - Research and Educational use"
+        }
+    },
+    "hamb_beob": {
+        "1822-1834": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_beob",
+            "full_title": "Der Hamburger Beobachter",
+            "start_year": 1822,
+            "end_year": 1834,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1822-1834)",
+            "rights_statement_get_tr": "Public Domain (1822-1834)",
+            "rights_statement_get_img": "Public Domain (1822-1834)"
+        }
+    },
+    "hamb_beob_arch": {
+        "1838-1852": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_beob_arch",
+            "full_title": "Der Hamburger Beobachter und das Archiv Wissenschaften und K\u00fcnste",
+            "start_year": 1838,
+            "end_year": 1852,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1838-1852)",
+            "rights_statement_get_tr": "Public Domain (1838-1852)",
+            "rights_statement_get_img": "Public Domain (1838-1852)"
+        }
+    },
+    "eisb_ztg": {
+        "1854-1865": {
+            "rights_holder_id": "SUB",
+            "title_alias": "eisb_ztg",
+            "full_title": "Eisenbahnzeitung",
+            "start_year": 1854,
+            "end_year": 1865,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1854-1865)",
+            "rights_statement_get_tr": "Public Domain (1854-1865)",
+            "rights_statement_get_img": "Public Domain (1854-1865)"
+        }
+    },
+    "gerichts_ztg": {
+        "1878-1880": {
+            "rights_holder_id": "SUB",
+            "title_alias": "gerichts_ztg",
+            "full_title": "Gerichtszeitung",
+            "start_year": 1878,
+            "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1878-1880)",
+            "rights_statement_get_tr": "Public Domain (1878-1880)",
+            "rights_statement_get_img": "Public Domain (1878-1880)"
+        },
+        "1881-1881": {
+            "rights_holder_id": "SUB",
+            "title_alias": "gerichts_ztg",
+            "full_title": "Gerichtszeitung",
+            "start_year": 1881,
+            "end_year": 1881,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1881) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1881) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1881) - Research and Educational use"
+        }
+    },
+    "hamb_alt_volksbl": {
+        "1875-1878": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_alt_volksbl",
+            "full_title": "Hamburg-Altonaer Volksblatt",
+            "start_year": 1875,
+            "end_year": 1878,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1875-1878)",
+            "rights_statement_get_tr": "Public Domain (1875-1878)",
+            "rights_statement_get_img": "Public Domain (1875-1878)"
+        }
+    },
     "hamb_echo": {
         "1887-1933": {
             "rights_holder_id": "SUB",
@@ -12,16 +408,585 @@
             "copyright_status": "Protected Domain: In copyright",
             "explore_req_status": "No restriction (all registered users allowed)",
             "get_transcript_req_status": "Educational users at least OR Archive members",
-            "get_facsimile_req_status": "Educational users at least OR Archive members",
-            "allowed_use_archive_only": "",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
             "content_bitmaps": {
                 "explore": "0100000000000000000000000000000000000000000000000000000000000000",
                 "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
-                "get_img": "0010000000000100000000000000000000000000000000000000000000000000"
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
             },
             "rights_statement_explore": "Protected (1887-1933) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1887-1933) - Research and Educational use",
             "rights_statement_get_img": "Protected (1887-1933) - Research and Educational use"
+        }
+    },
+    "hamb_fremdbl": {
+        "1868-1880": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_fremdbl",
+            "full_title": "Hamburger Fremdenblatt",
+            "start_year": 1868,
+            "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1868-1880)",
+            "rights_statement_get_tr": "Public Domain (1868-1880)",
+            "rights_statement_get_img": "Public Domain (1868-1880)"
+        },
+        "1881-1945": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_fremdbl",
+            "full_title": "Hamburger Fremdenblatt",
+            "start_year": 1881,
+            "end_year": 1945,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1945) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1945) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1945) - Research and Educational use"
+        }
+    },
+    "hamb_rel_cour": {
+        "1707-1813": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_rel_cour",
+            "full_title": "Hamburger Relations-Courier",
+            "start_year": 1707,
+            "end_year": 1813,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1707-1813)",
+            "rights_statement_get_tr": "Public Domain (1707-1813)",
+            "rights_statement_get_img": "Public Domain (1707-1813)"
+        }
+    },
+    "hamb_tagbl": {
+        "1931-1944": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_tagbl",
+            "full_title": "Hamburger Tageblatt",
+            "start_year": 1931,
+            "end_year": 1944,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1931-1944) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1931-1944) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1931-1944) - Research and Educational use"
+        }
+    },
+    "hamb_volksbl": {
+        "1928-1929": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_volksbl",
+            "full_title": "Hamburger Volksblatt",
+            "start_year": 1928,
+            "end_year": 1929,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1928-1929) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1928-1929) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1928-1929) - Research and Educational use"
+        }
+    },
+    "hamb_volksz": {
+        "1918-1933": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_volksz",
+            "full_title": "Hamburger Volkszeitung",
+            "start_year": 1918,
+            "end_year": 1933,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1918-1933) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1918-1933) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1918-1933) - Research and Educational use"
+        }
+    },
+    "hamb_corr": {
+        "1712-1880": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_corr",
+            "full_title": "Hamburgischer Correspondent",
+            "start_year": 1712,
+            "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1712-1880)",
+            "rights_statement_get_tr": "Public Domain (1712-1880)",
+            "rights_statement_get_img": "Public Domain (1712-1880)"
+        },
+        "1881-1934": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_corr",
+            "full_title": "Hamburgischer Correspondent",
+            "start_year": 1881,
+            "end_year": 1934,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1934) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1934) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1934) - Research and Educational use"
+        }
+    },
+    "hamb_corr_boers": {
+        "1920-1929": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_corr_boers",
+            "full_title": "Hamburgischer Correspondent und Hamburgische B\u00f6rsen-Halle",
+            "start_year": 1920,
+            "end_year": 1929,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1920-1929) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1920-1929) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1920-1929) - Research and Educational use"
+        }
+    },
+    "hamb_corr_neu": {
+        "1905-1919": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hamb_corr_neu",
+            "full_title": "Hamburgischer Correspondent und neue hamburgische B\u00f6rsen-Halle",
+            "start_year": 1905,
+            "end_year": 1919,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1905-1919) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1905-1919) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1905-1919) - Research and Educational use"
+        }
+    },
+    "hans_warte": {
+        "1929-1943": {
+            "rights_holder_id": "SUB",
+            "title_alias": "hans_warte",
+            "full_title": "Hansische Warte",
+            "start_year": 1929,
+            "end_year": 1943,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1929-1943) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1929-1943) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1929-1943) - Research and Educational use"
+        }
+    },
+    "harb_anz": {
+        "1844-1859": {
+            "rights_holder_id": "SUB",
+            "title_alias": "harb_anz",
+            "full_title": "Harburger Anzeigen",
+            "start_year": 1844,
+            "end_year": 1859,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1844-1859)",
+            "rights_statement_get_tr": "Public Domain (1844-1859)",
+            "rights_statement_get_img": "Public Domain (1844-1859)"
+        }
+    },
+    "harb_anz_nachr": {
+        "1860-1880": {
+            "rights_holder_id": "SUB",
+            "title_alias": "harb_anz_nachr",
+            "full_title": "Harburger Anzeigen und Nachrichten",
+            "start_year": 1860,
+            "end_year": 1880,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1860-1880)",
+            "rights_statement_get_tr": "Public Domain (1860-1880)",
+            "rights_statement_get_img": "Public Domain (1860-1880)"
+        },
+        "1881-1943": {
+            "rights_holder_id": "SUB",
+            "title_alias": "harb_anz_nachr",
+            "full_title": "Harburger Anzeigen und Nachrichten",
+            "start_year": 1881,
+            "end_year": 1943,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1881-1943) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1881-1943) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1881-1943) - Research and Educational use"
+        }
+    },
+    "neu_hamb_bl": {
+        "1841-1848": {
+            "rights_holder_id": "SUB",
+            "title_alias": "neu_hamb_bl",
+            "full_title": "Neue hamburgische Bl\u00e4tter",
+            "start_year": 1841,
+            "end_year": 1848,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1841-1848)",
+            "rights_statement_get_tr": "Public Domain (1841-1848)",
+            "rights_statement_get_img": "Public Domain (1841-1848)"
+        }
+    },
+    "norddt_ztg": {
+        "1927-1933": {
+            "rights_holder_id": "SUB",
+            "title_alias": "norddt_ztg",
+            "full_title": "Norddeutsche Zeitung",
+            "start_year": 1927,
+            "end_year": 1933,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1927-1933) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1927-1933) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1927-1933) - Research and Educational use"
+        }
+    },
+    "priv_holl_avis": {
+        "1712-1721": {
+            "rights_holder_id": "SUB",
+            "title_alias": "priv_holl_avis",
+            "full_title": "Privilegirter Hollsteinischer Avisen-Correspondente durch Europa und andere Theile der Welt",
+            "start_year": 1712,
+            "end_year": 1721,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1712-1721)",
+            "rights_statement_get_tr": "Public Domain (1712-1721)",
+            "rights_statement_get_img": "Public Domain (1712-1721)"
+        }
+    },
+    "reichs_post_r": {
+        "1700-1788": {
+            "rights_holder_id": "SUB",
+            "title_alias": "reichs_post_r",
+            "full_title": "Reichs-Post-Reuter",
+            "start_year": 1700,
+            "end_year": 1788,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1700-1788)",
+            "rights_statement_get_tr": "Public Domain (1700-1788)",
+            "rights_statement_get_img": "Public Domain (1700-1788)"
+        }
+    },
+    "rel_cour": {
+        "1813-1813": {
+            "rights_holder_id": "SUB",
+            "title_alias": "rel_cour",
+            "full_title": "Relations-Courier",
+            "start_year": 1813,
+            "end_year": 1813,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1813-1813)",
+            "rights_statement_get_tr": "Public Domain (1813-1813)",
+            "rights_statement_get_img": "Public Domain (1813-1813)"
+        }
+    },
+    "staats_gel_hamb": {
+        "1731-1869": {
+            "rights_holder_id": "SUB",
+            "title_alias": "staats_gel_hamb",
+            "full_title": "Staats- und gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten",
+            "start_year": 1731,
+            "end_year": 1869,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1731-1869)",
+            "rights_statement_get_tr": "Public Domain (1731-1869)",
+            "rights_statement_get_img": "Public Domain (1731-1869)"
+        }
+    },
+    "stats_gel_holl": {
+        "1721-1727": {
+            "rights_holder_id": "SUB",
+            "title_alias": "stats_gel_holl",
+            "full_title": "Stats- u. gelehrte Zeitung des hollsteinischen unpartheyischen Correspondenten",
+            "start_year": 1721,
+            "end_year": 1727,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1721-1727)",
+            "rights_statement_get_tr": "Public Domain (1721-1727)",
+            "rights_statement_get_img": "Public Domain (1721-1727)"
+        }
+    },
+    "volksbl_harb": {
+        "1894-1933": {
+            "rights_holder_id": "SUB",
+            "title_alias": "volksbl_harb",
+            "full_title": "Volksblatt f\u00fcr Harburg, Wilhelmsburg und Umgegend",
+            "start_year": 1894,
+            "end_year": 1933,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Educational users at least OR Archive members",
+            "get_facsimile_req_status": "Only Archive members",
+            "allowed_use_archive_only": "Research and Educational",
+            "content_bitmaps": {
+                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0010000000000100000000000000000000000000000000000000000000000000",
+                "get_img": "0000000000000100000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1894-1933) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1894-1933) - Research and Educational use",
+            "rights_statement_get_img": "Protected (1894-1933) - Research and Educational use"
+        }
+    },
+    "zuerst_schiffb": {
+        "1729-1730": {
+            "rights_holder_id": "SUB",
+            "title_alias": "zuerst_schiffb",
+            "full_title": "Zuerst-bekandte Schiffbecker Stats- u. gelehrte Zeitung des hollsteinischen unpartheyischen Correspondenten",
+            "start_year": 1729,
+            "end_year": 1730,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "No restriction (all registered users allowed)",
+            "get_facsimile_req_status": "No restriction (all registered users allowed)",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1729-1730)",
+            "rights_statement_get_tr": "Public Domain (1729-1730)",
+            "rights_statement_get_img": "Public Domain (1729-1730)"
         }
     }
 }
