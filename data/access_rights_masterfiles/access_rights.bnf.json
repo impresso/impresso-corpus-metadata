@@ -788,7 +788,7 @@
             "rights_statement_get_tr": "Public Domain (1836-1899)",
             "rights_statement_get_img": "Public Domain (1836-1899)"
         },
-        "1900-1954": {
+        "1900-1955": {
             "has_olr": "no",
             "ark_id": "cb34448033b",
             "already_shared_with_impresso": "no",
@@ -796,7 +796,7 @@
             "title_alias": "lapresse",
             "full_title": "La Presse ",
             "start_year": 1900,
-            "end_year": 1954,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -810,20 +810,20 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1954) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1954) - Research use",
-            "rights_statement_get_img": "Protected (1900-1954) - Research use"
+            "rights_statement_explore": "Protected (1900-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1955) - Research use",
+            "rights_statement_get_img": "Protected (1900-1955) - Research use"
         }
     },
     "leconstitutionnel": {
-        "1819-1899": {
+        "1821-1899": {
             "has_olr": "no",
             "ark_id": "cb32747578p",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
             "title_alias": "leconstitutionnel",
             "full_title": "Le Constitutionnel",
-            "start_year": 1819,
+            "start_year": 1821,
             "end_year": 1899,
             "media_type": "Newspaper",
             "medium": "print",
@@ -838,11 +838,11 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1819-1899)",
-            "rights_statement_get_tr": "Public Domain (1819-1899)",
-            "rights_statement_get_img": "Public Domain (1819-1899)"
+            "rights_statement_explore": "Public Domain (1821-1899)",
+            "rights_statement_get_tr": "Public Domain (1821-1899)",
+            "rights_statement_get_img": "Public Domain (1821-1899)"
         },
-        "1900-1914": {
+        "1900-1913": {
             "has_olr": "no",
             "ark_id": "cb32747578p",
             "already_shared_with_impresso": "no",
@@ -850,7 +850,7 @@
             "title_alias": "leconstitutionnel",
             "full_title": "Le Constitutionnel",
             "start_year": 1900,
-            "end_year": 1914,
+            "end_year": 1913,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -864,37 +864,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1914) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1914) - Research use",
-            "rights_statement_get_img": "Protected (1900-1914) - Research use"
-        }
-    },
-    "figaro1839": {
-        "1839-1840": {
-            "has_olr": "no",
-            "ark_id": "cb344551004",
-            "already_shared_with_impresso": "no",
-            "rights_holder_id": "BNF",
-            "title_alias": "figaro1839",
-            "full_title": "Le Figaro (Paris. 1839) ",
-            "start_year": 1839,
-            "end_year": 1840,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Public Domain",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Academic users at least",
-            "get_facsimile_req_status": "Academic users at least",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Public Domain (1839-1840)",
-            "rights_statement_get_tr": "Public Domain (1839-1840)",
-            "rights_statement_get_img": "Public Domain (1839-1840)"
+            "rights_statement_explore": "Protected (1900-1913) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1913) - Research use",
+            "rights_statement_get_img": "Protected (1900-1913) - Research use"
         }
     },
     "figaro1854": {
@@ -924,7 +896,7 @@
             "rights_statement_get_tr": "Public Domain (1854-1899)",
             "rights_statement_get_img": "Public Domain (1854-1899)"
         },
-        "1900-1954": {
+        "1900-1955": {
             "has_olr": "no",
             "ark_id": "cb34355551z",
             "already_shared_with_impresso": "no",
@@ -932,7 +904,7 @@
             "title_alias": "figaro1854",
             "full_title": "Le Figaro (Paris. 1854)",
             "start_year": 1900,
-            "end_year": 1954,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -946,9 +918,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1954) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1954) - Research use",
-            "rights_statement_get_img": "Protected (1900-1954) - Research use"
+            "rights_statement_explore": "Protected (1900-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1955) - Research use",
+            "rights_statement_get_img": "Protected (1900-1955) - Research use"
         }
     },
     "figaro1826": {
@@ -1060,7 +1032,7 @@
             "rights_statement_get_tr": "Public Domain (1863-1899)",
             "rights_statement_get_img": "Public Domain (1863-1899)"
         },
-        "1900-1944": {
+        "1900-1943": {
             "has_olr": "no",
             "ark_id": "cb32895690j",
             "already_shared_with_impresso": "no",
@@ -1068,7 +1040,7 @@
             "title_alias": "lepetitjournal",
             "full_title": "Le Petit Journal",
             "start_year": 1900,
-            "end_year": 1944,
+            "end_year": 1943,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -1082,9 +1054,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1944) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1944) - Research use",
-            "rights_statement_get_img": "Protected (1900-1944) - Research use"
+            "rights_statement_explore": "Protected (1900-1943) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1943) - Research use",
+            "rights_statement_get_img": "Protected (1900-1943) - Research use"
         }
     },
     "letemps": {
@@ -4356,14 +4328,14 @@
         }
     },
     "elouma": {
-        "1931-1939": {
+        "1934-1939": {
             "has_olr": "no",
             "ark_id": "cb328306427",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
             "title_alias": "elouma",
             "full_title": "El Ouma",
-            "start_year": 1931,
+            "start_year": 1934,
             "end_year": 1939,
             "media_type": "Newspaper",
             "medium": "print",
@@ -4378,9 +4350,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1931-1939) - Research use",
-            "rights_statement_get_tr": "Protected (1931-1939) - Research use",
-            "rights_statement_get_img": "Protected (1931-1939) - Research use"
+            "rights_statement_explore": "Protected (1934-1939) - Research use",
+            "rights_statement_get_tr": "Protected (1934-1939) - Research use",
+            "rights_statement_get_img": "Protected (1934-1939) - Research use"
         }
     },
     "pressecolill": {
@@ -4550,7 +4522,7 @@
         }
     },
     "revuecolan": {
-        "1843-1858": {
+        "1843-1857": {
             "has_olr": "no",
             "ark_id": "cb328566125",
             "already_shared_with_impresso": "no",
@@ -4558,7 +4530,7 @@
             "title_alias": "revuecolan",
             "full_title": "Revue coloniale : extrait des Annales maritimes et coloniales",
             "start_year": 1843,
-            "end_year": 1858,
+            "end_year": 1857,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -4572,9 +4544,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1843-1858)",
-            "rights_statement_get_tr": "Public Domain (1843-1858)",
-            "rights_statement_get_img": "Public Domain (1843-1858)"
+            "rights_statement_explore": "Public Domain (1843-1857)",
+            "rights_statement_get_tr": "Public Domain (1843-1857)",
+            "rights_statement_get_img": "Public Domain (1843-1857)"
         }
     },
     "rhcf": {
