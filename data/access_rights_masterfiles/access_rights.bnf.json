@@ -56,7 +56,7 @@
         }
     },
     "humanite": {
-        "1904-1954": {
+        "1904-1955": {
             "has_olr": "no",
             "ark_id": "cb327877302",
             "already_shared_with_impresso": "no",
@@ -64,7 +64,7 @@
             "title_alias": "humanite",
             "full_title": "L'Humanit\u00e9",
             "start_year": 1904,
-            "end_year": 1954,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -78,9 +78,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1904-1954) - Research use",
-            "rights_statement_get_tr": "Protected (1904-1954) - Research use",
-            "rights_statement_get_img": "Protected (1904-1954) - Research use"
+            "rights_statement_explore": "Protected (1904-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1904-1955) - Research use",
+            "rights_statement_get_img": "Protected (1904-1955) - Research use"
         }
     },
     "intransigeant": {
@@ -462,7 +462,7 @@
             "rights_statement_get_tr": "Public Domain (1863-1899)",
             "rights_statement_get_img": "Public Domain (1863-1899)"
         },
-        "1900-1943": {
+        "1900-1942": {
             "has_olr": "no",
             "ark_id": "cb32895690j",
             "already_shared_with_impresso": "no",
@@ -470,7 +470,7 @@
             "title_alias": "lepetitjournal",
             "full_title": "Le Petit Journal",
             "start_year": 1900,
-            "end_year": 1943,
+            "end_year": 1942,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -484,9 +484,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1943) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1943) - Research use",
-            "rights_statement_get_img": "Protected (1900-1943) - Research use"
+            "rights_statement_explore": "Protected (1900-1942) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1942) - Research use",
+            "rights_statement_get_img": "Protected (1900-1942) - Research use"
         }
     },
     "letemps": {
@@ -544,7 +544,7 @@
         }
     },
     "echoalger": {
-        "1912-1954": {
+        "1912-1955": {
             "has_olr": "no",
             "ark_id": "cb327596899",
             "already_shared_with_impresso": "no",
@@ -552,7 +552,7 @@
             "title_alias": "echoalger",
             "full_title": "L'Echo d'Alger : journal r\u00e9publicain du matin",
             "start_year": 1912,
-            "end_year": 1954,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -566,20 +566,20 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1912-1954) - Research use",
-            "rights_statement_get_tr": "Protected (1912-1954) - Research use",
-            "rights_statement_get_img": "Protected (1912-1954) - Research use"
+            "rights_statement_explore": "Protected (1912-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1912-1955) - Research use",
+            "rights_statement_get_img": "Protected (1912-1955) - Research use"
         }
     },
     "echoran": {
-        "1845-1899": {
+        "1847-1899": {
             "has_olr": "no",
             "ark_id": "cb32759772v",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
             "title_alias": "echoran",
             "full_title": "L'Echo d'Oran",
-            "start_year": 1845,
+            "start_year": 1847,
             "end_year": 1899,
             "media_type": "Newspaper",
             "medium": "print",
@@ -594,9 +594,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1845-1899)",
-            "rights_statement_get_tr": "Public Domain (1845-1899)",
-            "rights_statement_get_img": "Public Domain (1845-1899)"
+            "rights_statement_explore": "Public Domain (1847-1899)",
+            "rights_statement_get_tr": "Public Domain (1847-1899)",
+            "rights_statement_get_img": "Public Domain (1847-1899)"
         },
         "1900-1963": {
             "has_olr": "no",
@@ -874,7 +874,7 @@
             "rights_statement_get_tr": "Public Domain (1891-1899)",
             "rights_statement_get_img": "Public Domain (1891-1899)"
         },
-        "1900-1908": {
+        "1900-1907": {
             "has_olr": "no",
             "ark_id": "cb327272204",
             "already_shared_with_impresso": "no",
@@ -882,7 +882,7 @@
             "title_alias": "bcaf",
             "full_title": "Bulletin du comit\u00e9 de l'Afrique fran\u00e7aise",
             "start_year": 1900,
-            "end_year": 1908,
+            "end_year": 1907,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -896,9 +896,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1908) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1908) - Research use",
-            "rights_statement_get_img": "Protected (1900-1908) - Research use"
+            "rights_statement_explore": "Protected (1900-1907) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1907) - Research use",
+            "rights_statement_get_img": "Protected (1900-1907) - Research use"
         }
     },
     "lescolonies": {
@@ -1430,7 +1430,7 @@
             "rights_statement_get_tr": "Public Domain (1895-1899)",
             "rights_statement_get_img": "Public Domain (1895-1899)"
         },
-        "1900-1911": {
+        "1900-1910": {
             "has_olr": "no",
             "ark_id": "cb343985327",
             "already_shared_with_impresso": "no",
@@ -1438,7 +1438,7 @@
             "title_alias": "revuecol",
             "full_title": "Revue coloniale",
             "start_year": 1900,
-            "end_year": 1911,
+            "end_year": 1910,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -1452,13 +1452,13 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1911) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1911) - Research use",
-            "rights_statement_get_img": "Protected (1900-1911) - Research use"
+            "rights_statement_explore": "Protected (1900-1910) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1910) - Research use",
+            "rights_statement_get_img": "Protected (1900-1910) - Research use"
         }
     },
     "revuecolan": {
-        "1843-1857": {
+        "1843-1858": {
             "has_olr": "no",
             "ark_id": "cb328566125",
             "already_shared_with_impresso": "no",
@@ -1466,7 +1466,7 @@
             "title_alias": "revuecolan",
             "full_title": "Revue coloniale : extrait des Annales maritimes et coloniales",
             "start_year": 1843,
-            "end_year": 1857,
+            "end_year": 1858,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -1480,9 +1480,9 @@
                 "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Public Domain (1843-1857)",
-            "rights_statement_get_tr": "Public Domain (1843-1857)",
-            "rights_statement_get_img": "Public Domain (1843-1857)"
+            "rights_statement_explore": "Public Domain (1843-1858)",
+            "rights_statement_get_tr": "Public Domain (1843-1858)",
+            "rights_statement_get_img": "Public Domain (1843-1858)"
         }
     },
     "rhcf": {
