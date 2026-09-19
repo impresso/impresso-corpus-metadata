@@ -237,7 +237,7 @@ def statement_from_status(allowed_status: str, allowed_used_archive_only: str) -
         case "Educational users at least":
             return "Research and Educational use"
         case "Academic users at least OR Archive members":
-            return "Research"
+            return "Research use"
         case "Academic users at least":
             return "Research use"
         case "Only Archive members":
