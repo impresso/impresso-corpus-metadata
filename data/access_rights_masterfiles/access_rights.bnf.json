@@ -299,6 +299,34 @@
             "rights_statement_get_img": "Protected (1900-1913) - Research use"
         }
     },
+    "figaro1839": {
+        "1839-1840": {
+            "has_olr": "no",
+            "ark_id": "cb344551004",
+            "already_shared_with_impresso": "no",
+            "rights_holder_id": "BNF",
+            "title_alias": "figaro1839",
+            "full_title": "Le Figaro (Paris. 1839) ",
+            "start_year": 1839,
+            "end_year": 1840,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Public Domain",
+            "explore_req_status": "No restriction (all registered users allowed)",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "1000000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "1000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Public Domain (1839-1840)",
+            "rights_statement_get_tr": "Public Domain (1839-1840)",
+            "rights_statement_get_img": "Public Domain (1839-1840)"
+        }
+    },
     "figaro1854": {
         "1854-1899": {
             "has_olr": "no",
@@ -598,7 +626,7 @@
             "rights_statement_get_tr": "Public Domain (1847-1899)",
             "rights_statement_get_img": "Public Domain (1847-1899)"
         },
-        "1900-1963": {
+        "1900-1955": {
             "has_olr": "no",
             "ark_id": "cb32759772v",
             "already_shared_with_impresso": "no",
@@ -606,7 +634,7 @@
             "title_alias": "echoran",
             "full_title": "L'Echo d'Oran",
             "start_year": 1900,
-            "end_year": 1963,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -620,9 +648,9 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1900-1963) - Research use",
-            "rights_statement_get_tr": "Protected (1900-1963) - Research use",
-            "rights_statement_get_img": "Protected (1900-1963) - Research use"
+            "rights_statement_explore": "Protected (1900-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1900-1955) - Research use",
+            "rights_statement_get_img": "Protected (1900-1955) - Research use"
         }
     },
     "lafrique1844": {
@@ -2727,7 +2755,7 @@
     },
     "nyherald": {
         "1887-1899": {
-            "has_olr": "yes - MP",
+            "has_olr": "no",
             "ark_id": "cb391150993",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
@@ -2753,7 +2781,7 @@
             "rights_statement_get_img": "Public Domain (1887-1899)"
         },
         "1900-1935": {
-            "has_olr": "yes - MP",
+            "has_olr": "no",
             "ark_id": "cb391150993",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
