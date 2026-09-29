@@ -2693,9 +2693,9 @@
     "bib_record_link": "https://scriptorium.bcu-lausanne.ch/browse?modal=infopage&id=29",
     "bib_record_text": "",
     "first_issuedate_interface": 1840,
-    "last_issuedate_interface": 1843,
+    "last_issuedate_interface": 1844,
     "media_start_year": 1840,
-    "media_end_year": 1843,
+    "media_end_year": 1844,
     "partner_uid": "BCUL",
     "languages": [
       "fr"
@@ -5524,9 +5524,9 @@
     "founder": "",
     "bib_record_link": "",
     "bib_record_text": "",
-    "first_issuedate_interface": 1941,
+    "first_issuedate_interface": 1888,
     "last_issuedate_interface": 1946,
-    "media_start_year": 1941,
+    "media_start_year": 1888,
     "media_end_year": 1946,
     "partner_uid": "BCUL",
     "languages": [

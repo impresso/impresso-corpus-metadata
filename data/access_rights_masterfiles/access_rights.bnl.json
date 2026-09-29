@@ -500,7 +500,7 @@
             "rights_statement_get_tr": "Public Domain (1848-1881)",
             "rights_statement_get_img": "Public Domain (1848-1881)"
         },
-        "1882-1950": {
+        "1882-1980": {
             "impresso_1_or_2": 1,
             "license": "",
             "already_shared_for_impresso_ii": "yes",
@@ -508,32 +508,6 @@
             "title_alias": "luxwort",
             "full_title": "Luxemburger Wort",
             "start_year": 1882,
-            "end_year": 1950,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1882-1950) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1882-1950) - Research use",
-            "rights_statement_get_img": "Protected (1882-1950) - Research use"
-        },
-        "1950-1980": {
-            "impresso_1_or_2": 2,
-            "license": "",
-            "already_shared_for_impresso_ii": "yes",
-            "rights_holder_id": "BNL",
-            "title_alias": "luxwort",
-            "full_title": "Luxemburger Wort",
-            "start_year": 1950,
             "end_year": 1980,
             "media_type": "Newspaper",
             "medium": "print",
@@ -548,9 +522,9 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1950-1980) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1950-1980) - Research use",
-            "rights_statement_get_img": "Protected (1950-1980) - Research use"
+            "rights_statement_explore": "Protected (1882-1980) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1882-1980) - Research use",
+            "rights_statement_get_img": "Protected (1882-1980) - Research use"
         }
     },
     "luxzeit1844": {
@@ -1248,15 +1222,15 @@
         }
     },
     "echo1890": {
-        "1980-1987": {
+        "1890-1897": {
             "impresso_1_or_2": 2,
             "license": "",
             "already_shared_for_impresso_ii": "yes",
             "rights_holder_id": "BNL",
             "title_alias": "echo1890",
             "full_title": "Das Echo",
-            "start_year": 1980,
-            "end_year": 1987,
+            "start_year": 1890,
+            "end_year": 1897,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -1270,9 +1244,9 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1980-1987) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1980-1987) - Research use",
-            "rights_statement_get_img": "Protected (1980-1987) - Research use"
+            "rights_statement_explore": "Protected (1890-1897) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1890-1897) - Research use",
+            "rights_statement_get_img": "Protected (1890-1897) - Research use"
         }
     },
     "econom1871": {
@@ -2752,7 +2726,7 @@
         }
     },
     "obstbaufreund": {
-        "1895-2021": {
+        "1895-2022": {
             "impresso_1_or_2": 2,
             "license": "",
             "already_shared_for_impresso_ii": "yes",
@@ -2760,7 +2734,7 @@
             "title_alias": "obstbaufreund",
             "full_title": "Luxemburger Obstbaufreund",
             "start_year": 1895,
-            "end_year": 2021,
+            "end_year": 2022,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -2774,9 +2748,9 @@
                 "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1895-2021) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1895-2021) - Research use",
-            "rights_statement_get_img": "Protected (1895-2021) - Research use"
+            "rights_statement_explore": "Protected (1895-2022) - Personal, Research and Educational use",
+            "rights_statement_get_tr": "Protected (1895-2022) - Research use",
+            "rights_statement_get_img": "Protected (1895-2022) - Research use"
         }
     },
     "oeffentlicheranzeiger": {
@@ -3505,32 +3479,6 @@
             "rights_statement_explore": "Protected (1914-1915) - Personal, Research and Educational use",
             "rights_statement_get_tr": "Protected (1914-1915) - Research use",
             "rights_statement_get_img": "Protected (1914-1915) - Research use"
-        },
-        "1915-1915": {
-            "impresso_1_or_2": 2,
-            "license": "",
-            "already_shared_for_impresso_ii": "yes",
-            "rights_holder_id": "BNL",
-            "title_alias": "wahrheit",
-            "full_title": "Wahrheit (Die)",
-            "start_year": 1915,
-            "end_year": 1915,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "No restriction (all registered users allowed)",
-            "get_transcript_req_status": "Only Archive members",
-            "get_facsimile_req_status": "Only Archive members",
-            "allowed_use_archive_only": "Research",
-            "content_bitmaps": {
-                "explore": "0100000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0000001000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0000001000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1915-1915) - Personal, Research and Educational use",
-            "rights_statement_get_tr": "Protected (1915-1915) - Research use",
-            "rights_statement_get_img": "Protected (1915-1915) - Research use"
         }
     },
     "wahrheit1941": {
