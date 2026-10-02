@@ -2169,32 +2169,6 @@
             "rights_statement_explore": "Protected (1915-1944) - Research use",
             "rights_statement_get_tr": "Protected (1915-1944) - Research use",
             "rights_statement_get_img": "Protected (1915-1944) - Research use"
-        },
-        "1904-1914": {
-            "has_olr": "yes - MP",
-            "ark_id": "cb34429265b",
-            "already_shared_with_impresso": "no",
-            "rights_holder_id": "BNF",
-            "title_alias": "oeuvre",
-            "full_title": "L'\u0152uvre (Paris)",
-            "start_year": 1904,
-            "end_year": 1914,
-            "media_type": "Newspaper",
-            "medium": "print",
-            "content_and_metadata": "yes",
-            "copyright_status": "Protected Domain: In copyright",
-            "explore_req_status": "Academic users at least",
-            "get_transcript_req_status": "Academic users at least",
-            "get_facsimile_req_status": "Academic users at least",
-            "allowed_use_archive_only": "",
-            "content_bitmaps": {
-                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
-                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
-                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
-            },
-            "rights_statement_explore": "Protected (1904-1914) - Research use",
-            "rights_statement_get_tr": "Protected (1904-1914) - Research use",
-            "rights_statement_get_img": "Protected (1904-1914) - Research use"
         }
     },
     "lacroix": {
@@ -2641,16 +2615,16 @@
             "rights_statement_get_img": "Protected (1924-1924) - Research use"
         }
     },
-    "franceyougoslavie": {
-        "1944-1954": {
+    "francesoir": {
+        "1944-1955": {
             "has_olr": "yes - MP",
             "ark_id": "cb32778160c",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
-            "title_alias": "franceyougoslavie",
+            "title_alias": "francesoir",
             "full_title": "France-soir (Paris. 1944)",
             "start_year": 1944,
-            "end_year": 1954,
+            "end_year": 1955,
             "media_type": "Newspaper",
             "medium": "print",
             "content_and_metadata": "yes",
@@ -2664,18 +2638,18 @@
                 "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
                 "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
             },
-            "rights_statement_explore": "Protected (1944-1954) - Research use",
-            "rights_statement_get_tr": "Protected (1944-1954) - Research use",
-            "rights_statement_get_img": "Protected (1944-1954) - Research use"
+            "rights_statement_explore": "Protected (1944-1955) - Research use",
+            "rights_statement_get_tr": "Protected (1944-1955) - Research use",
+            "rights_statement_get_img": "Protected (1944-1955) - Research use"
         }
     },
-    "francesoir": {
+    "franceyougoslavie": {
         "1921-1923": {
             "has_olr": "yes - MP",
             "ark_id": "cb327782343",
             "already_shared_with_impresso": "no",
             "rights_holder_id": "BNF",
-            "title_alias": "francesoir",
+            "title_alias": "franceyougoslavie",
             "full_title": "France-Yougoslavie",
             "start_year": 1921,
             "end_year": 1923,
@@ -4269,6 +4243,32 @@
             "rights_statement_explore": "Public Domain (1823-1858)",
             "rights_statement_get_tr": "Public Domain (1823-1858)",
             "rights_statement_get_img": "Public Domain (1823-1858)"
+        },
+        "1902-1902": {
+            "has_olr": "yes - MP",
+            "ark_id": "cb34448436g",
+            "already_shared_with_impresso": "no",
+            "rights_holder_id": "BNF",
+            "title_alias": "lecorsaire",
+            "full_title": "Le Corsaire (Paris. 1823)",
+            "start_year": 1902,
+            "end_year": 1902,
+            "media_type": "Newspaper",
+            "medium": "print",
+            "content_and_metadata": "yes",
+            "copyright_status": "Protected Domain: In copyright",
+            "explore_req_status": "Academic users at least",
+            "get_transcript_req_status": "Academic users at least",
+            "get_facsimile_req_status": "Academic users at least",
+            "allowed_use_archive_only": "",
+            "content_bitmaps": {
+                "explore": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_tr": "0001000000000000000000000000000000000000000000000000000000000000",
+                "get_img": "0001000000000000000000000000000000000000000000000000000000000000"
+            },
+            "rights_statement_explore": "Protected (1902-1902) - Research use",
+            "rights_statement_get_tr": "Protected (1902-1902) - Research use",
+            "rights_statement_get_img": "Protected (1902-1902) - Research use"
         }
     },
     "courrierlondres": {
