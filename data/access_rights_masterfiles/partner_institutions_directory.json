@@ -4,23 +4,23 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Swiss National Library"
+        "name": "Swiss National Library (BNS)"
       },
       {
         "lang": "fr",
-        "name": "Bibliothèque nationale suisse"
+        "name": "Bibliothèque nationale suisse (BNS)"
       },
       {
         "lang": "it",
-        "name": "Biblioteca nazionale svizzera"
+        "name": "Biblioteca nazionale svizzera (BNS)"
       },
       {
         "lang": "de",
-        "name": "Schweizerische Nationalbibliothek"
+        "name": "Schweizerische Nationalbibliothek (BNS)"
       },
       {
         "lang": "rm",
-        "name": "Biblioteca naziunala svizra"
+        "name": "Biblioteca naziunala svizra (BNS)"
       }
     ],
     "partner_bitmap_index": 5
@@ -30,19 +30,19 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "National Library of Luxembourg"
+        "name": "National Library of Luxembourg (BNL)"
       },
       {
         "lang": "fr",
-        "name": "Bibliothèque nationale du Luxembourg"
+        "name": "Bibliothèque nationale du Luxembourg (BNL)"
       },
       {
         "lang": "lu",
-        "name": "Nationalbibliothéik Lëtzebuerg"
+        "name": "Nationalbibliothéik Lëtzebuerg (BNL)"
       },
       {
         "lang": "de",
-        "name": "Nationalbibliothek Luxemburg"
+        "name": "Nationalbibliothek Luxemburg (BNL)"
       }
     ],
     "partner_bitmap_index": 6
@@ -52,11 +52,11 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "National Library of France"
+        "name": "National Library of France (BNF)"
       },
       {
         "lang": "fr",
-        "name": "Bibliothèque nationale de France"
+        "name": "Bibliothèque nationale de France (BNF)"
       }
     ],
     "partner_bitmap_index": 7
@@ -66,19 +66,19 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Royal Library of Belgium"
+        "name": "Royal Library of Belgium (KBR)"
       },
       {
         "lang": "fr",
-        "name": "Bibliothèque royale de Belgique"
+        "name": "Bibliothèque royale de Belgique (KBR)"
       },
       {
         "lang": "nl",
-        "name": "Koninklijke Bibliotheek van België"
+        "name": "Koninklijke Bibliotheek van België (KBR)"
       },
       {
         "lang": "de",
-        "name": "Königliche Bibliothek Belgiens"
+        "name": "Königliche Bibliothek Belgiens (KBR)"
       }
     ],
     "partner_bitmap_index": 8
@@ -88,11 +88,11 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Royal Library of the Netherlands"
+        "name": "Royal Library of the Netherlands (KB)"
       },
       {
         "lang": "nl",
-        "name": "Koninklijke Bibliotheek"
+        "name": "Koninklijke Bibliotheek (KB)"
       }
     ],
     "partner_bitmap_index": 9
@@ -102,7 +102,7 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "British Library"
+        "name": "British Library (BL)"
       }
     ],
     "partner_bitmap_index": 10
@@ -112,11 +112,11 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Austrian National Library"
+        "name": "Austrian National Library (ONB)"
       },
       {
         "lang": "de",
-        "name": "Österreichische Nationalbibliothek"
+        "name": "Österreichische Nationalbibliothek (ONB)"
       }
     ],
     "partner_bitmap_index": 11
@@ -126,11 +126,11 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Berlin State Library"
+        "name": "Berlin State Library (SBB)"
       },
       {
         "lang": "de",
-        "name": "Staatsbibliothek zu Berlin"
+        "name": "Staatsbibliothek zu Berlin (SBB)"
       }
     ],
     "partner_bitmap_index": 12
@@ -140,11 +140,11 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "Hamburg State and University Library"
+        "name": "Hamburg State and University Library (SUB)"
       },
       {
         "lang": "de",
-        "name": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky"
+        "name": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky (SUB)"
       }
     ],
     "partner_bitmap_index": 13
@@ -168,7 +168,7 @@
     "partner_institution_names": [
       {
         "lang": "de",
-        "name": "Neue Zürcher Zeitung"
+        "name": "Neue Zürcher Zeitung (NZZ)"
       }
     ],
     "partner_bitmap_index": 15
@@ -178,11 +178,11 @@
     "partner_institution_names": [
       {
         "lang": "fr",
-        "name": "Institut national de l'audiovisuel"
+        "name": "Institut national de l'audiovisuel (INA)"
       },
       {
         "lang": "en",
-        "name": "National Audiovisual Institute"
+        "name": "French National Audiovisual Institute (INA)"
       }
     ],
     "partner_bitmap_index": 16
@@ -192,11 +192,11 @@
     "partner_institution_names": [
       {
         "lang": "fr",
-        "name": "Radio télévision suisse"
+        "name": "Radio télévision suisse (RTS)"
       },
       {
         "lang": "en",
-        "name": "Swiss Broadcasting Corporation (SRG SSR)"
+        "name": "Swiss Radio Television (RTS)"
       }
     ],
     "partner_bitmap_index": 17
@@ -206,7 +206,7 @@
     "partner_institution_names": [
       {
         "lang": "en",
-        "name": "British Broadcasting Corporation"
+        "name": "British Broadcasting Corporation (BBC)"
       }
     ],
     "partner_bitmap_index": 18
@@ -216,11 +216,11 @@
     "partner_institution_names": [
       {
         "lang": "de",
-        "name": "Österreichischer Rundfunk"
+        "name": "Österreichischer Rundfunk (ORF)"
       },
       {
         "lang": "en",
-        "name": "Austrian Broadcasting"
+        "name": "Austrian Broadcasting (ORF)"
       }
     ],
     "partner_bitmap_index": 19
@@ -248,11 +248,11 @@
     "partner_institution_names": [
       {
         "lang": "de",
-        "name": "Deutschlandradio"
+        "name": "Deutschlandradio (DLR)"
       },
       {
         "lang": "en",
-        "name": "Radio Germany"
+        "name": "Radio Germany (DLR)"
       }
     ],
     "partner_bitmap_index": 21
@@ -262,11 +262,11 @@
     "partner_institution_names": [
       {
         "lang": "fr",
-        "name": "Bibliothèque cantonale et universitaire de Lausanne"
+        "name": "Bibliothèque cantonale et universitaire de Lausanne (BCUL)"
       },
       {
         "lang": "en",
-        "name": "Cantonal and University Library of Lausanne"
+        "name": "Cantonal and University Library of Lausanne (BCUL)"
       }
     ],
     "partner_bitmap_index": 22
@@ -276,15 +276,15 @@
     "partner_institution_names": [
       {
         "lang": "fr",
-        "name": "Bibliothèque cantonale et universitaire de Fribourg"
+        "name": "Bibliothèque cantonale et universitaire de Fribourg (BCUF)"
       },
       {
         "lang": "de",
-        "name": "Kantons- und Universitätsbibliothek Freiburg"
+        "name": "Kantons- und Universitätsbibliothek Freiburg (BCUF)"
       },
       {
         "lang": "en",
-        "name": "Cantonal and University Library of Lausanne"
+        "name": "Cantonal and University Library of Freiburg (BCUF)"
       }
     ],
     "partner_bitmap_index": 23
@@ -444,19 +444,19 @@
     "partner_institution_names": [
       {
         "lang": "fr",
-        "name": "Archives économiques suisses"
+        "name": "Archives économiques suisses (SWA)"
       },
       {
         "lang": "de",
-        "name": "Schweizerische Wirtschaftsarchiv"
+        "name": "Schweizerische Wirtschaftsarchiv (SWA)"
       },
       {
         "lang": "it",
-        "name": "Archivio economico svizzero"
+        "name": "Archivio economico svizzero (SWA)"
       },
       {
         "lang": "en",
-        "name": "Swiss Economic Archives"
+        "name": "Swiss Economic Archives (SWA)"
       }
     ],
     "partner_bitmap_index": 35
