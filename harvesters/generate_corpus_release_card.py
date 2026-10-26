@@ -80,9 +80,6 @@ def find_manifests(
                 bucket_name = proc["processed_data_s3_path"].split("/")[2]
                 partition = proc["processed_data_s3_path"].replace(f"s3://{bucket_name}/", "")
                 m_path = find_s3_data_manifest_path(bucket_name, proc["process_label"], partition)
-                print(
-                    f"stage={stage} - bucket_name={bucket_name} - partition={partition} - m_path={m_path}"
-                )
 
                 proc["manifest_s3_path"] = m_path
                 if m_path is None:
@@ -257,7 +254,6 @@ def create_enrichments_section(
                 manifest_stg = read_manifest_from_s3_path(proc["manifest_s3_path"])
                 for ov_sts in manifest_stg["overall_statistics"]:
                     if ov_sts["stage"] == stg.value:
-                        print(f"ov_sts: {ov_sts} - incl_enrich_stats: {incl_enrich_stats}")
                         for source_type in actual_src_tp_stats:
                             ## Temporary fix while we have multiple names for stats
                             if source_type == "nps_stats":
