@@ -28,15 +28,22 @@ ALL_SOURCE_TYPE_STATS = [
     "rs_stats",
     "mg_stats",
 ]
-CORPUS_STAGES = [DataStage.SOLR_TEXT, DataStage.MYSQL_CIS, DataStage.EMB_IMAGES]
+CORPUS_STAGES = [DataStage.SOLR_TEXT, DataStage.MYSQL_CIS, DataStage.CLASSIF_IMAGES]
 ENRICHMENT_STAGES = {
     DataStage.LINGPROC: [],
-    DataStage.LANGIDENT: ["images", "lang_fd"],
+    DataStage.LANGIDENT_OCRQA: ["lang_fd"],
     DataStage.TEXT_REUSE: ["text_reuse_clusters", "text_reuse_passages"],
-    DataStage.ENTITIES: ["ne_entities", "ne_mentions"],
-    DataStage.NEWS_AGENCIES: ["ne_entities", "ne_mentions"],
+    DataStage.ENTITIES: ["ne_entities", "ne_mentions", "title_ne_entities", "title_ne_mentions"],
+    # DataStage.NEWS_AGENCIES: ["ne_entities", "ne_mentions"],
     DataStage.TOPICS: ["topics", "topics_fd"],
-    DataStage.OCRQA: [],
+    # DataStage.OCRQA: [], # now inside LANGIDENT_OCRQA
+    DataStage.CLASSIF_IMAGES: [
+        "images",
+        "img_level0_class_fd",
+        "img_level1_class_fd",
+        "img_level2_class_fd",
+        "img_level3_class_fd",
+    ],
     DataStage.EMB_IMAGES: ["images"],
     DataStage.EMB_DOCS: [],
 }
@@ -73,6 +80,9 @@ def find_manifests(
                 bucket_name = proc["processed_data_s3_path"].split("/")[2]
                 partition = proc["processed_data_s3_path"].replace(f"s3://{bucket_name}/", "")
                 m_path = find_s3_data_manifest_path(bucket_name, proc["process_label"], partition)
+                print(
+                    f"stage={stage} - bucket_name={bucket_name} - partition={partition} - m_path={m_path}"
+                )
 
                 proc["manifest_s3_path"] = m_path
                 if m_path is None:
@@ -159,7 +169,7 @@ def create_corpus_section(
             "issues": issues,
             "pages": stage_to_overall_stats[DataStage.MYSQL_CIS][source_type]["pages"],
             "content_items": cis,
-            "images": stage_to_overall_stats[DataStage.EMB_IMAGES][source_type]["images"],
+            "images": stage_to_overall_stats[DataStage.CLASSIF_IMAGES][source_type]["images"],
             "tokens": tokens,
         }
 
@@ -247,6 +257,7 @@ def create_enrichments_section(
                 manifest_stg = read_manifest_from_s3_path(proc["manifest_s3_path"])
                 for ov_sts in manifest_stg["overall_statistics"]:
                     if ov_sts["stage"] == stg.value:
+                        print(f"ov_sts: {ov_sts} - incl_enrich_stats: {incl_enrich_stats}")
                         for source_type in actual_src_tp_stats:
                             ## Temporary fix while we have multiple names for stats
                             if source_type == "nps_stats":
@@ -394,7 +405,7 @@ def create_processings_section(
 
 def main(
     processing_cheatsheet_path: str = "data/corpus_release_card/gdrive_processings_cheatsheet.json",
-    release_name: str = "polar night",
+    release_name: str = None,
     release_version: str = "2025-04",
     local_data_release_repo_path: str = "/Users/piconti/impresso/release_prep/impresso-data-release",
     output_release_card_path: str = "data/corpus_release_card/corpus_release_card.json",

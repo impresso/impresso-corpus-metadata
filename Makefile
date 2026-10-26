@@ -48,7 +48,7 @@ help:
 	@echo "  sync-api-metadata     - Synchronize all or part of the api data folder with the one of the impresso-master-db repository"
 	@echo "  sync-access-rights		- Synchronize all or part of the access rights data folder with the one of the impresso-pyindexing repository"
 	@echo "  sync-solr-access-rights		- Synchronize all the access rights data folder with the one of the impresso-master-db repository"
-	@echo "  sync-corpus-release-card  additional_arg=<[YYYY-MM]>	- Synchronize the Corpus Release Card with the corresponding release in the impresso-data-release repository"
+	@echo "  sync-corpus-release-card  additional_arg=<[YYYY-MM]>  release_name=<NAME>	- Synchronize the Corpus Release Card with the corresponding release in the impresso-data-release repository"
 	@echo "  all-access-rights     - Export the access rights for all partners"
 	@echo "  snl-access-rights     - Export the access rights for all SNL partners (01)"
 	@echo "  bnl-access-rights     - Export the access rights for BNL (02)"
@@ -65,7 +65,7 @@ help:
 	@echo "  swa-fedgaz-nzz-access-rights     - Export the access rights for SWA, FedGaz and NZZ (35)"
 	@echo "  swissinfo-access-rights     - Export the access rights for SWISSINFO (40)"
 	@echo "  corpus-access-catalogue	- Generate the Impresso Corpus Access Catalogue from all access rights masterfiles"
-	@echo "  corpus-release-card  additional_arg=<[YYYY-MM]>   - Generare the Impresso Corpus Release Card for a given version"
+	@echo "  corpus-release-card  additional_arg=<[YYYY-MM]>  release_name=<NAME>  - Generare the Impresso Corpus Release Card for a given version"
 	@echo "  help      - Display this help message"
 
 
@@ -323,4 +323,4 @@ corpus-release-card:
 	--output_file="$(data_dir)/corpus_release_card/gdrive_processings_cheatsheet.json" \
 	--gsheet_type="cheatsheet"
 
-	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg)
+	python harvesters/generate_corpus_release_card.py --release_version=$(additional_arg) --release_name=$(release_name)
