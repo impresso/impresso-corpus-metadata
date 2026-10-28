@@ -3,12 +3,12 @@
   "Release Version": "2026-10",
   "Impresso Corpus Overview": {
     "media_stats": {
-      "titles": "MISSING SOLR MANIFEST!",
-      "issues": "MISSING SOLR MANIFEST!",
+      "titles": 753,
+      "issues": 1505882,
       "pages": 11339160,
-      "content_items": "MISSING SOLR MANIFEST!",
+      "content_items": 89572443,
       "images": 8619651,
-      "tokens": "MISSING SOLR MANIFEST!"
+      "tokens": 35595923802
     }
   },
   "Impresso Enrichments": {
@@ -650,7 +650,7 @@
       "mysql-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2026-10/data-processing-versioning/data-ingestion/mysql-ingestion_v78-7-0.json"
     },
     "solr-text-ingestion": {
-      "solr-text-ingestion": "MISSING MANIFEST!"
+      "solr-text-ingestion": "https://github.com/impresso/impresso-data-release/blob/master/data-release-2026-10/data-processing-versioning/data-ingestion/solr-text-ingestion_v2-0-0.json"
     }
   }
 }
